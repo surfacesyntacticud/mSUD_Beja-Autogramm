@@ -841,12 +841,12 @@
 15	//	_	PUNCT	_	_	14	punct	_	AlignBegin=170179|AlignEnd=170384|Gloss=//|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_08_drunkard_190-200
+# text = dhaːj jʔeːtiːt / aʃanbiːb =hoːb / uː= tak i= ʃawwi / i= suːr geːb =oːn askinaːb akajeː / amanri =hoːb / i= girma =i geːb eːstʔi /
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 171030, 178795
 # phonetic_text = dhaːj jʔ -eːtiːt / a- ʃanbiːb =hoːb / uː= tak i= ʃawwi / i= suːr geːb =oːn askin -aː =b aka -j eː / a- manri =hoːb / i= girma -i geːb eː- stʔi /
-# text = dhaːj jʔeːtiːt / aʃanbiːb =hoːb / uː= tak i= ʃawwi / i= suːr geːb =oːn askinaːb akajeː / amanri =hoːb / i= girma =i geːb eːstʔi /
-# text_en = "I go towards them and when I look, when I find that it is the man who used to live next to us, I sit next to his head
+# text_en = "I go towards them and when I look, when I find that he is the man who used to live next to us, I sit next to his head
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=171030|AlignEnd=171269|Gloss=DIR|RX=[POSTP]|TokenType=Root
 2	jʔeːtiːt	_	VERB	V2	VerbClass=2	4	mod	_	AlignBegin=171269|AlignEnd=171508|Gloss=come|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]|TokenType=Root
 3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=171508|AlignEnd=171746|Gloss=/|TokenType=Break

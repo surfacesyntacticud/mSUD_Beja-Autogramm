@@ -4,7 +4,7 @@
 # sent_timecode = 0, 1025
 # phonetic_text = tak iː- fi /
 # text = tak iːfi /
-# text_en =  There was a man
+# text_en = There was a man
 1	tak	_	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=0|AlignEnd=342|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=342|AlignEnd=513|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 3	fi	_	VERB	V1	Aspect=Aor|VerbClass=1	0	root	_	AlignBegin=513|AlignEnd=684|Gloss=be_there\AOR|RX=[V1].[IRG]|TokenType=Root
@@ -16,7 +16,7 @@
 # sent_timecode = 1025, 2412
 # phonetic_text = mhaj ʔar iː- biri /
 # text = mhaj ʔar iːbri /
-# text_en =  he had three children
+# text_en = he had three children
 1	mhaj	_	NUM	NUM	_	2	mod	_	AlignBegin=1025|AlignEnd=1342|Gloss=three|RX=[NUM]|TokenType=Root
 2	ʔar	_	NOUN	N	_	4	comp:obj	_	AlignBegin=1342|AlignEnd=1659|Gloss=child|RX=[N]|TokenType=Root
 3	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=1659|AlignEnd=1817|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -29,7 +29,7 @@
 # sent_timecode = 2412,3794
 # phonetic_text = dirʔaː =t iː- ʔid /
 # text = dirʔaːt iːʔid /
-# text_en =  he was cultivating land
+# text_en = he was cultivating land
 1	dirʔaː	_	NOUN	N	Gender=Fem	4	comp:obj	_	AlignBegin=2412|AlignEnd=2642|Gloss=field|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=2642|AlignEnd=2873|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=2873|AlignEnd=3103|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -42,7 +42,7 @@
 # sent_timecode = 4324,8937
 # phonetic_text = winneːt ʔareː -ji eːn / ʔakr -a reːr // mhaj koː =jeː j= ʔar =eː //
 # text = winneːt ʔareːji eːn / ʔakra reːr // mhaj koːjeː jʔareː //
-# text_en =  he liked them a lot, they said, of a strong love. All three children.
+# text_en = he liked them a lot, they said, of a strong love. All three children.
 1	winneːt	_	ADV	ADV	_	2	mod	_	AlignBegin=5699|AlignEnd=5959|Gloss=plenty|RX=[ADV]|TokenType=Root
 2	ʔareː	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=5959|AlignEnd=6089|Gloss=like|RX=[V2]|TokenType=Root
 3	-ji	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	2	subj/m	_	AlignBegin=6089|AlignEnd=6219|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -66,7 +66,7 @@
 # sent_timecode = 9714, 15768
 # phonetic_text = tuː= ndi ti- jan =hoːb eːn j= ʔar =eː / harʔiː / fagar ʃanha dhaːj ʃaga -am -i eːn oːn oː= mbʔi kass =oː /
 # text = tuːndi tijanhoːb eːn jʔareː /harʔiː / fagar ʃanha dhaːj ʃagaːmi eːn oːn oːmbʔi kassoː / BI_524
-# text_en =  When (their) mother died, after that he worked hard for his children, they said, all day long.
+# text_en = When (their) mother died, after that he worked hard for his children, they said, all day long.
 1	tuː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	det	_	AlignBegin=9715|AlignEnd=9873|Gloss=DEF.SG.F.NOM=|RX=[DET]=|TokenType=Clit
 2	ndi	_	NOUN	N	Gender=Fem	4	subj	_	AlignBegin=9873|AlignEnd=10030|Gloss=mother|RX=[SBJ].[N].[F]|TokenType=Root
 3	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	4	subj/m	_	AlignBegin=10030|AlignEnd=10135|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
@@ -99,7 +99,7 @@
 # sent_timecode = 17960, 23130
 # phonetic_text = j= ʔar i= mhali / oː= reːw iː- ʃkʷi -na eːn // wi= iː- biri -n =eːb //
 # text = jʔar imhali /oːreːw iːʃkʷiːna eːn //wiːbriːneːb //
-# text_en =  The two boys were making the cattle graze, they said, that they had.
+# text_en = The two boys were making the cattle graze, they said, that they had.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=17963|AlignEnd=18119|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔar	_	NOUN	N	_	9	subj	_	AlignBegin=18119|AlignEnd=18276|Gloss=child|RX=[SBJ].[N]|TokenType=Root
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=18276|AlignEnd=18432|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -125,7 +125,7 @@
 # sent_timecode = 23131, 32574
 # phonetic_text = amseːnoːk i- kati =jeːb oː= doːr / oːn i= reːw =oː ʃaːkʷ -eː aːn j= ʔar / eːn j= ʔar =eːb w= ʔoːr uː= dis =ka / ʔadaloː na / manri eːn bak / handi -i whiː //
 # text = amseːnoːk ikatijeːb oːdoːr / oːn ireːwoː ʃaːkʷeː aːn jʔar / eːn jʔareːb wʔoːr uːdiska /adaloː na /marri eːn bak /handiː whiː // BI_748
-# text_en =  One of these days, while they are making their cattle graze, those children, the youngest of those children finds a small red thing, they said, like that, under a tree.
+# text_en = One of these days, while they are making their cattle graze, those children, the youngest of those children finds a small red thing, they said, like that, under a tree.
 1	amseːnoːk	_	ADV	ADV	_	3	mod	_	AlignBegin=23131|AlignEnd=23511|Gloss=that_day|RX=[ADV]|TokenType=Root
 2	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=23511|AlignEnd=23638|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 3	kati	_	VERB	V1	VerbClass=1	4	comp	_	AlignBegin=23638|AlignEnd=23765|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root
@@ -171,7 +171,7 @@
 # sent_timecode = 32574, 36046
 # phonetic_text = jhak -s -eːtiːt / i= mbaːba -i dhaːj haːj ɖaːb -iːni eːn //
 # text = jhakseːtiːt / imbaːbaːi dhaːj haːj ɖaːbiːni eːn //
-# text_en =  after having taken it he brings it back running to his father, they said.
+# text_en = after having taken it he brings it back running to his father, they said.
 1	jhak	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=33761|AlignEnd=33896|Gloss=get_up|RX=[V2]|TokenType=Root
 2	-s	_	AUX	V2	VerbClass=2|Voice=Cau	3	comp/m	_	AlignBegin=33896|AlignEnd=34031|DerPos=VERB|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
 3	-eːtiːt	_	AUX	_	_	10	mod	_	AlignBegin=34031|AlignEnd=34165|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff
@@ -192,7 +192,7 @@
 # sent_timecode = 36046, 44274
 # phonetic_text = allaːji i- hi =heːb / allaːji i- hi =heːb / diː -tiːt // i= mbaːba -i dhaːj haːj ɖaːb -i =hoːb / i= mbaːba toː= na / bak dʔi -tiːt ʃanbiːb =eːb oː= doːr / dammʔara =b akaj -eː manri eːn //
 # text = allaːji i- hi =heːb / allaːji i- hi =heːb / diː -tiːt // i= mbaːbaː =i dhaːj haːj ɖaːb -i =hoːb / i= mbaːba toː= na / bak dʔi -tiːt ʃanbiːb =eːb oː= doːr / dammʔara =b akaj -eː manri eːn //
-# text_en =  "God gave it to me! "God gave it to me!" he said and when he runs back with it to his father, the father does like that to the thing and when he looks, he finds out that it's gold, they said.
+# text_en = "God gave it to me! "God gave it to me!" he said and when he runs back with it to his father, the father does like that to the thing and when he looks, he finds out that it's gold, they said.
 1	allaːji	_	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=36046|AlignEnd=36327|Gloss=God|RX=[N].[M]|TokenType=Root
 2	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=36327|AlignEnd=36421|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 3	hi	_	VERB	V1	Aspect=Perf|VerbClass=1	8	conj:redup	_	AlignBegin=36421|AlignEnd=36515|Gloss=give\PFV|RX=[V1].[IRG]|TokenType=Root
@@ -242,7 +242,7 @@
 # sent_timecode = 44274, 48138
 # phonetic_text = naː =t ti- mri -jaː jhak -a rh -is -a =heːb diːt / w= ʔoːr =oː ah -iːt jʔ -iːni //
 # text = naːt timrija jhaka rhisaːheːb diːt / wʔoːroː ahiːt jʔiːni // BI_594
-# text_en =  "Where did you find it? Get up and show me!", he says and he comes with his son.
+# text_en = "Where did you find it? Get up and show me!", he says and he comes with his son.
 1	naː	_	PRON	PRO	PronType=Int	4	comp:obj	_	AlignBegin=44274|AlignEnd=44432|Gloss=which|RX=[PRO].[Q]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=44432|AlignEnd=44589|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	ti-	_	PRON	PNG	Person=2	4	subj/m	_	AlignBegin=44589|AlignEnd=44694|Gloss=2-|RX=[PNG]-|TokenType=InflAff
@@ -323,7 +323,7 @@
 # sent_timecode = 58489, 64542
 # phonetic_text = ʔakr -aː =t firha =t -eː misis -tiːt / j= ʔar =eː haːj i- t- dagi =aːt / ti= zirʔa =t =ihi =da //
 # text = ʔakraːt firhaːteː misistiːt / jʔareː haːj iddagijaːt / BI_1275 tizirʔaːtihida //
-# text_en =  He is really happy and (lit. he was dying of strong happyness) he goes back with his children to his field.
+# text_en = He is really happy and (lit. he was dying of strong happyness) he goes back with his children to his field.
 1	ʔakr	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=58489|AlignEnd=58615|Gloss=be_strong|RX=[V1]|TokenType=Root
 2	-aː	_	AUX	_	_	4	mod	_	AlignBegin=58615|AlignEnd=58741|DerPos=VERB|Gloss=-CVB.MNR|TokenType=DerAff
 3	-t	_	PRON	DET	Gender=Fem	2	subj/m	_	AlignBegin=58741|AlignEnd=58867|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
@@ -355,7 +355,7 @@
 # sent_timecode = 64542, 71055
 # phonetic_text = oːn / ontʔa / dhaj -i =da baː= hadiːd -aːna i- ndi eːn // dammʔara =b ni- mri =jeːt toː= na //
 # text = oːn / BI_1965 ontʔa /dhajida baːhadiːdaːna indi eːn //dammʔaraːb nimrijeːt toːna //
-# text_en =  This, now, He tells them: "Don't tell the people!" they said, "that we found gold!"
+# text_en = This, now, He tells them: "Don't tell the people!" they said, "that we found gold!"
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	5	discourse	_	AlignBegin=64542|AlignEnd=64673|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=64673|AlignEnd=64804|Gloss=/|TokenType=Break
 3	ontʔa	_	ADV	PTCL	_	5	discourse	_	AlignBegin=66770|AlignEnd=67016|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -385,7 +385,7 @@
 # sent_timecode = 71055, 73780
 # phonetic_text = daːjiː =t =i diː -tiːt / j= ʔar han hus i- kati -na /
 # text = daːjiːti diːtiːt / jʔar han hus ikatina / BI_632
-# text_en =  They say: "OK" and the children also keep quiet.
+# text_en = They say: "OK" and the children also keep quiet.
 1	daːjiː	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=71055|AlignEnd=71142|Gloss=good|RX=[ADJ]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=71142|AlignEnd=71229|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	4	comp:obj	_	AlignBegin=71229|AlignEnd=71317|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
@@ -407,7 +407,7 @@
 # sent_timecode = 73780, 74933
 # phonetic_text = oːn w= haˈwaːd hangiːt eːn /
 # text = oːn whaˈwaːd hangiːt eːn /
-# text_en =  He waits until the night, they said,
+# text_en = He waits until the night, they said,
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=73780|AlignEnd=74011|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=74011|AlignEnd=74127|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 3	haˈwaːd	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=74127|AlignEnd=74242|Gloss=night|RX=[N].[M]|TokenType=Root
@@ -518,7 +518,7 @@
 # sent_timecode = 98428, 103460
 # phonetic_text = i= ʃawwi -a han harroː =b haːj jʔ -aː =b hiːs -iːn =ajt / hoːj ki= i- ʃinha -na eːn // oːn oː= tak //
 # text = iʃawwa han harroːb haːj jʔaːb hiːsiːnajt / hoːj kiːʃinhaːna eːn // BI_547 oːn oːtak //
-# text_en =  Since even his neighbours are thinking he is bringing back sorghum, they do not pay attention, they said. To this man.
+# text_en = Since even his neighbours are thinking he is bringing back sorghum, they do not pay attention, they said. To this man.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=98429|AlignEnd=98525|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʃawwi	_	NOUN	N	_	11	subj	_	AlignBegin=98525|AlignEnd=98621|Gloss=neighbour|RX=[N]|TokenType=Root
 3	-a	_	DET	_	Number=Plur	2	det/m	_	AlignBegin=98621|AlignEnd=98717|Gloss=-PL|TokenType=InflAff
@@ -551,7 +551,7 @@
 # sent_timecode = 103460, 106501
 # phonetic_text = w= haːʃ oːnaːj giːg -eːtiːt / weːr mhiːn / eː- biː -na eːn //
 # text = whaːʃ oːnaːj giːgeːtiːt / weːr mhiːn /eːbiːna eːn //
-# text_en =  They leave this country and to another place they go, they said.
+# text_en = They leave this country and to another place they go, they said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=103460|AlignEnd=103660|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	haːʃ	_	NOUN	N	Gender=Masc	4	comp:obl	_	AlignBegin=103660|AlignEnd=103860|Gloss=land|RX=[N].[M]|TokenType=Root
 3	oːnaːj	_	DET	DEM	Case=Gen|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=103860|AlignEnd=104260|Gloss=PROX.SG.M.GEN|RX=[DEM]|TokenType=Root
@@ -573,7 +573,7 @@
 # sent_timecode = 106501, 110455
 # phonetic_text = halla =t sagi =t beː -tiːt / geː / ʃʔaː =jeː i- jaj -na /
 # text = hallaːt sagiːt beːtiːt / BI_760 geː / ʃʔaːjeː ijajna /
-# text_en =  They go to a remote village and furthermore, they buy their cows,
+# text_en = They go to a remote village and furthermore, they buy their cows,
 1	halla	_	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=106501|AlignEnd=106696|Gloss=village|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=106696|AlignEnd=106891|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	sagi	_	ADJ	ADJ	_	1	mod	_	AlignBegin=106891|AlignEnd=107086|Gloss=far|RX=[ADJ]|TokenType=Root
@@ -596,7 +596,7 @@
 # sent_timecode = 110455, 111485
 # phonetic_text = kam =eː i- jaj -na /
 # text = kameː ijajna /
-# text_en =  they buy their camels,
+# text_en = they buy their camels,
 1	kam	_	NOUN	N	Number=Plur	4	comp:obj	_	AlignBegin=110455|AlignEnd=110627|Gloss=camel\PL|RX=[N]|TokenType=Root
 2	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	1	udep@poss	_	AlignBegin=110627|AlignEnd=110798|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 3	i-	_	PRON	PNG	Person=3	4	subj/m	_	AlignBegin=110798|AlignEnd=110912|Gloss=3-|RX=[PNG]-|TokenType=InflAff
@@ -610,7 +610,7 @@
 # sent_timecode = 112740, 117016
 # phonetic_text = oːn oː= reːw / t= ʔanoː =t =a / kass =oː i- jaj -na eːn //
 # text = oːn oːreːw / tʔanoːta / kassoː ijajna eːn // BI_1637
-# text_en =  they buy all this cattle, there are ewes, they said.
+# text_en = they buy all this cattle, there are ewes, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=112743|AlignEnd=112973|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=112973|AlignEnd=113088|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 3	reːw	_	NOUN	N	Gender=Masc	13	comp:obj	_	AlignBegin=113088|AlignEnd=113203|Gloss=cattle|RX=[N].[M]|TokenType=Root
@@ -664,7 +664,7 @@
 # sent_timecode = 122112, 127918
 # phonetic_text = tam -eː gʷʔ -eː / tam -eː gʷʔ -eː areː / əəə / xaddam han geːb =oː i- dʔa -na eːn // kiʃja =b //
 # text = tameː gʷʔeː / tameː gʷʔeː areː / BI_731 əəə / xaddam han geːboː idʔana eːn // kiʃjab //
-# text_en =  He eats and drinks, eats and drinks, then, er, they also have beside him servants, they said. Servants.
+# text_en = He eats and drinks, eats and drinks, then, er, they also have beside him servants, they said. Servants.
 1	tam	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=122112|AlignEnd=122256|Gloss=eat|RX=[V2]|TokenType=Root
 2	-eː	_	AUX	_	_	7	conj:redup	_	AlignBegin=122256|AlignEnd=122399|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 3	gʷʔ	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=122399|AlignEnd=122543|Gloss=drink|RX=[V2]|TokenType=Root
@@ -697,7 +697,7 @@
 # sent_timecode = 127919, 147751
 # phonetic_text = tam -eː gʷʔ -eː tam -eː gʷʔ -eː / uːn i= dammʔara nhad i- ndi =hoːb // oːn suːr -n =eːt =hoːk / miskiːn ak -eːtiːt / ontʔa / tʔa geː / ti= dirʔa han ba= a- ʃaga -am -aj diːt / ti= dirʔa himaːg -aː =b =u =it / ʃabaka =t =oː ah -iːt / oː= bhar beː -tiːt / i= bhar =iːb areː / ʔaːʃoː =joː ʤallab -iːni /
 # text = tameː gʷʔeː tameː gʷʔeː /uːn idammʔara nhad indihoːb //oːn suːrneːthoːk / miskiːn akeːtiːt /ontʔa /tʔa geː /tidirʔa han baːʃagaːmaj diːt / tidirʔa himaːgaːbuːjt /ʃabakatoː ahiːt / oːbhar beːtiːt /ibhariːb areː /ʔaːʃoːjoː ʤallabiːni /
-# text_en =  He eats and drinks, eats and drinks. When this gold is totally finished this, indeed, he became poor as before, and and now, now, so, he tells himself: "Let me not work in the field anymore!", and as he loathed the fields, he takes his net and, he goes to the sea, and In the sea, then, he fishes his fish.
+# text_en = He eats and drinks, eats and drinks. When this gold is totally finished this, indeed, he became poor as before, and and now, now, so, he tells himself: "Let me not work in the field anymore!", and as he loathed the fields, he takes his net and, he goes to the sea, and In the sea, then, he fishes his fish.
 1	tam	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=127919|AlignEnd=128057|Gloss=eat|RX=[V2]|TokenType=Root
 2	-eː	_	AUX	_	_	6	conj:redup	_	AlignBegin=128057|AlignEnd=128195|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 3	gʷʔ	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=128195|AlignEnd=128333|Gloss=drink|RX=[V2]|TokenType=Root
@@ -776,7 +776,7 @@
 # sent_timecode = 147751, 155466
 # phonetic_text = oːn w= ʔaːʃoː =joː =ka / wi= manri =jeːb / wi= ʔanbiːk =eːb i= bhar =iːb dilib -tiːt =ka / j= ʔar =iheː =da mʔari =t =oː hoːj i- niːn =aːt /
 # text = oːn wʔaːʃoːjoːka /wimarrijeːb / wiʔambiːkeːb ibhariːb dilibtiːtka / jʔariheːda mʔariːtoː hoːj iniːnaːt /
-# text_en =  All the fish that he finds that he catches in the sea, he sells them and he buys his food from (the money he gets) for his children and
+# text_en = All the fish that he finds that he catches in the sea, he sells them and he buys his food from (the money he gets) for his children and
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=147751|AlignEnd=148141|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=148141|AlignEnd=148239|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 3	ʔaːʃoː	_	NOUN	N	Gender=Masc	17	comp:obj	_	AlignBegin=148239|AlignEnd=148337|Gloss=fish|RX=[N].[M]|TokenType=Root
@@ -816,7 +816,7 @@
 # sent_timecode = 155468, 170922
 # phonetic_text = amseːnoːk bʔeː =b gaːl / u= bhar -i =dha mheː -tiːt / ʃabaka =t =oː i- ngiːd =eːb oː= doːr / ʃabaka / ontʔa / dabal =had siː- san -tiːt sikʷ -ti fanrʔi =jeːb oː= doːr / diwaːn -i rif# ## rifkaːk fanrʔi eːn //
 # text = amseːnoːk bʔeːb gaːl /ubharidha mheːtiːt / ʃabakatoː ingiːdeːb oːdoːr /ʃabaka /ontʔa / dabalhad siːsantiːt sikʷti farrʔijeːb oːdoːr /diwaːni rif# ## rifkaːk farrʔi eːn //
-# text_en =  one day, having gone to the sea in the morning when he throws his net, so, after he has left a net for a while, when he pulls it out, he takes out a piece of jar, they said.
+# text_en = one day, having gone to the sea in the morning when he throws his net, so, after he has left a net for a while, when he pulls it out, he takes out a piece of jar, they said.
 1	amseːnoːk	_	ADV	ADV	_	10	discourse	_	AlignBegin=155468|AlignEnd=155770|Gloss=that_day|RX=[ADV]|TokenType=Root
 2	bʔeː	_	NOUN	N	Gender=Masc	10	discourse	_	AlignBegin=155770|AlignEnd=155921|Gloss=day|RX=[N].[M]|TokenType=Root
 3	=b	_	DET	DET	Case=Acc|Gender=Masc	2	det	_	AlignBegin=155921|AlignEnd=156072|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
@@ -869,7 +869,7 @@
 # sent_timecode = 170922, 177492
 # phonetic_text = sikʷ -ti fanrʔi =hoːb // areː oː= dwaːn -i rifkaːk ʈiːn -i / əəə / diwaːn / i= mhiːn =oː i- ngiːd =aːt i= bhar =iːb //
 # text = sikʷti farrʔihoːb //areː oːdwaːni rifkaːk ʈiːni / əəə / diwaːn / imhiːnoː ingiːdaːt ibhariːb // BI_779
-# text_en =  When he takes it out pulling it, then, the piece of earthenware jar, er... he throws a jar back to its place, into the sea.
+# text_en = When he takes it out pulling it, then, the piece of earthenware jar, er... he throws a jar back to its place, into the sea.
 1	sikʷ	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=170922|AlignEnd=171073|Gloss=pull|RX=[V1]|TokenType=Root
 2	-ti	_	AUX	_	_	3	mod	_	AlignBegin=171073|AlignEnd=171224|DerPos=VERB|Gloss=-CVB.GNRL|TokenType=DerAff
 3	fanrʔi	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	4	comp	_	AlignBegin=171224|AlignEnd=171375|Gloss=take_out\IPFV.3SG|RX=[V1]|TokenType=Root
@@ -904,7 +904,7 @@
 # sent_timecode = 182326, 184174
 # phonetic_text = meːkit misuːs // tiʃabaka ʔabkaː haːj titfarʔi eːn / ɖimi -a -l =t //
 # text = meːkiːt misuːs // tiʃabaka ʔabkaːt haːj titfarʔi eːn / ɖimjalt //
-# text_en =  the corpse of a donkey goes out stuck with the net, they said.Very stinky.
+# text_en = the corpse of a donkey goes out stuck with the net, they said.Very stinky.
 1	meːk	_	NOUN	N	_	2	comp	_	AlignBegin=178897|AlignEnd=179036|Gloss=donkey|RX=[N]|TokenType=Root
 2	=i	_	ADP	CASE	Case=Gen	4	udep	_	AlignBegin=179036|AlignEnd=179175|Gloss==GEN|RX==[CASE]|TokenType=Clit
 3	=t	_	DET	DET	Gender=Fem	2	det	_	AlignBegin=179175|AlignEnd=179315|Gloss==INDF.F|RX==[DET]|TokenType=Clit
@@ -933,7 +933,7 @@
 # sent_timecode = 184174, 195616
 # phonetic_text = toːn han himaːg -eːtiːt tʔa mhasi / i= bhar =ijoː i- ngiːd =aːt oːn amseːneː=b / jaːbi // i= baxit hoːj sallam -aː =heːb i- ndi eːn // meːk -i =t misuːs =ni a- fanrʔi =jeːk / diwaːn -i firkaːk a- fanrʔi =jeːk //
 # text = toːn han himaːg -eːtiːt tʔa mhasi / i= bhar =ijoː i- ngiːd =aːt oːn amseːneː =b / jaːbi // i= baxit hoːj sallam -aː =heːb i- ndi eːn // meːk =i =t misuːs =ni a- fanrʔi =jeːk / diwaːn -i firkaːk a- fanrʔi =jeːk //
-# text_en =  He does not like that thing either, so again he throws it into the sea and he says: "God! protect me against the misfortune of today!" they said, since sometimes I fish out the corpse of a donkey unexpectedly, and sometimes I fish out a piece of jar."
+# text_en = He does not like that thing either, so again he throws it into the sea and he says: "God! protect me against the misfortune of today!" they said, since sometimes I fish out the corpse of a donkey unexpectedly, and sometimes I fish out a piece of jar."
 1	toːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	comp:obj	_	AlignBegin=184174|AlignEnd=184477|Gloss=PROX.SG.F.ACC|RX=[DEM]|TokenType=Root
 2	han	_	PART	PTCL	_	1	mod	_	AlignBegin=184477|AlignEnd=184780|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
 3	himaːg	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=184780|AlignEnd=184932|Gloss=loath|RX=[V2]|TokenType=Root
@@ -1013,7 +1013,7 @@
 # sent_timecode = 203977, 209514
 # phonetic_text = sikʷ -ti fanrʔi =jaːt / t= ʔalba / nangiːl =hoːb / ʔeːga hoːj i- t- farʔi eːn / t= ʔalba //
 # text = sikʷti farrʔijaːt /tʔalba /nangiːlhoːb / BI_436 eːga hoːj itfarʔi eːn /tʔalba //
-# text_en =  He pulls it out and when he opens the can, smoke gets out of it, they said. Of the can.
+# text_en = He pulls it out and when he opens the can, smoke gets out of it, they said. Of the can.
 1	sikʷ	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=203977|AlignEnd=204101|Gloss=pull|RX=[V1]|TokenType=Root
 2	-ti	_	AUX	_	_	3	mod	_	AlignBegin=204101|AlignEnd=204224|DerPos=VERB|Gloss=-CVB.GNRL|TokenType=DerAff
 3	fanrʔi	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	9	conj:coord	_	AlignBegin=204224|AlignEnd=204348|Gloss=take_out\IPFV.3SG|RX=[V1]|TokenType=Root
@@ -1042,7 +1042,7 @@
 # sent_timecode = 209514, 217610
 # phonetic_text = uːn w= ʔeːga /daːjeːb bak tageːg -eːtiːt / tak i- kati =hoːb // jhaː ʔaːw =wa i- ndi eːn baruːk /
 # text = uːn wʔeːga /daːjeːb bak tageːgeːtiːt /tak ikatihoːb //jhaː ʔaːwwa indi eːn baruːk /
-# text_en =  This smoke goes well high like that and when it becomes a man he says: "Oh, you, who are you?", they said
+# text_en = This smoke goes well high like that and when it becomes a man he says: "Oh, you, who are you?", they said
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=209514|AlignEnd=209706|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=209706|AlignEnd=209802|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 3	ʔeːga	_	NOUN	N	Gender=Masc	7	subj	_	AlignBegin=209802|AlignEnd=209898|Gloss=smoke|RX=[SBJ].[N].[M]|TokenType=Root
@@ -1072,7 +1072,7 @@
 # sent_timecode = 217611, 221210
 # phonetic_text = i- ndi =hoːb // uːn ani / ʤaːntaːji =b =i i- ndi eːn //
 # text = indihoːb // uːn ani /ʤaːntaːjibi indi eːn //
-# text_en =  when he says so, he says: "As for me, I am a jinni," they said.
+# text_en = when he says so, he says: "As for me, I am a jinni," they said.
 1	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	2	subj/m	_	AlignBegin=217611|AlignEnd=217679|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 2	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	3	comp	_	AlignBegin=217679|AlignEnd=217747|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
 3	=hoːb	_	SCONJ	CONJ	_	12	mod	_	AlignBegin=217747|AlignEnd=217815|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -1135,7 +1135,7 @@
 # sent_timecode = 225754, 229516
 # phonetic_text = uːn ani suːr / nifir -i ʤaːntaːji atoːrbi =b =u /
 # text = uːn ani suːr / BI_468 nifri ʤaːntaːji atoːrbiːbu /
-# text_en =  "As for me, formerly, I was a nasty unpleasant jinni.
+# text_en = "As for me, formerly, I was a nasty unpleasant jinni.
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=225754|AlignEnd=225946|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	10	dislocated:subj	_	AlignBegin=225946|AlignEnd=226138|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 3	suːr	_	ADV	ADV	_	10	mod	_	AlignBegin=226138|AlignEnd=226330|Gloss=before|RX=[ADV]|TokenType=Root
@@ -1154,7 +1154,7 @@
 # sent_timecode = 229517, 237672
 # phonetic_text = san -a =jeː =wa / j= ʔaraw =eː =wa / i= bhar =iːb iː- fi -na a- m- deːr -aːj =eːb oː= doːr / oːt t= ʔalba =t =iːb dʔi -jaː / i= bhar -i wast =iːb gid -aː =jeː =jaː /
 # text = sanaːjeːwa / jʔaraweːwa / ibhariːb iːfiːna amdeːraːjeːb oːdoːr / oːt tʔalbaːtiːb dʔija /ibhari wastiːb gidaːjeːja /
-# text_en =  My brothers and my friends were in the sea and when I quarrelled with them, putting me in this can, they threw me into the middle of the sea.
+# text_en = My brothers and my friends were in the sea and when I quarrelled with them, putting me in this can, they threw me into the middle of the sea.
 1	san	_	NOUN	N	Gender=Masc	7	conj:coord	_	AlignBegin=229517|AlignEnd=229616|Gloss=brother|RX=[SBJ].[N].[M]|TokenType=Root
 2	-a	_	DET	_	_	1	det/m	_	AlignBegin=229616|AlignEnd=229715|Gloss=-PL|TokenType=InflAff
 3	=jeː	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	1	udep@poss	_	AlignBegin=229715|AlignEnd=229814|Gloss==POSS.1PL.ACC|RX==[PRO]|TokenType=Clit
@@ -1204,7 +1204,7 @@
 # sent_timecode = 237672, 239905
 # phonetic_text = ʃeː =b sana ah -aː =b =u /
 # text = ʃeːb sana ahaːbu /
-# text_en =  I have stayed there for one hundred years.
+# text_en = I have stayed there for one hundred years.
 1	ʃeː	_	NUM	NUM	_	3	mod	_	AlignBegin=238637|AlignEnd=238795|Gloss=hundred|RX=[NUM]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=238795|AlignEnd=238954|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	sana	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=238954|AlignEnd=239271|Gloss=year|RX=[N].[M]|TokenType=Root
@@ -1220,7 +1220,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 239905, 250750
 # phonetic_text = ombaroːk ontʔabit / oːn oː= firʔa wi= ti- firʔa =jeː =joː =na -ji =da / uːn ani / siʤin =iːb iː- fi tak aka -jeː / i= siʤin =iː ti- firʔa =heːb =ajt / naː =t gaːt / ijaːw =hoːk a- ndi i- ni =hoːb /
-# text_en =  So, now you, because you took me out, me, although I was an imprisoned man, since you took me out of prison I will give you something", he says.
+# text_en = So, now you, because you took me out, me, although I was an imprisoned man, since you took me out of prison I will give you something", he says.
 1	umbaruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	9	dislocated:subj	_	AlignBegin=239905|AlignEnd=240288|Gloss=2SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	ontʔabit	_	PART	PTCL	_	1	discourse	_	AlignBegin=240288|AlignEnd=240671|Gloss=now|RX=[PTCL]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=240671|AlignEnd=241053|Gloss=/|TokenType=Break
@@ -1269,8 +1269,8 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 250750, 257636
 # phonetic_text = naːn ti- niːw =heːb i- ndi =hoːb / bass baruːk har# ## manni -im -ti =jeː =na =ka a- niːw =hoːk i- ndi =hoːb / uːn ani manni -im -ani i- ndi eːn /
-# text = i- ni =hoːb / naːn tiniːwheːb indihoːb / bass baruːk har# ## manniːmtijanaːka aniːwhoːk indihoːb / BI_520 uːn ani manniːmani indi eːn /
-# text_en =  when he said so, when he says: "What will you give me?" So, you, when he says: "whatever you wish, I'll give it to you!", he says: "As for me, I wish", they said,
+# text = i- ni =hoːb / naːn ti- niːw =heːb i- ndi =hoːb / bass baruːk har# ## manni -im -ti =jeː =na =ka a- niːw =hoːk i- ndi =hoːb / uːn ani manni -im -ani i- ndi eːn /
+# text_en = when he said so, when he says: "What will you give me?" So, you, when he says: "whatever you wish, I'll give it to you!", he says: "As for me, I wish", they said,
 1	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	2	subj/m	_	AlignBegin=250193|AlignEnd=250286|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 2	ni	_	VERB	V1	Aspect=Perf|VerbClass=1	3	comp	_	AlignBegin=250286|AlignEnd=250379|Gloss=say\PFV|RX=[V1].[IRG]|TokenType=Root
 3	=hoːb	_	SCONJ	CONJ	_	11	mod	_	AlignBegin=250379|AlignEnd=250472|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -1401,7 +1401,7 @@
 # sent_timecode = 278169, 279185
 # phonetic_text = t= ʔani manri /
 # text = tʔani marri /
-# text_en =  He finds ewes and
+# text_en = He finds ewes and
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=278169|AlignEnd=278339|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 2	ʔani	_	NOUN	N	_	3	comp:obj	_	AlignBegin=278339|AlignEnd=278508|Gloss=sheep|RX=[N]|TokenType=Root
 3	manri	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	0	root	_	AlignBegin=278508|AlignEnd=278847|Gloss=find\IPFV.3SG|RX=[V1]|TokenType=Root
@@ -1413,7 +1413,7 @@
 # sent_timecode = 279185, 280250
 # phonetic_text = oː= reːw manri /
 # text = oːreːw marri /
-# text_en =  he finds cattle and
+# text_en = he finds cattle and
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=279185|AlignEnd=279363|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	reːw	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=279363|AlignEnd=279540|Gloss=cattle|RX=[N].[M]|TokenType=Root
 3	manri	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	0	root	_	AlignBegin=279540|AlignEnd=279895|Gloss=find\IPFV.3SG|RX=[V1]|TokenType=Root
@@ -1425,7 +1425,7 @@
 # sent_timecode = 280250, 282504
 # phonetic_text = naː =t =ka manri / əddew# ##
 # text = naːtka marri /əddew# ##
-# text_en =  he finds everything
+# text_en = he finds everything
 1	naː	_	NOUN	N	Gender=Fem	3	comp	_	AlignBegin=280250|AlignEnd=280387|Gloss=thing|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=280387|AlignEnd=280524|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	=ka	_	ADP	POSTP	_	4	comp:obj	_	AlignBegin=280524|AlignEnd=280661|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1440,7 +1440,7 @@
 # sent_timecode = 282504, 284201
 # phonetic_text = gaw daːwri =b manri /
 # text = gaw daːwrib marri / BI_395
-# text_en =  he finds a beautiful house and
+# text_en = he finds a beautiful house and
 1	gaw	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=282504|AlignEnd=282829|Gloss=house|RX=[N].[M]|TokenType=Root
 2	daːwri	_	ADJ	ADJ	_	1	mod	_	AlignBegin=282829|AlignEnd=282991|Gloss=beautiful|RX=[ADJ]|TokenType=Root
 3	=b	_	DET	DET	Case=Acc|Gender=Masc	2	det	_	AlignBegin=282991|AlignEnd=283154|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
@@ -1448,12 +1448,12 @@
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=283479|AlignEnd=283803|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_02_farmer_292-299
+# text = oː= kna ʤineːnaː =t han // oː= mhiːn i- ʔiːd =eːt =wa / hoːj tiː- fi =ji mhiːn / manri / beːn uː= tak //
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 284201, 292160
-# phonetic_text = oː= kina ʤineːnaː =t han // oː= mhiːn i- ʔiːd =eːt =wa / hoːj tiː- fi =ji mhiːn / manri / beːn uː= tak //
-# text = oːkina ʤineːnaːt han // oːmhiːn iʔiːdeːtwa / hoːj tiːfiji mhiːn / manri / beːn uːtak //
-# text_en = that man even finds a place were there was among other things a garden that he would cultivate, in the place.
+# phonetic_text = oː= kna ʤineːnaː =t han // oː= mhiːn i- ʔiːd =eːt =wa / hoːj tiː- fi =ji mhiːn / manri / beːn uː= tak //
+# text_en = that man even finds a place where there was among other things a garden that he would cultivate, in the place.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=285655|AlignEnd=285832|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	kna	_	PRON	PRO	Reflex=Yes	3	discourse	_	AlignBegin=285832|AlignEnd=286009|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 3	ʤineːnaː	_	NOUN	N	Gender=Fem	18	conj:coord	_	AlignBegin=286009|AlignEnd=286186|Gloss=garden|RX=[N].[F]|TokenType=Root
@@ -1486,7 +1486,7 @@
 # sent_timecode = 292160, 295722
 # phonetic_text = manni -im -a i- ni =jeːb / i= manni -im -ti =iː i- miri =jeː =na ti- kati //
 # text = manniːma inijeːb / imanniːmtaj imrijeːna tikati // BI_665
-# text_en =  after he was told: "Wish!", it becomes a thing he found by wishing.
+# text_en = after he was told: "Wish!", it becomes a thing he found by wishing.
 1	manni	_	NOUN	N	Gender=Masc	2	comp/m	_	AlignBegin=292160|AlignEnd=292273|Gloss=wish|RX=[N].[M]|TokenType=Root
 2	-im	_	AUX	V2	VerbClass=2	5	comp:obj	_	AlignBegin=292273|AlignEnd=292386|DerPos=VERB|Gloss=-MID|Reported=Yes|RX=-[V2].[DER]|TokenType=DerAff
 3	-a	_	PRON	TAM.PNG	Gender=Masc|Mood=Imp|Number=Sing	2	subj/m	_	AlignBegin=292386|AlignEnd=292498|Gloss=-IMP.SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -1536,7 +1536,7 @@
 # sent_timecode = 299842, 301748
 # phonetic_text = areː uː= dhaj daːjeːb iː- wri -na /
 # text = areː uːdhaj daːjeːb iːwriːna /
-# text_en =  Then the people had good relationship with him and
+# text_en = Then the people had good relationship with him and
 1	areː	_	CCONJ	PTCL	_	3	cc	_	AlignBegin=299842|AlignEnd=300223|Gloss=then|RX=[PTCL]|TokenType=Root
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=300223|AlignEnd=300413|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 3	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	6	subj	_	AlignBegin=300413|AlignEnd=300604|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
@@ -1552,7 +1552,7 @@
 # sent_timecode = 301748, 310050
 # phonetic_text = uː= dhaj daːjeːb aːmal -iːna akoː / oː= tak =wa / j= ʔar =eː eː= mhaj =wa // əəə eː- d -n =eːt halla ti- kati oː= mhiːn /
 # text = uː= dhaj daːjeːb aːmal -iːna akoː / oː= tak =wa / j= ʔar =eː eː= mhaj =wa // əəə eː- d -n =eːt halla =t ti- kati oː= mhiːn /
-# text_en =  since the people have good relationship with him,  the place that, er, they call "The man and his three sons", becomes a village, the village.
+# text_en = since the people have good relationship with him,  the place that, er, they call "The man and his three sons", becomes a village, the village.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=301748|AlignEnd=301924|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	4	subj	_	AlignBegin=301924|AlignEnd=302100|Gloss=people|RX=[N].[COL].[M]|TokenType=Root
 3	daːjeːb	_	ADV	ADV	_	4	mod	_	AlignBegin=302100|AlignEnd=302452|Gloss=good|RX=[ADV]|TokenType=Root
@@ -1590,7 +1590,7 @@
 # sent_timecode = 310051, 316050
 # phonetic_text = uː= dhaj dhaːj jʔ -i =t geːb askin -eːna =aːt // oːt ti= dirʔa =t =oː areː / i= luːbja hoːj iː- biri /
 # text = uːdhaj dhaːj jʔit geːb askineːnaːt //oːt tidirʔaːtoː areː / iluːbja hoːj iːbri /
-# text_en =  The people come to them and live with them and in his field, then, he got brown beans from it
+# text_en = The people come to them and live with them and in his field, then, he got brown beans from it
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=310051|AlignEnd=310198|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	4	subj	_	AlignBegin=310198|AlignEnd=310345|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
 3	dhaːj	_	ADP	POSTP	_	4	comp:obl	_	AlignBegin=310345|AlignEnd=310639|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -1622,7 +1622,7 @@
 # sent_timecode = 316050, 317626
 # phonetic_text = oː= ʃikaːm / hoːj iː- biri /
 # text = oːʃkaːm /hoːj iːbri /
-# text_en =  brown beans he got from it
+# text_en = brown beans he got from it
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=316050|AlignEnd=316219|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	ʃkaːm	_	NOUN	N	Gender=Masc	6	comp:obj	_	AlignBegin=316219|AlignEnd=316388|Gloss=brown_bean|RX=[N].[M]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=316388|AlignEnd=316726|Gloss=/|TokenType=Break
@@ -1637,7 +1637,7 @@
 # sent_timecode = 317626, 320376
 # phonetic_text = oː= kina hoːj bi= i- bari -n =eː =na ki= t- haːj eːn /
 # text = oːkna hoːj biːbariːneːna kithaːj eːn /
-# text_en =  there is really nothing that they do not get from it, they said.
+# text_en = there is really nothing that they do not get from it, they said.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=317626|AlignEnd=317810|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	kna	_	PRON	PRO	Reflex=Yes	6	discourse	_	AlignBegin=317810|AlignEnd=317994|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 3	hoːj	_	ADP	PRO	_	6	comp:obl	_	AlignBegin=317994|AlignEnd=318362|Gloss=LOC|RX=[POSTP]|TokenType=Root
@@ -1659,7 +1659,7 @@
 # sent_timecode = 320377, 323765
 # phonetic_text = kass =eː eːn i= ʤins -a i= xadaːr -a =jeːb hoːj iː- biri -na /
 # text = kasseː eːn iʤinsa ixadaːraːjeːb hoːj iːbriːna /
-# text_en =  They got all sorts of vegetables from it.
+# text_en = They got all sorts of vegetables from it.
 1	kass	_	ADJ	DET	_	5	mod	_	AlignBegin=320377|AlignEnd=320603|Gloss=all|RX=[ADJ]|TokenType=Root
 2	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	1	udep@poss	_	AlignBegin=320603|AlignEnd=320830|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 3	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur	5	det	_	AlignBegin=320830|AlignEnd=321283|Gloss=PROX.PL.M.ACC|RX=[DEM]|TokenType=Root
@@ -1682,7 +1682,7 @@
 # sent_timecode = 323765, 326445
 # phonetic_text = ʔamaːr =oːn baː= kʷaːs -a / samaːr =oːn //
 # text = ʔamaːr =oːn baː= kʷaːs -a / samaːr =oːn //
-# text_en =  Let it not be not our fate!!
+# text_en = Let it not be not our fate!!
 1	ʔamaːr	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=325719|AlignEnd=325901|Gloss=possessions|RX=[N].[M]|TokenType=Root
 2	=oːn	_	PRON	N	Gender=Masc|Number=Plur|Person=1	1	udep@poss	_	AlignBegin=325719|AlignEnd=325901|Gloss==POSS.1PL.ACC|RX==PRO|TokenType=Clit
 3	baː=	_	PART	N	_	4	mod	_	AlignBegin=325719|AlignEnd=325901|Gloss=NEG.PROH=|RX=PTCL=|TokenType=Clit

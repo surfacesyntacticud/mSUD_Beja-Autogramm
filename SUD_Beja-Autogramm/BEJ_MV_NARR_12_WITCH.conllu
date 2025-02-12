@@ -142,7 +142,7 @@
 # sent_id = BEJ_MV_NARR_12_witch_036-037
 # text = ʃaːbbi =t iːdn =eːt hoːj tiːfi /
 # phonetic_text = ʃaːbbiːt iːdneːt hoːj tiːfi /
-# text_en = Among them, there was one of them who was called Sentinel,
+# text_en = Among them, there was one who was called Sentinel,
 1	ʃaːbbi	_	NOUN	N.V	_	6	subj	_	AlignBegin=28172|AlignEnd=28363|Gloss=look\INT.N.AGN|RX=[N].[V]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=28363|AlignEnd=28554|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=28554|AlignEnd=28841|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
@@ -586,7 +586,7 @@
 # sent_id = BEJ_MV_NARR_12_witch_126-135
 # text = ottʔa / ʔoːtanaː =t =i ʔati // ʔoːtanaː =t =i ʔati eːn =eːk / aː= nda i= gʷibi =ji bʔaɖaɖa =ji isaːnn =hoːk // tuː= tiji t= asarama girma =i tisaːn =hoːk / uː= kʷhaːn i= ba= ahassaj =uːk / isaːn =hoːka tidi eːn //
 # phonetic_text = ottʔa / ʔoːtanaːti ʔati // oːtanaːti ʔati eːneːk / aːnda igʷbiji bʔaɖɖaːji isaːnnhoːk // tuːtji tʔasarama girmaj tisaːnhoːk / uːkʷhaːn ibaːhassajuːk / isaːnhoːka tidi eːn //
-# text_en = So, when they said: "Curser, curse! Curser, curse!"  "May you find men with shields and swords!  May you find the seven headed snake!  May you find a flooding river that prevents you from crossing!", she said, they said.
+# text_en = So, when they said: "Curser, curse! Curser, curse!"  "May you find men with shields and swords!  May you find the seven headed snake!  May you find the flooding river that prevents you from crossing!", she said, they said.
 1	ottʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=106806|AlignEnd=107004|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=107004|AlignEnd=107202|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	ʔoːtanaː	_	NOUN	V1	VerbClass=1	5	comp	_	AlignBegin=107202|AlignEnd=107365|Gloss=curse\INT|MGloss=curse\INT-N.AGN|MSeg=ʔoːt-anaː|RX=[V1].[DER]-[N].[V]|TokenType=Root
@@ -691,11 +691,11 @@
 11	hammad	_	PROPN	N	_	12	conj:redup	_	AlignBegin=124261|AlignEnd=124431|Gloss=Hammad|RX=[N].[PROP]|TokenType=Root
 12	hammad	_	PROPN	N	_	14	vocative	_	AlignBegin=124431|AlignEnd=124601|Gloss=Hammad|RX=[N].[PROP]|TokenType=Root
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=124601|AlignEnd=124772|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-14	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	16	comp:appos	_	AlignBegin=124772|AlignEnd=125034|Gloss=2SG.M.ACC|Reported=Yes|RX=[PRO]|TokenType=Root
+14	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	16	mod	_	AlignBegin=124772|AlignEnd=125034|Gloss=2SG.M.ACC|Reported=Yes|RX=[PRO]|TokenType=Root
 15	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	16	det	_	AlignBegin=125034|AlignEnd=125121|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 16	ʔabuːk	_	NOUN	N.V	_	20	conj:coord	_	AlignBegin=125121|AlignEnd=125209|Gloss=take\N.AC|RX=[N].[V]|TokenType=Root
 17	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	16	udep@poss	_	AlignBegin=125209|AlignEnd=125297|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
-18	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	20	comp:appos	_	AlignBegin=125297|AlignEnd=125560|Gloss=1SG.ACC|Reported=Yes|RX=[PRO]|TokenType=Root
+18	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	20	mod	_	AlignBegin=125297|AlignEnd=125560|Gloss=1SG.ACC|Reported=Yes|RX=[PRO]|TokenType=Root
 19	teː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	20	det	_	AlignBegin=125560|AlignEnd=125691|Gloss=DEF.PL.F.ACC=|RX=[DET]=|TokenType=Clit
 20	far	_	NOUN	N.V	Number=Plur	21	comp:obj	_	AlignBegin=125691|AlignEnd=125823|Gloss=jump\N.AC|Reported=Yes|RX=[N].[V].[PL]|TokenType=Root
 21	tini	_	VERB	V1	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=125823|AlignEnd=125998|Gloss=say\PFV|MGloss=3SG.F-say\PFV|MSeg=ti-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root

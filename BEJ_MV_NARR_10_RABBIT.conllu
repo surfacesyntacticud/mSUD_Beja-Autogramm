@@ -4,7 +4,7 @@
 # sent_timecode = 0, 2105
 # phonetic_text = mhammad ahmad dabali ʔoːr =u /
 # text = mhammad ahmad dabali ʔoːruː /
-# text_en =  Mhammad Ahmad was a small boy,
+# text_en = Mhammad Ahmad was a small boy,
 1	mhammad	_	PROPN	N	_	2	udep	_	AlignBegin=0|AlignEnd=353|Gloss=Mohamed|RX=[N].[PROP]|TokenType=Root
 2	ahmad	_	PROPN	N	_	5	subj	_	AlignBegin=353|AlignEnd=706|Gloss=Ahmed|RX=[SBJ].[N].[PROP]|TokenType=Root
 3	dabali	_	ADJ	ADJ	_	4	mod	_	AlignBegin=706|AlignEnd=1059|Gloss=small|RX=[ADJ]|TokenType=Root
@@ -18,7 +18,7 @@
 # sent_timecode = 2105, 4456
 # phonetic_text = winneːt oː= ʃaːk ʔareː -ji /
 # text = winneːt oːʃaːk ʔareːji /
-# text_en =  he loved hunting very much.
+# text_en = he loved hunting very much.
 1	winneːt	_	ADV	ADV	_	4	mod	_	AlignBegin=2105|AlignEnd=2482|Gloss=plenty|RX=[ADV]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=2482|AlignEnd=2670|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 3	ʃaːk	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=2670|AlignEnd=2859|Gloss=hunting|RX=[N].[M]|TokenType=Root
@@ -32,7 +32,7 @@
 # sent_timecode = 4456, 11578
 # phonetic_text = uː= doːr / ʔasir =u / dif -a =t / oː= kaːm haːj mʔ -a i- diː -n =heːb //
 # text = uːdoːr / ʔasiru / difat / oːkaːm haːj mʔa idiːnheːb //
-# text_en =  At the time of the Asur prayer, he told me: "Leave and get me the camel!"
+# text_en = At the time of the Asur prayer, he told me: "Leave and get me the camel!"
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=4456|AlignEnd=4561|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	doːr	_	NOUN	N	Gender=Masc	17	mod	_	AlignBegin=4561|AlignEnd=4666|Gloss=time|RX=[N].[M]|TokenType=Root
 3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=4666|AlignEnd=4877|Gloss=/|TokenType=Break
@@ -60,7 +60,7 @@
 # sent_timecode = 11578, 14574
 # phonetic_text = a- dif hiːreːr -eː / jʔ -an i= kaːm -i mijʔat =iːb //
 # text = adif hiːreːreː / jʔan ikaːmi mijʔatiːb //
-# text_en =  I left and arrived walking in the camel's footprints.
+# text_en = I left and arrived walking in the camel's footprints.
 1	a-	_	PRON	PNG	Number=Sing|Person=1	2	subj/m	_	AlignBegin=11578|AlignEnd=11756|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 2	dif	_	VERB	V1	Aspect=Perf|VerbClass=1	3	conj:coord	_	AlignBegin=11756|AlignEnd=11933|Gloss=leave\PFV|RX=[V1]|TokenType=Root
 3	hiːreːr	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=11933|AlignEnd=12111|Gloss=walk|RX=[V2]|TokenType=Root
@@ -81,7 +81,7 @@
 # sent_timecode = 14574, 17300
 # phonetic_text = i= sikka -i // tak / i- sn =heːb //
 # text = isikkaːj // tak / isnheːb //
-# text_en =  On the road, I found a man", he said.
+# text_en = On the road, I found a man", he said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=14574|AlignEnd=14675|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	sikka	_	NOUN	N	Gender=Masc	3	comp	_	AlignBegin=14675|AlignEnd=14776|Gloss=road|RX=[N].[M]|TokenType=Root
 3	=i	_	ADP	CASE	Case=Gen	8	comp:obl	_	AlignBegin=14776|AlignEnd=14878|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
@@ -99,7 +99,7 @@
 # sent_timecode = 17300, 19099
 # phonetic_text = handi =b iː- wik //
 # text = handib iːwik //
-# text_en =  He was sawing wood.
+# text_en = He was sawing wood.
 1	handi	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=17300|AlignEnd=17478|Gloss=tree|RX=[N].[M]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=17478|AlignEnd=17655|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=17655|AlignEnd=17833|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -112,7 +112,7 @@
 # sent_timecode = 19099, 24668
 # phonetic_text = uː= tak w= handi wik -eː i- sni =joː =hoːb / beːti tar -tiːt / sakana -jaː / a- ni =t abaːj a- tar i- ni //
 # text = uːtak whandi wikeː isnijoːhoːb / beːti tartiːt / sakanaja / anit abaːj atar ini //
-# text_en =  When I found the man sawing wood I made a detour towards him and I wanted to ask him the news, so I made a detour towards him", he said.
+# text_en = When I found the man sawing wood I made a detour towards him and I wanted to ask him the news, so I made a detour towards him", he said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=19099|AlignEnd=19247|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	5	subj	_	AlignBegin=19247|AlignEnd=19395|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=19395|AlignEnd=19543|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -147,7 +147,7 @@
 # sent_timecode = 24668, 25358
 # phonetic_text = abaːj a- tar =t /
 # text = abaːj atart /
-# text_en =  I made a detour towards him, and
+# text_en = I made a detour towards him, and
 1	abaːj	_	ADP	POSTP	_	3	mod	_	AlignBegin=24668|AlignEnd=24898|Gloss=toward|RX=[POSTP]|TokenType=Root
 2	a-	_	PRON	PNG	Number=Sing|Person=1	3	subj/m	_	AlignBegin=24898|AlignEnd=24975|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 3	tar	_	VERB	V1	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	AlignBegin=24975|AlignEnd=25052|Gloss=turn_aside\MID.PFV|RX=[V1].[DER]|TokenType=Root
@@ -207,7 +207,7 @@
 # sent_timecode = 34694, 36191
 # phonetic_text = oː= tak ʃoːb -an =t /
 # text = oːtak ʃoːbant /
-# text_en =  I shook hands with the man and
+# text_en = I shook hands with the man and
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=34694|AlignEnd=34834|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=34834|AlignEnd=34974|Gloss=man|RX=[N].[M]|TokenType=Root
 3	ʃoːb	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=34974|AlignEnd=35067|Gloss=greet|RX=[V2]|TokenType=Root
@@ -221,7 +221,7 @@
 # sent_timecode = 36191, 41673
 # phonetic_text = w= ʔaj =iːsi / w= heːlaj a- ʈʔi =hoːb / ali baːb =oːk -i / i- ni =t i= koːlaj dh =oː i- tir i- ni //
 # text = wʔajiːsi / wheːlaj aʈʔihoːb / ali baːboːki / init ikoːlaj dhoː itir ini //
-# text_en =  when I hit the hare with my hand, "My God!" he said, he protected himself from the stick, he said.
+# text_en = when I hit the hare with my hand, "My God!" he said, he protected himself from the stick, he said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=36191|AlignEnd=36292|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	ʔaj	_	NOUN	N	Gender=Masc	8	comp:obl	_	AlignBegin=36292|AlignEnd=36393|Gloss=hand|RX=[N].[M]|TokenType=Root
 3	=iːsi	_	PRON	PRO	Case=Abl|Number=Sing|Person=1|Poss=Yes	2	udep@poss	_	AlignBegin=36393|AlignEnd=36494|Gloss==POSS.1SG.ABL|RX==[PRO]|TokenType=Clit
@@ -256,7 +256,7 @@
 # sent_timecode = 41673, 49178
 # phonetic_text = i= koːlaj dh =oː i- tir =hoːb / aa# heːlaj / heːlaj / naː =t ki= t- ki a- ni =t / w= heːlaj =i jhak -s -an =t / harid i- ni //
 # text = ikoːlaj dhoː itirhoːb / aa# heːlaj / heːlaj / naːt kitki anit / wheːlaji jhaksant / harid ini //
-# text_en =  When he protected himself from the stick, "It's only a hare!", I said and I took my hare and I slaughtered it," he said.
+# text_en = When he protected himself from the stick, "It's only a hare!", I said and I took my hare and I slaughtered it," he said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=41673|AlignEnd=41799|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	koːlaj	_	NOUN	N	Gender=Masc	3	comp	_	AlignBegin=41799|AlignEnd=41926|Gloss=stick|RX=[N].[M]|TokenType=Root
 3	dh	_	ADP	POSTP	_	6	comp:obl	_	AlignBegin=41926|AlignEnd=42052|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -298,7 +298,7 @@
 # sent_timecode = 49178, 51536
 # phonetic_text = w= heːlaj handeː / ani hasir hoːj ka= a- bari /
 # text = wheːlaj handeː / ani hasir hoːj kaːbariː /
-# text_en =  "But I do not need the hare."
+# text_en = "But I do not need the hare."
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=49178|AlignEnd=49288|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	heːlaj	_	NOUN	N	Gender=Masc	10	dislocated:obl	_	AlignBegin=49288|AlignEnd=49399|Gloss=hare|RX=[N].[M]|TokenType=Root
 3	handeː	_	PART	PTCL	_	2	discourse	_	AlignBegin=49399|AlignEnd=49620|Gloss=DM|RX=[PTCL]|TokenType=Root
@@ -317,7 +317,7 @@
 # sent_timecode = 51536, 52387
 # phonetic_text = oːn w= ʔoːr ni- jaːw =aj //
 # text = oːn wʔoːr nijaːwaj //
-# text_en =  "So, let's give it to that boy!"
+# text_en = "So, let's give it to that boy!"
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=51536|AlignEnd=51749|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=51749|AlignEnd=51855|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 3	ʔoːr	_	NOUN	N	_	5	comp:obj	_	AlignBegin=51855|AlignEnd=51962|Gloss=child|RX=[N]|TokenType=Root
@@ -332,7 +332,7 @@
 # sent_timecode = 52387, 53578
 # phonetic_text = abadan abadan //
 # text = abadan abadan //
-# text_en =  "It's out of the question!"
+# text_en = "It's out of the question!"
 1	abadan	_	ADV	ADV	_	2	conj:coord	_	AlignBegin=52387|AlignEnd=52784|Gloss=never|RX=[ADV]|TokenType=Root
 2	abadan	_	ADV	ADV	_	0	root	_	AlignBegin=52784|AlignEnd=53181|Gloss=never|RX=[ADV]|TokenType=Root
 3	//	_	PUNCT	_	_	2	punct	_	AlignBegin=53181|AlignEnd=53578|Gloss=//|TokenType=Break
@@ -343,7 +343,7 @@
 # sent_timecode = 53578, 55899
 # phonetic_text = w= ʔoːr baː= hju haːj giːg -a / w= heːlaj =oːk i- d =heːb i- ni //
 # text = wʔoːr baːhju haːj giːga / wheːlajoːk idheːb ini //
-# text_en =  don't give it to the boy, take your hare away!", he told me, he said
+# text_en = don't give it to the boy, take your hare away!", he told me, he said
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=53578|AlignEnd=53696|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	4	comp:obj	_	AlignBegin=53696|AlignEnd=53815|Gloss=child|RX=[N]|TokenType=Root
 3	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	4	mod	_	AlignBegin=53815|AlignEnd=53933|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
@@ -368,7 +368,7 @@
 # sent_timecode = 55899, 57666
 # phonetic_text = hinin w= heːlaj / ki= n- hariw =aj //
 # text = hinin wheːlaj / kinharewaj //
-# text_en =  "As for us, we don't want the hare."
+# text_en = "As for us, we don't want the hare."
 1	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	7	subj	_	AlignBegin=55899|AlignEnd=56106|Gloss=1PL.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=56106|AlignEnd=56210|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 3	heːlaj	_	NOUN	N	Gender=Masc	7	comp:obj	_	AlignBegin=56210|AlignEnd=56313|Gloss=hare|RX=[N].[M]|TokenType=Root
@@ -385,7 +385,7 @@
 # sent_timecode = 57666, 60722
 # phonetic_text = areː kaːm =oːn rhi -ta a- ni =hoːb / kaːm =oːk rh -aː =b ka= a- ki i- ni //
 # text = areː kaːmoːn rhita ajihoːb / kaːmoːk rhaːb kaːki ini //
-# text_en =  Then, when I said: "Did you see our camel?" he said: "I did not see your camel".
+# text_en = Then, when I said: "Did you see our camel?" he said: "I did not see your camel".
 1	areː	_	CCONJ	PTCL	_	2	cc	_	AlignBegin=57666|AlignEnd=57953|Gloss=then|RX=[PTCL]|TokenType=Root
 2	kaːm	_	NOUN	N	_	4	comp:obj	_	AlignBegin=57953|AlignEnd=58097|Gloss=camel|RX=[N]|TokenType=Root
 3	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Polite=Form|Poss=Yes	2	udep@poss	_	AlignBegin=58097|AlignEnd=58240|Gloss==POSS.1PL.ACC|RX==[PRO].[POL]|TokenType=Clit
@@ -413,7 +413,7 @@
 # sent_timecode = 60722, 61900
 # phonetic_text = uː= kaːm hoːj dawil =i i- ni //
 # text = uːkaːm hoːj dawili ini //
-# text_en =  "The camel is nearby", he said.
+# text_en = "The camel is nearby", he said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=60722|AlignEnd=60840|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	kaːm	_	NOUN	N	_	5	subj	_	AlignBegin=60840|AlignEnd=60958|Gloss=camel|RX=[SBJ].[N]|TokenType=Root
 3	hoːj	_	ADP	PRO	_	5	comp:obl	_	AlignBegin=60958|AlignEnd=61194|Gloss=LOC|RX=[POSTP]|TokenType=Root
@@ -429,7 +429,7 @@
 # sent_timecode = 61900, 65363
 # phonetic_text = uː= tak uː= kina / nʔalla heːlaj // nʔalla heːlaj iː- d eːn //
 # text = uːtak uːkna / nʔalla heːlaj // nʔalla heːlaj iːd eːn //
-# text_en =  The man himself said: "Inch Allah, it was only a hare! A hare!" they said.
+# text_en = The man himself said: "Inch Allah, it was only a hare! A hare!" they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=61900|AlignEnd=62034|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	12	subj	_	AlignBegin=62034|AlignEnd=62167|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 3	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=62167|AlignEnd=62301|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit

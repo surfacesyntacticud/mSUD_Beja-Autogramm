@@ -1,8 +1,8 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_001-018
 # text = aːdim hoːb =uːn / w= haːʃ =i =da tikʷ -ja -n =hoːb / aːn i= hajawaːn -a / suːr w= hadʔa =ju / i= ganfit =u =it // ontʔa / oː= mijʔat rhi -jaːn =eːb oː= doːr / i= ganfit =i =da eːja -an =it / jaː iraːnaj / girba mijʔat / rhi -na i- diː -n eːn //
 # phonetic_text = aːdim hoːbuːn / whaːʃida tikʷjanhoːb / aːn jhajawaːna / suːr whadʔaːju / iganfituːjt // ontʔa / oːmijʔat rhijaːneːb oːdoːr / iganfitida ʔeːjaːnit / jaː iraːnaj / girba mijʔat / rhina idiːn eːn //
-# text_en =  When our ancestor Adam came down on earth  in the past, as the animal's chief was the hedgehog,  so,  when they saw footprints since they went to the hedgehog   they said: 'Gosh, we saw strange footprints!', they said.
-1	aːdim	_	PROPN	N	_	2	comp:appos	_	AlignBegin=0|AlignEnd=325|Gloss=Adam|RX=[N].[PROP]|TokenType=Root
+# text_en = When our ancestor Adam came down on earth  in the past, as the animal's chief was the hedgehog,  so,  when they saw footprints since they went to the hedgehog   they said: 'Gosh, we saw strange footprints!', they said.
+1	aːdim	_	PROPN	N	_	2	conj:appos	_	AlignBegin=0|AlignEnd=325|Gloss=Adam|RX=[N].[PROP]|TokenType=Root
 2	hoːb	_	NOUN	N	Gender=Masc	9	subj	_	AlignBegin=325|AlignEnd=488|Gloss=grand-father|RX=[SBJ].[N].[M]|TokenType=Root
 3	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	2	udep@poss	_	AlignBegin=488|AlignEnd=651|Gloss==POSS.1PL.NOM|RX==[PRO]|TokenType=Clit
 4	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=651|AlignEnd=977|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -65,7 +65,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_019-020
 # text = rhi -s -aːna =heːb i- di eːn //
 # phonetic_text = rhisaːnheːb idi eːn //
-# text_en =  'Show them to me!' he said, they said.
+# text_en = 'Show them to me!' he said, they said.
 1	rhi	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=14849|AlignEnd=14932|Gloss=see|RX=[V2]|TokenType=Root
 2	-s	_	AUX	V2	VerbClass=2|Voice=Cau	6	comp:obj	_	AlignBegin=14932|AlignEnd=15015|DerPos=VERB|Gloss=-CAUS|Reported=Yes|RX=-[V2].[DER]|TokenType=DerAff
 3	-aːna	_	PRON	TAM.PNG	Mood=Imp|Number=Plur	2	subj/m	_	AlignBegin=15015|AlignEnd=15098|Gloss=-IMP.PL|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -78,7 +78,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_021-034
 # text = oː= mijʔat i- ʃbib =hoːb / oːt toː= na ombatoː / t= ʔani a- kteːn =eːt / ti- kati =jeːk / w= haˈwaːd / i= rizg =oːk i- hariw bi= t- diː -n =eːk / oː= mbʔi / naː =t ki= ti- mri -ina i- di eːn //
 # phonetic_text = oːmijʔat iʃbibhoːb / uːt tuːna ombatuː / tʔani akteːneːt / tikatjeːk / whaˈwaːd / irizgoːk jhiriw biddiːneːk / oːmbʔi / naːt kitmiriːna idi eːn //
-# text_en =  When it looked at the footprints, "This thing, that one, if it is what I know of, if you don't look for your livelihood at night,  you won't find anything during the day", it said, they said.
+# text_en = When it looked at the footprints, "If it is this thing, that one, that I know of, if you don't look for your livelihood at night,  you won't find anything during the day", it said, they said.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=16549|AlignEnd=16719|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	mijʔat	_	NOUN	N	Gender=Masc	4	comp:obl	_	AlignBegin=16719|AlignEnd=16889|Gloss=footprint|RX=[N].[M]|TokenType=Root
 3	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=16889|AlignEnd=17002|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -158,23 +158,23 @@
 13	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	14	det	_	AlignBegin=32122|AlignEnd=32195|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 14	haˈwaːd	_	NOUN	N	Gender=Masc	16	mod	_	AlignBegin=32195|AlignEnd=32268|Gloss=night|RX=[N].[M]|TokenType=Root
 15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=32268|AlignEnd=32534|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-16	tariːga	_	NOUN	N	Gender=Fem	11	dislocated:obj	_	AlignBegin=32534|AlignEnd=32672|Gloss=means|RX=[N].[F]|TokenType=Root
+16	tariːga	_	NOUN	N	Gender=Fem	21	comp:obj	_	AlignBegin=32534|AlignEnd=32672|Gloss=means|RX=[N].[F]|TokenType=Root
 17	=t	_	DET	DET	Gender=Fem	16	det	_	AlignBegin=32672|AlignEnd=32810|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-18	/	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=32810|AlignEnd=33884|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+18	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=32810|AlignEnd=33884|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 19	hoːj	_	ADP	POSTP	Case=Loc	21	comp:obl	_	AlignBegin=33884|AlignEnd=34299|Gloss=LOC|RX=[POSTP]|TokenType=Root
 20	ti-	_	PRON	PNG	_	21	subj/m	_	AlignBegin=34299|AlignEnd=34382|Gloss=2-|RX=[PNG]-|TokenType=InflAff
 21	mir	_	VERB	V1	Aspect=Perf|VerbClass=1	23	comp	_	AlignBegin=34382|AlignEnd=34465|Gloss=find\PFV|RX=[V1]|TokenType=Root
 22	-n	_	PRON	PNG	Number=Plur	21	subj/m	_	AlignBegin=34465|AlignEnd=34548|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-23	=eː	_	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl	_	AlignBegin=34548|AlignEnd=34631|Gloss==REL|RX==[CONJ]|TokenType=Clit
+23	=eː	_	SCONJ	CONJ.REL	PronType=Rel	24	mod@relcl	_	AlignBegin=34548|AlignEnd=34631|Gloss==REL|RX==[CONJ]|TokenType=Clit
 24	=na	_	NOUN	CONJ	_	26	subj	_	AlignBegin=34631|AlignEnd=34715|Gloss==thing|RX==[CONJ]|TokenType=Clit
 25	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	26	subj/m	_	AlignBegin=34715|AlignEnd=34853|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 26	kati	_	VERB	V1	Aspect=Imp|VerbClass=1	27	comp	_	AlignBegin=34853|AlignEnd=34991|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root
-27	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	11	dislocated:obj	_	AlignBegin=34991|AlignEnd=35130|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+27	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	11	dislocated:mod	_	AlignBegin=34991|AlignEnd=35130|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 28	/	_	PUNCT	PUNCT	_	32	punct	_	AlignBegin=35130|AlignEnd=35546|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 29	bi=	_	PART	PTCL	Mood=Opt	31	mod	_	AlignBegin=35546|AlignEnd=35643|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 30	t-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	31	subj/m	_	AlignBegin=35643|AlignEnd=35740|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 31	kaːj	_	VERB	V1	Mood=Opt|VerbClass=1	32	comp	_	AlignBegin=35740|AlignEnd=35837|Gloss=become\NEG.OPT|RX=[V1].[IRG]|TokenType=Root
-32	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	27	conj:dicto	_	AlignBegin=35837|AlignEnd=35935|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+32	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	27	conj:dicto	_	AlignBegin=35837|AlignEnd=35935|Gloss==REL.M|Reported=Yes|RX==[CONJ]|TokenType=Clit
 33	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	34	subj/m	_	AlignBegin=35935|AlignEnd=36065|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 34	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	0	root	_	AlignBegin=36065|AlignEnd=36195|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
 35	=jaːt	_	CCONJ	CONJ	_	34	cc	_	AlignBegin=36195|AlignEnd=36325|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -301,7 +301,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_072-080
 # text = aːdim han areː // ganaj =eː toːl -eːtiːt // umbaruː / e# e# e# ## eːt tijoː =t =oː haːra~riw -tiːt =ka mʔari =t =oː iː- kʷis =ajt //
 # phonetic_text = aːdim han areː // ganajeː toːleːtiːt // umbaruː / e# e# e# ## eːt tijoːtoː haːrariwtiːtka mʔariːtoː iːkʷsajt //
-# text_en =  Then also, Adam was hunting his gazelles, and it (the porcupine) was looking all the time for its snakes to make its meal, [and]
+# text_en = Then also, Adam was hunting his gazelles, and it (the porcupine) was looking all the time for its snakes to make its meal, [and]
 1	aːdim	_	PROPN	N	_	7	subj	_	AlignBegin=59068|AlignEnd=59318|Gloss=Adam|RX=[SBJ].[N].[PROP]|TokenType=Root
 2	han	_	PART	PTCL	_	1	discourse	_	AlignBegin=59318|AlignEnd=59569|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
 3	areː	_	CCONJ	PTCL	_	1	cc	_	AlignBegin=59569|AlignEnd=59819|Gloss=then|RX=[PTCL]|TokenType=Root
@@ -335,7 +335,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_081-089
 # text = wauːːː# ## w= haɖa jhak =i =t uːn ani / t= hadʔa -aːjji t= hajʔa toː= naː =t -i eːn // oːn oː= mijʔat oːnaːj / ʔankʷana ka= a- hi i- ndi eːn //
 # phonetic_text = wau# ## whaɖa jhakit uːn ani / thadʔaːjji thajʔa toːnaːtiː eːn // oːn oːmijʔat oːnaːj / ankʷana kaːhi indi eːn //
-# text_en =  the lion started saying: 'I  I won't give the chiefhood that way to the owner of these footprints', they said.
+# text_en = the lion started saying: 'I  I won't give the chiefhood that way to the owner of these footprints', they said.
 1	wauːːː#	_	X	FS	_	4	conj:dicto	_	AlignBegin=68617|AlignEnd=68983|Gloss=FS|RX=[FS]|TokenType=Root
 2	##	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=68983|AlignEnd=69349|Gloss=PUNCT|RX=[PUNCT]|TokenType=Root
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=69349|AlignEnd=69488|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -374,7 +374,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_090-092
 # text = bi= t- hiːw =eːk geːn / niː- ʃbib =hoːk =aj eː- d -na =aːt //
 # phonetic_text = bithiːweːk geːn / niːʃbibhoːkaj eːdnaːt //
-# text_en =  'Well, we'll see if you don't give it to him' they say [and]
+# text_en = 'Well, we'll see if you don't give it to him' they say [and]
 1	bi=	_	PART	PTCL	Mood=Opt	3	mod	_	AlignBegin=76510|AlignEnd=76589|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 2	t-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	3	subj/m	_	AlignBegin=76589|AlignEnd=76668|Gloss=2SG.M-|RX=[PNG]-|TokenType=InflAff
 3	hiːw	_	VERB	V1	Mood=Opt|VerbClass=1	4	comp	_	AlignBegin=76668|AlignEnd=76747|Gloss=give\NEG.OPT|RX=[V1].[IRG]|TokenType=Root
@@ -417,7 +417,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_099-111
 # text = aːt / ti= ɖhaniːni kass =t =aː jʔ -eːn =aːt ontʔa / oːn / aːdim // handi =b reːw -aː =b =u =it / oː= mijʔat ʔib -eː ʔib -eː ʔib -eː / dhaːj haːj jʔ -eːn =aːt / whiː i- ngadi -na eːn //
 # phonetic_text = aːt / tiɖhaniːni kastaː jʔeːnaːt ontʔa / oːn / aːdim // handib reːwaːbujt / oːmijʔat ʔibeː ʔibeː ʔibeː / dhaːj haːj jʔeːnaːt / whiː ingadiːna eːn //
-# text_en =  all those animals come and now,  since Adam had climbed up in a tree,  following the footprints,  they come to him and they stop underneath it, they said.
+# text_en = all those animals come and now,  since Adam had climbed up in a tree,  following the footprints,  they come to him and they stop underneath it, they said.
 1	aːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	4	det	_	AlignBegin=84274|AlignEnd=84336|Gloss=PROX.PL.F.NOM|RX=[DEM]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=84336|AlignEnd=85050|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	ti=	_	DET	DET	Definite=Def|Gender=Fem	4	det	_	AlignBegin=85050|AlignEnd=85272|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -629,7 +629,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_146-147
 # text = oː= luːl =oː dhaːj gandhi =jaːt //
 # phonetic_text = oːluːloː dhaːj gandhijaːt //
-# text_en =  He brings his rope down to him [and]
+# text_en = He brings his rope down to him [and]
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=126582|AlignEnd=126754|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	luːl	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=126754|AlignEnd=126927|Gloss=rope|RX=[N].[M]|TokenType=Root
 3	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	2	udep@poss	_	AlignBegin=126927|AlignEnd=127100|Gloss==POSS.3SG.ACC|RX==[PRO]|TokenType=Clit
@@ -673,7 +673,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_155-158
 # text = daːjeːb / w= haːʃ =iː fitik -tiːt hakʷir -ti dannʔi //
 # phonetic_text = daːjeːb / whaːʃiː fitiktiːt hakʷirti dannʔi //
-# text_en =  He pulls it well above the ground and ties it well.
+# text_en = He pulls it well above the ground and ties it well.
 1	daːjeːb	_	ADV	ADV	_	6	mod	_	AlignBegin=133801|AlignEnd=133989|Gloss=good|RX=[ADV]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=133989|AlignEnd=134708|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=134708|AlignEnd=134859|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -728,7 +728,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_165-169
 # text = dijar -an =eːk ka= a- kan / dabal =had // fiːn -at =aj i- ndi eːn //
 # phonetic_text = dijaraneːk kaːkan / dabalhad // fiːnataj indi eːn //
-# text_en =  'I am really exhausted  (lit. I don't know if I am tired),  so I should rest for a while', he says, they said.
+# text_en = 'I am really exhausted  (lit. I don't know if I am tired),  so I should rest for a while', he says, they said.
 1	dijar	_	VERB	V2	VerbClass=2	3	comp	_	AlignBegin=143297|AlignEnd=143428|Gloss=be_tired|RX=[V2]|TokenType=Root
 2	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	1	subj/m	_	AlignBegin=143428|AlignEnd=143559|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 3	=eːk	_	SCONJ	CONJ	_	6	mod	_	AlignBegin=143559|AlignEnd=143691|Gloss==if|RX==[CONJ]|TokenType=Clit
@@ -750,7 +750,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_170-171
 # text = w= haɖa rigas -eː / i= mhiːn =oː aː= ʃuːk hoːj i- t- farʔi -na /
 # phonetic_text = whaɖa rigaseː / imhiːnoː aːʃuːk hoːj itfarʔina /
-# text_en =  While the lion shakes  on the spot, it gives up the ghost.
+# text_en = While the lion shakes  on the spot, it gives up the ghost.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=147366|AlignEnd=147536|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	haɖa	_	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=147536|AlignEnd=147707|Gloss=lion|RX=[SBJ].[N].[M]|TokenType=Root
 3	rigas	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=147707|AlignEnd=147877|Gloss=roll\MID|RX=[V1].[DER]|TokenType=Root
@@ -771,7 +771,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_172-176
 # text = aːn i= hajawaːn -a aː= raw / aːt ti= ʃuːki taː= raw / ɖaːb -eːti i- jaj -na //
 # phonetic_text = aːn jhajawaːna aːraw / aːt tiʃuːki taːraw / ɖaːbeːti ijajna //
-# text_en =  The other animals,  the other creatures  run away.
+# text_en = The other animals,  the other creatures  run away.
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	AlignBegin=150070|AlignEnd=150376|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=150376|AlignEnd=150478|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	hajawaːn	_	NOUN	N	Foreign=Yes|Gender=Masc	10	conj:dicto	_	AlignBegin=150478|AlignEnd=150580|Gloss=animal|Lang=ar|RX=[SBJ].[N].[M].[BORR].[ARA]|TokenType=Root
@@ -816,7 +816,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_179-185
 # text = baruː areː / tanaː =t =hi =wa / ʃʔoːbjaː =t =hi =wa / lil =eː gid -tiːt =ka i- dʔi =jaːt =ka i- ʔabik =eːb =ka tam -i eːn //
 # phonetic_text = baruː areː / tanaːthiwa / ʃʔoːbjaːthiwa / lileː gidtiːtka idʔijaːtka jʔabkeːbka tami eːn //
-# text_en =  then, each time he threw and made his traps, his slipknots, his ropes, he caught something and ate it, they said.
+# text_en = then, each time he threw and made his traps, his slipknots, his ropes, he caught something and ate it, they said.
 1	baruː	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=3	20	subj	_	AlignBegin=158011|AlignEnd=158211|Gloss=3SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	areː	_	CCONJ	PTCL	_	1	cc	_	AlignBegin=158211|AlignEnd=158411|Gloss=then|RX=[PTCL]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=158411|AlignEnd=159226|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -919,7 +919,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_201-211
 # text = uːn uː= jaːs / kass =aː hiːreːr -eː dhaːj jʔ -eːn =hoːb / uːn uː= jaːs / ʔawwal rh -a i- ndi =jeːb oː= doːr / hawawawawa / i- ndi =hoːb / igeːsi / ɖaːb -eːti i- jaj -na //
 # phonetic_text = uːn uːjaːs / kassaː hiːreːreː dhaːj jʔeːnhoːb / uːn uːjaːs / ʔawwal rha indijeːb oːdoːr / hawawawawa / indihoːb / igeːsi / ɖaːbeːti ijajna //
-# text_en =  When all of them come towards this dog walking,  at first when this dog wants to see them,  when it says: 'Woof!'  immediately they run away.
+# text_en = When all of them come towards this dog walking,  at first when this dog wants to see them,  when it says: 'Woof!'  immediately they run away.
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=180301|AlignEnd=180608|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=180608|AlignEnd=180761|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 3	jaːs	_	NOUN	N	_	7	discourse	_	AlignBegin=180761|AlignEnd=180915|Gloss=dog|RX=[SBJ].[N]|TokenType=Root
@@ -1015,7 +1015,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_222-226
 # text = ombarijoːk sabbiː / i- sʔajin =hoːn =aj / uːn uː= tak //
 # phonetic_text = ombarijoːk sabbiː / isʔajinhoːnaj / uːn uːtak //
-# text_en =  'Because of you,  he has spotted us,  this man.'
+# text_en = 'Because of you,  he has spotted us,  this man.'
 1	ombarijoːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2|Poss=Yes	2	udep@poss	_	AlignBegin=197749|AlignEnd=198079|Gloss=POSS.2SG.M.ACC|RX=[PRO]|TokenType=Root
 2	sabbiː	_	ADP	POSTP	Foreign=Yes	5	comp:obl	_	AlignBegin=198079|AlignEnd=198409|Gloss=because|Lang=ar|RX=[POSTP].[BORR].[ARA]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=198409|AlignEnd=199105|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1059,7 +1059,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_231-237
 # text = oːn i= mhaj -a doːr / oːn i= jaːs =i =d umbaruːk / kʷinh -tnija =eːk / niː- daːr =hoːk / ni- jad eː- d -na eːn //
 # phonetic_text = oːn imhaja doːr / oːn ijaːsid umbaruːk / kʷinhatnijeːk / niːdaːrhoːk / nijad eːdna eːn //
-# text_en =  The third time they tell to this dog: 'If you bark, we'll kill you', they said.
+# text_en = The third time they tell to this dog: 'If you bark, we'll kill you', they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	discourse	_	AlignBegin=204444|AlignEnd=204657|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=204657|AlignEnd=204728|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	mhaj	_	NUM	NUM	_	4	comp/m	_	AlignBegin=204728|AlignEnd=204799|Gloss=three|RX=[NUM]|TokenType=Root
@@ -1092,7 +1092,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_238-246
 # text = daːjiː =t =i diː -tiːt / rh -a i- ndi =jeːb oː= doːr / hawawawawa / mha -ti ah -iːt uː= jaːs i- ndi =hoːb / igeːsi / baraː ɖaːb -eːti i- jaj -na /
 # phonetic_text = daːjiːti diːtiːt / rha indijeːb oːdoːr / hawawawawa / mhati ahiːt uːwaːs indihoːb / igeːsi / baraː ɖaːbeːti ijajna /
-# text_en =  'That's fine', he says and when it wants to look  after it is taken by surprise when the dog says: 'Woof!' immediately,  they leave running.
+# text_en = 'That's fine', he says and when it wants to look  after it is taken by surprise when the dog says: 'Woof!' immediately,  they leave running.
 1	daːjiː	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=210402|AlignEnd=210477|Gloss=good|RX=[ADJ]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=210477|AlignEnd=210552|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	4	comp:obj	_	AlignBegin=210552|AlignEnd=210628|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
@@ -1132,7 +1132,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_247-252
 # text = uː= jaːs / i= raw =eː =d i- t- dagʷiːgʷ =eːk / i- deːr -n =eː =na rankʷi =ajt / geːb eː- stʔi eːn //
 # phonetic_text = uːjaːs / iraweːd iddagʷiːgʷeːk / ideːrneːna rankʷejt / geːb eːstʔi eːn //
-# text_en =  If the dog were to follow the others,  since it is afraid they would kill it,   it sits next to him, they said.
+# text_en = If the dog were to follow the others,  since it is afraid they would kill it,   it sits next to him, they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=219006|AlignEnd=219183|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	jaːs	_	NOUN	N	_	9	subj	_	AlignBegin=219183|AlignEnd=219360|Gloss=dog|RX=[SBJ].[N]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=219360|AlignEnd=219715|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1162,7 +1162,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_253-257
 # text = uːn ani / toːt toː= na / sagi mhiːn =iː / i= ginuːf =iː a- manri /
 # phonetic_text = uːn ani / toːt toːna / sagi mhiːniː / ignuːfiː amarri /
-# text_en =  'I can find anything with my nose from far away,
+# text_en = 'I can find anything with my nose from far away,
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=224576|AlignEnd=224740|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	16	subj	_	AlignBegin=224740|AlignEnd=224904|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=224904|AlignEnd=225461|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1195,7 +1195,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_259-260
 # text = uːn ani ʔaraweː -sam -i =hoːk a- ndi /
 # phonetic_text = uːn ani ʔaraweːsamihoːk andi /
-# text_en =  I want to become your friend,
+# text_en = I want to become your friend,
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=229283|AlignEnd=229608|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	8	subj	_	AlignBegin=229608|AlignEnd=229933|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 3	ʔaraweː	_	NOUN	N	Gender=Fem	4	comp/m	_	AlignBegin=229933|AlignEnd=230014|Gloss=friendship|RX=[N].[F]|TokenType=Root
@@ -1252,7 +1252,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_267-271
 # text = ti= miːtat =t =oː i- niːw / ganaːj danri =jeːk / heːlaj danri =jeːk /
 # phonetic_text = timiːtattoː iniːw / ganaːj darrijeːk / heːlaj darrijeːk /
-# text_en =  He gives it his bones when he kills a gazelle, when he kills a hare,
+# text_en = He gives it his bones when he kills a gazelle, when he kills a hare,
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=237668|AlignEnd=237764|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 2	miːtat	_	NOUN	N	Gender=Fem|Number=Plur	6	comp:obj	_	AlignBegin=237764|AlignEnd=237861|Gloss=bone\PL|RX=[N].[F]|TokenType=Root
 3	=t	_	DET	DET	Gender=Fem	2	det	_	AlignBegin=237861|AlignEnd=237958|Gloss==INDF.F|RX==[DET]|TokenType=Clit
@@ -1310,7 +1310,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_279-283
 # text = mhali ʔar iː- bri =ajt / eːn j= ʔar haːj sini -jaː =heːb / bak beː -tiːt jʔ -i a- ndi =aj i- ndi eːn /
 # phonetic_text = mhali ʔar iːbireːjt / eːn jʔar haːj sinijaheːb / bak beːtiːt jʔi andej indi eːn /
-# text_en =  Since he had two sons, he says: 'Look after these boy for me! I am going there and come back', they said.
+# text_en = Since he had two sons, he says: 'Look after these boy for me! I am going there and come back', they said.
 1	mhali	_	NUM	NUM	_	2	mod	_	AlignBegin=248645|AlignEnd=248840|Gloss=two|RX=[NUM]|TokenType=Root
 2	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=248840|AlignEnd=249035|Gloss=child\M.PL|RX=[N]|TokenType=Root
 3	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=249035|AlignEnd=249100|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -1341,7 +1341,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_284-290
 # text = j= ʔar =eːk haːj giːg -a // ʃawaːj ka= a- ki =aj i- ndi =hoːb / aː# hallaːn jʔ -i =hoːk a- ndi =aj / halaːgaːj =t a- bari =aj diːt / daː -s -i dʔiːt / ʔiʃ -ti giːg -iːni //
 # phonetic_text = jʔareːk haːj giːga // ʃawaːj kaːkaːj indihoːb / aː# hallaːn jʔihoːk andej / halaːgaːjt abarej diːt / daːsi dʔiːt / iʃti giːgiːni //
-# text_en =  When he says: 'Go with your sons since I have no time for them!' he says: 'I am coming back soon, I have something to do and after he has dropped them off well,  he leaves without them.
+# text_en = When he says: 'Go with your sons since I have no time for them!' he says: 'I am coming back soon, I have something to do and after he has dropped them off well,  he leaves without them.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=253340|AlignEnd=253405|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	4	comp	_	AlignBegin=253405|AlignEnd=253470|Gloss=child\M.PL|RX=[N]|TokenType=Root
 3	=eːk	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	2	udep@poss	_	AlignBegin=253470|AlignEnd=253535|Gloss==POSS.2PL.ACC|RX==[PRO]|TokenType=Clit
@@ -1388,7 +1388,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_291-297
 # text = ʔiʃ -ti giːg -i =hoːb / j= ʔar =eːb / am- marraːj -tiːt aːdim / mhall =eː dir -tiːt bis -ti dannʔi //
 # phonetic_text = iʃti giːgihoːb / jʔareːb / ammarraːjtiːt aːdim / mhalleː dirtiːt bisti dannʔi //
-# text_en =  When he leaves without them,  Adam mixes with the boys and after he has killed them both he buries them.
+# text_en = When he leaves without them,  Adam mixes with the boys and after he has killed them both he buries them.
 1	ʔiʃ	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=259289|AlignEnd=259437|Gloss=let|RX=[V1]|TokenType=Root
 2	-ti	_	AUX	CVB	VerbForm=Conv	3	mod	_	AlignBegin=259437|AlignEnd=259585|DerPos=VERB|Gloss=-CVB.GNRL|RX=-.|TokenType=DerAff
 3	giːg	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=259585|AlignEnd=259683|Gloss=leave|RX=[V2]|TokenType=Root
@@ -1444,7 +1444,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_300-306
 # text = j= ʔar =aːn keː -jaːn i- ndi =hoːb / ani j= ʔar =eːk rh -aː =b ka= a- ki i- ndi =hoːb / t= ʔamaːna =t =aːn keː -jaːn i- ndi =hoːb / ani ʔamaːna =t =eːk rh -aː =b ka= a- ki i- ndi =hoːb // j= ʔar =eː waliːk -iːni //
 # phonetic_text = jʔaraːn keːjaːn indihoːb / ani jʔareːk rhaːb kaːki indihoːb / tʔamaːnaːtaːn keːjaːn indihoːb / ani ʔamaːnaːteːk rhaːb kaːki indihoːb // jʔareː waliːkiːni //
-# text_en =  when he says: 'Where are our children?' when he answers: 'I have not seen your children', when he says: 'Where is our deposit?' when he answers: 'I have not seen your deposit',  he calls his sons.
+# text_en = when he says: 'Where are our children?' when he answers: 'I have not seen your children', when he says: 'Where is our deposit?' when he answers: 'I have not seen your deposit',  he calls his sons.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=270049|AlignEnd=270140|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔar	_	NOUN	N	Number=Plur	4	subj	_	AlignBegin=270140|AlignEnd=270232|Gloss=child\PL|RX=[SBJ].[N]|TokenType=Root
 3	=aːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Polite=Form|Poss=Yes	2	udep@poss	_	AlignBegin=270232|AlignEnd=270324|Gloss==POSS.1PL.NOM|RX==[PRO].[POL]|TokenType=Clit
@@ -1502,7 +1502,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_307-315
 # text = waswaːs / xannaːs / i- ndi =hoːb / ajwa / i- jad -na eːn //
 # phonetic_text = waswaːs / xannaːs / indihoːb / < ajwa > / ijadna eːn //
-# text_en =  when he says: 'Waswas!, Xannas!'  they say: 'Yes', they said.
+# text_en = when he says: 'Waswas!, Xannas!'  they say: 'Yes', they said.
 1	waswaːs	_	PROPN	N	_	3	conj:coord	_	AlignBegin=277235|AlignEnd=277556|Gloss=Waswas|RX=[N].[PROP]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=277556|AlignEnd=277877|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	xannaːs	_	PROPN	N	_	6	comp:obj	_	AlignBegin=277877|AlignEnd=278135|Gloss=Xannas|Reported=Yes|RX=[N].[PROP]|TokenType=Root
@@ -1560,7 +1560,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_324-331
 # text = eːn j= ʔar / haːj sini -jaː =heːb / jʔ -i a- ndi =aj i- ndi =hoːb eː# ## haːj giːg -a j= ʔar =eːk / haːj iː- san =hoːk ka= a- di =aj i- ndi =hoːb / haːj sini -a =heːb i- ndi //
 # phonetic_text = eːn jʔar / haːj sinijaheːb / jʔi andej indihoːb eː# ## haːj giːga jʔareːk / haːj iːsanhoːk kaːdej indihoːb / haːj sinjaheːb indi //
-# text_en =  When he says: 'Look after these children for me! I am coming back',  when he answers: 'Bring your sons! I won't look after them',  he says: 'Look after them for me!'
+# text_en = When he says: 'Look after these children for me! I am coming back',  when he answers: 'Bring your sons! I won't look after them',  he says: 'Look after them for me!'
 1	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	AlignBegin=288270|AlignEnd=288417|Gloss=PROX.PL.M.ACC|RX=[DEM]|TokenType=Root
 2	j=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=288417|AlignEnd=288490|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	5	comp	_	AlignBegin=288490|AlignEnd=288564|Gloss=child\M.PL|RX=[N]|TokenType=Root
@@ -1621,7 +1621,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_333-340
 # text = geːb gid -ti dʔi -tiːt / mhall =eː j= ʔar eːn i= girma ʔabik -tiːt / taktak soː- kʷit -tiːt / ha# eː= kna ʔaːm -eːti dannʔi eːn //
 # phonetic_text = geːb gidti dʔiːtiːt / mhalleː jʔar eːn igirma ʔabiktiːt / taktak soːkʷittiːt / ha# eːkna ʔaːmeːti dannʔi eːn //
-# text_en =  After he has thrown them beside him, after he has taken the head of both these children,   after he has knocked them against each other, he even eats them up, they said.
+# text_en = After he has thrown them beside him, after he has taken the head of both these children,   after he has knocked them against each other, he even eats them up, they said.
 1	geːb	_	ADP	POSTP	_	4	comp:obl	_	AlignBegin=295517|AlignEnd=295710|Gloss=beside|RX=[POSTP]|TokenType=Root
 2	gid	_	VERB	V1	VerbClass=1	3	comp/m	_	AlignBegin=295710|AlignEnd=295806|Gloss=throw|RX=[V1]|TokenType=Root
 3	-ti	_	AUX	CVB	VerbForm=Conv	4	comp:aux	_	AlignBegin=295806|AlignEnd=295903|DerPos=VERB|Gloss=-CVB.GNRL|RX=-.|TokenType=DerAff
@@ -1714,7 +1714,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_349-351
 # text = waswaːs =wa xannaːs / i- ndi eːn //
 # phonetic_text = waswaːswa xannaːs / indi eːn //
-# text_en =  He says: 'Waswas and Xannas!' they said.
+# text_en = He says: 'Waswas and Xannas!' they said.
 1	waswaːs	_	PROPN	N	_	3	conj:coord	_	AlignBegin=311363|AlignEnd=311540|Gloss=Waswas|RX=[N].[PROP]|TokenType=Root
 2	=wa	_	CCONJ	CONJ	_	1	cc	_	AlignBegin=311540|AlignEnd=311718|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 3	xannaːs	_	PROPN	N	_	6	comp:obj	_	AlignBegin=311718|AlignEnd=312073|Gloss=Xannas|Reported=Yes|RX=[N].[PROP]|TokenType=Root
@@ -1749,7 +1749,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_356-360
 # text = ontʔa iː- s- hirw =oːkna mhiːn / t= heː -n =hoːkna / hajaːj -aːna i- ndi eːn //
 # phonetic_text = ontʔa iːshirwoːkna mhiːn / theːnhoːkna / hajaːjaːna indi eːn //
-# text_en =  'Now, this is where I wanted you to be,  stay!' he says, they said.
+# text_en = 'Now, this is where I wanted you to be,  stay!' he says, they said.
 1	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=316585|AlignEnd=316922|Gloss=now|RX=[PTCL]|TokenType=Root
 2	iː-	_	PRON	PNG	Number=Sing|Person=1	3	subj/m	_	AlignBegin=316922|AlignEnd=317006|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 3	s-	_	AUX	V1	VerbClass=1|Voice=Cau	13	conj:coord	_	AlignBegin=317006|AlignEnd=317091|DerPos=VERB|Gloss=CAUS-|RX=[V1].[DER]-|TokenType=DerAff
@@ -1772,7 +1772,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_361-362
 # text = ʔamaːr =oːn baː= kʷaːs -a / samaːr =oːn //
 # phonetic_text = amaːroːn baːkʷaːsa / samaːroːn //
-# text_en =  "Let it not be our fate!"
+# text_en = "Let it not be our fate!"
 1	ʔamaːr	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=320926|AlignEnd=321161|Gloss=possessions|RX=[N].[M]|TokenType=Root
 2	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	1	udep@poss	_	AlignBegin=321161|AlignEnd=321396|Gloss==POSS.1PL.ACC|RX==[PRO]|TokenType=Clit
 3	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	4	mod	_	AlignBegin=321396|AlignEnd=321552|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
@@ -1786,7 +1786,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_363-365
 # text = siddik i- kati =jeːk alamdulilla // astoːfor allaːji //
 # phonetic_text = < siddik > ikatjeːk < alamdulilla > // < astoːfor > allaːj allajiː //
-# text_en =  If this is the truth, thank God, I ask God's forgiveness.
+# text_en = If this is the truth, thank God, I ask God's forgiveness.
 1	siddik	_	X	_	Foreign=Yes	3	subj	_	AlignBegin=323322|AlignEnd=323536|Gloss=truth|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
 2	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=323750|AlignEnd=323821|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 3	kati	_	VERB	V1	Aspect=Imp|VerbClass=1	4	comp	_	AlignBegin=323821|AlignEnd=323892|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root

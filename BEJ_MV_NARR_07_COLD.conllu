@@ -4,7 +4,7 @@
 # sent_timecode = 0, 7114
 # phonetic_text = tam -iːni hawli -jaːj / i- dʔa -n =hoːb uː= dhaj / gaːl -eː =ka =ka naː =t =oː firʔa -tiːt / i- moː- ra~rim -na /
 # text = tam -iːni hawli -jaːj / i- dʔa -n =hoːb uː= dhaj / gali =ka =ka naː =t =oː firʔa -tiːt / i- moː- ra~rim -na /
-# text_en =  (One) is eating, and when the people do the annual celebration, everyone pays some money and they go together.
+# text_en = (One) is eating, and when the people do the annual celebration, everyone pays some money and they go together.
 1	tam	_	VERB	V2	VerbClass=2	7	conj:coord	_	AlignBegin=0|AlignEnd=288|Gloss=eat|RX=[V2]|TokenType=Root
 2	-iːni	_	PRON	TAM.PNG	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	1	subj/m	_	AlignBegin=288|AlignEnd=577|Gloss=-IPFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 3	hawli	_	NOUN	N	Gender=Masc	7	comp:obj	_	AlignBegin=577|AlignEnd=865|Gloss=year|RX=[N].[M]|TokenType=Root
@@ -38,7 +38,7 @@
 # sent_timecode = 7114, 9858
 # phonetic_text = ʔoːr =wa / tak =wa i- moː- ra~rim -na eːn ///
 # text = ʔoːr =wa / tak =wa i- moː- ra~rim -na eːn //
-# text_en =  A boy and a man go together, they said.
+# text_en = A boy and a man go together, they said.
 1	ʔoːr	_	NOUN	N	_	4	conj:coord	_	AlignBegin=7114|AlignEnd=7237|Gloss=child|RX=[SBJ].[N]|TokenType=Root
 2	=wa	_	CCONJ	CONJ	_	1	cc	_	AlignBegin=7237|AlignEnd=7360|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 3	/	_	PUNCT	_	_	1	punct	_	AlignBegin=7360|AlignEnd=7605|Gloss=/|TokenType=Break
@@ -57,7 +57,7 @@
 # sent_timecode = 9858, 12611
 # phonetic_text = mʔakʷara winneːt ʔakr -aː =b -u /
 # text = mʔakʷara winneːt ʔakraːbu /
-# text_en =  It was very cold.
+# text_en = It was very cold.
 1	mʔakʷara	_	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=9858|AlignEnd=10296|Gloss=cold|RX=[SBJ].[N].[M]|TokenType=Root
 2	winneːt	_	ADV	ADV	_	6	mod	_	AlignBegin=10296|AlignEnd=10734|Gloss=plenty|RX=[ADV]|TokenType=Root
 3	ʔakr	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=10734|AlignEnd=10844|Gloss=be_strong|RX=[V1]|TokenType=Root
@@ -72,7 +72,7 @@
 # sent_timecode = 12611, 21990
 # phonetic_text = gaːl -i =ka i= tarab -eː ti= balami =t =eː firʔa -tiːt / ʔiːbaːb -eː / jʔ -eːn =hoːb oː= mhiːn / ontʔa // uː= tak halak hasara jhak -s -aː =b ki= i- ki eːn //
 # text = gaːlika itarabeː tibalamiːteː firʔatiːt /ʔiːbaːbeː /jʔeːnhoːb oːmhiːn / ontʔa // uːtak halak hasara jhaksaːb kiːki eːn //
-# text_en =  After each of them had taken out his supplies from his share, while travelling when they arrive at a place, now the man (thinks): "But he has not taken any (warm) cloth!", they said.
+# text_en = After each of them had taken out his supplies from his share, while travelling when they arrive at a place, now the man (thinks): "But he has not taken any (warm) cloth!", they said.
 1	gaːl	_	NUM	NUM	_	2	comp	_	AlignBegin=12611|AlignEnd=12785|Gloss=one|RX=[NUM]|TokenType=Root
 2	=i	_	ADP	CASE	Case=Gen	3	comp	_	AlignBegin=12785|AlignEnd=12959|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
 3	=ka	_	ADP	POSTP	_	11	subj	_	AlignBegin=12959|AlignEnd=13134|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -117,7 +117,7 @@
 # sent_timecode = 21990, 24040
 # phonetic_text = w= ʔoːr halak =oː jhak -s -aː =b =u //
 # text = wʔoːr halakoː jhaksaːbu // BI_467
-# text_en =  The boy had taken his clothes.
+# text_en = The boy had taken his clothes.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=21990|AlignEnd=22188|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	9	subj	_	AlignBegin=22188|AlignEnd=22386|Gloss=child|RX=[SBJ].[N]|TokenType=Root
 3	halak	_	NOUN	N	Gender=Masc	9	comp:obj	_	AlignBegin=22386|AlignEnd=22584|Gloss=cloth|RX=[N].[M]|TokenType=Root
@@ -135,7 +135,7 @@
 # sent_timecode = 24040, 33265
 # phonetic_text = oː= mhiːn ontʔa / naː -eːn =eːb oː= doːr / w= ʔoːr / oː= mhiːn dhaːj baraːm jʔ -i =hoːb / jhak -eːtiːt / weːr mhiːn bʔ -iːni //
 # text = oːmhiːn ontʔa /naːjjeːneːb oːdoːr /wʔoːr /oːmhiːn dhaːj baraːm jʔiːhoːb /jhakeːtiːt /weːr mhiːn bʔiːni //
-# text_en =  So, when they spend the night at this place, the boy, when the wind starts to blow in this place, he gets up and goes to lie down in another place.
+# text_en = So, when they spend the night at this place, the boy, when the wind starts to blow in this place, he gets up and goes to lie down in another place.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=24040|AlignEnd=24183|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	mhiːn	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=24183|AlignEnd=24326|Gloss=place|RX=[N].[M]|TokenType=Root
 3	ontʔa	_	ADV	PTCL	_	2	discourse	_	AlignBegin=24326|AlignEnd=24612|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -172,7 +172,7 @@
 # sent_timecode = 33265, 36022
 # phonetic_text = ʔeːgirim tak / oːn w= ʔoːr -i mhiːn jʔ -eːtiːt bʔ -iːni eːn //
 # text = eːgirim tak / oːn wʔoːri mhiːn jʔeːtiːt bʔiːni eːn //
-# text_en =  An old man comes to lie down where the boy used to be, they said.
+# text_en = An old man comes to lie down where the boy used to be, they said.
 1	ʔeːgrim	_	NOUN	CN	_	2	mod	_	AlignBegin=33271|AlignEnd=33529|Gloss=grey-haired|RX=[ADJ]|TokenType=Root
 2	tak	_	NOUN	N	Gender=Masc	9	subj	_	AlignBegin=33529|AlignEnd=33787|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=33787|AlignEnd=34046|Gloss=/|TokenType=Break
@@ -209,7 +209,7 @@
 # sent_timecode = 38628, 45409
 # phonetic_text = ontʔa / oː= raːw hiːs -jaː =t uːn uː= tak / diw -i =hoːb // w= halak hoːj ah -eːtiːt / haːj i- t- kʷabiːs eːn //
 # text = ontʔa / oːraːw hiːsjat uːn uːtak /diwihoːb // whalak hoːj aheːtiːt /haːj itkʷabiːs eːn //
-# text_en =  So,  he thought about the other, this man, and when he falls asleep, he takes the cloth from him and covers himself with it, they said.
+# text_en = So,  he thought about the other, this man, and when he falls asleep, he takes the cloth from him and covers himself with it, they said.
 1	ontʔa	_	ADV	PTCL	_	4	discourse	_	AlignBegin=38628|AlignEnd=38769|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=38769|AlignEnd=38910|Gloss=/|TokenType=Break
 3	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=38910|AlignEnd=39079|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -244,7 +244,7 @@
 # sent_timecode = 45409, 49768
 # phonetic_text = ʃaːwi / ontʔa / uː= tak w= ʔeːgrim w= halak =oː hoːj ah -eːtiːt / uːn diw -i =hoːb haːj i- t- kʷabiːs eːn //
 # text = ʃaːwi / ontʔa / uːtak wʔeːgrim whalakoː hoːj aheːtiːt / uːn diwihoːb haːj itkʷabiːs eːn //
-# text_en =  Then, now, the old man takes his clothing from him, and  when this one is asleep, he covers himself with it, they said.
+# text_en = Then, now, the old man takes his clothing from him, and  when this one is asleep, he covers himself with it, they said.
 1	ʃaːwi	_	PART	PTCL	_	13	mod	_	AlignBegin=45409|AlignEnd=45777|Gloss=then|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=45777|AlignEnd=46146|Gloss=/|TokenType=Break
 3	ontʔa	_	ADV	PTCL	_	6	discourse	_	AlignBegin=46146|AlignEnd=46337|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -277,7 +277,7 @@
 # sent_timecode = 49768, 53927
 # phonetic_text = ʃaːwi =ka oːnaːj =ka / sikʷ -tiːt =ka w= halak hoːj i- niːn =aːt haːj i- t- kʷabiːs /
 # text = ʃaːwika oːnaːjka / sikʷtiːtka whalak hoːj iniːnaːt haːj itkʷabiːs /
-# text_en =  Once again, after each time he pulls, he takes the clothing from him, and covers himself with it.
+# text_en = Once again, after each time he pulls, he takes the clothing from him, and covers himself with it.
 1	ʃaːwi	_	PART	PTCL	_	6	discourse	_	AlignBegin=49768|AlignEnd=49958|Gloss=then|RX=[PTCL]|TokenType=Root
 2	=ka	_	ADP	POSTP	_	1	mod	_	AlignBegin=49958|AlignEnd=50149|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
 3	oːnaːj	_	DET	DEM	Case=Gen|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	1	det	_	AlignBegin=50149|AlignEnd=50339|Gloss=PROX.SG.M.GEN|RX=[DEM]|TokenType=Root
@@ -304,7 +304,7 @@
 # sent_timecode = 53927, 58679
 # phonetic_text = uː= tak winin -tiːt ʔas -ti far -i =t / eː- ʈbʔi eːn oːn / oː= tak //
 # text = uːtak winintiːt ʔasti fariːt / eːʈbʔi eːn uːn /oːtak //
-# text_en =  The man is losing temper and is jumping up, and he hits him repeatedly, they said, this man.
+# text_en = The man is losing temper and is jumping up, and he hits him repeatedly, they said, this man.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=53927|AlignEnd=54103|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=54103|AlignEnd=54278|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 3	winin	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=54278|AlignEnd=54454|Gloss=lose_temper|RX=[V1]|TokenType=Root
@@ -330,7 +330,7 @@
 # sent_timecode = 58679, 59838
 # phonetic_text = duːr =uːn duːr =uːn gad -a /
 # text = duːruːn duːruːn gada /
-# text_en =  "Man, man, stop it!
+# text_en = "Man, man, stop it!
 1	duːr	_	NOUN	N	_	3	conj:coord	_	AlignBegin=58679|AlignEnd=58823|Gloss=uncle|RX=[N]|TokenType=Root
 2	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Polite=Form|Poss=Yes	1	udep@poss	_	AlignBegin=58823|AlignEnd=58968|Gloss==POSS.1PL.NOM|RX==[PRO].[POL]|TokenType=Clit
 3	duːr	_	NOUN	N	_	5	vocative	_	AlignBegin=58968|AlignEnd=59112|Gloss=uncle|RX=[N]|TokenType=Root
@@ -345,7 +345,7 @@
 # sent_timecode = 59838, 60586
 # phonetic_text = w= ʔoːr hiːs -i =hoːk /
 # text = wʔoːr hiːsihoːk /
-# text_en =  I thought you were the boy,
+# text_en = I thought you were the boy,
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=59846|AlignEnd=59968|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	3	comp:obj	_	AlignBegin=59968|AlignEnd=60089|Gloss=child|RX=[N]|TokenType=Root
 3	hiːs	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=60089|AlignEnd=60170|Gloss=think|RX=[V2]|TokenType=Root
@@ -359,7 +359,7 @@
 # sent_timecode = 60586, 61620
 # phonetic_text = duːr =uːn duːr =uːn gad -a /
 # text = duːruːn duːruːn gada /
-# text_en =  man, man, stop it!
+# text_en = man, man, stop it!
 1	duːr	_	NOUN	N	_	3	conj:coord	_	AlignBegin=60586|AlignEnd=60715|Gloss=uncle|RX=[N]|TokenType=Root
 2	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Polite=Form|Poss=Yes	1	udep@poss	_	AlignBegin=60715|AlignEnd=60844|Gloss==POSS.1PL.NOM|RX==[PRO].[POL]|TokenType=Clit
 3	duːr	_	NOUN	N	_	5	vocative	_	AlignBegin=60844|AlignEnd=60973|Gloss=uncle|RX=[N]|TokenType=Root
@@ -374,7 +374,7 @@
 # sent_timecode = 61620, 63186
 # phonetic_text = w= ʔoːr hiːs -i =hoːk i- ndi eːn //
 # text = wʔoːr hiːsihoːk indi eːn // BI_423
-# text_en =  I thought you were the boy", he says, they said.
+# text_en = I thought you were the boy", he says, they said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=61627|AlignEnd=61739|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	ʔoːr	_	NOUN	N	_	3	comp:obj	_	AlignBegin=61739|AlignEnd=61852|Gloss=child|RX=[N]|TokenType=Root
 3	hiːs	_	VERB	V2	VerbClass=2	7	comp:obj	_	AlignBegin=61852|AlignEnd=61927|Gloss=think|Reported=Yes|RX=[V2]|TokenType=Root
@@ -391,7 +391,7 @@
 # sent_timecode = 63186, 65507
 # phonetic_text = uː= dhaj hoːj bʔar -tiːt / gaːl -eː =ka =ka mhiːn i- ʔabik -na =t /
 # text = uːdhaj hoːj bʔartiːt / gaːleːkaka mhiːn jʔabiknaːt /
-# text_en =  People woke up, and they separated them and
+# text_en = People woke up, and they separated them and
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=63186|AlignEnd=63300|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	4	subj	_	AlignBegin=63300|AlignEnd=63415|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
 3	hoːj	_	ADP	PRO	_	4	comp:obl	_	AlignBegin=63415|AlignEnd=63644|Gloss=LOC|RX=[POSTP]|TokenType=Root
@@ -415,7 +415,7 @@
 # sent_timecode = 65507, 71601
 # phonetic_text = haːl =oːkna =ji eː- d -n =hoːb / uː= tak ʔakr -a mhi -jeː / duːr =uːn duːr =uːn bass w= ʔoːr hiːs -i =hoːk iː- d =eːt toː= na nuːn /
 # text = haːloːknaːji eːdnhoːb / BI_1014 uːtak ʔakra mheːjeː /duːruːn duːruːn bass wʔoːr hiːsihoːk iːdeːt toːna nuːn /
-# text_en =  when they say: "What's happening to you?" since the man is really surprised, he only says: "Man, man, I only thought you were the boy!"
+# text_en = when they say: "What's happening to you?" since the man is really surprised, he only says: "Man, man, I only thought you were the boy!"
 1	haːl	_	NOUN	N	Gender=Masc	3	comp:pred	_	AlignBegin=65507|AlignEnd=65638|Gloss=state|RX=[N].[M]|TokenType=Root
 2	=oːkna	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	1	udep@poss	_	AlignBegin=65638|AlignEnd=65769|Gloss==POSS.2PL.ACC|RX==[PRO]|TokenType=Clit
 3	=ji	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	5	comp:obj	_	AlignBegin=65769|AlignEnd=65901|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
@@ -455,7 +455,7 @@
 # sent_timecode = 71601, 73090
 # phonetic_text = naː =t ka= soː- jaː eːn /
 # text = naːt kasoːja eːn /
-# text_en =  He does not tell him anything (else), they said.
+# text_en = He does not tell him anything (else), they said.
 1	naː	_	NOUN	N	Gender=Fem	4	comp:obj	_	AlignBegin=71601|AlignEnd=71745|Gloss=thing|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=71745|AlignEnd=71888|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	ka=	_	PART	PTCL	Aspect=Imp|Polarity=Neg	4	mod	_	AlignBegin=71888|AlignEnd=71984|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
@@ -470,7 +470,7 @@
 # sent_timecode = 73090, 76139
 # phonetic_text = bak tʔi -it =eː =na / hadr -jaː eːn // beːn uː= tak //
 # text = bak tʔiːteːna /hadrja eːn // beːn uːtak //
-# text_en =  Something like that he assisted to, they said. That man.
+# text_en = Something like that he assisted to, they said. That man.
 1	bak	_	PART	DEICT	_	2	mod	_	AlignBegin=73090|AlignEnd=73416|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	tʔi	_	VERB	V1	VerbClass=1	3	comp/m	_	AlignBegin=73416|AlignEnd=73498|Gloss=resemble|RX=[V1].[IRG]|TokenType=Root
 3	-it	_	SCONJ	N.V	_	4	comp	_	AlignBegin=73498|AlignEnd=73580|DerPos=NOUN|Gloss=-VN|RX=-[N].[V]|TokenType=DerAff

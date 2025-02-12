@@ -307,10 +307,10 @@
 21	/	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=67819|AlignEnd=68344|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_080-088
-# text = giriʃaː =b iːbr =ajt oː= doːr oːn / wana idlib =eːt / ti= giɖʔa =t =eːb daːji giriʃa miraːb =u =it / daːji na // j= ʔar =eːhi =d iniːn eːn / haːj itdariːrna =eːt //
+# text = girʃaː =b iːbr =ajt oː= doːr oːn / wana idlib =eːt / ti= giɖʔa =t =eːb daːji girʃa miraːb =u =it / daːji na // j= ʔar =eːhi =d iniːn eːn / haːj itdariːrna =eːt //
 # phonetic_text = girʃaːb iːbrajt oːdoːr oːn / wana idlibeːt / tigiɖʔaːteːb daːji girʃa miraːbujt / daːji na // jʔareːhid iniːn eːn / haːj iddariːrneːt //
 # text_en = Since he had money this time,  since he had got a good price from the shoes he had sold in the morning, he brought back something good for his children, they said, that they dine with.
-1	giriʃaː	_	NOUN	N	Gender=Masc|Number=Plur	3	comp:obj	_	AlignBegin=68344|AlignEnd=68524|Gloss=money|MGloss=money-PL|MSeg=giriʃ-aː|RX=[N].[M]-.|TokenType=Root
+1	girʃaː	_	NOUN	N	Gender=Masc|Number=Plur	3	comp:obj	_	AlignBegin=68344|AlignEnd=68524|Gloss=money|MGloss=money-PL|MSeg=girʃ-aː|RX=[N].[M]-.|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=68524|AlignEnd=68615|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	iːbr	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	4	comp	_	AlignBegin=68615|AlignEnd=68796|Gloss=have\AOR|MGloss=3SG.M-have\AOR|MSeg=iː-br|RX=[PNG]-[V1].[IRG]|TokenType=Root
 4	=ajt	_	SCONJ	CONJ	_	19	mod	_	AlignBegin=68796|AlignEnd=68887|Gloss==CSL|RX==[CONJ]|TokenType=Clit
@@ -327,7 +327,7 @@
 15	=t	_	DET	DET	Gender=Fem	14	det	_	AlignBegin=70653|AlignEnd=70733|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 16	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	19	comp:obl	_	AlignBegin=70733|AlignEnd=70813|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
 17	daːji	_	ADJ	ADJ	_	18	mod	_	AlignBegin=70813|AlignEnd=71132|Gloss=good|RX=[ADJ]|TokenType=Root
-18	giriʃa	_	NOUN	N	Gender=Masc|Number=Plur	19	comp:obj	_	AlignBegin=71132|AlignEnd=71451|Gloss=money|MGloss=money-PL|MSeg=giriʃ-a|RX=[N].[M]-.|TokenType=Root
+18	girʃa	_	NOUN	N	Gender=Masc|Number=Plur	19	comp:obj	_	AlignBegin=71132|AlignEnd=71451|Gloss=money|MGloss=money-PL|MSeg=girʃ-a|RX=[N].[M]-.|TokenType=Root
 19	miraːb	_	VERB	V1	Gender=Masc|VerbClass=1	20	comp:pred	_	AlignBegin=71451|AlignEnd=71642|Gloss=find|MGloss=find-CVB.MNR-INDF.M.ACC|MSeg=mir-aː-b|RX=[V1]-[PRF]-[DET]|TokenType=Root
 20	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	21	comp	_	AlignBegin=71642|AlignEnd=71706|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
 21	=it	_	SCONJ	CONJ	_	30	mod	_	AlignBegin=71706|AlignEnd=71770|Gloss==CSL|RX==[CONJ]|TokenType=Clit
@@ -388,8 +388,8 @@
 8	ti=	_	DET	DET	Definite=Def|Gender=Fem	9	det	_	AlignBegin=85831|AlignEnd=85987|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 9	giɖʔa	_	NOUN	N	Gender=Fem	18	comp:obj	_	AlignBegin=85987|AlignEnd=86143|Gloss=shoe|RX=[N].[F]|TokenType=Root
 10	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=86143|AlignEnd=87206|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	t=	_	DET	DET	Definite=Def|Gender=Fem	12	det	_	AlignBegin=87206|AlignEnd=87367|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-12	ʔafa	_	NOUN	N	Gender=Fem	15	mod	_	AlignBegin=87367|AlignEnd=87529|Gloss=yersterday_evening|RX=[N].[F]|TokenType=Root
+11	t=	_	SCONJ	DET	Definite=Def|Gender=Fem	15	comp:obj	_	AlignBegin=87206|AlignEnd=87367|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+12	ʔafa	_	NOUN	N	_	15	mod	_	AlignBegin=87367|AlignEnd=87529|Gloss=yersterday_evening|RX=[ADV]|TokenType=Root
 13	girab	_	NOUN	N	Gender=Masc	15	mod	_	AlignBegin=87529|AlignEnd=87852|Gloss=evening|RX=[N].[M]|TokenType=Root
 14	ʔiʃaːb	_	VERB	V1	Gender=Masc|VerbClass=1	15	comp:pred	_	AlignBegin=87852|AlignEnd=88176|Gloss=let|MGloss=let-CVB.MNR-INDF.M.ACC|MSeg=ʔiʃ-aː-b|RX=[V1]-[PRF]-[DET]|TokenType=Root
 15	iːkti	_	VERB	AUX	Aspect=Aor|Gender=Masc|Number=Sing	16	comp	_	AlignBegin=88176|AlignEnd=88391|Gloss=become\AOR|MGloss=3SG.M-become\AOR|MSeg=iː-kti|RX=[PNG]-[AUX].[PRF]|TokenType=Root
@@ -1127,13 +1127,13 @@
 20	mhasi	_	PART	PTCL	_	34	mod	_	AlignBegin=244030|AlignEnd=244436|Gloss=again|RX=[PTCL]|TokenType=Root
 21	beːt	_	DET	DEM	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	23	det	_	AlignBegin=244436|AlignEnd=244843|Gloss=DIST.SG.F.ACC|RX=[DEM]|TokenType=Root
 22	ti=	_	DET	DET	Definite=Def|Gender=Fem	23	det	_	AlignBegin=244843|AlignEnd=244944|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-23	tilʔi	_	NOUN	N	Gender=Fem	34	comp:obj	_	AlignBegin=244944|AlignEnd=245046|Gloss=hole|RX=[N].[F]|TokenType=Root
+23	tilʔi	_	NOUN	N	Gender=Fem	32	comp	_	AlignBegin=244944|AlignEnd=245046|Gloss=hole|RX=[N].[F]|TokenType=Root
 24	=t	_	DET	DET	Gender=Fem	23	det	_	AlignBegin=245046|AlignEnd=245147|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 25	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	23	udep@poss	_	AlignBegin=245147|AlignEnd=245249|Gloss==POSS.3SG.ACC|RX==[PRO]|TokenType=Clit
-26	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	27	comp:obj	_	AlignBegin=245249|AlignEnd=245350|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+26	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	28	comp:obj	_	AlignBegin=245249|AlignEnd=245350|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 27	dʔijaːb	_	VERB	V1	Gender=Masc|VerbClass=1	28	comp:pred	_	AlignBegin=245350|AlignEnd=245656|Gloss=do|MGloss=do-CVB.MNR-INDF.M.ACC|MSeg=dʔi-jaː-b|RX=[V1].[IRG]-[PRF]-[DET]|TokenType=Root
 28	iːktiːn	_	VERB	AUX	Aspect=Aor|Number=Plur	29	comp	_	AlignBegin=245656|AlignEnd=245830|Gloss=become\AOR|MGloss=3-become\AOR-PL|MSeg=iː-ktiː-n|RX=[PNG]-[AUX].[PRF]-[PNG]|TokenType=Root
-29	=eː	_	SCONJ	CONJ.REL	PronType=Rel	23	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
+29	=eː	_	SCONJ	CONJ.REL	PronType=Rel	30	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
 30	=naː	_	NOUN	CONJ	_	32	comp	_	AlignBegin=245888|AlignEnd=245946|Gloss==thing|RX==[CONJ]|TokenType=Clit
 31	=t	_	DET	DET	Gender=Fem	30	det	_	AlignBegin=245946|AlignEnd=246004|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 32	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	34	comp:obl	_	AlignBegin=246004|AlignEnd=246062|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit

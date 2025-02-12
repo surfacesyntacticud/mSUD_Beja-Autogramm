@@ -1275,12 +1275,12 @@
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=283479|AlignEnd=283803|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_02_farmer_292-299
+# text = oː= kna ʤineːnaː =t han // oː= mhiːn iʔiːd =eːt =wa / hoːj tiːfi =ji mhiːn / manri / beːn uː= tak //
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 284201, 292160
-# phonetic_text = oː= kina ʤineːnaː =t han // oː= mhiːn i- ʔiːd =eːt =wa / hoːj tiː- fi =ji mhiːn / manri / beːn uː= tak //
-# text = oː= kna ʤineːnaː =t han // oː= mhiːn iʔiːd =eːt =wa / hoːj tiːfi =ji mhiːn / manri / beːn uː= tak //
-# text_en = that man even finds a place were there was among other things a garden that he would cultivate, in the place.
+# phonetic_text = oː= kna ʤineːnaː =t han // oː= mhiːn i- ʔiːd =eːt =wa / hoːj tiː- fi =ji mhiːn / manri / beːn uː= tak //
+# text_en = that man even finds a place where there was among other things a garden that he would cultivate, in the place.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=285655|AlignEnd=285832|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	kna	_	PRON	PRO	Reflex=Yes	3	discourse	_	AlignBegin=285832|AlignEnd=286009|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 3	ʤineːnaː	_	NOUN	N	Gender=Fem	16	conj:coord	_	AlignBegin=286009|AlignEnd=286186|Gloss=garden|RX=[N].[F]|TokenType=Root

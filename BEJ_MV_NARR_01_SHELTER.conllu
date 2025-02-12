@@ -57,7 +57,7 @@
 4	muːki	_	VERB	V1	Aspect=Aor|VerbClass=1	5	comp	_	AlignBegin=9744|AlignEnd=9880|Gloss=take_shelter\INT.AOR|RX=[V1].[DER]|TokenType=Root
 5	=eːb	_	SCONJ	CONJ	Gender=Masc	1	mod@relcl	_	AlignBegin=9880|AlignEnd=10016|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=10016|AlignEnd=10220|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-7	bri	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=10220|AlignEnd=10424|Gloss=rain|RX=[N].[M]|TokenType=Root
+7	bri	_	NOUN	N	Gender=Masc	4	dislocated:obj	_	AlignBegin=10220|AlignEnd=10424|Gloss=rain|RX=[N].[M]|TokenType=Root
 8	hariw	_	VERB	V1	VerbClass=1	9	comp/m	_	AlignBegin=10424|AlignEnd=10627|Gloss=seek|RX=[V1]|TokenType=Root
 9	-eː	_	AUX	CVB	VerbForm=Conv	24	mod	_	AlignBegin=10627|AlignEnd=10831|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=10831|AlignEnd=12268|TokenType=Break
@@ -92,7 +92,7 @@
 # sent_id = BEJ_MV_NARR_01_shelter_025-033
 # text = uː= mbʔaɖ han / waːʤʤa =i gaw iː- kti =jeːt / toː= na / a- kan / hoːj a- moːk i- ni //
 # text_en = Looking for a place where to take refuge from the rain,  when I found the wrapped straw mats ( a straw tent) next to a rock, I sat down under the tent", he said.
-# phonetic_text =  uːmbʔaɖ han / waʤʤaj gaw iːktijeːt / toːna / akan / hoːj amoːk ini //
+# phonetic_text = uːmbʔaɖ han / waʤʤaj gaw iːktijeːt / toːna / akan / hoːj amoːk ini //
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=18153|AlignEnd=18282|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	mbʔaɖ	_	NOUN	N	Gender=Masc	9	subj	_	AlignBegin=18282|AlignEnd=18411|Gloss=mat|RX=[N].[M]|TokenType=Root
@@ -149,7 +149,7 @@
 # sent_id = BEJ_MV_NARR_01_shelter_040-042
 # text = hoː =b hoːs =oː ʃʔag -aː =b =u uː= tak // ʔasal -aː =b iː- kti =jeːb /
 # text_en = "The man was carrying on his shoulder a lamb that he had grilled.
-# phonetic_text =  hoːb hoːsoː ʃʔagaːbu uːtak // ʔasalaːb iːktijeːb /
+# phonetic_text = hoːb hoːsoː ʃʔagaːbu uːtak // ʔasalaːb iːktijeːb /
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	hoː	_	NOUN	N	_	5	comp:obj	_	AlignBegin=30643|AlignEnd=30859|Gloss=lamb|RX=[N]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	1	det	_	AlignBegin=30859|AlignEnd=31075|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
@@ -218,7 +218,7 @@
 # sent_id = BEJ_MV_NARR_01_shelter_051-054
 # text = hawat =t iːjʔaː =t tib -aː =b iː- kti =jeːt sallam -ja =ajt =heːb // bak ʔabk -i -n i- ni =oː =hoːb // hoːj sallam -am -an i- ni //
 # text_en = "He gave me a goatskin full of milk, and when he told me: "Take it!", I took it from him", he said.
-# phonetic_text =  hawatt iːjʔaːt tibaːb iːktijeːt sallamjaːjtheːb // bak ʔabkin ijoːhoːb // hoːj sallamaman ini //
+# phonetic_text = hawatt iːjʔaːt tibaːb iːktijeːt sallamjaːjtheːb // bak ʔabkin ijoːhoːb // hoːj sallamaman ini //
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	hawat	_	NOUN	N	Gender=Fem	11	comp:obj	_	AlignBegin=42616|AlignEnd=42825|Gloss=goatskin_flask|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Definite=Ind|Gender=Fem	1	det	_	AlignBegin=42825|AlignEnd=43034|Gloss==INDF.F|RX==[DET]|TokenType=Clit

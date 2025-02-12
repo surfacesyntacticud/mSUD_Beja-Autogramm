@@ -1193,7 +1193,7 @@
 # sent_id = BEJ_MV_NARR_14_sijadok_261-266
 # text = uːt ti= ʤanna suːr / barijoːk =dha // si- bisir -a =b iː- ktiː -n =i / gasir =i eː- d -na eːn //
 # phonetic_text = uːt tiʤanna suːr / barijoːkdha // sibasiraːb iːktiːni / gasiri eːdna eːn //
-# text_en = "Before, this paradise  that they was allocated for you,  was a castle", they tell him, they said.
+# text_en = "Before, this paradise  that they had allocated you, was a castle", they tell him, they said.
 1	uːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=223715|AlignEnd=223947|Gloss=PROX.SG.F.NOM|RX=[DEM]|TokenType=Root
 2	ti=	_	DET	DET	Definite=Def|Gender=Fem	3	det	_	AlignBegin=223947|AlignEnd=224063|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 3	ʤanna	_	NOUN	N	Gender=Fem	19	subj	_	AlignBegin=224063|AlignEnd=224180|Gloss=paradise|RX=[SBJ].[N].[F]|TokenType=Root
@@ -1612,7 +1612,7 @@
 # sent_id = BEJ_MV_NARR_14_sijadok_350-356
 # text = jhak diː -tiːt uːn / sijjaːdoːk / igeːsi i= doːr =oː aka -jeː / ʃigʷaɖ -ti i- nnhiːs =aːt /
 # phonetic_text = jhak diːtiːt uːn / sijjaːdoːk / igeːsi idoːroː akajeː / ʃigʷaɖti innhiːsaːt /
-# text_en =  Siyadok gets up and immediately, at this very moment,   he washes himself clean [and]
+# text_en = Siyadok gets up and immediately, at this very moment,   he washes himself clean [and]
 1	jhak	_	VERB	V2	VerbClass=2	2	comp:obj	_	AlignBegin=301134|AlignEnd=301412|Gloss=get_up|RX=[V2]|TokenType=Root
 2	diː	_	VERB	LV	VerbType=Light	3	comp/m	_	AlignBegin=301412|AlignEnd=301551|Gloss=say|RX=[LV]|TokenType=Root
 3	-tiːt	_	AUX	CVB	VerbForm=Conv	18	mod	_	AlignBegin=301551|AlignEnd=301690|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff

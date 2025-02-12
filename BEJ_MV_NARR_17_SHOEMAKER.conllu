@@ -1,7 +1,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_001-002
 # text = tak / iː- fi /
 # phonetic_text = tak / iːfi /
-# text_en =  There was a man,
+# text_en = There was a man,
 1	tak	_	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=0|AlignEnd=245|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=245|AlignEnd=491|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=491|AlignEnd=666|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -32,7 +32,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_006-007
 # text = miskiːn -aː =b =a /
 # phonetic_text = miskiːnaːba /
-# text_en =  they were poor,
+# text_en = they were poor,
 1	miskiːn	_	ADJ	ADJ	_	4	comp:pred	_	AlignBegin=3802|AlignEnd=3949|Gloss=poor|RX=[ADJ]|TokenType=Root
 2	-aː	_	DET	_	Number=Plur	1	det	_	AlignBegin=3949|AlignEnd=4096|Gloss=-PL|RX=-.|TokenType=InflAff
 3	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=4096|AlignEnd=4243|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
@@ -42,7 +42,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_008-011
 # text = giɖʔa =t =ka / tikʷikʷ -tiːt eːt ti= giɖʔa =t =eːb / i= diraːr =oː i- hariw eːn /
 # phonetic_text = giɖʔaːtka / tikʷikʷtiːt eːt tigiɖʔaːteːb / idiraːroː jhariw eːn /
-# text_en =  he was always making shoes, and from these shoes, he was earning his living, they said.
+# text_en = he was always making shoes, and from these shoes, he was earning his living, they said.
 1	giɖʔa	_	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=5089|AlignEnd=5219|Gloss=shoe|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=5219|AlignEnd=5349|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	=ka	_	ADP	POSTP	Case=Dis	1	mod	_	AlignBegin=5349|AlignEnd=5479|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -66,7 +66,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_012-016
 # text = giɖʔa =t / tʔa iː- tikʷikʷ =eːb oː= doːr / gaːl ʤoːz giɖʔa =t =eːb / uː= kna doːr han hoːj ka= giːg -jaː /
 # phonetic_text = giɖʔaːt / tʔa iːtikʷikʷeːb oːdoːr / gaːl ʤoːz giɖʔaːteːb / uːkna doːr han hoːj kagiːgja /
-# text_en =  Now, when he was making shoes,  not even one pair of shoes he would ever sell.
+# text_en = Now, when he was making shoes,  not even one pair of shoes he would ever sell.
 1	giɖʔa	_	NOUN	N	Gender=Fem	6	comp:obj	_	AlignBegin=9218|AlignEnd=9334|Gloss=shoe|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=9334|AlignEnd=9451|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=9451|AlignEnd=9684|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -359,10 +359,10 @@
 28	/	_	PUNCT	PUNCT	_	27	punct	_	AlignBegin=67819|AlignEnd=68344|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_080-088
-# text = giriʃ -aː =b iː- br =ajt oː= doːr oːn / wana i- dlib =eːt / ti= giɖʔa =t =eːb daːji giriʃ -a mir -aː =b =u =it / daːji na // j= ʔar =eːhi =d i- niːn eːn / haːj i- t- dariːr -na =eːt //
+# text = girʃ -aː =b iː- br =ajt oː= doːr oːn / wana i- dlib =eːt / ti= giɖʔa =t =eːb daːji girʃ -a mir -aː -b =u =it / daːji na // j= ʔar =eːhi =d i- niːn eːn / haːj i- t- dariːr -na =eːt //
 # phonetic_text = girʃaːb iːbrajt oːdoːr oːn / wana idlibeːt / tigiɖʔaːteːb daːji girʃa miraːbujt / daːji na // jʔareːhid iniːn eːn / haːj iddariːrneːt //
 # text_en = Since he had money this time,  since he had got a good price from the shoes he had sold in the morning, he brought back something good for his children, they said, that they dine with.
-1	giriʃ	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=68344|AlignEnd=68434|Gloss=money|RX=[N].[M]|TokenType=Root
+1	girʃ	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=68344|AlignEnd=68434|Gloss=money|RX=[N].[M]|TokenType=Root
 2	-aː	_	DET	_	Number=Plur	1	det/m	_	AlignBegin=68434|AlignEnd=68524|Gloss=-PL|RX=-.|TokenType=InflAff
 3	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=68524|AlignEnd=68615|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 4	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	5	subj/m	_	AlignBegin=68615|AlignEnd=68705|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -382,7 +382,7 @@
 18	=t	_	DET	DET	Gender=Fem	17	det	_	AlignBegin=70653|AlignEnd=70733|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 19	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	24	comp:obl	_	AlignBegin=70733|AlignEnd=70813|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
 20	daːji	_	ADJ	ADJ	_	21	mod	_	AlignBegin=70813|AlignEnd=71132|Gloss=good|RX=[ADJ]|TokenType=Root
-21	giriʃ	_	NOUN	N	Gender=Masc	23	comp:obj	_	AlignBegin=71132|AlignEnd=71291|Gloss=money|RX=[N].[M]|TokenType=Root
+21	girʃ	_	NOUN	N	Gender=Masc	23	comp:obj	_	AlignBegin=71132|AlignEnd=71291|Gloss=money|RX=[N].[M]|TokenType=Root
 22	-a	_	DET	_	Number=Plur	21	det/m	_	AlignBegin=71291|AlignEnd=71451|Gloss=-PL|RX=-.|TokenType=InflAff
 23	mir	_	VERB	V1	VerbClass=1	24	comp/m	_	AlignBegin=71451|AlignEnd=71514|Gloss=find|RX=[V1]|TokenType=Root
 24	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	26	comp:pred	_	AlignBegin=71514|AlignEnd=71578|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
@@ -412,7 +412,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_089-097
 # text = ontʔa / dirar -tiːt / w= ʔiʃa =joː siːleːl -tiːt / diw -iːni winneːt saːlhi tak // siːleːl =iːb / gʷada -am -i =b =u =it /
 # phonetic_text = ontʔa / dirartiːt / wʔiʃaːjoː siːleːltiːt / diwiːni winneːt saːlhi tak // siːleːliːb / gʷadaːmiːbuːjt /
-# text_en =  Now,  after he had had supper,  and had said his evening prayer,  he slept. Since he was a very noble man who would splash before praying.
+# text_en = Now,  after he had had supper,  and had said his evening prayer,  he slept. Since he was a very noble man who would splash before praying.
 1	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=76789|AlignEnd=77019|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=77019|AlignEnd=77437|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	dirar	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=77437|AlignEnd=77613|Gloss=dine\MID|RX=[V1].[DER]|TokenType=Root
@@ -457,8 +457,8 @@
 10	ti=	_	DET	DET	Definite=Def|Gender=Fem	11	det	_	AlignBegin=85831|AlignEnd=85987|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 11	giɖʔa	_	NOUN	N	Gender=Fem	25	comp:obj	_	AlignBegin=85987|AlignEnd=86143|Gloss=shoe|RX=[N].[F]|TokenType=Root
 12	/	_	PUNCT	PUNCT	_	21	punct	_	AlignBegin=86143|AlignEnd=87206|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-13	t=	_	DET	DET	Definite=Def|Gender=Fem	14	det	_	AlignBegin=87206|AlignEnd=87367|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-14	ʔafa	_	NOUN	N	Gender=Fem	20	mod	_	AlignBegin=87367|AlignEnd=87529|Gloss=yersterday_evening|RX=[N].[F]|TokenType=Root
+13	t=	_	SCONJ	DET	Definite=Def|Gender=Fem	20	comp:obj	_	AlignBegin=87206|AlignEnd=87367|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+14	ʔafa	_	NOUN	N	_	20	mod	_	AlignBegin=87367|AlignEnd=87529|Gloss=yersterday_evening|RX=[ADV]|TokenType=Root
 15	girab	_	NOUN	N	Gender=Masc	20	mod	_	AlignBegin=87529|AlignEnd=87852|Gloss=evening|RX=[N].[M]|TokenType=Root
 16	ʔiʃ	_	VERB	V1	VerbClass=1	17	comp/m	_	AlignBegin=87852|AlignEnd=87960|Gloss=let|RX=[V1]|TokenType=Root
 17	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	20	comp:pred	_	AlignBegin=87960|AlignEnd=88068|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
@@ -535,7 +535,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_108-112
 # text = oːn / ti= giɖʔa =t =eː bass / harʔa i- ba =eːk / fassal -at daː -s -at iː- kʷsi eːn //
 # phonetic_text = oːn / tigiɖʔaːteː bass / harʔa ibajeːk / fassalat daːsat iːkʷsi eːn //
-# text_en =  When he was going on with his shoes, he was making them cutting and putting them down repeatedly, they said.
+# text_en = When he was going on with his shoes, he was making them cutting and putting them down repeatedly, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	discourse	_	AlignBegin=100491|AlignEnd=100644|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=100644|AlignEnd=100997|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	ti=	_	DET	DET	Definite=Def|Gender=Fem	4	det	_	AlignBegin=100997|AlignEnd=101067|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -601,7 +601,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_117-120
 # text = j= ʔar =aː =wa / barhi =wa rajjh -am -jaːn -i / i- toː- gaːd -n -i iː- jheː -na /
 # phonetic_text = jʔaraːwa / barhiwa rajjhamjaːni / itoːgaːdni iːjheːna /
-# text_en =  his children and himself were really happy.
+# text_en = his children and himself were really happy.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=108862|AlignEnd=108948|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	6	conj:coord	_	AlignBegin=108948|AlignEnd=109035|Gloss=child\M.PL|RX=[SBJ].[N]|TokenType=Root
 3	=aː	_	PRON	PRO	Case=Nom|Number=Plur|Person=3|Poss=Yes	2	udep@poss	_	AlignBegin=109035|AlignEnd=109122|Gloss==POSS.3PL.NOM|RX==[PRO]|TokenType=Clit
@@ -748,7 +748,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_143-155
 # text = kak / gab -ta -i tiː- jha / ti- ndi =hoːb // uːn ani eːt ti= giɖʔa / ti= ʃaga -am -i =jeːt // fassal -ani / daː -s -ani / faʤil =ka am- heːjd -a i- sn =heːb /
-# phonetic_text =  kak / gabtaːj tiːjha / tindihoːb // uːn ani eːt tigiɖʔa / tiʃagaːmijeːt // fassalani / daːsani / faʤilka amheːjda isnheːb /
+# phonetic_text = kak / gabtaːj tiːjha / tindihoːb // uːn ani eːt tigiɖʔa / tiʃagaːmijeːt // fassalani / daːsani / faʤilka amheːjda isnheːb /
 # text_en = When she said: 'How come you are so rich?'  'As for me, these shoes,  that I work on, I cut them, I put them down, every morning I found them sewn.'
 1	kak	_	ADV	ADV	PartType=Int	3	mod	_	AlignBegin=131248|AlignEnd=131382|Gloss=how|RX=[ADV].[Q]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=131382|AlignEnd=132331|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -794,7 +794,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_156-159
 # text = uː= dhaj =ka jʔ -eːtiːt hoːs =i dilib -ti i- jaj -na i- ndi =hoːb / oːt toː= na ti= t- haːjid / niː- ktiːn eːn //
 # phonetic_text = uːdhajka jʔeːtiːt hoːsi dilibti ijajna indihoːb / oːt toːna tithaːjid / niːktiːn eːn //
-# text_en =  when he says: 'All the people come, and they come to buy them from me', 'We are going to know what sews', they said.
+# text_en = when he says: 'All the people come, and they come to buy them from me', 'We are going to know what sews', they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=141198|AlignEnd=141308|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	3	comp	_	AlignBegin=141308|AlignEnd=141418|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
 3	=ka	_	ADP	POSTP	Case=Dis	5	subj	_	AlignBegin=141418|AlignEnd=141528|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1017,7 +1017,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_202-202
 # text = takat ʃuːm -tini eːn //
 # phonetic_text = takat ʃuːmtini eːn //
-# text_en =  A woman comes in, they said.
+# text_en = A woman comes in, they said.
 1	takat	_	NOUN	N	Gender=Fem	2	subj	_	AlignBegin=184208|AlignEnd=184451|Gloss=woman|RX=[SBJ].[N].[F]|TokenType=Root
 2	ʃuːm	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=184451|AlignEnd=184572|Gloss=go_in|RX=[V2]|TokenType=Root
 3	-tini	_	PRON	TAM.PNG	Aspect=Imp|Gender=Fem|Number=Sing|Person=3	2	subj/m	_	AlignBegin=184572|AlignEnd=184694|Gloss=-IPFV.3SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -1066,7 +1066,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_210-211
 # text = bass i- haːjid -na /
 # phonetic_text = bass jhaːjidna /
-# text_en =  They sew [and]
+# text_en = They sew [and]
 1	bass	_	PART	PTCL	Foreign=Yes	3	mod	_	AlignBegin=191548|AlignEnd=191867|Gloss=only|Lang=ar|RX=[PTCL].[BORR].[ARA]|TokenType=Root
 2	i-	_	PRON	PNG	Person=3	3	subj/m	_	AlignBegin=191867|AlignEnd=191973|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 3	haːjid	_	VERB	V1	Aspect=Imp|VerbClass=1	0	root	_	AlignBegin=191973|AlignEnd=192079|Gloss=sew\IPFV|RX=[V1]|TokenType=Root
@@ -1130,7 +1130,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_221-230
 # text = bak daː -s -eːn =eːb oː= doːr / ontʔa / ti= t- hiːjad / i- kteːni -n =aːt / baraː / ʔiʃ -ti giːg -eːn //
 # phonetic_text = bak daːseːneːb oːdoːr / ontʔa / tithiːjad / ikteːninaːt / baraː / iʃti giːgeːn //
-# text_en =  When they put them down like that,   now, they recognize who had sewn and   they go away leaving them.
+# text_en = When they put them down like that,   now, they recognize who had sewn and   they go away leaving them.
 1	bak	_	PART	DEICT	_	3	mod	_	AlignBegin=201750|AlignEnd=202043|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	daː	_	VERB	V2	VerbClass=2	3	comp/m	_	AlignBegin=202043|AlignEnd=202116|Gloss=be_there|RX=[V2]|TokenType=Root
 3	-s	_	AUX	V2	VerbClass=2|Voice=Cau	5	comp	_	AlignBegin=202116|AlignEnd=202189|DerPos=VERB|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
@@ -1192,7 +1192,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_242-247
 # text = oːn i= ʤaza =joː =na / kak sak -iːni diːt / fakka~kar -eːn =aːt //
 # phonetic_text = oːn iʤazaːjoːna / kak sakiːni diːt / fakkakareːnaːt //
-# text_en =  After they've said: ''As for the remuneration, what shall we do?'   they think hard and
+# text_en = After they've said: ''As for the remuneration, what shall we do?'   they think hard and
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=215410|AlignEnd=215721|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=215721|AlignEnd=215799|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	ʤaza	_	NOUN	N	Gender=Masc	5	discourse	_	AlignBegin=215799|AlignEnd=215877|Gloss=wage|RX=[N].[M]|TokenType=Root
@@ -1212,7 +1212,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_248-253
 # text = aːn hinin // mhaj =t / fatiːr -a niː- dʔa ti- ndi eːn uːt ti= takat // taː= mʔa han mhaj =t =a =ajt /
 # phonetic_text = aːn hinin // mhajt / fatiːra niːdʔa tindi eːn uːt titakat // taːmʔa han mhajtaːjt /
-# text_en =  this woman says: 'We are going to make three pancakes', they said.  'Since the women are also three.'
+# text_en = this woman says: 'We are going to make three pancakes', they said.  'Since the women are also three.'
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	AlignBegin=219727|AlignEnd=219907|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
 2	hinin	_	PRON	PRO	Case=Nom|Number=Plur|Person=1	10	subj	_	AlignBegin=219907|AlignEnd=220087|Gloss=1PL.NOM|RX=[SBJ].[PRO]|TokenType=Root
 3	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=220087|AlignEnd=220267|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1242,7 +1242,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_254-260
 # text = lʔa =wa / sakʷkʷar =t =wa / hoːj dʔi -tiːt / imbateː ni- dʔa / giɖʔa =t daː -s -eːti baː= hiːw -a / eːt ti= fatiːr -a / mhaj =t koː =t =eː daː -s -a =jaː ti- ndi eːn //
 # phonetic_text = lʔawa / sakʷkʷartwa / hoːj dʔiːtiːt / imbateː nidʔa / giɖʔaːt daːseːti baːhiːwa / eːt tifatiːra / mhajt koːteː daːsaja tindi eːn //
-# text_en =  After she has put fat and sugar on them,   she says: 'We are going to put these pancakes instead of the shoes. Put these pancakes for all three of them!' they said.
+# text_en = After she has put fat and sugar on them,   she says: 'We are going to put these pancakes instead of the shoes. Put these pancakes for all three of them!' they said.
 1	lʔa	_	NOUN	N	Gender=Masc	4	conj:coord	_	AlignBegin=225019|AlignEnd=225158|Gloss=fat|RX=[N].[M]|TokenType=Root
 2	=wa	_	CCONJ	CONJ	_	1	cc	_	AlignBegin=225158|AlignEnd=225298|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 3	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=225298|AlignEnd=225577|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1366,17 +1366,17 @@
 25	mhasi	_	PART	PTCL	_	44	mod	_	AlignBegin=244030|AlignEnd=244436|Gloss=again|RX=[PTCL]|TokenType=Root
 26	beːt	_	DET	DEM	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	28	det	_	AlignBegin=244436|AlignEnd=244843|Gloss=DIST.SG.F.ACC|RX=[DEM]|TokenType=Root
 27	ti=	_	DET	DET	Definite=Def|Gender=Fem	28	det	_	AlignBegin=244843|AlignEnd=244944|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-28	tilʔi	_	NOUN	N	Gender=Fem	44	comp:obj	_	AlignBegin=244944|AlignEnd=245046|Gloss=hole|RX=[N].[F]|TokenType=Root
+28	tilʔi	_	NOUN	N	Gender=Fem	41	comp	_	AlignBegin=244944|AlignEnd=245046|Gloss=hole|RX=[N].[F]|TokenType=Root
 29	=t	_	DET	DET	Gender=Fem	28	det	_	AlignBegin=245046|AlignEnd=245147|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 30	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	28	udep@poss	_	AlignBegin=245147|AlignEnd=245249|Gloss==POSS.3SG.ACC|RX==[PRO]|TokenType=Clit
-31	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	32	comp:obj	_	AlignBegin=245249|AlignEnd=245350|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+31	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	36	comp:obj	_	AlignBegin=245249|AlignEnd=245350|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 32	dʔi	_	VERB	V1	VerbClass=1	33	comp/m	_	AlignBegin=245350|AlignEnd=245452|Gloss=do|RX=[V1].[IRG]|TokenType=Root
 33	-jaː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	36	comp:pred	_	AlignBegin=245452|AlignEnd=245554|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 34	-b	_	PRON	DET	Case=Acc|Gender=Masc	33	subj/m	_	AlignBegin=245554|AlignEnd=245656|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 35	iː-	_	PRON	PNG	Person=3	36	subj/m	_	AlignBegin=245656|AlignEnd=245714|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 36	ktiː	_	VERB	AUX	Aspect=Aor	38	comp	_	AlignBegin=245714|AlignEnd=245772|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
 37	-n	_	PRON	PNG	Number=Plur	36	subj/m	_	AlignBegin=245772|AlignEnd=245830|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-38	=eː	_	SCONJ	CONJ.REL	PronType=Rel	28	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
+38	=eː	_	SCONJ	CONJ.REL	PronType=Rel	39	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
 39	=naː	_	NOUN	CONJ	_	41	comp	_	AlignBegin=245888|AlignEnd=245946|Gloss==thing|RX==[CONJ]|TokenType=Clit
 40	=t	_	DET	DET	Gender=Fem	39	det	_	AlignBegin=245946|AlignEnd=246004|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 41	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	44	comp:obl	_	AlignBegin=246004|AlignEnd=246062|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
@@ -1390,7 +1390,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_279-287
 # text = aːn aːmas / i- t- katʔi -n =eːb oː= doːr / ʤaːntaːji mhaj =t / koː =t =aː jʔ -eːn =aːt // giɖʔa =t ʃibib~ʃibib -s -eːn =hoːb / ka= rh -jaːn /
 # phonetic_text = aːn aːmas / itkatʔineːb oːdoːr / ʤaːntaːji mhajt / koːtaː jʔeːnaːt // giɖʔaːt ʃibibʃibibseːnhoːb / karhjaːn /
-# text_en =  When midnight came,  all the three fairies arrive and when they look around for shoes,  they don't see them.
+# text_en = When midnight came,  all the three fairies arrive and when they look around for shoes,  they don't see them.
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	AlignBegin=247850|AlignEnd=248112|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
 2	aːmas	_	NOUN	N	Gender=Masc|Number=Plur	5	subj	_	AlignBegin=248112|AlignEnd=248374|Gloss=night|RX=[N].[PL].[M]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=248374|AlignEnd=248801|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1458,7 +1458,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_292-294
 # text = ti= fatiːr -a =t =eːb / firha =t =eː misis -tiːt gaːt =ka fatiːr -aː =t =oː ʔaːm -eːti i- dʔa -na eːn //
 # phonetic_text = tifatiːraːteːb / firhaːteː misistiːt gaːtka fatiːraːtoː ʔaːmeːti idʔana eːn //
-# text_en =  They were dying of joy because of the pancakes and all of them wolfed down their pancakes, they said.
+# text_en = They were dying of joy because of the pancakes and all of them wolfed down their pancakes, they said.
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=257846|AlignEnd=257936|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 2	fatiːr	_	NOUN	N	Gender=Fem	5	comp	_	AlignBegin=257936|AlignEnd=258026|Gloss=pancake|RX=[N].[F]|TokenType=Root
 3	-a	_	DET	_	Number=Plur	2	det/m	_	AlignBegin=258026|AlignEnd=258117|Gloss=-PL|RX=-.|TokenType=InflAff
@@ -1512,7 +1512,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_298-299
 # text = ʔamaːr =oːn baː= kʷaːs -a / samaːr =oːn //
 # phonetic_text = amaːroːn baːkʷaːsa / samaːroːn //
-# text_en =  Let it not be our fate!
+# text_en = Let it not be our fate!
 1	ʔamaːr	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=265778|AlignEnd=265973|Gloss=possessions|RX=[N].[M]|TokenType=Root
 2	=oːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Poss=Yes	1	udep@poss	_	AlignBegin=265973|AlignEnd=266169|Gloss==POSS.1PL.ACC|RX==[PRO]|TokenType=Clit
 3	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	4	mod	_	AlignBegin=266169|AlignEnd=266299|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
@@ -1526,7 +1526,7 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_252-253
 # text = taː= mʔa han mhaj =t =a =ajt /
 # phonetic_text = taːmʔa han mhajtaːjt /
-# text_en =  'Since the women are also three.'
+# text_en = 'Since the women are also three.'
 1	taː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	AlignBegin=223214|AlignEnd=223372|Gloss=DEF.PL.F.NOM=|RX=[DET]=|TokenType=Clit
 2	mʔa	_	NOUN	N	Gender=Fem|Number=Plur	6	subj	_	AlignBegin=223372|AlignEnd=223530|Gloss=woman\PL|RX=[SBJ].[N].[F]|TokenType=Root
 3	han	_	PART	PTCL	_	2	mod	_	AlignBegin=223530|AlignEnd=223846|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root

@@ -962,7 +962,7 @@
 # sent_id = BEJ_MV_NARR_03_camel_228-236
 # text = whiː hamʃuːkan =hoːb // eːn i= babʔa =jeː / diluːli boːj dh =i lawjaː ini // aːn# aw# uː= kaːm hasara / winneːt ɖaːbaːb =u =it //
 # phonetic_text = whiː hamʃuːkanhoːb // eːn ibabʔaːjeː / diluːli boːj dhi lawja ini // aːn# aw# uːkaːm hasara / winneːt ɖaːbaːbujt //
-# text_en = When I rested under it,  it appeared to me that blood was dripping from the fabric of its armpits, he said,  er, because the camel had run a lot".
+# text_en = When I rested under it,  blood appeared to me that was dripping from the fabric of its armpits, he said,  er, because the camel had run a lot".
 1	whiː	_	ADP	POSTP	_	2	mod	_	AlignBegin=203963|AlignEnd=204431|Gloss=under|RX=[POSTP]|TokenType=Root
 2	hamʃuːkan	_	VERB	V2	Number=Sing|VerbClass=2	3	comp	_	AlignBegin=204431|AlignEnd=204743|Gloss=breathe|MGloss=breathe-PFV.1SG|MSeg=hamʃuːk-an|RX=[V2]-[TAM].[PNG]|TokenType=Root
 3	=hoːb	_	SCONJ	CONJ	_	10	mod	_	AlignBegin=204743|AlignEnd=204899|Gloss==when|RX==[CONJ]|TokenType=Clit

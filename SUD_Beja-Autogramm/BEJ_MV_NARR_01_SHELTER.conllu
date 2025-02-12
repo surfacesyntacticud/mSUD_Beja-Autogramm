@@ -51,7 +51,7 @@
 3	imuːki	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	4	comp	_	AlignBegin=9609|AlignEnd=9880|Gloss=take_shelter\INT.AOR|MGloss=3SG.M-take_shelter\INT.AOR|MSeg=i-muːki|RX=[PNG]-[V1].[DER]|TokenType=Root
 4	=eːb	_	SCONJ	CONJ	Gender=Masc	1	mod@relcl	_	AlignBegin=9880|AlignEnd=10016|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=10016|AlignEnd=10220|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-6	bri	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=10220|AlignEnd=10424|Gloss=rain|RX=[N].[M]|TokenType=Root
+6	bri	_	NOUN	N	Gender=Masc	3	dislocated:obj	_	AlignBegin=10220|AlignEnd=10424|Gloss=rain|RX=[N].[M]|TokenType=Root
 7	hariweː	_	VERB	V1	VerbClass=1	17	mod	_	AlignBegin=10424|AlignEnd=10831|Gloss=seek|MGloss=seek-CVB.SMLT|MSeg=hariw-eː|RX=[V1]|TokenType=Root
 8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=10831|AlignEnd=12268|TokenType=Break
 9	liːlaːw	_	NOUN	N	Gender=Masc	10	comp	_	AlignBegin=12268|AlignEnd=12410|Gloss=rock|RX=[N].[M]|TokenType=Root

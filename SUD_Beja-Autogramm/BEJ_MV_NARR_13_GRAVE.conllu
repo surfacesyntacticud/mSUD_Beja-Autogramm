@@ -263,7 +263,7 @@
 3	karaːma	_	NOUN	N	Gender=Fem	5	comp	_	AlignBegin=51319|AlignEnd=51438|Gloss=alms|RX=[N].[F]|TokenType=Root
 4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=51438|AlignEnd=51557|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 5	=i	_	ADP	CASE	Case=Gen	6	comp	_	AlignBegin=51557|AlignEnd=51676|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
-6	dhaːj	_	ADP	POSTP	_	7	mod	_	AlignBegin=51676|AlignEnd=52152|Gloss=DIR|RX=[POSTP]|TokenType=Root
+6	dhaːj	_	ADP	POSTP	_	7	comp:obl	_	AlignBegin=51676|AlignEnd=52152|Gloss=DIR|RX=[POSTP]|TokenType=Root
 7	ifarʔan	_	VERB	V1	Aspect=Perf|Number=Plur|VerbClass=1	17	conj:coord	_	AlignBegin=52152|AlignEnd=52509|Gloss=take_out\PFV|MGloss=3-take_out\PFV-PL|MSeg=i-farʔa-n|RX=[PNG]-[V1]-[PNG]|TokenType=Root
 8	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	3	mod@relcl	_	AlignBegin=52509|AlignEnd=52628|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
 9	/	_	PUNCT	_	_	8	punct	_	AlignBegin=52628|AlignEnd=53102|Gloss=/|TokenType=Root
@@ -304,7 +304,7 @@
 15	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	16	comp	_	AlignBegin=61577|AlignEnd=61747|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 16	=hoːb	_	SCONJ	CONJ	_	25	mod	_	AlignBegin=61747|AlignEnd=61831|Gloss==when|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=61831|AlignEnd=62085|Gloss=/|TokenType=Break
-18	deː	_	NOUN	N	_	22	mod@relcl	_	AlignBegin=62085|AlignEnd=62199|Gloss=mother|RX=[N].[F]|TokenType=Root
+18	deː	_	NOUN	N	_	22	udep	_	AlignBegin=62085|AlignEnd=62199|Gloss=mother|RX=[N].[F]|TokenType=Root
 19	=t	_	DET	DET	Definite=Ind|Gender=Fem	18	det	_	AlignBegin=62199|AlignEnd=62313|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 20	=ijoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	18	udep@poss	_	AlignBegin=62313|AlignEnd=62426|Gloss==POSS.2SG.GEN|RX==[PRO]|TokenType=Clit
 21	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	det	_	AlignBegin=62426|AlignEnd=62596|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit

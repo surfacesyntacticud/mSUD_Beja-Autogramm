@@ -4,7 +4,7 @@
 # sent_timecode = 0, 7764
 # phonetic_text = tak / ʔiːbaːb -eː / miːmaʃ -a -ji dar =iːb / jʔ -i =jeːb oː= doːr / ontʔa / diw -iːni eːn dijar -i =hoːb //
 # text = tak / ʔiːbaːbeː / miːmaʃaːji dariːb / jʔijeːb oːdoːr /  ontʔa / diwiːni eːn dijariːhoːb //
-# text_en =  A man, while he is travelling, when he arrives in the vicinity of a cemetery, he falls asleep, they said, when he is tired.
+# text_en = A man, while he is travelling, when he arrives in the vicinity of a cemetery, he falls asleep, they said, when he is tired.
 1	tak	_	NOUN	N	Gender=Masc	12	subj	_	AlignBegin=0|AlignEnd=190|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=190|AlignEnd=381|Gloss=/|TokenType=Root
 3	ʔiːbaːb	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=508|AlignEnd=689|Gloss=travel|RX=[V2]|TokenType=Root
@@ -82,7 +82,7 @@
 # sent_timecode = 15458, 18027
 # phonetic_text = i- t- firʔi -n =hoːb /  ʔoːr mangaːj =iːb iː- stʔa /
 # text = itfirʔinhoːb / ʔoːr mangaːjiːb iːstʔa /
-# text_en =  When they go out, a boy who was sitting alone,
+# text_en = When they go out, a boy who was sitting alone,
 1	i-	_	PRON	PNG	Person=3	2	subj/m	_	AlignBegin=15458|AlignEnd=15536|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 2	t-	_	AUX	V1	VerbClass=1|Voice=Mid	5	comp	_	AlignBegin=15536|AlignEnd=15614|DerPos=VERB|Gloss=MID-|RX=[V1].[DER]-|TokenType=DerAff
 3	firʔi	_	VERB	V1	Aspect=Imp|VerbClass=1	2	comp/m	_	AlignBegin=15614|AlignEnd=15692|Gloss=take_out\IPFV|RX=[V1]|TokenType=Root
@@ -102,7 +102,7 @@
 # sent_timecode = 18027, 20936
 # phonetic_text = winneːt j= halak -a =jaː jiwaːʃ -i =b iː- ktiː -n =i hoːj hi /
 # text = winneːt jhalakaja jiwaːʃiːb iːktiːni hoːj hi /
-# text_en =  there was one from them whose clothes were filthy,
+# text_en = there was one from them whose clothes were filthy,
 1	winneːt	_	ADV	ADV	_	7	dislocated:mod	_	AlignBegin=18030|AlignEnd=18445|Gloss=plenty|RX=[ADV]|TokenType=Root
 2	j=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=18445|AlignEnd=18549|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	halak	_	NOUN	N	Gender=Masc	10	subj	_	AlignBegin=18549|AlignEnd=18653|Gloss=cloth|RX=[SBJ].[N].[M]|TokenType=Root
@@ -125,7 +125,7 @@
 # sent_timecode = 20936, 23150
 # phonetic_text = aːn aː= raw / afirh -a =b =a /
 # text = aːn aːraw / afirhaːbaː /
-# text_en =  the others were happy,
+# text_en = the others were happy,
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	AlignBegin=20942|AlignEnd=21162|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
 2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=21162|AlignEnd=21272|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 3	raw	_	NOUN	N	_	6	subj	_	AlignBegin=21272|AlignEnd=21382|Gloss=other|RX=[SBJ].[N]|TokenType=Root
@@ -308,7 +308,7 @@
 3	karaːma	_	NOUN	N	Gender=Fem	5	comp	_	AlignBegin=51319|AlignEnd=51438|Gloss=alms|RX=[N].[F]|TokenType=Root
 4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=51438|AlignEnd=51557|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 5	=i	_	ADP	CASE	Case=Gen	6	comp	_	AlignBegin=51557|AlignEnd=51676|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
-6	dhaːj	_	ADP	POSTP	_	8	mod	_	AlignBegin=51676|AlignEnd=52152|Gloss=DIR|RX=[POSTP]|TokenType=Root
+6	dhaːj	_	ADP	POSTP	_	8	comp:obl	_	AlignBegin=51676|AlignEnd=52152|Gloss=DIR|RX=[POSTP]|TokenType=Root
 7	i-	_	PRON	PNG	Person=3	8	subj/m	_	AlignBegin=52152|AlignEnd=52271|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 8	farʔa	_	VERB	V1	Aspect=Perf|VerbClass=1	19	conj:coord	_	AlignBegin=52271|AlignEnd=52390|Gloss=take_out\PFV|RX=[V1]|TokenType=Root
 9	-n	_	PRON	PNG	Number=Plur	8	subj/m	_	AlignBegin=52390|AlignEnd=52509|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
@@ -335,7 +335,7 @@
 # sent_timecode = 59110, 64132
 # phonetic_text = aneːb / deː =t =i baːɖin -aː =t =oː =t =u / naː =t ki= t- firʔa i- ndi =hoːb / deː =t =ijoːk oː= mhiːn mitja -jaː =heːb i- ndi eːn /
 # text = aneːb / deːti baːɖnaːtoːtu / naːt kitfirʔa indihoːb / deːtijoːk oːmhiːn mitjaːjaːheːb indi eːn /
-# text_en =  When he says: "As for me, my mother has forgotten me, she does not give anything," he says: "Tell me where your mother lives!", they said,
+# text_en = When he says: "As for me, my mother has forgotten me, she does not give anything," he says: "Tell me where your mother lives!", they said,
 1	aneːb	_	PRON	PNG	Number=Sing|Person=1	11	dislocated:obj	_	AlignBegin=59110|AlignEnd=59292|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=59292|AlignEnd=59474|Gloss=/|TokenType=Break
 3	deː	_	NOUN	DEM	_	11	subj	_	AlignBegin=59941|AlignEnd=60066|Gloss=mother|RX=[SBJ].[N].[F]|TokenType=Root
@@ -357,7 +357,7 @@
 19	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	20	comp	_	AlignBegin=61662|AlignEnd=61747|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
 20	=hoːb	_	SCONJ	CONJ	_	31	mod	_	AlignBegin=61747|AlignEnd=61831|Gloss==when|RX==[CONJ]|TokenType=Clit
 21	/	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=61831|AlignEnd=62085|Gloss=/|TokenType=Break
-22	deː	_	NOUN	N	_	26	mod@relcl	_	AlignBegin=62085|AlignEnd=62199|Gloss=mother|RX=[N].[F]|TokenType=Root
+22	deː	_	NOUN	N	_	26	udep	_	AlignBegin=62085|AlignEnd=62199|Gloss=mother|RX=[N].[F]|TokenType=Root
 23	=t	_	DET	DET	Definite=Ind|Gender=Fem	22	det	_	AlignBegin=62199|AlignEnd=62313|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 24	=ijoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	22	udep@poss	_	AlignBegin=62313|AlignEnd=62426|Gloss==POSS.2SG.GEN|RX==[PRO]|TokenType=Clit
 25	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	26	det	_	AlignBegin=62426|AlignEnd=62596|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -390,7 +390,7 @@
 # sent_timecode = 66078, 86258
 # phonetic_text = ti= ndi =jeːt -i mhiːn mitja -jiːniːːː /
 # text = ti= ndeː =t -i mhiːn mitja -jiːni  /
-# text_en =  He explains him where his mother lives, and
+# text_en = He explains him where his mother lives, and
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=66078|AlignEnd=66179|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 2	ndeː	_	NOUN	N	Gender=Fem	4	comp	_	AlignBegin=66179|AlignEnd=66280|Gloss=mother|RX=[N].[F]|TokenType=Root
 3	=t	_	DET	CONJ.REL	Definite=Ind|Gender=Fem	2	det	_	AlignBegin=66280|AlignEnd=66381|Gloss==INDF.F|RX==[DET]|TokenType=Clit
@@ -553,7 +553,7 @@
 # sent_timecode = 94819, 100545
 # phonetic_text = diw -i =hoːb / w= ʔoːr rh -ani /
 # text = diw -i =hoːb  / w= ʔoːr rh -ani  /
-# text_en =  While I am sleeping I see the boy.
+# text_en = While I am sleeping I see the boy.
 1	diw	_	VERB	V2	VerbClass=2	3	comp	_	AlignBegin=94819|AlignEnd=94926|Gloss=sleep|RX=[V2]|TokenType=Root
 2	-i	_	PRON	TAM.PNG	Aspect=Aor|Number=Sing|Person=1	1	subj/m	_	AlignBegin=94926|AlignEnd=95033|Gloss=-AOR.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 3	=hoːb	_	SCONJ	CONJ	_	7	mod	_	AlignBegin=95033|AlignEnd=95139|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -570,7 +570,7 @@
 # sent_timecode = 94819, 100545
 # phonetic_text = nhas halak -a =da haː -jeː =wa / afirh -a =b aka -jeː rh -ani /
 # text = nhas halak -a dhaːj haː -jeː =wa  / afirh -a =b aka -jeː rh -ani  /
-# text_en =  I see the boy wearing clean clothes, and happy.
+# text_en = I see the boy wearing clean clothes, and happy.
 1	nhas	_	ADJ	ADJ	_	2	mod	_	AlignBegin=96283|AlignEnd=96707|Gloss=clean|RX=[ADJ]|TokenType=Root
 2	halak	_	NOUN	N	Gender=Masc	5	subj	_	AlignBegin=96707|AlignEnd=96848|Gloss=cloth|RX=[N].[M]|TokenType=Root
 3	-a	_	DET	_	_	2	det/m	_	AlignBegin=96848|AlignEnd=96989|Gloss=-PL|TokenType=InflAff
@@ -638,7 +638,7 @@
 # sent_timecode = 110857, 123128
 # phonetic_text = uː= tak areː / ti= ndeː =t -i =da jʔ -eːtiːt / w= ʔoːr =oːk rh -ani / ti= karaːma =t =eː firar# / ti= ti- firʔi =jeːt i- ktim -na / afirh -a =b aka -jeː =wa / i= dhaj =iːb / hawaː -jeː =wa rh -an i- ndi eːn //
 # text = uː= tak areː  / ti= ndeː =t -i =da jʔ -eːtiːt  / w= ʔoːr =oːk rh -an  / ti= karaːma =t =eː firar# / ti= ti- firʔi =jeːt i- ktim -na  / afirh -a =b aka -jeː =wa  / i= dhaj =iːb  / hawaː -jeː =wa rh -an i- ndi eːn //
-# text_en =  The man, then, after he had gone to the mother, says: "I saw your son. The alms you've given him have arrived, I saw him happy and playing with the people", they said.
+# text_en = The man, then, after he had gone to the mother, says: "I saw your son. The alms you've given him have arrived, I saw him happy and playing with the people", they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=110857|AlignEnd=110973|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	10	subj	_	AlignBegin=110973|AlignEnd=111089|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 3	areː	_	CCONJ	PTCL	_	2	cc	_	AlignBegin=111089|AlignEnd=111321|Gloss=then|RX=[PTCL]|TokenType=Root
@@ -698,7 +698,7 @@
 # sent_timecode = 123128, 126046
 # phonetic_text = bak tʔi -it =eː =na / beːn oː= tak / rh -an i- di eːn //
 # text = bak tʔiːteːna / beːn oːtak / rhan idi eːn //
-# text_en =  "I saw something like that happen to this man", he said, they said.
+# text_en = "I saw something like that happen to this man", he said, they said.
 1	bak	_	PART	DEICT	_	3	mod	_	AlignBegin=123128|AlignEnd=123547|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	tʔi	_	VERB	V1	VerbClass=1	3	comp/m	_	AlignBegin=123547|AlignEnd=123652|Gloss=resemble|RX=[V1].[IRG]|TokenType=Root
 3	-it	_	SCONJ	N.V	_	4	comp	_	AlignBegin=123652|AlignEnd=123757|DerPos=NOUN|Gloss=-VN|RX=-[N].[V]|TokenType=DerAff

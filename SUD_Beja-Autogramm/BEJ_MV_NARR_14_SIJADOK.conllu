@@ -1024,7 +1024,7 @@
 # sent_id = BEJ_MV_NARR_14_sijadok_261-266
 # text = uːt ti= ʤanna suːr / barijoːk =dha // sibisirab iːktiːn =i / gasir =i eːdna eːn //
 # phonetic_text = uːt tiʤanna suːr / barijoːkdha // sibasiraːb iːktiːni / gasiri eːdna eːn //
-# text_en = "Before, this paradise  that they was allocated for you,  was a castle", they tell him, they said.
+# text_en = "Before, this paradise  that they had allocated you, was a castle", they tell him, they said.
 1	uːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=223715|AlignEnd=223947|Gloss=PROX.SG.F.NOM|RX=[DEM]|TokenType=Root
 2	ti=	_	DET	DET	Definite=Def|Gender=Fem	3	det	_	AlignBegin=223947|AlignEnd=224063|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 3	ʤanna	_	NOUN	N	Gender=Fem	14	subj	_	AlignBegin=224063|AlignEnd=224180|Gloss=paradise|RX=[SBJ].[N].[F]|TokenType=Root

@@ -1120,7 +1120,7 @@
 # sent_id = BEJ_MV_NARR_03_camel_222-225
 # text = oːn oː= kaːm // a- sikʷ =t a- si- ngad /
 # phonetic_text = oːn oːkaːm // asikʷt asingad /
-# text_en =  I pulled on the camel, and made it stop.
+# text_en = I pulled on the camel, and made it stop.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=199589|AlignEnd=199798|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=199798|AlignEnd=199903|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 3	kaːm	_	NOUN	N	_	6	comp:obj	_	AlignBegin=199903|AlignEnd=200008|Gloss=camel|RX=[N]|TokenType=Root
@@ -1146,7 +1146,7 @@
 # sent_id = BEJ_MV_NARR_03_camel_228-236
 # text = whiː hamʃuːk -an =hoːb // eːn i= babʔa =jeː / diluːl -i boːj dh =i law -jaː i- ni // aːn# aw# uː= kaːm hasara / winneːt ɖaːb -aː =b =u =it //
 # phonetic_text = whiː hamʃuːkanhoːb // eːn ibabʔaːjeː / diluːli boːj dhi lawja ini // aːn# aw# uːkaːm hasara / winneːt ɖaːbaːbujt //
-# text_en = When I rested under it,  it appeared to me that blood was dripping from the fabric of its armpits, he said,  er, because the camel had run a lot".
+# text_en = When I rested under it,  blood appeared to me that was dripping from the fabric of its armpits, he said,  er, because the camel had run a lot".
 1	whiː	_	ADP	POSTP	_	2	mod	_	AlignBegin=203963|AlignEnd=204431|Gloss=under|RX=[POSTP]|TokenType=Root
 2	hamʃuːk	_	VERB	V2	VerbClass=2	4	comp	_	AlignBegin=204431|AlignEnd=204587|Gloss=breathe|RX=[V2]|TokenType=Root
 3	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	2	subj/m	_	AlignBegin=204587|AlignEnd=204743|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -1182,7 +1182,7 @@
 33	//	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=211315|AlignEnd=212557|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_03_camel_237-247
-# text = jaː iraːnaj aːn hinin / tiːlal =eː -nan =i tiːlal -eː =ka // tʔa areː / geː / ni- raːkʷ =hoːk ni- jad =aj // mali -a doːr / dʔi -jaː =t rhi -is -a =hoːn eːn =heːb //
+# text = jaː iraːnaj aːn hinin / tiːlal -eː -nan =i tiːlal =eː =ka // tʔa areː / geː / ni- raːkʷ =hoːk ni- jad =aj // mali -a doːr / dʔi -jaː =t rhi -is -a =hoːn eːn =heːb //
 # phonetic_text = jaː iraːnaj aːn hinin / tiːlaleːnani tiːlaleːka // tʔa areː / geː / niraːkʷhoːk nijadaj // malja doːr / dʔijaːt rhisaːhoːn eːnheːb //
 # text_en = "Gosh, us, whatever our ideas before,  now, then, really,  we will be terrified of you, so do it once more, and show us!", they told me.
 1	jaː	_	PART	PTCL	_	2	mod	_	AlignBegin=212557|AlignEnd=212786|Gloss=ADRF|InIdiom=Yes|RX=[PTCL]|TokenType=Root

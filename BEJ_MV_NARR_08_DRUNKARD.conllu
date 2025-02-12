@@ -4,7 +4,7 @@
 # sent_timecode = 0, 4404
 # phonetic_text = tak / balad gaːl =naːji / askin -aː =b =u /
 # text = tak / balad gaːlnaːj =iːb / askin -aː =b =u /
-# text_en =  A man was living in one village,
+# text_en = A man was living in one village,
 # tags = TODO
 1	tak	_	NOUN	N	Gender=Masc	7	subj	_	AlignBegin=0|AlignEnd=300|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=300|AlignEnd=600|Gloss=/|TokenType=Break
@@ -24,7 +24,7 @@
 # sent_timecode = 4404, 5764
 # phonetic_text = amaːg na sak -i /
 # text = amaːg na saki /
-# text_en =  he was doing bad things,
+# text_en = he was doing bad things,
 1	amaːg	_	ADJ	ADJ	_	2	mod	_	AlignBegin=4404|AlignEnd=4744|Gloss=bad|RX=[ADJ]|TokenType=Root
 2	na	_	NOUN	N	Gender=Fem	3	comp:obj	_	AlignBegin=4744|AlignEnd=5084|Gloss=thing|RX=[N].[F]|TokenType=Root
 3	sak	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=5084|AlignEnd=5254|Gloss=do|RX=[V2]|TokenType=Root
@@ -37,7 +37,7 @@
 # sent_timecode = 5764, 7239
 # phonetic_text = haː =b gʷʔ -i /
 # text = haːb gʷʔi /
-# text_en =  he was drinking alcohol.
+# text_en = he was drinking alcohol.
 1	haː	_	NOUN	_	_	3	comp:obj	_	AlignBegin=5764|AlignEnd=5887|Gloss=alcohol|RX=[NM]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=5887|AlignEnd=6010|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	gʷʔ	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=6010|AlignEnd=6133|Gloss=drink|RX=[V2]|TokenType=Root
@@ -50,7 +50,7 @@
 # sent_timecode = 7239, 21701
 # phonetic_text = ontʔa / aːn i= ʃawwa =aː hoːj daːjag -am -eːn =hoːb / maːlik iː- d -na tak iː- fi =ajt / dhaːj jʔ -eːtiːt / jaː iraːnaj uːn uː= tak / w= haːʃ =iː tara giːg -i bi= i- diː =jeːk // tara tuːb -i bi= i- diː =jeːk // oːn w= haːʃ =joːn / oːn oː= tak // gabbal -am -ni ki= n- di eːn //
 # text = ontʔa / aːn iʃawwaː hoːj daːjagameːnhoːb / maːlik iːdna tak iːfeːjt / dhaːj jʔeːtiːt / jaː iraːnaj uːn uːtak / whaːʃiː tara giːgi biːdijeːk // tara tuːbi biːdijeːk // oːn whaːʃjoːn / oːn oːtak // gabbalamni kindi eːn //
-# text_en =  So, when his neighbours are annoyed with that, since there was a man called Malik, they went to him and "Gosh, if the man does not leave the country, or repent, we won't accept this man in our country", they said.
+# text_en = So, when his neighbours are annoyed with that, since there was a man called Malik, they went to him and "Gosh, if the man does not leave the country, or repent, we won't accept this man in our country", they said.
 1	ontʔa	_	ADV	PTCL	_	9	discourse	_	AlignBegin=7244|AlignEnd=7488|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=7488|AlignEnd=7733|Gloss=/|TokenType=Break
 3	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	5	det	_	AlignBegin=7893|AlignEnd=8234|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
@@ -125,7 +125,7 @@
 # sent_timecode = 21701, 36368
 # phonetic_text = dhaːj jʔ -eːtiːt / i= ɖeːfa dhaːj kʷil -tiːt / jaː iraːnaj umbaruːk / amaːg darab =iːb t- haj -a / amaːg na sak -tnija / uːn uː= dhaj / hoːk gʷirja -am -jaːn / tara w= haːʃ =iː giːg -a =jaː / tara aslim -a i- ndi =hoːb / ka= a- di i- ndi eːn //
 # text = dhaːj jʔeːtiːt / iɖeːfa dhaːj kʷiltiːt / jaː iraːnaj umbaruːk / amaːg darbiːb thaja / amaːg na saktnija / uːn uːdhaj / hoːk gʷirjaːmjaːn / tara whaːʃiː giːgaːja / tara aslima indihoːb / kaːdi indi eːn //
-# text_en =  He went to him and, he knocked at his door, and when he said: "Gosh, you are going astray, you are doing bad things, these people have complained about you; either leave the country for good, or become a Muslim!" "I won't", he answers, they said.
+# text_en = He went to him and, he knocked at his door, and when he said: "Gosh, you are going astray, you are doing bad things, these people have complained about you; either leave the country for good, or become a Muslim!" "I won't", he answers, they said.
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=21701|AlignEnd=21933|Gloss=DIR|RX=[POSTP]|TokenType=Root
 2	jʔ	_	VERB	V2	VerbClass=2	3	comp/m	_	AlignBegin=21933|AlignEnd=22049|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 3	-eːtiːt	_	AUX	_	_	9	mod	_	AlignBegin=22049|AlignEnd=22165|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff
@@ -190,7 +190,7 @@
 # sent_timecode = 36368, 39480
 # phonetic_text = ani / i= gaw =iji ti= sak -i =ji sak -jaːn / sak -ani /
 # text = ani / i= gaw =iji ti= sak =ji sak -jaːn / sak -ani /
-# text_en =  "I, they (sic) do my business at home, I do (my business at home),
+# text_en = "I, they (sic) do my business at home, I do (my business at home),
 1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	9	subj	_	AlignBegin=36368|AlignEnd=36515|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=36515|AlignEnd=36662|Gloss=/|TokenType=Break
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=36662|AlignEnd=36817|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -212,7 +212,7 @@
 # sent_timecode = 39480, 43994
 # phonetic_text = teː- t- miːg =eːk / ti- ʃboːbi =jeːk / giːg -i ka= a- di i- ndi eːn //
 # text = teːtmiːgeːk / tiʃboːbijeːk / giːgi kaːdi indi eːn //
-# text_en =  be it evil or good, I won't leave!" he says, they said.
+# text_en = be it evil or good, I won't leave!" he says, they said.
 1	teː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	2	subj/m	_	AlignBegin=39480|AlignEnd=39567|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 2	t-	_	AUX	V1	VerbClass=1|Voice=Mid	4	comp	_	AlignBegin=39567|AlignEnd=39654|DerPos=VERB|Gloss=MID-|RX=[V1].[DER]-|TokenType=DerAff
 3	miːg	_	VERB	V1	Aspect=Imp|VerbClass=1	2	comp/m	_	AlignBegin=39654|AlignEnd=39741|Gloss=be_bad\IPFV|RX=[V1]|TokenType=Root
@@ -238,7 +238,7 @@
 # sent_timecode = 43994, 47624
 # phonetic_text = abij =aːn w= ʔaji =iːsoːn giːg -is -ni =hoːk ni- jad i- ndi eːn //
 # text = abiaːn wʔajiːsoːn giːgisnhoːk nijad indi eːn //
-# text_en =  "We alone, with our own hands, will make you leave", he says, they said.
+# text_en = "We alone, with our own hands, will make you leave", he says, they said.
 1	abij	_	PRON	PRO	_	11	subj	_	AlignBegin=43994|AlignEnd=44142|Gloss=self|RX=[PRO]|TokenType=Root
 2	=aːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	1	udep@poss	_	AlignBegin=44142|AlignEnd=44291|Gloss==POSS.1PL.NOM|RX==[PRO]|TokenType=Clit
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=44291|AlignEnd=44390|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -261,7 +261,7 @@
 # sent_timecode = 47624, 53696
 # phonetic_text = mmm / w= ʔaji =iːsoːn giːg -is -ni =hoːk ni- jad i- ndi =hoːb / w= ʔaji =iːsoːk ka= giːg -is -taːn =heːb //
 # text = mmm / wʔajiːsoːn giːgisnhoːk nijad indihoːb / wʔajiːsoːk kagiːgistaːnheːb //
-# text_en =  Er... when he says: We alone, with our own hands, will make you leave", "You won't make me leave with your own hands" (he said).
+# text_en = Er... when he says: We alone, with our own hands, will make you leave", "You won't make me leave with your own hands" (he said).
 1	mmm	_	INTJ	HESIT	_	4	discourse	_	AlignBegin=47624|AlignEnd=48181|Gloss=mmm|RX=[HESIT]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=48181|AlignEnd=48738|Gloss=/|TokenType=Break
 3	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=48738|AlignEnd=48843|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -293,7 +293,7 @@
 # sent_timecode = 53696, 63608
 # phonetic_text = aflaːn / t= hikuːmaː =t -i =da / t= hikuːma soː- ni ni- jad i- ndi =hoːb / t= hikuːma ʔaraw =eː =jaː / naː =t hoː ki= i- dʔi -na i- ndi eːn //
 # text = aflaːn / thikuːmaːtida / thikuːma soːni nijad indihoːb / thikuːma ʔaraweːja / naːt hoː kidʔina indi eːn //
-# text_en =  So, when he says: "We are going to talk to the police", "The policemen are my friends, they won't do anything to me", he says, they said.
+# text_en = So, when he says: "We are going to talk to the police", "The policemen are my friends, they won't do anything to me", he says, they said.
 1	aflaːn	_	PART	PTCL	_	4	discourse	_	AlignBegin=53696|AlignEnd=53980|Gloss=so|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=53980|AlignEnd=54264|Gloss=/|TokenType=Break
 3	t=	_	DET	DET	Definite=Def|Gender=Fem	4	det	_	AlignBegin=55342|AlignEnd=55444|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -336,7 +336,7 @@
 # sent_timecode = 63608, 66585
 # phonetic_text = naː =t hoːk bi= i- dʔiː -n =eːk / allaːj -i =da gʷirja -am -ni ni- jad //
 # text = naːt hoːk biːdʔiːneːk / allaːjida gʷirjaːmni nijad //
-# text_en =  "If they don't do anything about you, we are going to complain to God", (he says).
+# text_en = "If they don't do anything about you, we are going to complain to God", (he says).
 1	naː	_	NOUN	N	Gender=Fem	6	comp:obj	_	AlignBegin=63608|AlignEnd=63734|Gloss=thing|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=63734|AlignEnd=63859|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	hoːk	_	PRON	PRO	Number=Sing|Person=2	6	comp:obl	_	AlignBegin=63859|AlignEnd=64110|Gloss=2SG.DAT/ABL|RX=[PRO]|TokenType=Root
@@ -362,7 +362,7 @@
 # sent_timecode = 66585, 77106
 # phonetic_text = oːn allaːji adʔim -eːtiːt / ombaroː jaːbi / hoːn jhak -s -a / tara aslim -s -a / ni- jad =hoːk ni- jad i- ndi =hoːb / allaː bareːsoːkna =ka / nhas =ka nijaː =ju / i- ndi eːn /
 # text = oːn allaːji adʔimeːtiːt / ombaroː jaːbi / hoːn jhaksa / tara aslimsa / nijadhoːk nijad indihoːb / allaː bareːsoːknaka / nhaska nijaːju / indi eːn /
-# text_en =  After he has implored God, when he says: "We'll tell you: "Please God, take him away from us or make him a Muslim!", "God has better intentions than yours!", he says, they said.
+# text_en = After he has implored God, when he says: "We'll tell you: "Please God, take him away from us or make him a Muslim!", "God has better intentions than yours!", he says, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=66585|AlignEnd=66969|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	allaːji	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=66969|AlignEnd=67353|Gloss=God|RX=[N].[M]|TokenType=Root
 3	adʔim	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=67353|AlignEnd=67545|Gloss=implore|RX=[V2]|TokenType=Root
@@ -410,7 +410,7 @@
 # sent_timecode = 77106, 79583
 # phonetic_text = daːji =t =i diːt / i- t- ʔagiːr =aːt uːn /
 # text = daːjiti diːt / itʔagiːraːt uːn /
-# text_en =  "That's fine", he said and he went back, that one.
+# text_en = "That's fine", he said and he went back, that one.
 1	daːji	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=77106|AlignEnd=77188|Gloss=good|RX=[ADJ]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=77188|AlignEnd=77270|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	4	comp:obj	_	AlignBegin=77270|AlignEnd=77353|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
@@ -429,7 +429,7 @@
 # sent_timecode = 79583, 92696
 # phonetic_text = ontʔa / aːn ʔasir jʔ -eːn =eːb oː= doːr / gʷada -am -eːtiːt / siːleːl -i =t / eːn j= ʔaj =eː ʔas -ti ʔabik -tiːt / dhaːj adʔiːm -i =aːt oːn oː= tak / jaːbi / firʔa -a i- jad a- ndi =hoːb / ti= biri =t =iːb waliːk -ta eː- msiw i- ni //
 # text = ontʔa / aːn ʔasir jʔeːneːb oːdoːr / gʷadaːmeːtiːt / siːleːliːt / eːn jʔajeː ʔasti ʔabiktiːt / dhaːj adʔiːmjaːt oːn oːtak / jaːbi / firʔː ijad andihoːb / tibireːtiːb waliːkta eːmsiw ini //
-# text_en =  "So, when it is the afternoon, I washed myself and I prayed and after I had turned my palms upwards I was imploring Him and when I want to say: "God, take this man away!" he said: "I hear (a voice) that called in the sky".
+# text_en = "So, when it is the afternoon, I washed myself and I prayed and after I had turned my palms upwards I was imploring Him and when I want to say: "God, take this man away!" he said: "I hear (a voice) that called in the sky".
 1	ontʔa	_	ADV	PTCL	_	4	discourse	_	AlignBegin=79583|AlignEnd=79779|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=79779|AlignEnd=79976|Gloss=/|TokenType=Break
 3	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	AlignBegin=80958|AlignEnd=81318|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
@@ -493,7 +493,7 @@
 # sent_timecode = 92696, 99718
 # phonetic_text = maːlik -iː jhaː / uːn uː= tak / i= wali -a =jeːsoːn =u hoː =k -a / dhaːj baː= adʔim -a / tuː= na / ti- ndi =heːb //
 # text = maːlik -iː jhaː / uːn uː= tak / i= wali -a =jeːsoːn =u hoːk -a / dhaːj baː= adʔim -a / tuː= na / ti- ndi =heːb //
-# text_en =  "Malik! this man is one of our saints, don't implore God for you about him!" the thing (i.e. calling voice) said that to me.
+# text_en = "Malik! this man is one of our saints, don't implore God for you about him!" the thing (i.e. calling voice) said that to me.
 1	maːlik	_	PROPN	N	_	2	comp/m	_	AlignBegin=92696|AlignEnd=92842|Gloss=Malik|RX=[N].[PROP]|TokenType=Root
 2	-iː	_	ADP	CASE	Case=Voc	13	vocative	_	AlignBegin=92842|AlignEnd=92988|Gloss=-VOC|RX=-[CASE]|TokenType=InflAff
 3	jhaː	_	INTJ	PTCL	Gender=Masc|Number=Sing	2	discourse	_	AlignBegin=92988|AlignEnd=93280|Gloss=ADRF.SG.M|RX=[PTCL]|TokenType=Root
@@ -529,7 +529,7 @@
 # sent_timecode = 99718, 104516
 # phonetic_text = ɖaːb -eː i= tak -i dhaːj jʔ -i =t / i= ɖeːfa dhaːj a- nkʷiːl =hoːb / waːw -eː uː= tak / firʔa -ti jʔ -iːni //
 # text = ɖaːbeː itaki dhaːj jʔit / iɖeːfa dhaːj ankʷiːlhoːb / waːweː uːtak / firʔati jʔiːni //
-# text_en =  I went running to the man's home, and when I knock for him at the door, the man leaves weeping.
+# text_en = I went running to the man's home, and when I knock for him at the door, the man leaves weeping.
 1	ɖaːb	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=99718|AlignEnd=99832|Gloss=run|RX=[V2]|TokenType=Root
 2	-eː	_	AUX	_	_	7	mod	_	AlignBegin=99832|AlignEnd=99945|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	4	det	_	AlignBegin=99945|AlignEnd=100021|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -564,7 +564,7 @@
 # sent_timecode = 104516, 108507
 # phonetic_text = abij =i giːg -i a- ndi =hoːk =aj // jaː ʔar baruːk baː= giːg -s -a =heːb i- ndi //
 # text = abiji giːgi andihoːkaj // jaː ʔar baruːk baːgiːgsaheːb indi //
-# text_en =  "So, since I am going to leave you on my own free will, don't make me leave, you guys!", he says.
+# text_en = "So, since I am going to leave you on my own free will, don't make me leave, you guys!", he says.
 1	abij	_	PRON	PRO	_	6	subj	_	AlignBegin=104516|AlignEnd=104697|Gloss=self|RX=[SBJ].[PRO]|TokenType=Root
 2	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	1	udep@poss	_	AlignBegin=104697|AlignEnd=104878|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
 3	giːg	_	VERB	V2	VerbClass=2	6	comp:aux	_	AlignBegin=104878|AlignEnd=105059|Gloss=leave|RX=[V2]|TokenType=Root
@@ -592,7 +592,7 @@
 # sent_timecode = 108507, 110347
 # phonetic_text = jaː ʔar / absir -a i- ndi eːn //
 # text = jaː ʔar / absira indi eːn //
-# text_en =  "Guys! wait!", he says, they said.
+# text_en = "Guys! wait!", he says, they said.
 1	jaː	_	PART	PTCL	_	2	mod	_	AlignBegin=108507|AlignEnd=108674|Gloss=ADRF|RX=[PTCL]|TokenType=Root
 2	ʔar	_	NOUN	N	_	4	vocative	_	AlignBegin=108674|AlignEnd=108841|Gloss=child|RX=[N]|TokenType=Root
 3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=108841|AlignEnd=109007|Gloss=/|TokenType=Break
@@ -609,7 +609,7 @@
 # sent_timecode = 110347, 112692
 # phonetic_text = ani toː= na toː= naː =t -i =da / jʔ -a =joːk ka= a- ki =hoːk -a /
 # text = ani toːnaː toːnaːtida / jʔajoːk kaːkihoːka /
-# text_en =  "I did not come to you about that thing,
+# text_en = "I did not come to you about that thing,
 1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	15	dislocated:subj	_	AlignBegin=110347|AlignEnd=110664|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	3	det	_	AlignBegin=110664|AlignEnd=110822|Gloss=DEF.SG.F.ACC=|RX=[DET]=|TokenType=Clit
 3	na	_	NOUN	N	Gender=Fem	5	conj:dicto	_	AlignBegin=110822|AlignEnd=110981|Gloss=thing|RX=[N].[F]|TokenType=Root
@@ -635,7 +635,7 @@
 # sent_timecode = 112692, 114832
 # phonetic_text = i= ginʔ =oːk w= heːr =iː tha -a i- ndi eːn //
 # text = iginʔoːk wheːriː thaː indi eːn //
-# text_en =  feel at ease!", he says, they said.
+# text_en = feel at ease!", he says, they said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=112692|AlignEnd=112769|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ginʔ	_	NOUN	N	Gender=Masc	7	comp:obj	_	AlignBegin=112769|AlignEnd=112846|Gloss=heart|RX=[N].[M]|TokenType=Root
 3	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	2	udep@poss	_	AlignBegin=112846|AlignEnd=112922|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
@@ -655,7 +655,7 @@
 # sent_timecode = 114832, 124418
 # phonetic_text = naːnaːt -i =da jʔ -aː =b =wa aflaːn i- ndi =hoːb / uːn ani / gʷada -am -an =t / siːleːl -an =t / barijoːk =da adʔiːm -i a- ni =hoːb / ti= biri =t =iː hoː waliːk -ti na / a- maːsiw i- ndi eːn //
 # text = naːnaːt -i =da jʔ -aː =b =wa aflaːn i- ndi =hoːb / uːn ani / gʷada -am -an =t / siːleːl -an =t / barjoːk =da adʔi -im -i a- ni =hoːb / ti= bri =t =iː hoː waliːk -ti na / a- maːsiw i- ndi eːn //
-# text_en =  When he says: "So, why have you come?" "I washed myself and I prayed and when I was going to implore Him about you I heard something from the sky calling me", he says, they said.
+# text_en = When he says: "So, why have you come?" "I washed myself and I prayed and when I was going to implore Him about you I heard something from the sky calling me", he says, they said.
 1	naːnaːt	_	ADV	ADV	PartType=Int	2	comp	_	AlignBegin=114832|AlignEnd=114952|Gloss=what|RX=[ADV].[Q]|TokenType=Root
 2	=i	_	ADP	CASE	Case=Gen	3	comp	_	AlignBegin=114952|AlignEnd=115072|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
 3	=da	_	ADP	POSTP	_	4	comp:obl	_	AlignBegin=115072|AlignEnd=115191|Gloss==DIR|RX==[POSTP]|TokenType=Clit
@@ -711,7 +711,7 @@
 # sent_timecode = 124418, 130215
 # phonetic_text = uːn uː= tak i= wali -a =jeːsoːn =u hoːk =k -a / dhaːj baː= adʔim -a tiː- d =t =i //
 # text = uːn uː= tak i= wali -a =jeːsoːn =u hoːk -a / dhaːj baː= adʔi -a tiː- d ti# //
-# text_en =  Something that was telling me: "This man is one of our saints, you, don't implore against him!"
+# text_en = Something that was telling me: "This man is one of our saints, you, don't implore against him!"
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=124425|AlignEnd=124842|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=124842|AlignEnd=125050|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 3	tak	_	NOUN	N	Gender=Masc	8	subj	_	AlignBegin=125050|AlignEnd=125259|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
@@ -738,7 +738,7 @@
 # sent_timecode = 130215, 133328
 # phonetic_text = uː= tak igeːsi / bass / i- ʃtagʷiːɖ /
 # text = uːtak igeːsi / bass / iʃtagʷiːɖ /
-# text_en =  Immediately, the man washes himself,
+# text_en = Immediately, the man washes himself,
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=130215|AlignEnd=130399|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	8	subj	_	AlignBegin=130399|AlignEnd=130583|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 3	igeːsi	_	ADV	ADV	_	8	mod	_	AlignBegin=130583|AlignEnd=130951|Gloss=immediately|RX=[ADV]|TokenType=Root
@@ -755,7 +755,7 @@
 # sent_timecode = 133328, 135305
 # phonetic_text = j= halak -a =jeː gajjar -iːni /
 # text = jhalakaːjeː gajjariːni /
-# text_en =  he changes his clothes,
+# text_en = he changes his clothes,
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=133328|AlignEnd=133472|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	halak	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=133472|AlignEnd=133616|Gloss=cloth|RX=[N].[M]|TokenType=Root
 3	-a	_	DET	_	Number=Plur	2	det/m	_	AlignBegin=133616|AlignEnd=133760|Gloss=-PL|TokenType=InflAff
@@ -770,7 +770,7 @@
 # sent_timecode = 135305, 137546
 # phonetic_text = bass / aslim -a mhi -iːni eːn //
 # text = bass / aslima mhiːni eːn //
-# text_en =  immediately he became a muslim in the morning, they said.
+# text_en = immediately he became a muslim in the morning, they said.
 1	bass	_	PART	PTCL	Foreign=Yes	3	mod	_	AlignBegin=135305|AlignEnd=135547|Gloss=only|Lang=ar|RX=[PTCL].[BORR].[ARA]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=135547|AlignEnd=135788|Gloss=/|TokenType=Break
 3	aslim	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=135788|AlignEnd=135950|Gloss=become_muslim|RX=[V2]|TokenType=Root
@@ -786,7 +786,7 @@
 # sent_timecode = 137546, 142107
 # phonetic_text = faʤil uː= dhaj dhaːj jʔ -eːna =t =ka za~zuːr -eːn // heːkʷal tak =i i- jad -na =t / wali -a /
 # text = faʤil uːdhaj dhaːj jʔeːnaːtka zazuːreːn // heːkʷal taki ijadnaːt / walja /
-# text_en =  In the morning, every time people go to his place, to visit him, they say: "He is a blessed man", and saints ...
+# text_en = In the morning, every time people go to his place, to visit him, they say: "He is a blessed man", and saints ...
 1	faʤil	_	NOUN	N	Gender=Masc	5	mod	_	AlignBegin=137546|AlignEnd=137917|Gloss=morning|RX=[N].[M]|TokenType=Root
 2	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=137917|AlignEnd=138103|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 3	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	5	subj	_	AlignBegin=138103|AlignEnd=138288|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
@@ -816,7 +816,7 @@
 # sent_timecode = 142107, 145161
 # phonetic_text = wali =b =i diː -tiːt / wali -a =naː =jeːt iː- biri //
 # text = waliːbi diːtiːt / waljanaːjeːt iːbri //
-# text_en =  they say: "He is a saint" and he had holiness".
+# text_en = they say: "He is a saint" and he had holiness".
 1	wali	_	NOUN	N	Gender=Masc	3	comp:pred	_	AlignBegin=142115|AlignEnd=142246|Gloss=saint|RX=[N].[M]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=142246|AlignEnd=142377|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	4	comp:obj	_	AlignBegin=142377|AlignEnd=142508|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
@@ -837,7 +837,7 @@
 # sent_timecode = 145161, 149621
 # phonetic_text = uː= dhaj dhaːj guːd -eːn / joːj =t =iː dhaːj jʔ -eːn =hoːb / uː= tak w= hiʤ eː- bi eːn //
 # text = uːdhaj dhaːj guːdeːn / joːjtiː dhaːj jʔeːnhoːb / uːtak whiʤ eːbi eːn //
-# text_en =  When people come to his place in number daily, the man leaves for the pilgrimage, they said.
+# text_en = When people come to his place in number daily, the man leaves for the pilgrimage, they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=145161|AlignEnd=145309|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	4	subj	_	AlignBegin=145309|AlignEnd=145457|Gloss=people|RX=[SBJ].[N].[COL].[M]|TokenType=Root
 3	dhaːj	_	ADP	POSTP	_	4	comp:obl	_	AlignBegin=145457|AlignEnd=145753|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -867,7 +867,7 @@
 # sent_timecode = 149621, 153813
 # phonetic_text = w= hiʤ eː- bi =jaːt // w= hiʤ =iːb // i- kati eːn //
 # text = whiʤ eːbijaːt // whiʤiːb // ikati eːn //
-# text_en =  He leaves for the pilgrimage, and he stays at the pilgrimage, they said.
+# text_en = He leaves for the pilgrimage, and he stays at the pilgrimage, they said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=149621|AlignEnd=149857|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	hiʤ	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=149857|AlignEnd=150094|Gloss=pilgrimage|RX=[N].[M]|TokenType=Root
 3	eː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=150094|AlignEnd=150252|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -889,7 +889,7 @@
 # sent_timecode = 153813, 158082
 # phonetic_text = ani ontʔa / w= hiʤ hiʤʤij -i diː -tiːt / jʔ -ani eːn / w= hawil oː= kina /
 # text = ani ontʔa / whiʤ hiʤʤiji diːtiːt / jʔani eːn / whawil oːkna /
-# text_en =  "As for me, then I shall leave for the pilgrimage and I'll even come this year, they said."
+# text_en = "As for me, then I shall leave for the pilgrimage and I'll even come this year, they said."
 1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	8	dislocated:subj	_	AlignBegin=153813|AlignEnd=153985|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	ontʔa	_	ADV	PTCL	_	1	discourse	_	AlignBegin=153985|AlignEnd=154157|Gloss=now|RX=[PTCL]|TokenType=Root
 3	/	_	PUNCT	_	_	1	punct	_	AlignBegin=154157|AlignEnd=154330|Gloss=/|TokenType=Break
@@ -916,7 +916,7 @@
 # sent_timecode = 158082, 165988
 # phonetic_text = jʔ -ani =hoːb / bak / nʔandaː =t heːtaː =t -i =na =t -i / whiː sʔa -a =b aka -jeː / lamma =t / dhaj -i =t rh -ani i- ni //
 # text = jʔajihoːb / bak / nʔandaːt heːtaːtinaːti / whiː sʔaːb akajeː / lammaːt / dhajiːt rhani ini //
-# text_en =  "When I come, I see a crowd of people there who were seated in the shadow of a wall", he said.
+# text_en = "When I come, I see a crowd of people there who were seated in the shadow of a wall", he said.
 1	jʔ	_	VERB	V2	VerbClass=2	3	comp	_	AlignBegin=158088|AlignEnd=158166|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 2	-ani	_	PRON	TAM.PNG	Aspect=Imp|Number=Sing|Person=1	1	subj/m	_	AlignBegin=158166|AlignEnd=158244|Gloss=-IPFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 3	=hoːb	_	SCONJ	CONJ	_	29	mod	_	AlignBegin=158244|AlignEnd=158322|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -957,7 +957,7 @@
 # sent_timecode = 165988, 166952
 # phonetic_text = baraːk / mmm /
 # text = baraːk / mmm /
-# text_en =  You, ... er,
+# text_en = You, ... er,
 1	baraːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Plur|Person=2	0	root	_	AlignBegin=165988|AlignEnd=166141|Gloss=2PL.M.NOM|RX=[PRO]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=166141|AlignEnd=166294|Gloss=/|TokenType=Break
 3	mmm	_	INTJ	HESIT	_	1	conj:dicto	_	AlignBegin=166545|AlignEnd=166749|Gloss=mmm|RX=[HESIT]|TokenType=Root
@@ -969,7 +969,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 166952, 171030
 # phonetic_text = am- mar~ri -jaː =t ʔamma rhi -i =hoːb / a- ʃanbiːb =hoːb / tak whiː ɖib -a =b rh -ani i- ni //
-# text_en =  "when I saw people gathered, when I look, I see a fallen man under them", he said.
+# text_en = "when I saw people gathered, when I look, I see a fallen man under them", he said.
 1	am-	_	AUX	V1	VerbClass=1|Voice=Rcp	3	comp/m	_	AlignBegin=166952|AlignEnd=167038|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
 2	mar~ri	_	VERB	V1	VerbClass=1	1	comp/m	_	AlignBegin=167038|AlignEnd=167124|Gloss=find~PLAC|RX=[V1].[DER]|TokenType=Root
 3	-jaː	_	AUX	_	_	5	mod	_	AlignBegin=167124|AlignEnd=167210|DerPos=VERB|Gloss=-CVB.MNR|TokenType=DerAff
@@ -996,12 +996,12 @@
 24	//	_	PUNCT	_	_	23	punct	_	AlignBegin=170179|AlignEnd=170384|Gloss=//|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_08_drunkard_190-200
+# text = dhaːj jʔeːtiːt / aʃambiːbhoːb / uːtak iʃawwi / isuːr geːboːn askinaːb akajeː / amarrihoːb / igirmaj geːb eːstʔi /
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 171030, 178795
 # phonetic_text = dhaːj jʔ -eːtiːt / a- ʃanbiːb =hoːb / uː= tak i= ʃawwi / i= suːr geːb =oːn askin -aː =b aka -j eː / a- manri =hoːb / i= girma -i geːb eː- stʔi /
-# text = dhaːj jʔeːtiːt / aʃambiːbhoːb / uːtak iʃawwi / isuːr geːboːn askinaːb akajeː / amarrihoːb / igirmaj geːb eːstʔi /
-# text_en =  "I go towards them and when I look, when I find that it is the man who used to live next to us, I sit next to his head
+# text_en = "I go towards them and when I look, when I find that he is the man who used to live next to us, I sit next to his head
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=171030|AlignEnd=171269|Gloss=DIR|RX=[POSTP]|TokenType=Root
 2	jʔ	_	VERB	V2	VerbClass=2	3	comp/m	_	AlignBegin=171269|AlignEnd=171389|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 3	-eːtiːt	_	AUX	_	_	6	mod	_	AlignBegin=171389|AlignEnd=171508|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff
@@ -1043,7 +1043,7 @@
 # sent_timecode = 178795, 180295
 # phonetic_text = waːw -ani i- ni //
 # text = waːwani ini //
-# text_en =  I weep", he said.
+# text_en = I weep", he said.
 1	waːw	_	VERB	V2	VerbClass=2	4	comp:obj	_	AlignBegin=178795|AlignEnd=178928|Gloss=weep|Reported=Yes|RX=[V2]|TokenType=Root
 2	-ani	_	PRON	TAM.PNG	Aspect=Imp|Number=Sing|Person=1	1	subj/m	_	AlignBegin=178928|AlignEnd=179061|Gloss=-IPFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 3	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=179061|AlignEnd=179194|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -1056,7 +1056,7 @@
 # sent_timecode = 180295, 182553
 # phonetic_text = oːn oː= tak iraːnaj / naːn hoːj ti- m- mar~raːj a- ndi =jaːt /
 # text = oːn oːtak iraːnaj / naːn hoːj timmarraːj andijaːt /
-# text_en =  I say: 'That man, gosh! what happened to him?" and
+# text_en = I say: 'That man, gosh! what happened to him?" and
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=180295|AlignEnd=180509|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=180509|AlignEnd=180616|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 3	tak	_	NOUN	N	Gender=Masc	9	comp:obj	_	AlignBegin=180616|AlignEnd=180723|Gloss=man|RX=[N].[M]|TokenType=Root
@@ -1078,7 +1078,7 @@
 # sent_timecode = 182553, 188430
 # phonetic_text = talaw -i =t uː= tak ʃanbiːb =aːt =heːb / jaː ʔar uːn allaːji / daːj =i =ka =oːkna iː- kti =jeːt toː= na / ti- kan -a i- ndi =heːb //
 # text = talaw -i =t uː= tak ʃanbiːb =aːt =heːb / jaː ʔar uːn allaːji / daːji =ka =oːkna iː- kti =jeːt toː= na / ti- kan -a i- ndi =heːb //
-# text_en =  the man opens the eyes, and he looks at me, and he tells me: "Guys! you knew God was better than you."
+# text_en = the man opens the eyes, and he looks at me, and he tells me: "Guys! you knew God was better than you."
 1	talaw	_	VERB	V2	VerbClass=2	6	conj:coord	_	AlignBegin=182553|AlignEnd=182712|Gloss=glimpse|RX=[V2]|TokenType=Root
 2	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	1	subj/m	_	AlignBegin=182712|AlignEnd=182871|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 3	=t	_	CCONJ	CONJ	_	1	cc	_	AlignBegin=182871|AlignEnd=183029|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -1180,7 +1180,7 @@
 # sent_timecode = 199655, 200718
 # phonetic_text = rh -an i- ndi eːn //
 # text = rhan indi eːn //
-# text_en =  "I saw it", he says, they said.
+# text_en = "I saw it", he says, they said.
 1	rh	_	VERB	V2	VerbClass=2	4	comp:obj	_	AlignBegin=199655|AlignEnd=199757|Gloss=see|Reported=Yes|RX=[V2]|TokenType=Root
 2	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	1	subj/m	_	AlignBegin=199757|AlignEnd=199860|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 3	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	4	subj/m	_	AlignBegin=199860|AlignEnd=199962|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -1194,7 +1194,7 @@
 # sent_timecode = 200718, 202993
 # phonetic_text = igeːsi aː= ʃuːk hoːj i- t- farʔi -na eːn //
 # text = igeːsi aːʃuːk hoːj itfarʔina eːn //
-# text_en =  Immediately his soul left him, they said.
+# text_en = Immediately his soul left him, they said.
 1	igeːsi	_	ADV	ADV	_	6	mod	_	AlignBegin=200718|AlignEnd=201043|Gloss=immediately|RX=[ADV]|TokenType=Root
 2	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	3	det	_	AlignBegin=201043|AlignEnd=201205|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 3	ʃuːk	_	NOUN	N	Gender=Masc|Number=Plur	6	subj	_	AlignBegin=201205|AlignEnd=201368|Gloss=soul|RX=[SBJ].[N].[PL].[M]|TokenType=Root
@@ -1212,7 +1212,7 @@
 # sent_timecode = 202993, 205140
 # phonetic_text = ʤanna =t -i tak i- kati eːn //
 # text = ʤannaːti tak ikati eːn //
-# text_en =  He becomes a man of the paradise, they said.
+# text_en = He becomes a man of the paradise, they said.
 1	ʤanna	_	NOUN	N	Gender=Fem	3	comp	_	AlignBegin=202998|AlignEnd=203141|Gloss=paradise|RX=[N].[F]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=203141|AlignEnd=203284|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	=i	_	ADP	CASE	Case=Gen	4	udep	_	AlignBegin=203284|AlignEnd=203426|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i

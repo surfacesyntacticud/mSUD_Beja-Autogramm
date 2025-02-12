@@ -3,7 +3,7 @@
 # text = aːdim hoːb =uːn / w= haːʃ =i =da tikʷjan =hoːb / aːn i= hajawaːna / suːr w= hadʔa =ju / i= ganfit =u =it // ontʔa / oː= mijʔat rhijaːn =eːb oː= doːr / i= ganfit =i =da eːjaan =it / jaː iraːnaj / girba mijʔat / rhina idiːn eːn //
 # phonetic_text = aːdim hoːbuːn / whaːʃida tikʷjanhoːb / aːn jhajawaːna / suːr whadʔaːju / iganfituːjt // ontʔa / oːmijʔat rhijaːneːb oːdoːr / iganfitida ʔeːjaːnit / jaː iraːnaj / girba mijʔat / rhina idiːn eːn //
 # text_en = When our ancestor Adam came down on earth  in the past, as the animal's chief was the hedgehog,  so,  when they saw footprints since they went to the hedgehog   they said: 'Gosh, we saw strange footprints!', they said.
-1	aːdim	_	PROPN	N	_	2	comp:appos	_	AlignBegin=0|AlignEnd=325|Gloss=Adam|RX=[N].[PROP]|TokenType=Root
+1	aːdim	_	PROPN	N	_	2	mod	_	AlignBegin=0|AlignEnd=325|Gloss=Adam|RX=[N].[PROP]|TokenType=Root
 2	hoːb	_	NOUN	N	Gender=Masc	9	subj	_	AlignBegin=325|AlignEnd=488|Gloss=grand-father|RX=[SBJ].[N].[M]|TokenType=Root
 3	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	2	udep@poss	_	AlignBegin=488|AlignEnd=651|Gloss==POSS.1PL.NOM|RX==[PRO]|TokenType=Clit
 4	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=651|AlignEnd=977|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -68,7 +68,7 @@
 # sent_id = BEJ_MV_NARR_18_Adam_devil_021-034
 # text = oː= mijʔat iʃbib =hoːb / oːt toː= na ombatoː / t= ʔani akteːn =eːt / tikati =jeːk / w= haˈwaːd / i= rizg =oːk ihariw bi= tdiːn =eːk / oː= mbʔi / naː =t ki= timriina idi eːn //
 # phonetic_text = oːmijʔat iʃbibhoːb / uːt tuːna ombatuː / tʔani akteːneːt / tikatjeːk / whaˈwaːd / irizgoːk jhiriw biddiːneːk / oːmbʔi / naːt kitmiriːna idi eːn //
-# text_en = When it looked at the footprints, "This thing, that one, if it is what I know of, if you don't look for your livelihood at night,  you won't find anything during the day", it said, they said.
+# text_en = When it looked at the footprints, "If it is this thing, that one, that I know of, if you don't look for your livelihood at night,  you won't find anything during the day", it said, they said.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=16549|AlignEnd=16719|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	mijʔat	_	NOUN	N	Gender=Masc	3	comp:obl	_	AlignBegin=16719|AlignEnd=16889|Gloss=footprint|RX=[N].[M]|TokenType=Root
 3	iʃbib	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	4	comp	_	AlignBegin=16889|AlignEnd=17115|Gloss=look\PFV|MGloss=3SG.M-look\PFV|MSeg=i-ʃbib|RX=[PNG]-[V1]|TokenType=Root
@@ -137,19 +137,19 @@
 11	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	12	det	_	AlignBegin=32122|AlignEnd=32195|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 12	haˈwaːd	_	NOUN	N	Gender=Masc	14	mod	_	AlignBegin=32195|AlignEnd=32268|Gloss=night|RX=[N].[M]|TokenType=Root
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=32268|AlignEnd=32534|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-14	tariːga	_	NOUN	N	Gender=Fem	9	dislocated:obj	_	AlignBegin=32534|AlignEnd=32672|Gloss=means|RX=[N].[F]|TokenType=Root
+14	tariːga	_	NOUN	N	Gender=Fem	18	comp:obj	_	AlignBegin=32534|AlignEnd=32672|Gloss=means|RX=[N].[F]|TokenType=Root
 15	=t	_	DET	DET	Gender=Fem	14	det	_	AlignBegin=32672|AlignEnd=32810|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-16	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=32810|AlignEnd=33884|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+16	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=32810|AlignEnd=33884|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 17	hoːj	_	ADP	POSTP	Case=Loc	18	comp:obl	_	AlignBegin=33884|AlignEnd=34299|Gloss=LOC|RX=[POSTP]|TokenType=Root
 18	timirn	_	VERB	V1	Aspect=Perf|Number=Plur|VerbClass=1	19	comp	_	AlignBegin=34299|AlignEnd=34548|Gloss=find\PFV|MGloss=2-find\PFV-PL|MSeg=ti-mir-n|RX=[PNG]-[V1]-[PNG]|TokenType=Root
-19	=eː	_	SCONJ	CONJ.REL	PronType=Rel	14	mod@relcl	_	AlignBegin=34548|AlignEnd=34631|Gloss==REL|RX==[CONJ]|TokenType=Clit
+19	=eː	_	SCONJ	CONJ.REL	PronType=Rel	20	mod@relcl	_	AlignBegin=34548|AlignEnd=34631|Gloss==REL|RX==[CONJ]|TokenType=Clit
 20	=na	_	NOUN	CONJ	_	21	subj	_	AlignBegin=34631|AlignEnd=34715|Gloss==thing|RX==[CONJ]|TokenType=Clit
 21	tikati	_	VERB	V1	Aspect=Imp|Gender=Fem|Number=Sing|VerbClass=1	22	comp	_	AlignBegin=34715|AlignEnd=34991|Gloss=become\IPFV|MGloss=3SG.F-become\IPFV|MSeg=ti-kati|RX=[PNG]-[V1].[IRG]|TokenType=Root
-22	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	dislocated:obj	_	AlignBegin=34991|AlignEnd=35130|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+22	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	dislocated:mod	_	AlignBegin=34991|AlignEnd=35130|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 23	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=35130|AlignEnd=35546|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 24	bi=	_	PART	PTCL	Mood=Opt	25	mod	_	AlignBegin=35546|AlignEnd=35643|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 25	tkaːj	_	VERB	V1	Gender=Fem|Mood=Opt|Number=Sing|VerbClass=1	26	comp	_	AlignBegin=35643|AlignEnd=35837|Gloss=become\NEG.OPT|MGloss=3SG.F-become\NEG.OPT|MSeg=t-kaːj|RX=[PNG]-[V1].[IRG]|TokenType=Root
-26	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	22	conj:dicto	_	AlignBegin=35837|AlignEnd=35935|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+26	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	22	conj:dicto	_	AlignBegin=35837|AlignEnd=35935|Gloss==REL.M|Reported=Yes|RX==[CONJ]|TokenType=Clit
 27	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=35935|AlignEnd=36195|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 28	=jaːt	_	CCONJ	CONJ	_	27	cc	_	AlignBegin=36195|AlignEnd=36325|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 29	//	_	PUNCT	PUNCT	_	27	punct	_	AlignBegin=36325|AlignEnd=37081|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
