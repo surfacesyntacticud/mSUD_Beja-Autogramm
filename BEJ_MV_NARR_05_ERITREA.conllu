@@ -1296,7 +1296,7 @@
 20	=heːb	_	PRON	PRO	Number=Sing|Person=1	18	comp:obj	_	AlignBegin=209831|AlignEnd=209935|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 21	han	_	ADV	ADV	PartType=Int	18	mod	_	AlignBegin=209935|AlignEnd=210345|Gloss=Q.PLR|RX=[ADV].[Q]|TokenType=Root
 22	a-	_	PRON	PNG	Number=Sing|Person=1	23	subj/m	_	AlignBegin=210345|AlignEnd=210550|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
-23	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	0	root	_	AlignBegin=210550|AlignEnd=210755|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root|TypeToken=stem
+23	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	0	root	_	AlignBegin=210550|AlignEnd=210755|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
 24	/	_	PUNCT	_	_	23	punct	_	AlignBegin=210755|AlignEnd=211166|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_05_eritrea_217-217

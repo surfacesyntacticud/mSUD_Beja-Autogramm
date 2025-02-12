@@ -1137,7 +1137,7 @@
 15	saffiimtini	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	18	comp:obj	_	AlignBegin=209525|AlignEnd=209831|Gloss=sieve|MGloss=sieve-MID-IPFV.3SG.F|MSeg=saffi-im-tini|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
 16	=heːb	_	PRON	PRO	Number=Sing|Person=1	15	comp:obj	_	AlignBegin=209831|AlignEnd=209935|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 17	han	_	ADV	ADV	PartType=Int	15	mod	_	AlignBegin=209935|AlignEnd=210345|Gloss=Q.PLR|RX=[ADV].[Q]|TokenType=Root
-18	andi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	0	root	_	AlignBegin=210345|AlignEnd=210755|Gloss=say\IPFV|MGloss=1SG-say\IPFV|MSeg=a-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root|TypeToken=stem
+18	andi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	0	root	_	AlignBegin=210345|AlignEnd=210755|Gloss=say\IPFV|MGloss=1SG-say\IPFV|MSeg=a-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 19	/	_	PUNCT	_	_	18	punct	_	AlignBegin=210755|AlignEnd=211166|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_05_eritrea_217-217
