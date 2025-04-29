@@ -6,7 +6,6 @@
 # phonetic_text = tak / balad gaːl =naːji / askin -aː =b =u /
 # text = tak / balad gaːlnaːj =iːb / askinaːb =u /
 # text_en = A man was living in one village,
-# tags = TODO
 1	tak	_	NOUN	N	Gender=Masc	7	subj	_	AlignBegin=0|AlignEnd=300|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=300|AlignEnd=600|Gloss=/|TokenType=Break
 3	balad	_	NOUN	N	Foreign=Yes|Gender=Masc	5	comp	_	AlignBegin=2256|AlignEnd=2622|Gloss=country|Lang=ar|RX=[N].[M].[BORR].[ARA]|TokenType=Root
