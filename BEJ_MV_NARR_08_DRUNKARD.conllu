@@ -90,7 +90,7 @@
 38	bi=	_	PART	PTCL	Mood=Opt	40	mod	_	AlignBegin=15564|AlignEnd=15648|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 39	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	40	subj/m	_	AlignBegin=15648|AlignEnd=15732|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 40	di	_	AUX	AUX.FUT	Mood=Opt|Polarity=Neg	41	comp	_	AlignBegin=15732|AlignEnd=15816|Gloss=say\OPT.NEG|RX=[AUX].[FUT]|TokenType=Root
-41	=jeːk	_	SCONJ	CONJ	_	49	mod	_	AlignBegin=15816|AlignEnd=15901|Gloss==if|RX==[CONJ]|TokenType=Clit
+41	=jeːk	_	SCONJ	CONJ	_	49	conj:coord	_	AlignBegin=15816|AlignEnd=15901|Gloss==if|RX==[CONJ]|TokenType=Clit
 42	//	_	PUNCT	_	_	41	punct	_	AlignBegin=15901|AlignEnd=16238|Gloss=//|TokenType=Break
 43	tara	_	CCONJ	CONJ	_	44	cc	_	AlignBegin=16379|AlignEnd=16682|Gloss=or|RX=[CONJ]|TokenType=Root
 44	tuːb	_	VERB	V2	VerbClass=2	48	comp:aux	_	AlignBegin=16682|AlignEnd=16834|Gloss=repent|RX=[V2]|TokenType=Root

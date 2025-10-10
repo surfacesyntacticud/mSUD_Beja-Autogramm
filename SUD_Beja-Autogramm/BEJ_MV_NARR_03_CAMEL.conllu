@@ -466,6 +466,7 @@
 # text = beːn khoːrʔarab =wa mariː daːjiːni / adi ini //
 # phonetic_text = beːn khoːrʔarabwa mariː daːjiːni / adi ini //
 # text_en = It should be in the direction of Khor Arab, over there", I said, he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	beːn	_	ADV	ADV	_	5	mod	_	AlignBegin=98178|AlignEnd=98549|Gloss=there|RX=[ADV]|TokenType=Root
 2	khoːrʔarab	_	PROPN	N	_	5	comp:obl	_	AlignBegin=98549|AlignEnd=98734|Gloss=Khor_Arab|RX=[N].[PROP]|TokenType=Root
 3	=wa	_	CCONJ	CONJ	_	2	cc	_	AlignBegin=98734|AlignEnd=98920|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -480,6 +481,7 @@
 # text = aː= nda / oː= kaːm rhaːb =a =ajt / i= sakana oːnaːj baː= daːja =t / j= hari aːn haːj jʔeːn =eːb ikati =jeːk / j= hari eːn / niːshariw =hoːk nijad //
 # phonetic_text = aːnda / oːkaːm rhaːbaːjt / isakana oːnaːj baːdaːjaːt / jhari aːn haːj jʔeːneːb ikatjeːk / jhari eːn / niːshiriwhoːk nijaːd //
 # text_en = As the men had seen the camel, (they said:) "Don't pay attention to this news! and if you can bring those camels we'll let you look for it with those camels.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=102326|AlignEnd=102484|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 2	nda	_	NOUN	N	Gender=Masc|Number=Plur	6	subj	_	AlignBegin=102484|AlignEnd=102643|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=102643|AlignEnd=102961|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -518,6 +520,7 @@
 # text = waːʤʤa =b han areː / tikteːn =eːb / tisidaliːw =eːb tiniːw =uːn / nhagit nijad idiːn =heːb ini //
 # phonetic_text = waʤʤaːb han areː / tikteːneːb / tisidaliːweːb tiniːwuːn / nhagit nijad idiːnheːb ini //
 # text_en = If you give us an appointment that you know and that you make in a near future  we'll wait for you", they told me, he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	waːʤʤa	_	NOUN	N	Gender=Masc	11	comp:obj	_	AlignBegin=109234|AlignEnd=109349|Gloss=appointment|RX=[N].[M]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=109349|AlignEnd=109465|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	han	_	PART	PTCL	_	1	discourse	_	AlignBegin=109465|AlignEnd=109696|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
@@ -542,6 +545,7 @@
 # text = geː eːn =eːt =i / ʔadim =eː =ka // oː= kaːm rhaːb iːktiːn =eːt toː= na aː= nda akan //
 # phonetic_text = geː eːneːti / admeːka // oːkaːm rhaːb iːktiːneːt toːna aːnda akan //
 # text_en = "So, whatever the words they told me, I understood that these men had seen the camel.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	geː	_	PART	PTCL	_	2	discourse	_	AlignBegin=115084|AlignEnd=115374|Gloss=DM|RX=[PTCL]|TokenType=Root
 2	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	8	comp	_	AlignBegin=115374|AlignEnd=115471|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 3	=eːt	_	ADP	PTCL	_	2	comp:obl	_	AlignBegin=115471|AlignEnd=115568|Gloss==RCPT|RX==[PTCL]|TokenType=Clit
@@ -567,6 +571,7 @@
 # text = ontʔa / faʤil uː= dhaj han areː / i= sakana miraːb akoː / eːn eː= riba ʔabika / uː= dhaj mhijaːna ini //
 # phonetic_text = ontʔa / faʤil uːdhaj han areː / isakana miraːb akoː / eːn eːrba ʔabka / uːdhaj mhijaːna ini //
 # text_en = "So, then in the morning, given that the people also by finding out about the news,  they were covering all the mountains in the morning", he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=120927|AlignEnd=121152|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=121152|AlignEnd=121378|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	faʤil	_	NOUN	N	Gender=Masc	11	mod	_	AlignBegin=121378|AlignEnd=121694|Gloss=morning|RX=[N].[M]|TokenType=Root
@@ -595,6 +600,7 @@
 # text = ani i= kaːm =i hoːj adif =t // haːj jʔan =t // agnif =t // eːn i= waːsir dhaːj daːsan =hoːb / gaba kalawa =uː =u / uː= kaːm //
 # phonetic_text = ani ikaːmi hoːj adift // haːj jʔant // agnift // eːn iwaːsir dhaːj daːsanhoːb / gaba kalawuː / uːkaːm //
 # text_en = "I went to look for my camel in it and I brought it back and I made it kneel down and when I put the saddle on it, the camel's belly was full.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	6	subj	_	AlignBegin=129291|AlignEnd=129594|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=129594|AlignEnd=129695|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	kaːm	_	NOUN	N	_	6	comp:obj	_	AlignBegin=129695|AlignEnd=129796|Gloss=camel|RX=[N]|TokenType=Root
@@ -630,6 +636,7 @@
 # text = ɖaːbi bi= idiː =jeːb hiːsan /
 # phonetic_text = ɖaːbi biːdiːjeːb hiːsan /
 # text_en = I thought it would not be able to run.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	ɖaːbi	_	VERB	V2	Number=Sing|VerbClass=2	3	comp:aux	_	AlignBegin=136561|AlignEnd=136889|Gloss=run|MGloss=run-FUT.SG|MSeg=ɖaːb-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
 2	bi=	_	PART	PTCL	Mood=Opt	3	mod	_	AlignBegin=136889|AlignEnd=136971|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 3	idiː	_	AUX	AUX.FUT	Gender=Masc|Mood=Opt|Number=Sing	4	comp	_	AlignBegin=136971|AlignEnd=137135|Gloss=say\NEG.OPT|MGloss=3SG.M-say\NEG.OPT|MSeg=i-diː|RX=[PNG]-[AUX].[FUT]|TokenType=Root
@@ -641,6 +648,7 @@
 # text = winneːt arkʷi /
 # phonetic_text = winneːt arkʷi /
 # text_en = I was very much afraid.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	winneːt	_	ADV	ADV	_	2	mod	_	AlignBegin=137876|AlignEnd=138255|Gloss=plenty|RX=[ADV]|TokenType=Root
 2	arkʷi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=138255|AlignEnd=138635|Gloss=fear\PFV|MGloss=1SG-fear\PFV|MSeg=a-rkʷi|RX=[PNG]-[V1]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=138635|AlignEnd=139015|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -649,6 +657,7 @@
 # text = aː= nda suːrni =heːb iːdn =eːb hiːsan /
 # phonetic_text = aːnda suːrniheːb iːdneːb hiːsan /
 # text_en = I thought the men would precede me.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=139015|AlignEnd=139212|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 2	nda	_	NOUN	N	Gender=Masc|Number=Plur	5	subj	_	AlignBegin=139212|AlignEnd=139409|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
 3	suːrni	_	VERB	V2	Number=Plur|VerbClass=2	5	comp:aux	_	AlignBegin=139409|AlignEnd=139671|Gloss=precede|MGloss=precede-FUT.PL|MSeg=suːr-ni|RX=[V2]-[TAM]|TokenType=Root
@@ -662,6 +671,7 @@
 # text = geː i= kam =hina / winneːt naʃʃalam =a kam =a // annafa =a =ajt //
 # phonetic_text = geː ikamhina / winneːt naʃʃalama kama // annafaːjt //
 # text_en = Anyhow, their camels were very athletic camels, because they were Annafa (camels). #
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	geː	_	PART	PTCL	_	3	discourse	_	AlignBegin=140985|AlignEnd=141367|Gloss=[DM]|RX=[PTCL]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=141367|AlignEnd=141494|Gloss=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 3	kam	_	NOUN	N	Number=Plur	8	subj	_	AlignBegin=141494|AlignEnd=141622|Gloss=camel\[PL]|RX=[SBJ].[N]|TokenType=Root
@@ -682,6 +692,7 @@
 # text = ontʔa // oː= kaːm // eːn i= waːsir dhaːj daːsan =hoːb // miʃi // bass dalboːbjaː ini //
 # phonetic_text = ontʔa // oːkaːm // eːn iwaːsir dhaːj daːsanhoːb // miʃi // bass dalboːbja ini //
 # text_en = So,  when I put the saddle on the camel, it simply suffered from a slight diarrhea", he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	ontʔa	_	PART	PTCL	_	4	discourse	_	AlignBegin=145459|AlignEnd=145693|Gloss=now|RX=[PTCL]|TokenType=Root
 2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=145693|AlignEnd=147674|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=147674|AlignEnd=147799|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -705,6 +716,7 @@
 # text = huːʃjaː ini //
 # phonetic_text = huːʃja ini //
 # text_en = "It had diarrhea", he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	huːʃjaː	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	2	comp:obj	_	AlignBegin=152154|AlignEnd=152458|Gloss=have_diarrhea|MGloss=have_diarrhea-PFV.3SG.M|MSeg=huːʃ-jaː|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
 2	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=152458|AlignEnd=152762|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
 3	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=152762|AlignEnd=153408|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -713,6 +725,7 @@
 # text = huːʃjaː /
 # phonetic_text = huːʃja /
 # text_en = "It had diarrhea.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	huːʃjaː	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=153408|AlignEnd=153693|Gloss=have_diarrhea|MGloss=have_diarrhea-PFV.3SG.M|MSeg=huːʃ-jaː|RX=[V2]-[TAM].[PNG]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=153693|AlignEnd=153978|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
@@ -720,6 +733,7 @@
 # text = haːjloː / haːj nidif =t // ti= dangar =t =i girma =i // haːj ningad =eːb oː= doːr / aː= lil hoːj hiːra~reːrjaːn /
 # phonetic_text = hajloː / haːj nidift // tidangarti girmaːj // haːj ningadeːb oːdoːr / aːlil hoːj hiːrareːrjaːn /
 # text_en = Anyway we left with it and when we stopped with it at the beginning of the racetrack, the ropes became loose on it.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	haːjloː	_	PART	PTCL	_	4	discourse	_	AlignBegin=153978|AlignEnd=154275|Gloss=anyway|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=154275|AlignEnd=155165|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	haːj	_	ADP	POSTP	Case=Com	4	udep	_	AlignBegin=155165|AlignEnd=155386|Gloss=COM|RX=[POSTP]|TokenType=Root
@@ -749,6 +763,7 @@
 # text = adaːjid /
 # phonetic_text = adaːjid /
 # text_en = I tightened them well.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	adaːjid	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=160052|AlignEnd=160416|Gloss=gird\INT.PFV|MGloss=1SG-gird\INT.PFV|MSeg=a-daːjid|RX=[PNG]-[V1].[DER]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=160416|AlignEnd=161572|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
@@ -756,6 +771,7 @@
 # text = areː mhasi / baraː ti= dangar dʔitiːt / hinin rhisat =oːk ʔeːnaj // malia rhistin =hoːn eːn =it =heːb //
 # phonetic_text = areː mhasi / baraː tidangar dʔitiːt / hinin rhisatoːk ʔeːnaj // malja rhistinhoːn eːnitheːb //
 # text_en = Then, again,  they get ready on the racetrack and (they said:) "We are going to show you!" Because they had told me: "Then, you'll show us!"
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	areː	_	CCONJ	PTCL	_	7	cc	_	AlignBegin=161572|AlignEnd=161851|Gloss=then|RX=[PTCL]|TokenType=Root
 2	mhasi	_	PART	PTCL	_	7	discourse	_	AlignBegin=161851|AlignEnd=162131|Gloss=again|RX=[PTCL]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=162131|AlignEnd=163052|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -781,6 +797,7 @@
 # text = haːj insin =it / i= kam =eː / dangar idʔin =eːb oː= doːr // taːt ti= ɖambijaː aːn aː= kam / ʔakra ɖab ɖaːbiːn =eː =naː =ji sabbiː / bak / i= faggad =eː =d itnʔaːgna ini //
 # phonetic_text = haːj insinit / ikameː / dangar idʔineːb oːdoːr // taːt tiɖambija aːn aːkam / ʔakra ɖab ɖaːbiːneːnaːji sabbiː / bak / ifaggadeːd itnʔaːgna ini //
 # text_en = Since they had brought them upstream,  when they put their camels on the racetrack, because they were running so fast, the soles of these camels were turned over towards the audience like that", he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	haːj	_	ADP	POSTP	Case=Com	2	mod	_	AlignBegin=167328|AlignEnd=167714|Gloss=COM|RX=[POSTP]|TokenType=Root
 2	insin	_	VERB	V1	Aspect=Perf|Number=Plur|VerbClass=1	3	comp	_	AlignBegin=167714|AlignEnd=168004|Gloss=go_upstream\PFV|MGloss=3-go_upstream\PFV-PL|MSeg=i-nsi-n|RX=[PNG]-[V1]-[PNG]|TokenType=Root
 3	=it	_	SCONJ	CONJ	_	10	mod	_	AlignBegin=168004|AlignEnd=168101|Gloss==CSL|RX==[CONJ]|TokenType=Clit
@@ -824,6 +841,7 @@
 # text = ontʔa / iraːnaj aː= nda / kak iːwr =heːb ijadna ani =hoːb ? i= kaːm =i miʃi huːʃaːb ki= iki ini // winneːt huːʃjaː =ajt //
 # phonetic_text = ontʔa / iraːnaj aːnda / kak iːwrheːb ijadna anjhoːb / ikaːmi miʃi huːʃaːb kiːki ini // winneːt huːʃjajt //
 # text_en = "So,  gosh! when I said: "What are the men going to do to me?" my camel did not have a simple diarrhea", he said. "Because it had had a terrible diarrhea.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	ontʔa	_	PART	PTCL	_	5	discourse	_	AlignBegin=178731|AlignEnd=178961|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=178961|AlignEnd=179574|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 3	iraːnaj	_	INTJ	_	_	5	discourse	_	AlignBegin=179574|AlignEnd=179836|Gloss=gosh|RX=[EXCL]|TokenType=Root
@@ -855,6 +873,7 @@
 # text = halboːbal iki /
 # phonetic_text = halboːbal iki /
 # text_en = (and its belly) was flapping a lot.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	halboːbal	_	VERB	V2	VerbClass=2	2	comp:aux	_	AlignBegin=184919|AlignEnd=185433|Gloss=swing|MGloss=swing-CVB.MNR-AUG|MSeg=halboːb-a-l|RX=[V2]-.-.|TokenType=Root
 2	iki	_	AUX	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=185433|AlignEnd=185948|Gloss=become\PFV|MGloss=3SG.M-become\PFV|MSeg=i-ki|RX=[PNG]-[V1].[IRG]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=185948|AlignEnd=186463|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -863,6 +882,7 @@
 # text = geː suːr sakan =eː =naː =t =i =ka / tʔa diːseːt / dʔam hoːj amri /
 # phonetic_text = geː suːr sakaneːnaːtika / tʔa diːseːt / dʔam hoːj amri /
 # text_en = So, in spite of what I did before, now slowly I really liked it.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	geː	_	PART	PTCL	_	3	discourse	_	AlignBegin=186463|AlignEnd=186841|Gloss=DM|RX=[PTCL]|TokenType=Root
 2	suːr	_	ADV	ADV	_	3	mod	_	AlignBegin=186841|AlignEnd=187219|Gloss=before|RX=[ADV]|TokenType=Root
 3	sakan	_	VERB	V2	Number=Sing|VerbClass=2	4	comp	_	AlignBegin=187219|AlignEnd=187327|Gloss=do|MGloss=do-PFV.1SG|MSeg=sak-an|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -884,6 +904,7 @@
 # text = aː= lil hiːra~reːrjaːn / ti= gaːrati =wwa //
 # phonetic_text = aːlil hiːrareːrjaːn / tigaːratiwwa //
 # text_en = The ropes were too loose. And the girth as well.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=189793|AlignEnd=189991|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 2	lil	_	NOUN	N	Gender=Masc|Number=Plur	3	subj	_	AlignBegin=189991|AlignEnd=190190|Gloss=rope\PL|RX=[SBJ].[N].[M]|TokenType=Root
 3	hiːra~reːrjaːn	_	VERB	V2	Number=Plur|VerbClass=2	0	root	_	AlignBegin=190190|AlignEnd=190587|Gloss=walk\PLAC|MGloss=walk\PLAC-PFV.3PL|MSeg=hiːra~reːr-jaːn|RX=[V2].[DER]-[TAM].[PNG]|TokenType=Root
@@ -897,6 +918,7 @@
 # text = areː adaːjid /
 # phonetic_text = areː adaːjid /
 # text_en = I tightened them again,
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	areː	_	CCONJ	PTCL	_	2	cc	_	AlignBegin=192664|AlignEnd=193005|Gloss=then|RX=[PTCL]|TokenType=Root
 2	adaːjid	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=193005|AlignEnd=193346|Gloss=gird\INT.PFV|MGloss=1SG-gird\INT.PFV|MSeg=a-daːjid|RX=[PNG]-[V1].[DER]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=193346|AlignEnd=193687|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -905,6 +927,7 @@
 # text = haːj ansi //
 # phonetic_text = haːj ansi //
 # text_en = I brought it upstream".
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	haːj	_	ADP	POSTP	Case=Com	2	mod	_	AlignBegin=193687|AlignEnd=193960|Gloss=COM|RX=[POSTP]|TokenType=Root
 2	ansi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	0	root	_	AlignBegin=193960|AlignEnd=194233|Gloss=go_upstream\PFV|MGloss=1SG-go_upstream\PFV|MSeg=a-nsi|RX=[PNG]-[V1]|TokenType=Root
 3	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=194233|AlignEnd=194507|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -913,6 +936,7 @@
 # text = tʔa baruːk dʔijaː =t rhiisa =hoːn //
 # phonetic_text = tʔa baruːk dʔijaːt rhisaːhoːn //
 # text_en = "Now, do it! show us!" (they said)
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	tʔa	_	ADV	ADV	_	3	discourse	_	AlignBegin=194507|AlignEnd=194830|Gloss=now|RX=[ADV]|TokenType=Root
 2	baruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	3	subj	_	AlignBegin=194830|AlignEnd=195153|Gloss=2SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
 3	dʔijaː	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	5	conj:coord	_	AlignBegin=195153|AlignEnd=195368|Gloss=do|MGloss=do-IMP.SG.M|MSeg=dʔi-jaː|RX=[V1].[IRG]-[TAM].[PNG]|TokenType=Root
@@ -925,6 +949,7 @@
 # text = dangar adʔi =hoːb / hoːj daːjan =i daːj ka= akan /
 # phonetic_text = dangar adʔihoːb / hoːj daːjani daːj kaːkan /
 # text_en = "When I got to the racetrack I don't know how I got up on it!
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	dangar	_	NOUN	N	Gender=Fem	2	comp:obj	_	AlignBegin=197172|AlignEnd=197444|Gloss=racetrack|RX=[N].[F]|TokenType=Root
 2	adʔi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	3	comp	_	AlignBegin=197444|AlignEnd=197625|Gloss=do\PFV|MGloss=1SG-do\PFV|MSeg=a-dʔi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 3	=hoːb	_	SCONJ	CONJ	_	6	mod	_	AlignBegin=197625|AlignEnd=197716|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -941,6 +966,7 @@
 # text = oːn oː= kaːm // asikʷ =t asingad /
 # phonetic_text = oːn oːkaːm // asikʷt asingad /
 # text_en = I pulled on the camel, and made it stop.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=199589|AlignEnd=199798|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=199798|AlignEnd=199903|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 3	kaːm	_	NOUN	N	_	5	comp:obj	_	AlignBegin=199903|AlignEnd=200008|Gloss=camel|RX=[N]|TokenType=Root
@@ -954,6 +980,7 @@
 # text = hoːj tikʷan =t /
 # phonetic_text = hoːj tikʷant /
 # text_en = I got down from it [and]
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	hoːj	_	ADP	POSTP	Case=Loc	2	comp:obl	_	AlignBegin=202438|AlignEnd=202821|Gloss=LOC|RX=[POSTP]|TokenType=Root
 2	tikʷan	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=202821|AlignEnd=203076|Gloss=go_down|MGloss=go_down-PFV.1SG|MSeg=tikʷ-an|RX=[V2]-[TAM].[PNG]|TokenType=Root
 3	=t	_	CCONJ	CONJ	_	2	cc	_	AlignBegin=203076|AlignEnd=203204|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -963,6 +990,7 @@
 # text = whiː hamʃuːkan =hoːb // eːn i= babʔa =jeː / diluːli boːj dh =i lawjaː ini // aːn# aw# uː= kaːm hasara / winneːt ɖaːbaːb =u =it //
 # phonetic_text = whiː hamʃuːkanhoːb // eːn ibabʔaːjeː / diluːli boːj dhi lawja ini // aːn# aw# uːkaːm hasara / winneːt ɖaːbaːbujt //
 # text_en = When I rested under it,  blood appeared to me that was dripping from the fabric of its armpits, he said,  er, because the camel had run a lot".
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	whiː	_	ADP	POSTP	_	2	mod	_	AlignBegin=203963|AlignEnd=204431|Gloss=under|RX=[POSTP]|TokenType=Root
 2	hamʃuːkan	_	VERB	V2	Number=Sing|VerbClass=2	3	comp	_	AlignBegin=204431|AlignEnd=204743|Gloss=breathe|MGloss=breathe-PFV.1SG|MSeg=hamʃuːk-an|RX=[V2]-[TAM].[PNG]|TokenType=Root
 3	=hoːb	_	SCONJ	CONJ	_	10	mod	_	AlignBegin=204743|AlignEnd=204899|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -995,6 +1023,7 @@
 # text = jaː iraːnaj aːn hinin / tiːlaleːnan =i tiːlal =eː =ka // tʔa areː / geː / niraːkʷ =hoːk nijad =aj // malia doːr / dʔijaː =t rhiisa =hoːn eːn =heːb //
 # phonetic_text = jaː iraːnaj aːn hinin / tiːlaleːnani tiːlaleːka // tʔa areː / geː / niraːkʷhoːk nijadaj // malja doːr / dʔijaːt rhisaːhoːn eːnheːb //
 # text_en = "Gosh, us, whatever our ideas before,  now, then, really,  we will be terrified of you, so do it once more, and show us!", they told me.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	jaː	_	PART	PTCL	_	2	mod	_	AlignBegin=212557|AlignEnd=212786|Gloss=ADRF|InIdiom=Yes|RX=[PTCL]|TokenType=Root
 2	iraːnaj	_	INTJ	_	ExtPos=INTJ	4	discourse	_	AlignBegin=212786|AlignEnd=213015|Gloss=gosh|Idiom=Yes|RX=[EXCL]|TokenType=Root
 3	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	4	det	_	AlignBegin=213015|AlignEnd=213244|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
@@ -1031,6 +1060,7 @@
 # text = malia doːr adʔi =t rhisan / beːn uː= kaːm // winneːt dagʷaːgʷ kaːm =u =it /
 # phonetic_text = malja doːr adʔit rhisan / beːn uːkaːm // winneːt dagʷaːgʷ kaːmuːjt /
 # text_en = "I did another one and I showed them. Because this camel was a very fast camel!
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	malia	_	ADJ	NUM	_	2	mod	_	AlignBegin=222202|AlignEnd=222548|Gloss=two|MGloss=two-ORD|MSeg=mali-a|RX=[NUM]-[NUM]|TokenType=Root
 2	doːr	_	NOUN	N	Gender=Masc	3	mod	_	AlignBegin=222548|AlignEnd=222894|Gloss=time|RX=[N].[M]|TokenType=Root
 3	adʔi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	5	conj:coord	_	AlignBegin=222894|AlignEnd=223124|Gloss=do\PFV|MGloss=1SG-do\PFV|MSeg=a-dʔi|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -1052,6 +1082,7 @@
 # text = ani i= kna =ji / doːr ʔamaːb =i ini //
 # phonetic_text = ani aknaːji / doːr amaːbi ini //
 # text_en = I have ridden it myself once", he said.
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	7	subj	_	AlignBegin=227447|AlignEnd=227691|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=227691|AlignEnd=227772|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	kna	_	PRON	PRO	Reflex=Yes	1	mod	_	AlignBegin=227772|AlignEnd=227854|Gloss=owner|RX=[SBJ].[PRO].[REFL]|TokenType=Root

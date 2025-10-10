@@ -79,7 +79,7 @@
 30	giːgi	_	VERB	V2	Number=Sing|VerbClass=2	32	comp:aux	_	AlignBegin=15227|AlignEnd=15564|Gloss=leave|MGloss=leave-FUT.SG|MSeg=giːg-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
 31	bi=	_	PART	PTCL	Mood=Opt	32	mod	_	AlignBegin=15564|AlignEnd=15648|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 32	idi	_	AUX	AUX.FUT	Gender=Masc|Mood=Opt|Number=Sing|Polarity=Neg	33	comp	_	AlignBegin=15648|AlignEnd=15816|Gloss=say\OPT.NEG|MGloss=3SG.M-say\OPT.NEG|MSeg=i-di|RX=[PNG]-[AUX].[FUT]|TokenType=Root
-33	=jeːk	_	SCONJ	CONJ	_	39	mod	_	AlignBegin=15816|AlignEnd=15901|Gloss==if|RX==[CONJ]|TokenType=Clit
+33	=jeːk	_	SCONJ	CONJ	_	39	conj:coord	_	AlignBegin=15816|AlignEnd=15901|Gloss==if|RX==[CONJ]|TokenType=Clit
 34	//	_	PUNCT	_	_	33	punct	_	AlignBegin=15901|AlignEnd=16238|Gloss=//|TokenType=Break
 35	tara	_	CCONJ	CONJ	_	36	cc	_	AlignBegin=16379|AlignEnd=16682|Gloss=or|RX=[CONJ]|TokenType=Root
 36	tuːbi	_	VERB	V2	Number=Sing|VerbClass=2	38	comp:aux	_	AlignBegin=16682|AlignEnd=16985|Gloss=repent|MGloss=repent-FUT.SG|MSeg=tuːb-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
