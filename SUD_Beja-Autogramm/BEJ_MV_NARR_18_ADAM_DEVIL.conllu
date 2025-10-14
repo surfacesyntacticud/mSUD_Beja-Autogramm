@@ -174,13 +174,13 @@
 4	=da	_	ADP	POSTP	_	5	comp:obl	_	AlignBegin=38587|AlignEnd=38680|Gloss==DIR|RX==[POSTP]|TokenType=Clit
 5	jʔeːtiːt	_	VERB	V2	VerbClass=2	20	mod	_	AlignBegin=38680|AlignEnd=38959|Gloss=come|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]-.|TokenType=Root
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=38959|AlignEnd=39098|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-7	dar	_	NOUN	N	Gender=Masc	20	comp:obj	_	AlignBegin=39098|AlignEnd=39237|Gloss=side|RX=[N].[M]|TokenType=Root
+7	dar	_	NOUN	N	Gender=Masc	20	comp:obj@R	_	AlignBegin=39098|AlignEnd=39237|Gloss=side|RX=[N].[M]|TokenType=Root
 8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=39237|AlignEnd=39516|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 9	hamʃak	_	ADV	IDEOPH	_	10	conj:redup	_	AlignBegin=39516|AlignEnd=39792|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
 10	hamʃak	_	ADV	IDEOPH	_	12	conj:redup	_	AlignBegin=39792|AlignEnd=40068|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
 11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=40068|AlignEnd=40345|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 12	hamʃak	_	ADV	IDEOPH	_	13	conj:redup	_	AlignBegin=40345|AlignEnd=40608|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
-13	hamʃak	_	ADV	IDEOPH	_	20	comp:obj	_	AlignBegin=40608|AlignEnd=40871|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
+13	hamʃak	_	ADV	IDEOPH	_	20	comp:obj@T	_	AlignBegin=40608|AlignEnd=40871|Gloss=rattle|RX=[IDEOPH]|TokenType=Root
 14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=40871|AlignEnd=41135|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 15	eːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	17	det	_	AlignBegin=41135|AlignEnd=41490|Gloss=PROX.PL.F.ACC|RX=[DEM]|TokenType=Root
 16	ti=	_	DET	DET	Definite=Def|Gender=Fem	17	det	_	AlignBegin=41490|AlignEnd=41579|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -303,7 +303,7 @@
 8	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	27	subj	_	AlignBegin=70183|AlignEnd=70461|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=70461|AlignEnd=71206|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 10	t=	_	DET	DET	Definite=Def|Gender=Fem	11	det	_	AlignBegin=71206|AlignEnd=71328|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-11	hadʔaaːjji	_	NOUN	N	_	27	comp:obj	_	AlignBegin=71328|AlignEnd=71573|Gloss=chief|MGloss=chief-ABST|MSeg=hadʔa-aːjji|RX=[N]-.|TokenType=Root
+11	hadʔaaːjji	_	NOUN	N	_	27	comp:obj@T	_	AlignBegin=71328|AlignEnd=71573|Gloss=chief|MGloss=chief-ABST|MSeg=hadʔa-aːjji|RX=[N]-.|TokenType=Root
 12	t=	_	DET	DET	Definite=Def|Gender=Fem	13	det	_	AlignBegin=71573|AlignEnd=71756|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 13	hajʔa	_	NOUN	N	Gender=Fem	27	mod	_	AlignBegin=71756|AlignEnd=71940|Gloss=manner|RX=[N].[F]|TokenType=Root
 14	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	15	det	_	AlignBegin=71940|AlignEnd=72032|Gloss=DEF.SG.F.ACC=|RX=[DET]=|TokenType=Clit
@@ -314,10 +314,10 @@
 19	//	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=72675|AlignEnd=73590|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 20	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	22	det	_	AlignBegin=73590|AlignEnd=73846|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 21	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	det	_	AlignBegin=73846|AlignEnd=73974|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-22	mijʔat	_	NOUN	N	Gender=Masc	27	comp:obj	_	AlignBegin=73974|AlignEnd=74103|Gloss=footprint|RX=[N].[M]|TokenType=Root
+22	mijʔat	_	NOUN	N	Gender=Masc	25	udep	_	AlignBegin=73974|AlignEnd=74103|Gloss=footprint|RX=[N].[M]|TokenType=Root
 23	oːnaːj	_	DET	DEM	Case=Gen|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	22	udep	_	AlignBegin=74103|AlignEnd=74360|Gloss=PROX.SG.M.GEN|RX=[DEM]|TokenType=Root
 24	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=74360|AlignEnd=74807|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-25	ʔankʷana	_	NOUN	N	Gender=Masc	27	comp:obj	_	AlignBegin=74807|AlignEnd=75048|Gloss=owner|RX=[N].[M]|TokenType=Root
+25	ʔankʷana	_	NOUN	N	Gender=Masc	27	comp:obj@R	_	AlignBegin=74807|AlignEnd=75048|Gloss=owner|RX=[N].[M]|TokenType=Root
 26	ka=	_	PART	PTCL	Aspect=Imp	27	mod	_	AlignBegin=75048|AlignEnd=75128|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
 27	ahi	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	28	comp:obj	_	AlignBegin=75128|AlignEnd=75290|Gloss=give\PFV|MGloss=1SG-give\PFV|MSeg=a-hi|Reported=Yes|RX=[PNG]-[V1].[IRG]|TokenType=Root
 28	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=75290|AlignEnd=75532|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -522,7 +522,7 @@
 6	=aj	_	CCONJ	CONJ	_	5	cc	_	AlignBegin=122123|AlignEnd=122203|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 7	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=122203|AlignEnd=122443|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 8	malia	_	ADJ	PTCL	_	10	discourse	_	AlignBegin=122443|AlignEnd=122826|Gloss=two|MGloss=two-ORD|MSeg=mali-a|RX=[PTCL]-[NUM]|TokenType=Root
-9	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	10	comp:obj	_	AlignBegin=122826|AlignEnd=123210|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
+9	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	10	dislocated:obj	_	AlignBegin=122826|AlignEnd=123210|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
 10	kantiːm	_	VERB	V1	Aspect=Imp|VerbClass=1	12	comp	_	AlignBegin=123210|AlignEnd=123338|Gloss=arrive\IPFV.2SG.M|RX=[V1]|TokenType=Root
 11	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	10	comp:obj	_	AlignBegin=123338|AlignEnd=123466|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 12	=hoːb	_	SCONJ	CONJ	_	14	mod	_	AlignBegin=123466|AlignEnd=123594|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -1461,8 +1461,8 @@
 # text_en = 'Now, this is where I wanted you to be,  stay!' he says, they said.
 1	ontʔa	_	PART	PTCL	_	2	discourse	_	AlignBegin=316585|AlignEnd=316922|Gloss=now|RX=[PTCL]|TokenType=Root
 2	iːshirw	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	10	conj:coord	_	AlignBegin=316922|AlignEnd=317175|Gloss=seek\AOR|MGloss=1SG-CAUS-seek\AOR|MSeg=iː-s-hirw|RX=[PNG]-[V1].[DER]-[V1]|TokenType=Root
-3	=oːkna	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	2	comp:obj	_	AlignBegin=317175|AlignEnd=317260|Gloss==POSS.2PL.ACC|RX==[PRO]|TokenType=Clit
-4	mhiːn	_	NOUN	N	Gender=Masc	2	comp:obj	_	AlignBegin=317260|AlignEnd=317597|Gloss=place|RX=[N].[M]|TokenType=Root
+3	=oːkna	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	2	comp:obj@R	_	AlignBegin=317175|AlignEnd=317260|Gloss==POSS.2PL.ACC|RX==[PRO]|TokenType=Clit
+4	mhiːn	_	NOUN	N	Gender=Masc	2	comp:obj@T	_	AlignBegin=317260|AlignEnd=317597|Gloss=place|RX=[N].[M]|TokenType=Root
 5	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=317597|AlignEnd=318325|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 6	t=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	7	subj	_	AlignBegin=318325|AlignEnd=318430|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 7	heːn	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	4	mod@relcl	_	AlignBegin=318430|AlignEnd=318640|Gloss=be_there\IPFV|MGloss=be_there\IPFV-3PL|MSeg=heː-n|RX=[V1].[IRG]-[PNG]|TokenType=Root

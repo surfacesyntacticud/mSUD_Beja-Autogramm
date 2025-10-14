@@ -423,9 +423,9 @@
 8	doːr	_	NOUN	N	ExtPos=SCONJ|Gender=Masc	16	mod	_	AlignBegin=77151|AlignEnd=77293|Gloss=time|Idiom=Yes|RX=[N].[M]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=77293|AlignEnd=78459|TokenType=Break
 10	i=	_	DET	DET	Definite=Def|Gender=Masc	11	det	_	AlignBegin=78459|AlignEnd=78599|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-11	kaːm	_	NOUN	N	_	16	comp:obj	_	AlignBegin=78599|AlignEnd=78739|Gloss=camel|RX=[N]|TokenType=Root
+11	kaːm	_	NOUN	N	_	16	comp:obj@R	_	AlignBegin=78599|AlignEnd=78739|Gloss=camel|RX=[N]|TokenType=Root
 12	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	11	udep@poss	_	AlignBegin=78739|AlignEnd=78880|Gloss==POSS1.SG.ACC|RX==[PRO]|TokenType=Clit
-13	jam	_	NOUN	N	Gender=Masc|Number=Plur	16	comp:obj	_	AlignBegin=78880|AlignEnd=79301|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
+13	jam	_	NOUN	N	Gender=Masc|Number=Plur	16	comp:obj@T	_	AlignBegin=78880|AlignEnd=79301|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
 14	gʷʔa	_	VERB	V2	VerbClass=2	15	comp/m	_	AlignBegin=79301|AlignEnd=79385|Gloss=drink|RX=[V2]|TokenType=Root
 15	-s	_	AUX	V2	VerbClass=2|Voice=Cau	16	comp/m	_	AlignBegin=79385|AlignEnd=79469|DerPos=VERB|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
 16	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	18	comp:pred	_	AlignBegin=79469|AlignEnd=79553|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
@@ -601,13 +601,13 @@
 29	=jeːk	_	SCONJ	CONJ	_	36	mod	_	AlignBegin=106805|AlignEnd=106901|Gloss==if|RX==[CONJ]|TokenType=Clit
 30	/	_	PUNCT	PUNCT	_	29	punct	_	AlignBegin=106901|AlignEnd=107187|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 31	j=	_	DET	DET	Definite=Def|Gender=Masc	32	det	_	AlignBegin=107187|AlignEnd=107283|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-32	hari	_	NOUN	N	Gender=Masc	36	comp:obj	_	AlignBegin=107283|AlignEnd=107379|Gloss=camel|RX=[N].[M]|TokenType=Root
+32	hari	_	NOUN	N	Gender=Masc	36	comp:obj@T	_	AlignBegin=107283|AlignEnd=107379|Gloss=camel|RX=[N].[M]|TokenType=Root
 33	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	32	det	_	AlignBegin=107379|AlignEnd=107571|Gloss=PROX.PL.M.ACC|RX=[DEM]|TokenType=Root
 34	/	_	PUNCT	PUNCT	_	32	punct	_	AlignBegin=107571|AlignEnd=107763|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 35	niː-	_	PRON	TAM.PNG	Number=Plur	36	subj/m	_	AlignBegin=107763|AlignEnd=107854|Gloss=FUT.PL-|RX=[TAM].[PNG]-|TokenType=InflAff
 36	s-	_	AUX	V1	VerbClass=1|Voice=Cau	40	comp:aux	_	AlignBegin=107854|AlignEnd=107945|DerPos=VERB|Gloss=CAUS-|RX=[V1].[DER]-|TokenType=DerAff
 37	hariw	_	VERB	V1	VerbClass=1	36	comp/m	_	AlignBegin=107945|AlignEnd=108036|Gloss=seek|RX=[V1]|TokenType=Root
-38	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	36	comp:obj	_	AlignBegin=108036|AlignEnd=108127|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
+38	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	36	comp:obj@R	_	AlignBegin=108036|AlignEnd=108127|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 39	ni-	_	PRON	PNG	Number=Plur|Person=1	40	subj/m	_	AlignBegin=108127|AlignEnd=108309|Gloss=1PL-|RX=[PNG]-|TokenType=InflAff
 40	jad	_	AUX	AUX.FUT	Aspect=Imp	0	root	_	AlignBegin=108309|AlignEnd=108492|Gloss=say\IPFV|Reported=Yes|RX=[AUX].[FUT]|TokenType=Root
 41	//	_	PUNCT	PUNCT	_	40	punct	_	AlignBegin=108492|AlignEnd=109234|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -617,7 +617,7 @@
 # phonetic_text = waʤʤaːb han areː / tikteːneːb / tisidaliːweːb tiniːwuːn / nhagit nijad idiːnheːb ini //
 # text_en = If you give us an appointment that you know and that you make in a near future  we'll wait for you", they told me, he said.
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
-1	waːʤʤa	_	NOUN	N	Gender=Masc	15	comp:obj	_	AlignBegin=109234|AlignEnd=109349|Gloss=appointment|RX=[N].[M]|TokenType=Root
+1	waːʤʤa	_	NOUN	N	Gender=Masc	15	comp:obj@T	_	AlignBegin=109234|AlignEnd=109349|Gloss=appointment|RX=[N].[M]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=109349|AlignEnd=109465|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	han	_	PART	PTCL	_	1	discourse	_	AlignBegin=109465|AlignEnd=109696|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
 4	areː	_	CCONJ	PTCL	_	1	cc	_	AlignBegin=109696|AlignEnd=109927|Gloss=then|RX=[PTCL]|TokenType=Root
@@ -632,7 +632,7 @@
 13	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	1	mod@relcl	_	AlignBegin=111314|AlignEnd=111434|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 14	ti-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	15	subj/m	_	AlignBegin=111434|AlignEnd=111593|Gloss=2SG.M-|RX=[PNG]-|TokenType=InflAff
 15	niːw	_	VERB	V1	Aspect=Imp|VerbClass=1	19	mod	_	AlignBegin=111593|AlignEnd=111752|Gloss=give\IPFV|RX=[V1].[IRG]|TokenType=Root
-16	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	15	comp:obj	_	AlignBegin=111752|AlignEnd=111911|Gloss==POSS.1PL.NOM|RX==[PRO]|TokenType=Clit
+16	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	15	comp:obj@R	_	AlignBegin=111752|AlignEnd=111911|Gloss==POSS.1PL.NOM|RX==[PRO]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=111911|AlignEnd=113048|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 18	n-	_	PRON	PNG	Number=Plur	19	subj/m	_	AlignBegin=113048|AlignEnd=113201|Gloss=FUT.PL-|RX=[PNG]-|TokenType=InflAff
 19	hagit	_	VERB	V1	VerbClass=1	21	comp:aux	_	AlignBegin=113201|AlignEnd=113355|Gloss=wait|RX=[V1]|TokenType=Root
@@ -951,10 +951,10 @@
 5	=it	_	SCONJ	CONJ	_	13	mod	_	AlignBegin=168004|AlignEnd=168101|Gloss==CSL|RX==[CONJ]|TokenType=Clit
 6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=168101|AlignEnd=168929|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 7	i=	_	DET	DET	Definite=Def|Gender=Masc	8	det	_	AlignBegin=168929|AlignEnd=169020|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-8	kam	_	NOUN	N	Number=Plur	13	comp:obj	_	AlignBegin=169020|AlignEnd=169112|Gloss=camel\PL|RX=[N]|TokenType=Root
+8	kam	_	NOUN	N	Number=Plur	13	comp:obj@T	_	AlignBegin=169020|AlignEnd=169112|Gloss=camel\PL|RX=[N]|TokenType=Root
 9	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	8	udep@poss	_	AlignBegin=169112|AlignEnd=169204|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 10	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=169204|AlignEnd=169655|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	dangar	_	NOUN	N	Gender=Fem	13	comp:obj	_	AlignBegin=169655|AlignEnd=170033|Gloss=racetrack|RX=[N].[F]|TokenType=Root
+11	dangar	_	NOUN	N	Gender=Fem	13	comp:obj@R	_	AlignBegin=169655|AlignEnd=170033|Gloss=racetrack|RX=[N].[F]|TokenType=Root
 12	i-	_	PRON	PNG	Person=3	13	subj/m	_	AlignBegin=170033|AlignEnd=170127|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 13	dʔi	_	VERB	V1	Aspect=Perf|VerbClass=1	15	comp	_	AlignBegin=170127|AlignEnd=170222|Gloss=do\PFV|RX=[V1].[IRG]|TokenType=Root
 14	-n	_	PRON	PNG	Number=Plur	13	subj/m	_	AlignBegin=170222|AlignEnd=170316|Gloss=-PL|RX=-[PNG]|TokenType=InflAff

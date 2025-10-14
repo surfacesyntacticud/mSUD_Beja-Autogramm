@@ -894,10 +894,10 @@
 # text_en = I say: 'That man, gosh! what happened to him?" and
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=180295|AlignEnd=180509|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=180509|AlignEnd=180616|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-3	tak	_	NOUN	N	Gender=Masc	8	comp:obj	_	AlignBegin=180616|AlignEnd=180723|Gloss=man|RX=[N].[M]|TokenType=Root
+3	tak	_	NOUN	N	Gender=Masc	8	comp:obj@R	_	AlignBegin=180616|AlignEnd=180723|Gloss=man|RX=[N].[M]|TokenType=Root
 4	iraːnaj	_	INTJ	_	_	3	discourse	_	AlignBegin=180723|AlignEnd=180937|Gloss=gosh|RX=[EXCL]|TokenType=Root
 5	/	_	PUNCT	_	_	3	punct	_	AlignBegin=180937|AlignEnd=181152|Gloss=/|TokenType=Break
-6	naːn	_	PRON	PRO	PronType=Int	8	comp:obj	_	AlignBegin=181152|AlignEnd=181432|Gloss=what|RX=[PRO].[Q]|TokenType=Root
+6	naːn	_	PRON	PRO	PronType=Int	8	comp:obj@T	_	AlignBegin=181152|AlignEnd=181432|Gloss=what|RX=[PRO].[Q]|TokenType=Root
 7	hoːj	_	ADP	PRO	_	8	comp:obl	_	AlignBegin=181432|AlignEnd=181712|Gloss=LOC|RX=[POSTP]|TokenType=Root
 8	timmar~raːj	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	9	comp:obj	_	AlignBegin=181712|AlignEnd=181992|Gloss=find~PLAC.PFV|MGloss=2SG.M-RECP-find~PLAC.PFV|MSeg=ti-m-mar~raːj|RX=[PNG]-[V1].[DER]-[V1].[DER]|TokenType=Root
 9	andi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	0	root	_	AlignBegin=181992|AlignEnd=182178|Gloss=say\IPFV|MGloss=1SG-say\IPFV|MSeg=a-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root

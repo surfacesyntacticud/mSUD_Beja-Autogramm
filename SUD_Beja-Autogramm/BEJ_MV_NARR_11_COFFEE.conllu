@@ -27,11 +27,11 @@
 19	jʔi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	27	conj:coord	_	AlignBegin=3361|AlignEnd=3601|Gloss=come|MGloss=come-AOR.3SG.M|MSeg=jʔ-i|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
 20	=t	_	CCONJ	CONJ	_	19	cc	_	AlignBegin=3601|AlignEnd=3721|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 21	/	_	PUNCT	_	_	19	punct	_	AlignBegin=3721|AlignEnd=4083|Gloss=/|TokenType=Break
-22	finʤaːn	_	NOUN	N	Gender=Masc	25	comp:obj	_	AlignBegin=4083|AlignEnd=4325|Gloss=cup|RX=[N].[M]|TokenType=Root
+22	finʤaːn	_	NOUN	N	Gender=Masc	25	comp:obj@T	_	AlignBegin=4083|AlignEnd=4325|Gloss=cup|RX=[N].[M]|TokenType=Root
 23	/	_	PUNCT	_	_	22	punct	_	AlignBegin=4325|AlignEnd=4566|Gloss=/|TokenType=Break
 24	hoːj	_	ADP	PRO	_	25	comp:obl	_	AlignBegin=4760|AlignEnd=4972|Gloss=LOC|RX=[POSTP]|TokenType=Root
 25	hijaːn	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	27	comp:obj	_	AlignBegin=4972|AlignEnd=5131|Gloss=give|MGloss=give-IMP.SG.M-L|MSeg=hi-jaː-n|Reported=Yes|RX=[V1].[IRG]-[TAM].[PNG]|TokenType=Root
-26	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	25	comp:obj	_	AlignBegin=5131|AlignEnd=5184|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
+26	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	25	comp:obj@R	_	AlignBegin=5131|AlignEnd=5184|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 27	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=5184|AlignEnd=5396|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 28	/	_	PUNCT	_	_	27	punct	_	AlignBegin=5396|AlignEnd=5607|Gloss=/|TokenType=Break
 

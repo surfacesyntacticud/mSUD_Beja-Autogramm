@@ -184,9 +184,9 @@
 12	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=32964|AlignEnd=33102|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 13	dar	_	NOUN	N	Gender=Masc	28	comp:obj	_	AlignBegin=33102|AlignEnd=33241|Gloss=side|RX=[N].[M]|TokenType=Root
 14	/	_	PUNCT	_	_	13	punct	_	AlignBegin=33241|AlignEnd=33518|Gloss=/|TokenType=Break
-15	i=	_	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	21	comp:obj	_	AlignBegin=33518|AlignEnd=33638|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
+15	i=	_	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	21	comp:obj@R	_	AlignBegin=33518|AlignEnd=33638|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
 16	ti=	_	DET	DET	Definite=Def|Gender=Fem	17	det	_	AlignBegin=33638|AlignEnd=33758|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-17	ʤoːhara	_	NOUN	N	Gender=Fem	21	comp:obj	_	AlignBegin=33758|AlignEnd=33878|Gloss=jewel|RX=[N].[F]|TokenType=Root
+17	ʤoːhara	_	NOUN	N	Gender=Fem	21	comp:obj@T	_	AlignBegin=33758|AlignEnd=33878|Gloss=jewel|RX=[N].[F]|TokenType=Root
 18	-jaːj	_	DET	_	_	17	det/m	_	AlignBegin=33878|AlignEnd=33996|Gloss=-SING|TokenType=InflAff
 19	/	_	PUNCT	_	_	17	punct	_	AlignBegin=33996|AlignEnd=34475|Gloss=/|TokenType=Break
 20	daː	_	VERB	V2	VerbClass=2	21	comp/m	_	AlignBegin=34475|AlignEnd=34575|Gloss=be_there|RX=[V2]|TokenType=Root

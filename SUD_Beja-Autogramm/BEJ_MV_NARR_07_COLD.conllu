@@ -82,7 +82,7 @@
 19	ontʔa	_	ADV	PTCL	_	17	discourse	_	AlignBegin=18342|AlignEnd=18555|Gloss=now|RX=[PTCL]|TokenType=Root
 20	//	_	PUNCT	_	_	19	punct	_	AlignBegin=18555|AlignEnd=18768|Gloss=//|TokenType=Break
 21	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	22	det	_	AlignBegin=18981|AlignEnd=19143|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
-22	tak	_	NOUN	N	Gender=Masc	27	comp:obj	_	AlignBegin=19143|AlignEnd=19305|Gloss=man|Reported=Yes|RX=[SBJ].[N].[M]|TokenType=Root
+22	tak	_	NOUN	N	Gender=Masc	27	subj	_	AlignBegin=19143|AlignEnd=19305|Gloss=man|Reported=Yes|RX=[SBJ].[N].[M]|TokenType=Root
 23	halak	_	NOUN	N	Gender=Masc	25	comp:obj	_	AlignBegin=19305|AlignEnd=19629|Gloss=cloth|RX=[N].[M]|TokenType=Root
 24	hasara	_	PART	PTCL	_	23	discourse	_	AlignBegin=19629|AlignEnd=19953|Gloss=ADVS|RX=[PTCL]|TokenType=Root
 25	jhaksaːb	_	VERB	V2	Gender=Masc|VerbClass=2	27	comp:aux	_	AlignBegin=19953|AlignEnd=20277|Gloss=get_up|MGloss=get_up-CAUS-CVB.MNR-INDF.M.ACC|MSeg=jhak-s-aː-b|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
@@ -299,9 +299,9 @@
 # text = w= ʔoːr hiːsi =hoːk /
 # text_en = I thought you were the boy,
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=59846|AlignEnd=59968|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-2	ʔoːr	_	NOUN	N	_	3	comp:obj	_	AlignBegin=59968|AlignEnd=60089|Gloss=child|RX=[N]|TokenType=Root
+2	ʔoːr	_	NOUN	N	_	3	comp:obj@T	_	AlignBegin=59968|AlignEnd=60089|Gloss=child|RX=[N]|TokenType=Root
 3	hiːsi	_	VERB	V2	Number=Sing|VerbClass=2	0	root	_	AlignBegin=60089|AlignEnd=60251|Gloss=think|MGloss=think-AOR.1SG|MSeg=hiːs-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
-4	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	3	comp:obj	_	AlignBegin=60251|AlignEnd=60332|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
+4	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	3	comp:obj@R	_	AlignBegin=60251|AlignEnd=60332|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 5	/	_	PUNCT	_	_	3	punct	_	AlignBegin=60332|AlignEnd=60576|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_07_cold_65-65
@@ -326,9 +326,9 @@
 # text = w= ʔoːr hiːsi =hoːk indi eːn //
 # text_en = I thought you were the boy", he says, they said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=61627|AlignEnd=61739|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-2	ʔoːr	_	NOUN	N	_	3	comp:obj	_	AlignBegin=61739|AlignEnd=61852|Gloss=child|RX=[N]|TokenType=Root
+2	ʔoːr	_	NOUN	N	_	3	comp:obj@T	_	AlignBegin=61739|AlignEnd=61852|Gloss=child|RX=[N]|TokenType=Root
 3	hiːsi	_	VERB	V2	Number=Sing|VerbClass=2	5	comp:obj	_	AlignBegin=61852|AlignEnd=62002|Gloss=think|MGloss=think-AOR.1SG|MSeg=hiːs-i|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-4	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	3	comp:obj	_	AlignBegin=62002|AlignEnd=62077|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
+4	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	3	comp:obj@R	_	AlignBegin=62002|AlignEnd=62077|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 5	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=62077|AlignEnd=62302|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 6	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	5	discourse	_	AlignBegin=62302|AlignEnd=62527|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 7	//	_	PUNCT	_	_	5	punct	_	AlignBegin=62527|AlignEnd=62753|Gloss=//|TokenType=Break
@@ -378,9 +378,9 @@
 15	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Polite=Form|Poss=Yes	14	udep@poss	_	AlignBegin=69355|AlignEnd=69505|Gloss==POSS.1PL.NOM|RX==[PRO].[POL]|TokenType=Clit
 16	bass	_	PART	PTCL	Foreign=Yes	14	discourse	_	AlignBegin=69505|AlignEnd=69805|Gloss=only|Lang=ar|RX=[PTCL].[BORR].[ARA]|TokenType=Root
 17	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=69805|AlignEnd=69955|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-18	ʔoːr	_	NOUN	N	_	19	comp:obj	_	AlignBegin=69955|AlignEnd=70105|Gloss=child|RX=[N]|TokenType=Root
+18	ʔoːr	_	NOUN	N	_	19	comp:obj@T	_	AlignBegin=69955|AlignEnd=70105|Gloss=child|RX=[N]|TokenType=Root
 19	hiːsi	_	VERB	V2	Number=Sing|VerbClass=2	21	comp:obj	_	AlignBegin=70105|AlignEnd=70305|Gloss=think|MGloss=think-AOR.1SG|MSeg=hiːs-i|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-20	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	19	comp:obj	_	AlignBegin=70305|AlignEnd=70405|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
+20	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	19	comp:obj@R	_	AlignBegin=70305|AlignEnd=70405|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 21	iːd	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	22	comp	_	AlignBegin=70405|AlignEnd=70605|Gloss=say\AOR|MGloss=1SG-say\AOR|MSeg=iː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
 22	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	24	mod@relcl	_	AlignBegin=70605|AlignEnd=70705|Gloss==REL.F|InIdiom=Yes|RX==[CONJ]|TokenType=Clit
 23	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	24	det	_	AlignBegin=70705|AlignEnd=70855|Gloss=DEF.SG.F.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit

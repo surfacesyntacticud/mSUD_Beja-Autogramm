@@ -139,11 +139,11 @@
 5	/	_	PUNCT	_	_	4	punct	_	AlignBegin=25369|AlignEnd=25669|Gloss=/|TokenType=Break
 6	bak	_	PART	DEICT	_	13	mod	_	AlignBegin=25669|AlignEnd=25967|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 7	t=	_	DET	DET	Definite=Def|Gender=Fem	8	det	_	AlignBegin=25967|AlignEnd=26041|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-8	ʔidda	_	NOUN	N	Gender=Fem	13	comp:obj	_	AlignBegin=26041|AlignEnd=26115|Gloss=coffee_crockery|RX=[N].[F]|TokenType=Root
+8	ʔidda	_	NOUN	N	Gender=Fem	13	comp:obj@T	_	AlignBegin=26041|AlignEnd=26115|Gloss=coffee_crockery|RX=[N].[F]|TokenType=Root
 9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=26115|AlignEnd=26189|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 10	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	8	udep@poss	_	AlignBegin=26189|AlignEnd=26265|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 11	daliw	_	ADJ	POSTP	_	12	mod	_	AlignBegin=26265|AlignEnd=26563|Gloss=near|RX=[POSTP]|TokenType=Root
-12	mhiːn	_	NOUN	N	Gender=Masc	13	comp:obj	_	AlignBegin=26563|AlignEnd=26861|Gloss=place|RX=[N].[M]|TokenType=Root
+12	mhiːn	_	NOUN	N	Gender=Masc	13	comp:obj@R	_	AlignBegin=26563|AlignEnd=26861|Gloss=place|RX=[N].[M]|TokenType=Root
 13	daːsi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=26861|AlignEnd=27083|Gloss=be_there|MGloss=be_there-CAUS-AOR.3SG.M|MSeg=daː-s-i|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
 14	=t	_	CCONJ	CONJ	_	13	cc	_	AlignBegin=27083|AlignEnd=27159|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 15	/	_	PUNCT	_	_	13	punct	_	AlignBegin=27159|AlignEnd=27458|Gloss=/|TokenType=Break
@@ -278,11 +278,11 @@
 12	=wa	_	CCONJ	CONJ	_	11	cc	_	AlignBegin=50171|AlignEnd=50285|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 13	/	_	PUNCT	_	_	12	punct	_	AlignBegin=50285|AlignEnd=50628|Gloss=/|TokenType=Break
 14	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	15	det	_	AlignBegin=50628|AlignEnd=50869|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-15	ʔimir	_	NOUN	N	Gender=Masc	17	comp:obj	_	AlignBegin=50869|AlignEnd=51110|Gloss=matter|RX=[N].[M]|TokenType=Root
+15	ʔimir	_	NOUN	N	Gender=Masc	17	comp:obj@T	_	AlignBegin=50869|AlignEnd=51110|Gloss=matter|RX=[N].[M]|TokenType=Root
 16	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	15	det	_	AlignBegin=51110|AlignEnd=51592|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 17	isbaːɖin	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	27	conj:coord	_	AlignBegin=51592|AlignEnd=51880|Gloss=forget\INT.PFV|MGloss=3SG.M-CAUS-forget\INT.PFV|MSeg=i-s-baːɖin|RX=[PNG]-[V1].[DER]-[V1].[DER]|TokenType=Root
 18	=it	_	CCONJ	CONJ	_	17	cc	_	AlignBegin=51880|AlignEnd=51976|Gloss==COORD|RX==[CONJ]|TokenType=Clit
-19	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	17	comp:obj	_	AlignBegin=51976|AlignEnd=52074|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
+19	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	17	comp:obj@R	_	AlignBegin=51976|AlignEnd=52074|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 20	//	_	PUNCT	_	_	19	punct	_	AlignBegin=52074|AlignEnd=52555|Gloss=//|TokenType=Break
 21	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	22	det	_	AlignBegin=52555|AlignEnd=52672|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 22	gʷbi	_	NOUN	N	Gender=Masc	23	comp	_	AlignBegin=52672|AlignEnd=52789|Gloss=shield|RX=[N].[M]|TokenType=Root

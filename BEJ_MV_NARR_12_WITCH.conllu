@@ -329,7 +329,7 @@
 11	fdig	_	VERB	V1	Aspect=Perf|VerbClass=1	12	comp	_	AlignBegin=49907|AlignEnd=50000|Gloss=untie\PFV|RX=[V1]|TokenType=Root
 12	=hoːb	_	SCONJ	CONJ	_	19	mod	_	AlignBegin=50000|AlignEnd=50093|Gloss==when|RX==[CONJ]|TokenType=Clit
 13	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=50093|AlignEnd=50371|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-14	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	19	comp:obj	_	AlignBegin=50371|AlignEnd=50621|Gloss=2SG.M.ACC|RX=[PRO]|TokenType=Root
+14	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	19	dislocated:obj	_	AlignBegin=50371|AlignEnd=50621|Gloss=2SG.M.ACC|RX=[PRO]|TokenType=Root
 15	tam	_	VERB	V2	VerbClass=2	16	comp/m	_	AlignBegin=50621|AlignEnd=50704|Gloss=eat|RX=[V2]|TokenType=Root
 16	-aː	_	AUX	CVB	VerbForm=Conv	19	comp:aux	_	AlignBegin=50704|AlignEnd=50788|DerPos=VERB|Gloss=-CVB.MNR|RX=-.|TokenType=DerAff
 17	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	16	comp:obj	_	AlignBegin=50788|AlignEnd=50872|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit

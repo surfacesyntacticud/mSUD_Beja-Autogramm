@@ -270,7 +270,7 @@
 9	ifdig	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	10	comp	_	AlignBegin=49815|AlignEnd=50000|Gloss=untie\PFV|MGloss=3SG.M-untie\PFV|MSeg=i-fdig|RX=[PNG]-[V1]|TokenType=Root
 10	=hoːb	_	SCONJ	CONJ	_	15	mod	_	AlignBegin=50000|AlignEnd=50093|Gloss==when|RX==[CONJ]|TokenType=Clit
 11	//	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=50093|AlignEnd=50371|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-12	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	15	comp:obj	_	AlignBegin=50371|AlignEnd=50621|Gloss=2SG.M.ACC|RX=[PRO]|TokenType=Root
+12	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	15	dislocated:obj	_	AlignBegin=50371|AlignEnd=50621|Gloss=2SG.M.ACC|RX=[PRO]|TokenType=Root
 13	tamaː	_	VERB	V2	VerbClass=2	15	comp:aux	_	AlignBegin=50621|AlignEnd=50788|Gloss=eat|MGloss=eat-CVB.MNR|MSeg=tam-aː|RX=[V2]-.|TokenType=Root
 14	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	13	comp:obj	_	AlignBegin=50788|AlignEnd=50872|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 15	eːdna	_	AUX	AUX.VOL	Aspect=Imp|Number=Plur	43	conj:coord	_	AlignBegin=50872|AlignEnd=51123|Gloss=say\IPFV|MGloss=3-say\IPFV-PL|MSeg=eː-d-na|RX=[PNG]-[AUX].[VOL]-[PNG]|TokenType=Root

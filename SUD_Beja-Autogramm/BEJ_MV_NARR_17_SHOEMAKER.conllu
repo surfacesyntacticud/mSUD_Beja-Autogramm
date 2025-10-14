@@ -168,14 +168,14 @@
 6	mhall	_	NUM	NUM	_	9	mod	_	AlignBegin=35067|AlignEnd=35220|Gloss=two|RX=[NUM]|TokenType=Root
 7	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	6	udep@poss	_	AlignBegin=35220|AlignEnd=35374|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	AlignBegin=35374|AlignEnd=35476|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-9	giriʃ	_	NOUN	N	Gender=Masc	18	comp:obj	_	AlignBegin=35476|AlignEnd=35578|Gloss=money|RX=[N].[M]|TokenType=Root
+9	giriʃ	_	NOUN	N	Gender=Masc	18	comp:obj@R	_	AlignBegin=35476|AlignEnd=35578|Gloss=money|RX=[N].[M]|TokenType=Root
 10	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	9	udep@poss	_	AlignBegin=35578|AlignEnd=35681|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 11	j=	_	DET	DET	Definite=Def|Gender=Masc	12	det	_	AlignBegin=35681|AlignEnd=35783|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 12	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	15	comp	_	AlignBegin=35783|AlignEnd=35885|Gloss=child\M.PL|RX=[N]|TokenType=Root
 13	=eː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	12	udep@poss	_	AlignBegin=35885|AlignEnd=35988|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 14	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=35988|AlignEnd=36295|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 15	dhaːj	_	ADP	POSTP	_	18	comp:obl	_	AlignBegin=36295|AlignEnd=36622|Gloss=DIR|RX=[POSTP]|TokenType=Root
-16	diraːr	_	NOUN	N	Gender=Masc	18	comp:obj	_	AlignBegin=36622|AlignEnd=36785|Gloss=dinner|RX=[N].[M]|TokenType=Root
+16	diraːr	_	NOUN	N	Gender=Masc	18	comp:obj@T	_	AlignBegin=36622|AlignEnd=36785|Gloss=dinner|RX=[N].[M]|TokenType=Root
 17	=ijoː	_	PRON	PRO	Case=Gen|Number=Sing|Person=3|Poss=Yes	16	udep@poss	_	AlignBegin=36785|AlignEnd=36949|Gloss==POSS.3SG.GEN|RX==[PRO]|TokenType=Clit
 18	dʔitiːt	_	VERB	V1	VerbClass=1	24	mod	_	AlignBegin=36949|AlignEnd=37276|Gloss=do|MGloss=do-CVB.SEQ|MSeg=dʔi-tiːt|RX=[V1].[IRG]-.|TokenType=Root
 19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=37276|AlignEnd=38226|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -702,14 +702,14 @@
 23	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	22	discourse	_	AlignBegin=149744|AlignEnd=150036|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 24	//	_	PUNCT	PUNCT	_	39	punct	_	AlignBegin=150036|AlignEnd=150329|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 25	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	26	det	_	AlignBegin=150329|AlignEnd=150466|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-26	mhiːn	_	NOUN	N	Gender=Masc	36	comp:obj	_	AlignBegin=150466|AlignEnd=150603|Gloss=place|RX=[N].[M]|TokenType=Root
+26	mhiːn	_	NOUN	N	Gender=Masc	36	comp:obj@R	_	AlignBegin=150466|AlignEnd=150603|Gloss=place|RX=[N].[M]|TokenType=Root
 27	//	_	PUNCT	PUNCT	_	30	punct	_	AlignBegin=150603|AlignEnd=151998|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 28	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	30	subj	_	AlignBegin=151998|AlignEnd=152079|Gloss=REL.M=|RX=[REL]=|TokenType=Clit
 29	amʔarwab	_	VERB	V1	Gender=Masc|VerbClass=1	30	comp:pred	_	AlignBegin=152079|AlignEnd=152405|Gloss=be_close|MGloss=RECP-be_close-CVB.MNR-INDF.M.ACC|MSeg=am-ʔarw-a-b|RX=[V1].[DER]-[V1]-.-[DET]|TokenType=Root
 30	=i	_	AUX	DET	Number=Sing|Person=3	26	mod@relcl	_	AlignBegin=152323|AlignEnd=152405|Gloss==COP.3SG|RX==[PRED.NOM]|TokenType=Clit
 31	//	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=152405|AlignEnd=152812|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 32	ti=	_	DET	DET	Definite=Def|Gender=Fem	33	det	_	AlignBegin=152812|AlignEnd=152899|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-33	giɖʔa	_	NOUN	N	Gender=Fem	36	comp:obj	_	AlignBegin=152899|AlignEnd=152987|Gloss=shoe|RX=[N].[F]|TokenType=Root
+33	giɖʔa	_	NOUN	N	Gender=Fem	36	comp:obj@T	_	AlignBegin=152899|AlignEnd=152987|Gloss=shoe|RX=[N].[F]|TokenType=Root
 34	=t	_	DET	DET	Gender=Fem	33	det	_	AlignBegin=152987|AlignEnd=153074|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 35	=eːk	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	33	udep@poss	_	AlignBegin=153074|AlignEnd=153162|Gloss==POSS.2PL.ACC|RX==[PRO]|TokenType=Clit
 36	daːsti	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	37	comp	_	AlignBegin=153162|AlignEnd=153425|Gloss=be_there|MGloss=be_there-CAUS-AOR.2SG.M|MSeg=daː-s-ti|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
@@ -723,8 +723,8 @@
 # text_en = After he had dug a hole in the place,  in the evening,  then,  after he had kindled the light,   he leaves, they said.  To his wife.
 1	//	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=153864|AlignEnd=154843|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=154843|AlignEnd=155001|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-3	mhiːn	_	NOUN	N	Gender=Masc	6	comp:obj	_	AlignBegin=155001|AlignEnd=155159|Gloss=place|RX=[N].[M]|TokenType=Root
-4	tilʔi	_	NOUN	N	Gender=Fem	6	comp:obj	_	AlignBegin=155159|AlignEnd=155317|Gloss=hole|RX=[N].[F]|TokenType=Root
+3	mhiːn	_	NOUN	N	Gender=Masc	6	comp:obj@R	_	AlignBegin=155001|AlignEnd=155159|Gloss=place|RX=[N].[M]|TokenType=Root
+4	tilʔi	_	NOUN	N	Gender=Fem	6	comp:obj@T	_	AlignBegin=155159|AlignEnd=155317|Gloss=hole|RX=[N].[F]|TokenType=Root
 5	=t	_	DET	DET	Gender=Fem	4	det	_	AlignBegin=155317|AlignEnd=155475|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 6	dʔitiːt	_	VERB	V1	VerbClass=1	14	mod	_	AlignBegin=155475|AlignEnd=155791|Gloss=do|MGloss=do-CVB.SEQ|MSeg=dʔi-tiːt|RX=[V1].[IRG]-.|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=155791|AlignEnd=156561|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1181,9 +1181,9 @@
 2	giɖʔa	_	NOUN	N	Gender=Fem	4	comp	_	AlignBegin=254043|AlignEnd=254113|Gloss=shoe|RX=[N].[F]|TokenType=Root
 3	=t	_	DET	DET	Gender=Fem	2	det	_	AlignBegin=254113|AlignEnd=254183|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 4	=i	_	ADP	CASE	Case=Gen	5	udep	_	AlignBegin=254183|AlignEnd=254253|Gloss==GEN|RX==[CASE]|TokenType=Clit
-5	mhiːn	_	NOUN	N	Gender=Masc	8	comp:obj	_	AlignBegin=254253|AlignEnd=254533|Gloss=place|RX=[N].[M]|TokenType=Root
+5	mhiːn	_	NOUN	N	Gender=Masc	8	comp:obj@R	_	AlignBegin=254253|AlignEnd=254533|Gloss=place|RX=[N].[M]|TokenType=Root
 6	ti=	_	DET	DET	Definite=Def|Gender=Fem	7	det	_	AlignBegin=254533|AlignEnd=254626|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-7	fatiːra	_	NOUN	N	Gender=Fem|Number=Plur	8	comp:obj	_	AlignBegin=254626|AlignEnd=254812|Gloss=pancake|MGloss=pancake-PL|MSeg=fatiːr-a|RX=[N].[F]-.|TokenType=Root
+7	fatiːra	_	NOUN	N	Gender=Fem|Number=Plur	8	comp:obj@T	_	AlignBegin=254626|AlignEnd=254812|Gloss=pancake|MGloss=pancake-PL|MSeg=fatiːr-a|RX=[N].[F]-.|TokenType=Root
 8	rheːn	_	VERB	V2	Number=Plur|VerbClass=2	0	root	_	AlignBegin=254812|AlignEnd=255092|Gloss=see|MGloss=see-IPFV.3PL|MSeg=rh-eːn|RX=[V2]-[TAM].[PNG]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=255092|AlignEnd=255948|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
