@@ -389,10 +389,10 @@
 18	kti	_	VERB	V1, IRG	Aspect=Aor|VerbClass=1	19	comp	_	AlignBegin=75827|AlignEnd=75951|Gloss=become\AOR|RX=[V1].[IRG]|TokenType=Root
 19	=jeːt	_	SCONJ	CONJ	Gender=Fem	21	mod@relcl	_	AlignBegin=75951|AlignEnd=76075|Gloss==REL.F|InIdiom=Yes|RX==[CONJ]|TokenType=Clit
 20	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	21	det	_	AlignBegin=76075|AlignEnd=76260|Gloss=DEF.SG.F.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
-21	na	_	NOUN	CONJ	ExtPos=SCONJ	23	comp:obj	_	AlignBegin=76260|AlignEnd=76446|Gloss=thing|Idiom=Yes|RX=[CONJ]|TokenType=Root
+21	na	_	NOUN	CONJ	ExtPos=SCONJ	23	comp:obj@T	_	AlignBegin=76260|AlignEnd=76446|Gloss=thing|Idiom=Yes|RX=[CONJ]|TokenType=Root
 22	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	23	subj/m	_	AlignBegin=76446|AlignEnd=76569|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 23	kan	_	VERB	V1, IRG	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	AlignBegin=76569|AlignEnd=76693|Gloss=know\MID.PFV|RX=[V1].[DER].[IRG]|TokenType=Root
-24	=heːb	_	PRON	PRO	Number=Sing|Person=1	23	comp:obj	_	AlignBegin=76693|AlignEnd=76817|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
+24	=heːb	_	PRON	PRO	Number=Sing|Person=1	23	comp:obj@R	_	AlignBegin=76693|AlignEnd=76817|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 25	//	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=76817|AlignEnd=77958|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_084-088
@@ -661,11 +661,11 @@
 16	=eːt	_	SCONJ	CONJ	Gender=Fem	19	mod@relcl	_	AlignBegin=121162|AlignEnd=121259|Gloss==REL.F|InIdiom=Yes|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=121259|AlignEnd=121801|InIdiom=Yes|TokenType=Break
 18	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	19	det	_	AlignBegin=121801|AlignEnd=121904|Gloss=DEF.SG.F.ACC=|InIdiom=Yes|RX=[DET]=|TokenType=Clit
-19	na	_	NOUN	CONJ	ExtPos=SCONJ	22	comp:obj	_	AlignBegin=121904|AlignEnd=122008|Gloss=thing|Idiom=Yes|RX=[CONJ]|TokenType=Root
+19	na	_	NOUN	CONJ	ExtPos=SCONJ	22	comp:obj@T	_	AlignBegin=121904|AlignEnd=122008|Gloss=thing|Idiom=Yes|RX=[CONJ]|TokenType=Root
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=122008|AlignEnd=122894|TokenType=Break
 21	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	22	subj/m	_	AlignBegin=122894|AlignEnd=123013|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 22	kan	_	VERB	V1, IRG	Aspect=Perf|VerbClass=1|Voice=Mid	0	root	_	AlignBegin=123013|AlignEnd=123132|Gloss=know\MID.PFV|RX=[V1].[DER].[IRG]|TokenType=Root
-23	=heːb	_	PRON	PRO	Number=Sing|Person=1	22	comp:obj	_	AlignBegin=123132|AlignEnd=123251|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
+23	=heːb	_	PRON	PRO	Number=Sing|Person=1	22	comp:obj@R	_	AlignBegin=123132|AlignEnd=123251|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 24	//	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=123251|AlignEnd=124427|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_138-142

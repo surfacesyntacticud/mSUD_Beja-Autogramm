@@ -359,9 +359,9 @@
 # phonetic_text = naːn ti- ʃik =hoːn i- ni =t =heːb //
 # text = naːn tiʃik =hoːn ini =t =heːb //
 # text_en = "How much did you borrow me?" (lit. us) he said to me, and
-1	naːn	_	PRON	PRO	PronType=Int	2	comp:obj	_	AlignBegin=68363|AlignEnd=68742|Gloss=what|RX=[PRO].[Q]|TokenType=Root
-2	tiʃik	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	4	comp:obj	_	AlignBegin=68742|AlignEnd=68994|Gloss=borrow\PFV|MGloss=2SG.M-borrow\PFV|MSeg=ti-ʃik|Reported=Yes|RX=[PNG]-[V1]|TokenType=Root
-3	=hoːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Polite=Form	2	comp:obj	_	AlignBegin=68994|AlignEnd=69121|Gloss==OBJ.1PL|RX==[PRO].[POL]|TokenType=Clit
+1	naːn	_	PRON	PRO	PronType=Int	2	comp:obj@T	_	AlignBegin=68363|AlignEnd=68742|Gloss=what|RX=[PRO].[Q]|TokenType=Root
+2	tiʃik	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	4	comp:obj@T	_	AlignBegin=68742|AlignEnd=68994|Gloss=borrow\PFV|MGloss=2SG.M-borrow\PFV|MSeg=ti-ʃik|Reported=Yes|RX=[PNG]-[V1]|TokenType=Root
+3	=hoːn	_	PRON	PRO	Case=Acc|Number=Plur|Person=1|Polite=Form	2	comp:obj@R	_	AlignBegin=68994|AlignEnd=69121|Gloss==OBJ.1PL|RX==[PRO].[POL]|TokenType=Clit
 4	ini	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=69121|AlignEnd=69311|Gloss=say\PFV|MGloss=3SG.M-say\PFV|MSeg=i-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
 5	=t	_	CCONJ	CONJ	_	4	cc	_	AlignBegin=69311|AlignEnd=69406|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 6	=heːb	_	PRON	PRO	Number=Sing|Person=1	4	comp:obj@R	_	AlignBegin=69406|AlignEnd=69500|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
