@@ -296,7 +296,7 @@
 # text = tak kanti hiit =heːb irib =hoːb // w= haːdoːti dh =i guːdjan =hoːb // ʔagar ini //
 # text_en = When no one could inform me, when I had wandered more, I came back, he said.
 1	tak	tak	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=57532|AlignEnd=57824|Gloss=man|nWord=1|RX=[SBJ].[N].[M]|TokenType=Root
-2	kanti	kan	VERB	V1	VerbClass=1	3	comp	_	AlignBegin=57824|AlignEnd=58116|Gloss=know|MGloss=know-CVB.GNRL|MSeg=kan-ti|nWord=2|RX=[V1].[DER].[IRG]|TokenType=Root
+2	kanti	kan	VERB	V1	VerbClass=1	3	comp:aux	_	AlignBegin=57824|AlignEnd=58116|Gloss=know|MGloss=know-CVB.GNRL|MSeg=kan-ti|nWord=2|RX=[V1].[DER].[IRG]|TokenType=Root
 3	hiit	hi	NOUN	AUX.BENF	_	5	comp:pred	_	AlignBegin=58116|AlignEnd=58310|Gloss=give|MGloss=give-VN|MSeg=hi-it|nWord=3|RX=[AUX].[BENF]-[N].[V]|TokenType=Root
 4	=heːb	_	PRON	PRO	Number=Sing|Person=1	3	udep	_	AlignBegin=58310|AlignEnd=58408|Gloss==OBJ.1SG|nWord=3|RX==[PRO]|TokenType=Clit
 5	irib	rib	AUX	AUX.CONTR	Aspect=Perf|Gender=Masc|Number=Sing|Polarity=Neg	6	comp	_	AlignBegin=58408|AlignEnd=58602|Gloss=refuse\PFV|MGloss=3SG.M-refuse\PFV|MSeg=i-rib|nWord=4|RX=[PNG]-[AUX].[NEG].[CONTR]|TokenType=Root
