@@ -57,7 +57,7 @@
 7	i-	_	PRON	PNG	_	8	subj/m	_	AlignBegin=10640|AlignEnd=10744|Gloss=3M-|RX=[PNG]-|TokenType=InflAff
 8	ganif	_	VERB	V1	Aspect=Perf|VerbClass=1|Voice=Mid	10	comp	_	AlignBegin=10744|AlignEnd=10848|Gloss=make_kneel\MID.PFV|RX=[V1].[DER]|TokenType=Root
 9	-na	_	PRON	PNG	Number=Plur	8	subj/m	_	AlignBegin=10848|AlignEnd=10952|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	12	mod@relcl	_	AlignBegin=10952|AlignEnd=11055|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	12	mod@relcl	_	AlignBegin=10952|AlignEnd=11055|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 11	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	det	_	AlignBegin=11055|AlignEnd=11263|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 12	doːr	_	NOUN	N	Gender=Masc	16	mod	_	AlignBegin=11263|AlignEnd=11470|Gloss=time|RX=[N].[M]|TokenType=Root
 13	/	_	PUNCT	_	_	12	punct	_	AlignBegin=11470|AlignEnd=11886|Gloss=/|TokenType=Break
@@ -303,7 +303,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_15_LEOPARD.WAV
 # sent_timecode = 47539, 55437
 # phonetic_text = oːn oː= doːr wi= dh =eː far -jaː -n =eːb // oː= ʈʔa =wa / w= ʔimir oːn i- s- baːɖin =it =heːb // oː= gʷbi -i ʔannuːr =iːb / gir -an a- jha i- ni /
-# text = oːn oː= doːr wi= dh =eː far -ja -n =eːb // oː= ʈʔa =wa / w= ʔimir oːn i- s- baːɖin =it =heːb // oː= gʷbi -i ʔannuːr =iːb / gir -an a- jha i- ni /
+# text = oːn oː= doːr wi= dh =eː far -ja -n =eːb // oː= ʈʔa =wa / w= ʔimir oːn i- s- baːɖin =it =heːb // oː= gʷbi =i ʔannuːr =iːb / gir -an a- jha i- ni /
 # text_en = "When it jumped upon me, it made me forget the hitting and all this matter, and I held firmly in the handle of the shield", he said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=47539|AlignEnd=47846|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=47846|AlignEnd=48000|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -314,7 +314,7 @@
 7	far	_	VERB	V2	VerbClass=2	10	comp	_	AlignBegin=48460|AlignEnd=48537|Gloss=jump|RX=[V2]|TokenType=Root
 8	-ja	_	PRON	TAM.PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	7	subj/m	_	AlignBegin=48537|AlignEnd=48614|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 9	-n	_	PART	_	_	7	unk/m	_	AlignBegin=48614|AlignEnd=48691|Gloss=-L|TokenType=InflAff
-10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	3	mod@relcl	_	AlignBegin=48691|AlignEnd=48767|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	3	mod@relcl	_	AlignBegin=48691|AlignEnd=48767|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 11	//	_	PUNCT	_	_	10	punct	_	AlignBegin=48767|AlignEnd=49076|Gloss=//|TokenType=Break
 12	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=49941|AlignEnd=50056|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 13	ʈʔa	_	NOUN	N.V	_	17	conj:coord	_	AlignBegin=50056|AlignEnd=50171|Gloss=hit|RX=[N].[V]|TokenType=Root

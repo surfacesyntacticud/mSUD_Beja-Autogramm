@@ -644,7 +644,7 @@
 11	i=	_	DET	DET	Definite=Def|Gender=Masc	12	det	_	AlignBegin=101940|AlignEnd=102084|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 12	maːl	_	NOUN	N	Gender=Masc	18	subj	_	AlignBegin=102084|AlignEnd=102228|Gloss=treasure|RX=[N].[M].[BORR].[ARA]|TokenType=Root
 13	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	12	udep@poss	_	AlignBegin=102228|AlignEnd=102373|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
-14	wi=	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	comp:obj	_	AlignBegin=102373|AlignEnd=102481|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
+14	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	comp:obj	_	AlignBegin=102373|AlignEnd=102481|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 15	iː-	_	PRON	PNG	Number=Sing|Person=1	16	subj/m	_	AlignBegin=102481|AlignEnd=102589|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 16	bri	_	VERB	V1	Aspect=Aor|VerbClass=1	17	comp/m	_	AlignBegin=102589|AlignEnd=102697|Gloss=have\AOR|RX=[V1].[IRG]|TokenType=Root
 17	=i	_	SCONJ	CONJ.REL	PronType=Rel	12	mod@relcl	_	AlignBegin=102697|AlignEnd=102806|Gloss==REL|RX==[CONJ]|TokenType=Clit

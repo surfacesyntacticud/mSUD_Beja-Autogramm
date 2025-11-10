@@ -373,7 +373,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_05_ERITREA.WAV
 # sent_timecode = 65712, 71728
 # phonetic_text = oː= mijʔat haːra~riw -tiːt / areː i= jam -eː / eː= jam i= raw -eː =da hanta -jaː =b iː- kti =jeːb oː= mijʔat a- manri =hoːb / i= jam =eːb a- ndiːf //
-# text = oːmijʔat haːrariwtiːt / areː ijameː / eːjam iraweːda hantaːjaːb iːktijeːb oːmijʔat amarrihoːb / ijameːb andiːf //
+# text = oː= mijʔat haːra~riw -tiːt / areː i= jam =eː / eː= jam i= raw =eː =da hanta -jaː -b iː- kti =jeːb oː= mijʔat a- manri =hoːb / i= jam =eːb a- ndiːf //
 # text_en = After I had looked for the footprints for a long time, then when I find the footprints, the other water place towards which it had moved, I leave for the water place.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=65712|AlignEnd=65934|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	mijʔat	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=65934|AlignEnd=66156|Gloss=footprint|RX=[N].[M]|TokenType=Root
@@ -396,7 +396,7 @@
 19	-b	_	PRON	DET	Case=Acc|Gender=Masc	18	subj/m	_	AlignBegin=68820|AlignEnd=68920|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 20	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	21	subj/m	_	AlignBegin=68920|AlignEnd=69021|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 21	kti	_	VERB	AUX	Aspect=Aor	22	comp	_	AlignBegin=69021|AlignEnd=69122|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-22	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	24	mod@relcl	_	AlignBegin=69122|AlignEnd=69222|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+22	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	24	mod@relcl	_	AlignBegin=69122|AlignEnd=69222|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 23	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	24	det	_	AlignBegin=69222|AlignEnd=69373|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 24	mijʔat	_	NOUN	N	Gender=Masc	26	comp:obj	_	AlignBegin=69373|AlignEnd=69524|Gloss=footprint|RX=[N].[M]|TokenType=Root
 25	a-	_	PRON	PNG	Number=Sing|Person=1	26	subj/m	_	AlignBegin=69524|AlignEnd=69625|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
@@ -873,18 +873,18 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_05_ERITREA.WAV
 # sent_timecode = 140130, 143070
 # phonetic_text = i= ragad / w= harʔiː =iːb =wa i= suːr =iːb =wa / taɖoːm -aː =b =a =ajt //
-# text = iragad / wharʔiːbwa isuːriːiːbwa / taɖoːmaːbaːjt //
+# text = i= ragad / w= harʔiː =b =wa i= suːriː =b =wa / taɖoːm -aː -b =a =ajt //
 # text_en = Because the front and back legs were attached.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=140130|AlignEnd=140233|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-2	ragad	_	NOUN	N	Gender=Masc	16	subj	_	AlignBegin=140233|AlignEnd=140336|Gloss=leg|RX=[SBJ].[N].[M]|TokenType=Root
+2	ragad	_	NOUN	N	Gender=Masc	4	mod@relcl	_	AlignBegin=140233|AlignEnd=140336|Gloss=leg|RX=[SBJ].[N].[M]|TokenType=Root
 3	/	_	PUNCT	_	_	2	punct	_	AlignBegin=140336|AlignEnd=140541|Gloss=/|TokenType=Break
 4	w=	_	PRON	DET	Definite=Def|Gender=Masc|Number=Sing	5	comp	_	AlignBegin=140541|AlignEnd=140633|Gloss=DEF.SG.M.NOM=|RX=[REL]=|TokenType=Clit
 5	harʔiː	_	ADP	N	_	6	comp	_	AlignBegin=140633|AlignEnd=140725|Gloss=behind|RX=[POSTP]|TokenType=Root
-6	=b	_	SCONJ	POSTP	Gender=Masc|PronType=Rel	2	mod@relcl	_	AlignBegin=140725|AlignEnd=140817|Gloss==INDF.M.ACC|RX==[REL]|TokenType=Clit
+6	=b	_	DET	POSTP	Case=Acc|Gender=Masc	_	_	_	AlignBegin=140725|AlignEnd=140817|Gloss==INDF.M.ACC|RX=[DET]|TokenType=Clit
 7	=wa	_	CCONJ	CONJ	_	6	cc	_	AlignBegin=140817|AlignEnd=140911|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 8	i=	_	PRON	DET	Gender=Masc|PronType=Rel	9	comp	_	AlignBegin=140911|AlignEnd=141003|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
 9	suːriː	_	ADP	N	_	10	comp	_	AlignBegin=141003|AlignEnd=141095|Gloss=in_font_of|RX=[POSTP]|TokenType=Root
-10	=b	_	SCONJ	POSTP	Gender=Masc|PronType=Rel	6	conj:coord	_	AlignBegin=141095|AlignEnd=141187|Gloss==DEF.SG.M|RX==[REL]|TokenType=Clit
+10	=b	_	DET	POSTP	Gender=Masc|PronType=Rel	6	conj:coord	_	AlignBegin=141095|AlignEnd=141187|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 11	=wa	_	CCONJ	CONJ	_	10	cc	_	AlignBegin=141187|AlignEnd=141281|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 12	/	_	PUNCT	_	_	10	punct	_	AlignBegin=141281|AlignEnd=141652|Gloss=/|TokenType=Break
 13	taɖoːm	_	VERB	V2	VerbClass=2	14	comp/m	_	AlignBegin=141652|AlignEnd=141747|Gloss=be_fastened|RX=[V2]|TokenType=Root
@@ -947,13 +947,13 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_05_ERITREA.WAV
 # sent_timecode = 162036, 163445
 # phonetic_text = t= ʔaba mhall =eː i= dar -a =eː /
-# text = eː= jam jʔ -i =jeːb oː= doːr / jiwi meːk =u =it // taː= dwaːn // winneːt daːwri jam // kit -aː =b =a =ajt // i= jam =eː gʷʔ -ja =t // uː= meːk //
+# text = eː= jam jʔ -i =jeːb oː= doːr / jiwi meːk =u =it // taː= dwaːn // winneːt daːwri jam // kit -aː -b =a =ajt // i= jam =eː gʷʔ -ja =t // uː= meːk //
 # text_en = When it arrived at the water place, since it's a thirsty donkey, since at Taa-Dwaan the water was very beautiful and clear, the donkey drunk its water, and
 1	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=151569|AlignEnd=151703|Gloss=DEF.PL.M.ACC=|RX=[DET]=|TokenType=Clit
 2	jam	_	NOUN	N	Gender=Masc|Number=Plur	3	comp:obj	_	AlignBegin=151703|AlignEnd=151838|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
 3	jʔ	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=151838|AlignEnd=151928|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 4	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=151928|AlignEnd=152018|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
-5	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	7	mod@relcl	_	AlignBegin=152018|AlignEnd=152107|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+5	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	7	mod@relcl	_	AlignBegin=152018|AlignEnd=152107|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=152107|AlignEnd=152241|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 7	doːr	_	NOUN	N	Gender=Masc	11	mod	_	AlignBegin=152241|AlignEnd=152376|Gloss=time|RX=[N].[M]|TokenType=Root
 8	/	_	PUNCT	_	_	7	punct	_	AlignBegin=152376|AlignEnd=152645|Gloss=/|TokenType=Break
@@ -1693,7 +1693,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_05_ERITREA.WAV
 # sent_timecode = 269053, 279996
 # phonetic_text = sagi mhiːn -i riba / a- m- ʔarw =eːb oː= doːr / toːt t= ʔabaː =t -i haːj sajjʔa -s -i =jeːb / ʔaːbreːt w= haˈwaːd // ʔiʃa =t -eː =da hantaːj -i =eːk / weːnaː =t -i =da hantaːj -i =jeːk / a- ktiːn i= riba iː- fi =t / oːn oː= riba a- m- ʔaraːw a- ngad /
-# text = sagi mhiːni rba / amʔarweːb oːdoːr / toːt tʔabaːti haːj sajjʔasijeːb / ʔaːbreːt whaˈwaːd // ʔiʃaːteːda hantaːjijeːk / weːnaːtida hantaːjijeːk / aktiːn irba iːfit / oːn oːrba amʔaraːw angad /
+# text = sagi mhiːn =i riba / a- m- ʔarw =eːb oː= doːr / toːt t= ʔabaː =t =i haːj sajjʔa -s -i =jeːb / ʔaːbreːt w= haˈwaːd // ʔiʃa =t =eː =da hantaːj -i =eːk / weːnaː =t =i =da hantaːj -i =jeːk / a- ktiːn i= rba iː- fi =t / oːn oː= rba a- m- ʔaraːw a- ngad /
 # text_en = When I was next to a mountain far away in this valley where I had my bearings always, at night, if I moved to piss or if I moved for something else, I knew the mountain was there and I stood next to the mountain,
 1	sagi	_	ADJ	ADJ	_	2	mod	_	AlignBegin=269053|AlignEnd=269335|Gloss=far|RX=[ADJ]|TokenType=Root
 2	mhiːn	_	NOUN	N	Gender=Masc	3	comp	_	AlignBegin=269335|AlignEnd=269476|Gloss=place|RX=[N].[M]|TokenType=Root
@@ -1716,7 +1716,7 @@
 19	sajjʔa	_	VERB	V2	VerbClass=2	20	comp/m	_	AlignBegin=272028|AlignEnd=272104|Gloss=reflect_on|RX=[V2]|TokenType=Root
 20	-s	_	AUX	V2	VerbClass=2|Voice=Cau	22	comp	_	AlignBegin=272104|AlignEnd=272180|DerPos=VERB|Gloss=-CAUS|RX=-[DER].[V2]|TokenType=DerAff
 21	-i	_	PRON	TAM.PNG	Aspect=Aor|Number=Sing|Person=1	20	subj/m	_	AlignBegin=272180|AlignEnd=272256|Gloss=-AOR.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
-22	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	mod@relcl	_	AlignBegin=272256|AlignEnd=272333|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+22	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	mod@relcl	_	AlignBegin=272256|AlignEnd=272333|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 23	/	_	PUNCT	_	_	22	punct	_	AlignBegin=272333|AlignEnd=272639|Gloss=/|TokenType=Break
 24	ʔaːbreːt	_	ADV	ADV	_	28	mod	_	AlignBegin=272639|AlignEnd=272923|Gloss=always|RX=[ADV]|TokenType=Root
 25	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	26	det	_	AlignBegin=272923|AlignEnd=273065|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -2120,7 +2120,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_05_ERITREA.WAV
 # sent_timecode = 334717, 342761
 # phonetic_text = haːjloː / toː= na ʃibib -eː / t= ʔeːtrig daːjeːb / ti- firʔa =jeːb oː= doːr / ontʔa / mirʔafi =b iː- kti =eːt toː= na a- kan /
-# text = hajloː / toːnaː ʃibibeː / tʔeːtrig daːjeːb / tifirʔajeːb oːdoːr / ontʔa / mirʔafiːb iːktijeːt toːna akan /
+# text = haːjloː / toː= na ʃibib -eː / t= ʔeːtrig daːjeːb / ti- firʔa =jeːb oː= doːr / ontʔa / mirʔafi =b iː- kti =eːt toː= na a- kan /
 # text_en = anyway, while I was looking at the thing, when the moon was fully arisen, now, I understood that the thing was a hyena.
 1	haːjloː	_	PART	PTCL	_	5	discourse	_	AlignBegin=334717|AlignEnd=335001|Gloss=anayway|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=335001|AlignEnd=335286|Gloss=/|TokenType=Break
@@ -2135,7 +2135,7 @@
 11	/	_	PUNCT	_	_	10	punct	_	AlignBegin=338866|AlignEnd=339176|Gloss=/|TokenType=Break
 12	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	13	subj/m	_	AlignBegin=339176|AlignEnd=339264|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 13	firʔa	_	VERB	V1	Aspect=Perf|VerbClass=1|Voice=Mid	14	comp	_	AlignBegin=339264|AlignEnd=339352|Gloss=take_out\MID.PFV|RX=[V1].[MID]|TokenType=Root
-14	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	mod@relcl	_	AlignBegin=339352|AlignEnd=339439|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+14	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	mod@relcl	_	AlignBegin=339352|AlignEnd=339439|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 15	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	det	_	AlignBegin=339439|AlignEnd=339571|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 16	doːr	_	NOUN	N	Gender=Masc	28	mod	_	AlignBegin=339571|AlignEnd=339702|Gloss=time|RX=[N].[M]|TokenType=Root
 17	/	_	PUNCT	_	_	16	punct	_	AlignBegin=339702|AlignEnd=339964|Gloss=/|TokenType=Break
@@ -2517,7 +2517,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_05_ERITREA.WAV
 # sent_timecode = 390960, 402296
 # phonetic_text = uːn i= karaːj umbaruː / waliːk -eːtiːt / ontʔa // toːt ti= biri =t =iːb / kʷinh -i =jeːb oː= doːr / karaːj dawil iː- fi mhiːn =iː =ka jʔ -eːtiːt =hoːk / haːʃ dh =oːk dʔi -tiːt =hoːk // ʔaːm =hoːk i- dʔa -na //
-# text = uːn ikaraːj umbaruː / waliːkeːtiːt / ontʔa // toːt tibireːtiːb / kʷinhijeːb oːdoːr / karaːj dawil iːfi mhiːniːka jʔeːtiːthoːk / haːʃ dhoːk dʔiːtiːthoːk // ʔaːmhoːk idʔana //
+# text = uːn i= karaːj umbaruː / waliːk -eːtiːt / ontʔa // toːt ti= bri =t =iːb / kʷinh -i =jeːb oː= doːr / karaːj dawil iː- fi mhiːn =iː =ka jʔ -eːtiːt =hoːk / haːʃ dh =oːk dʔi -tiːt =hoːk // ʔaːm =hoːk i- dʔa -na //
 # text_en = This hyena, it was shouting and now, when it was shouting very loudly, there was a hyena nearby and it would have come to you from different places, and after it would have thrown earth at you, they (sic) would have devoured you!
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=390960|AlignEnd=391273|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=391273|AlignEnd=391429|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -2537,7 +2537,7 @@
 16	/	_	PUNCT	_	_	15	punct	_	AlignBegin=396394|AlignEnd=396652|Gloss=/|TokenType=Break
 17	kʷinh	_	VERB	V2	VerbClass=2	19	comp	_	AlignBegin=396796|AlignEnd=396879|Gloss=shout|RX=[V2]|TokenType=Root
 18	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	17	subj/m	_	AlignBegin=396879|AlignEnd=396962|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
-19	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	21	mod@relcl	_	AlignBegin=396962|AlignEnd=397046|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+19	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	21	mod@relcl	_	AlignBegin=396962|AlignEnd=397046|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 20	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	det	_	AlignBegin=397046|AlignEnd=397171|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 21	doːr	_	NOUN	N	Gender=Masc	26	mod	_	AlignBegin=397171|AlignEnd=397296|Gloss=time|RX=[N].[M]|TokenType=Root
 22	/	_	PUNCT	_	_	21	punct	_	AlignBegin=397296|AlignEnd=397546|Gloss=/|TokenType=Break

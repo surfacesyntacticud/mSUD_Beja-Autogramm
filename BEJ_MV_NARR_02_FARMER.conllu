@@ -124,12 +124,12 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 23131, 32574
 # phonetic_text = amseːnoːk i- kati =jeːb oː= doːr / oːn i= reːw =oː ʃaːkʷ -eː aːn j= ʔar / eːn j= ʔar =eːb w= ʔoːr uː= dis =ka / ʔadaloː na / manri eːn bak / handi -i whiː //
-# text = amseːnoːk ikatijeːb oːdoːr / oːn ireːwoː ʃaːkʷeː aːn jʔar / eːn jʔareːb wʔoːr uːdiska /adaloː na /marri eːn bak /handiː whiː // BI_748
+# text = amseːnoːk i- kati =jeːb oː= doːr / oːn i= reːw =oː ʃaːkʷ -eː aːn j= ʔar / eːn j= ʔar =eːb w= ʔoːr uː= dis =ka / ʔadaloː na / manri eːn bak / handi =i whiː //
 # text_en = One of these days, while they are making their cattle graze, those children, the youngest of those children finds a small red thing, they said, like that, under a tree.
 1	amseːnoːk	_	ADV	ADV	_	3	mod	_	AlignBegin=23131|AlignEnd=23511|Gloss=that_day|RX=[ADV]|TokenType=Root
 2	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=23511|AlignEnd=23638|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 3	kati	_	VERB	V1	VerbClass=1	4	comp	_	AlignBegin=23638|AlignEnd=23765|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root
-4	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	6	mod@relcl	_	AlignBegin=23765|AlignEnd=23891|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+4	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	6	mod@relcl	_	AlignBegin=23765|AlignEnd=23891|Gloss==REL.SG|RX==[CONJ]|TokenType=Clit
 5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=23891|AlignEnd=24081|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 6	doːr	_	NOUN	N	Gender=Masc	13	mod	_	AlignBegin=24081|AlignEnd=24271|Gloss=time|RX=[N].[M]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=24271|AlignEnd=24649|Gloss=/|TokenType=Break
@@ -270,7 +270,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 48138, 58488
 # phonetic_text = w= handi / wi= whiː mir -aː =b iː- kti =jeːb rhi -is -i =hoːb / fanriːk =eːb oː= doːr / tuː= na / koːm -a oː= mhiːn / dammʔara -i iː- fi -ina eːn aːn aː= kina / guːd~guːd ah -a eːn //
-# text = whandi / wiwhiː miraːb iːktijeːb rhisihoːb / farriːkeːb oːdoːr / tuːna / koːma oːmhiːn / dammʔaraːj iːfiːna eːn aːn aːkna /guːdguːda aha eːn //
+# text = w= handi / wi= whiː mir -aː -b iː- kti =jeːb rhi -is -i =hoːb / fanriːk =eːb oː= doːr / tuː= na / koːm -a oː= mhiːn / dammʔara =i iː- fi -ina eːn aːn aː= kna / guːd~guːd ah -a eːn //
 # text_en = When he showed him the tree under which he had found it, there are real heaps of golden things, they said, in huge quantities, they said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=48138|AlignEnd=48264|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	handi	_	NOUN	N	Gender=Masc	13	comp:obj	_	AlignBegin=48264|AlignEnd=48389|Gloss=tree|RX=[N].[M]|TokenType=Root
@@ -289,7 +289,7 @@
 15	=hoːb	_	SCONJ	CONJ	_	17	mod	_	AlignBegin=50095|AlignEnd=50179|Gloss==when|RX==[CONJ]|TokenType=Clit
 16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=50179|AlignEnd=50510|Gloss=/|TokenType=Break
 17	fanriːk	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	18	comp	_	AlignBegin=50510|AlignEnd=50710|Gloss=dig\IPFV.3SG|RX=[V1]|TokenType=Root
-18	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	20	mod@relcl	_	AlignBegin=50710|AlignEnd=50911|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+18	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	20	mod@relcl	_	AlignBegin=50710|AlignEnd=50911|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 19	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	det	_	AlignBegin=50911|AlignEnd=51111|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 20	doːr	_	NOUN	N	Gender=Masc	33	mod	_	AlignBegin=51111|AlignEnd=51312|Gloss=time|RX=[N].[M]|TokenType=Root
 21	/	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=51312|AlignEnd=51712|Gloss=/|TokenType=Break
@@ -775,7 +775,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 147751, 155466
 # phonetic_text = oːn w= ʔaːʃoː =joː =ka / wi= manri =jeːb / wi= ʔanbiːk =eːb i= bhar =iːb dilib -tiːt =ka / j= ʔar =iheː =da mʔari =t =oː hoːj i- niːn =aːt /
-# text = oːn wʔaːʃoːjoːka /wimarrijeːb / wiʔambiːkeːb ibhariːb dilibtiːtka / jʔariheːda mʔariːtoː hoːj iniːnaːt /
+# text = oːn w= ʔaːʃoː =joː =ka / wi= manri =jeːb / wi= ʔanbiːk =eːb i= bhar =iːb dilib -tiːt =ka / j= ʔar =iheː =da mʔari =t =oː hoːj i- niːn =aːt /
 # text_en = All the fish that he finds that he catches in the sea, he sells them and he buys his food from (the money he gets) for his children and
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=147751|AlignEnd=148141|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=148141|AlignEnd=148239|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -785,11 +785,11 @@
 6	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=148531|AlignEnd=148921|Gloss=/|TokenType=Break
 7	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	8	comp:obj	_	AlignBegin=149836|AlignEnd=149975|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 8	manri	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	9	comp	_	AlignBegin=149975|AlignEnd=150114|Gloss=find\IPFV.3SG|RX=[V1]|TokenType=Root
-9	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	3	mod@relcl	_	AlignBegin=150114|AlignEnd=150252|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+9	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	3	mod@relcl	_	AlignBegin=150114|AlignEnd=150252|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=150252|AlignEnd=150668|Gloss=/|TokenType=Break
 11	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	12	comp:obj	_	AlignBegin=150668|AlignEnd=150861|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 12	ʔanbiːk	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	13	comp	_	AlignBegin=150861|AlignEnd=151054|Gloss=take\IPFV.3SG|RX=[V1]|TokenType=Root
-13	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	3	mod@relcl	_	AlignBegin=151054|AlignEnd=151246|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+13	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	3	mod@relcl	_	AlignBegin=151054|AlignEnd=151246|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 14	i=	_	DET	DET	Definite=Def|Gender=Masc	15	det	_	AlignBegin=151246|AlignEnd=151439|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 15	bhar	_	NOUN	N	Gender=Masc	16	comp	_	AlignBegin=151439|AlignEnd=151632|Gloss=sea|RX=[N].[M]|TokenType=Root
 16	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	17	comp:obl	_	AlignBegin=151632|AlignEnd=151824|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
@@ -815,7 +815,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 155468, 170922
 # phonetic_text = amseːnoːk bʔeː =b gaːl / u= bhar -i =dha mheː -tiːt / ʃabaka =t =oː i- ngiːd =eːb oː= doːr / ʃabaka / ontʔa / dabal =had siː- san -tiːt sikʷ -ti fanrʔi =jeːb oː= doːr / diwaːn -i rif# ## rifkaːk fanrʔi eːn //
-# text = amseːnoːk bʔeːb gaːl /ubharidha mheːtiːt / ʃabakatoː ingiːdeːb oːdoːr /ʃabaka /ontʔa / dabalhad siːsantiːt sikʷti farrʔijeːb oːdoːr /diwaːni rif# ## rifkaːk farrʔi eːn //
+# text = amseːnoːk bʔeː =b gaːl / u= bhar =i =dha mheː -tiːt / ʃabaka =t =oː i- ngiːd =eːb oː= doːr / ʃabaka / ontʔa / dabal =had siː- san -tiːt sikʷ -ti fanrʔi =jeːb oː= doːr / diwaːn =i rif# ## rifkaːk fanrʔi eːn //
 # text_en = one day, having gone to the sea in the morning when he throws his net, so, after he has left a net for a while, when he pulls it out, he takes out a piece of jar, they said.
 1	amseːnoːk	_	ADV	ADV	_	10	discourse	_	AlignBegin=155468|AlignEnd=155770|Gloss=that_day|RX=[ADV]|TokenType=Root
 2	bʔeː	_	NOUN	N	Gender=Masc	10	discourse	_	AlignBegin=155770|AlignEnd=155921|Gloss=day|RX=[N].[M]|TokenType=Root
@@ -850,7 +850,7 @@
 31	sikʷ	_	VERB	V1	VerbClass=1	32	comp/m	_	AlignBegin=164503|AlignEnd=164707|Gloss=pull|RX=[V1]|TokenType=Root
 32	-ti	_	AUX	_	_	33	mod	_	AlignBegin=164707|AlignEnd=164910|DerPos=VERB|Gloss=-CVB.GNRL|TokenType=DerAff
 33	fanrʔi	_	VERB	V1	Aspect=Imp|Number=Sing|Person=2|VerbClass=1	34	comp	_	AlignBegin=164910|AlignEnd=165114|Gloss=take_out\IPFV.3SG|RX=[V1]|TokenType=Root
-34	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	36	mod@relcl	_	AlignBegin=165114|AlignEnd=165317|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+34	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	36	mod@relcl	_	AlignBegin=165114|AlignEnd=165317|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 35	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	36	det	_	AlignBegin=165317|AlignEnd=165521|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 36	doːr	_	NOUN	N	Gender=Masc	43	mod	_	AlignBegin=165521|AlignEnd=165724|Gloss=time|RX=[N].[M]|TokenType=Root
 37	/	_	PUNCT	PUNCT	_	36	punct	_	AlignBegin=165724|AlignEnd=166133|Gloss=/|TokenType=Break
@@ -1153,7 +1153,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 229517, 237672
 # phonetic_text = san -a =jeː =wa / j= ʔaraw =eː =wa / i= bhar =iːb iː- fi -na a- m- deːr -aːj =eːb oː= doːr / oːt t= ʔalba =t =iːb dʔi -jaː / i= bhar -i wast =iːb gid -aː =jeː =jaː /
-# text = sanaːjeːwa / jʔaraweːwa / ibhariːb iːfiːna amdeːraːjeːb oːdoːr / oːt tʔalbaːtiːb dʔija /ibhari wastiːb gidaːjeːja /
+# text = san -a =jeː =wa / j= ʔaraw =eː =wa / i= bhar =iːb iː- fi -na a- m- deːr -aːj =eːb oː= doːr / oːt t= ʔalba =t =iːb dʔi -ja / i= bhar =i wast =iːb gid -aː =jeː =jaː /
 # text_en = My brothers and my friends were in the sea and when I quarrelled with them, putting me in this can, they threw me into the middle of the sea.
 1	san	_	NOUN	N	Gender=Masc	7	conj:coord	_	AlignBegin=229517|AlignEnd=229616|Gloss=brother|RX=[SBJ].[N].[M]|TokenType=Root
 2	-a	_	DET	_	_	1	det/m	_	AlignBegin=229616|AlignEnd=229715|Gloss=-PL|TokenType=InflAff
@@ -1175,7 +1175,7 @@
 18	m-	_	AUX	V1	VerbClass=1|Voice=Rcp	21	comp	_	AlignBegin=231956|AlignEnd=232035|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
 19	deːr	_	VERB	V1	Aspect=Perf|VerbClass=1	20	comp/m	_	AlignBegin=232035|AlignEnd=232114|Gloss=kill\INT.PFV|RX=[V1].[DER]|TokenType=Root
 20	-aːj	_	AUX	V1.TAM	Aspect=Imp|VerbClass=1|Voice=Rcp	18	comp/m	_	AlignBegin=232114|AlignEnd=232193|DerPos=VERB|Gloss=-RECP.IPFV|RX=-[V1].[DER].[TAM]|TokenType=DerAff
-21	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	23	mod@relcl	_	AlignBegin=232193|AlignEnd=232272|Gloss==REL.SG|RX==[CONJ]|TokenType=Clit
+21	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	23	mod@relcl	_	AlignBegin=232193|AlignEnd=232272|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 22	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	23	det	_	AlignBegin=232272|AlignEnd=232470|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 23	doːr	_	NOUN	N	Gender=Masc	30	mod	_	AlignBegin=232470|AlignEnd=232667|Gloss=time|RX=[N].[M]|TokenType=Root
 24	/	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=232667|AlignEnd=233063|Gloss=/|TokenType=Break

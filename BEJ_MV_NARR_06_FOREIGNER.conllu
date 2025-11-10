@@ -90,7 +90,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_06_FOREIGNER.WAV
 # sent_timecode = 14675, 26604
 # phonetic_text = umbaruːk danri =jeːk i- d =heːb i- ni // ət# ti= mindikʷijaːj a- niːw =hoːk umbaruːk danri =jeːk / uːn ani / t= ʔarabijaːj =wa / oː= maːl w= haːj jʔ -a =b a- kati jeːb =wa / kass =oː a- niːw =hoːk i- ndi //
-# text = umbaruːk darrijeːk idheːb ini // ət# timindikʷejaːj aniːwhoːk umbaruːk darrijeːk / uːn ani / tʔarabijaːjwa / oːmaːl whaːj jʔaːb akatjeːwwa / kassoː aniːwhoːk indi //
+# text = umbaruːk danri =jeːk i- d =heːb i- ni // ət# ti= mindikʷijaːj a- niːw =hoːk umbaruːk danri =jeːk / uːn ani / t= ʔarabijaːj =wa / oː= maːl w= haːj jʔ -a -b a- kati =jeːb =wa / kass =oː a- niːw =hoːk i- ndi //
 # text_en = "You, if you kill it", he told me, he said, I'll give you the gun if YOU kill it, as for me, I'll give you the car and all the fortune I brought", he said.
 1	umbaruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	2	subj	_	AlignBegin=14675|AlignEnd=15053|Gloss=2SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	danri	_	VERB	V1	VerbClass=1	3	comp	_	AlignBegin=15053|AlignEnd=15242|Gloss=kill\IPFV.2SG.M|RX=[V1]|TokenType=Root
@@ -127,7 +127,7 @@
 33	-b	_	PRON	DET	Case=Acc|Gender=Masc	32	subj/m	_	AlignBegin=23749|AlignEnd=23862|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 34	a-	_	PRON	PNG	Number=Sing|Person=1	35	subj/m	_	AlignBegin=23862|AlignEnd=23946|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 35	kati	_	VERB	AUX	Aspect=Imp	36	comp	_	AlignBegin=23946|AlignEnd=24030|Gloss=become\IPFV|RX=[AUX].[PRF]|TokenType=Root
-36	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	28	mod@relcl	_	AlignBegin=24030|AlignEnd=24114|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+36	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	28	mod@relcl	_	AlignBegin=24030|AlignEnd=24114|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 37	=wa	_	CCONJ	CONJ	_	36	cc	_	AlignBegin=24114|AlignEnd=24199|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 38	/	_	PUNCT	_	_	28	punct	_	AlignBegin=24199|AlignEnd=24534|Gloss=/|TokenType=Break
 39	kass	_	ADJ	DET	_	28	dislocated:mod	_	AlignBegin=24534|AlignEnd=24699|Gloss=all|RX=[ADJ]|TokenType=Root
@@ -327,7 +327,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_06_FOREIGNER.WAV
 # sent_timecode = 57207, 63990
 # phonetic_text = uː= jhaːm oː= mhiːn w= ʔani a- ngaːd iː- kti =jeːb / t= ʔalaːma / uː= na / əgəg# / i= xawaːʤa dhaj hi -jaː iː- kti =jeːb / hasam -jaː =ajt /
-# text = uːjhaːm oːmhiːn wʔani angad iːktijeːb / tʔalaːma / uːna / əgəg# / ixawaːʤa dhaj hija iːktijeːb / hasamjaːjt /
+# text = uː= jhaːm oː= mhiːn w= ʔani a- ngad iː- kti =jeːb / t= ʔalaːma / uː= na / əgəg# / i= xawaːʤa dhaj hi -ja iː- kti =jeːb / hasam -ja =ajt /
 # text_en = The leopard, (compared with) the place where I had stopped, had gone past the marks, the thingy, er, the foreigner had drawn for it.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=57207|AlignEnd=57378|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	jhaːm	_	NOUN	N	Gender=Masc	30	subj	_	AlignBegin=57378|AlignEnd=57549|Gloss=leopard|RX=[SBJ].[N].[M]|TokenType=Root
@@ -339,7 +339,7 @@
 8	ngad	_	VERB	V1	Aspect=Perf|VerbClass=1	10	comp:pred	_	AlignBegin=58404|AlignEnd=58575|Gloss=stop\PFV|RX=[V1].[IRG]|TokenType=Root
 9	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	subj/m	_	AlignBegin=58575|AlignEnd=58689|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 10	kti	_	VERB	V1	VerbClass=1	11	comp	_	AlignBegin=58689|AlignEnd=58803|Gloss=become\AOR|RX=[V1].[IRG]|TokenType=Root
-11	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	mod@relcl	_	AlignBegin=58803|AlignEnd=58917|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+11	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	mod@relcl	_	AlignBegin=58803|AlignEnd=58917|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 12	/	_	PUNCT	_	_	4	punct	_	AlignBegin=58917|AlignEnd=59258|Gloss=/|TokenType=Break
 13	t=	_	DET	DET	Definite=Def|Gender=Fem	14	det	_	AlignBegin=59384|AlignEnd=59535|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 14	ʔalaːma	_	NOUN	N	Gender=Fem	30	comp:obj	_	AlignBegin=59535|AlignEnd=59686|Gloss=mark|RX=[N].[F]|TokenType=Root
@@ -356,7 +356,7 @@
 25	-ja	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	27	comp:pred	_	AlignBegin=61925|AlignEnd=62086|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 26	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	27	subj/m	_	AlignBegin=62086|AlignEnd=62194|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 27	kti	_	VERB	AUX	Aspect=Aor	28	comp	_	AlignBegin=62194|AlignEnd=62302|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-28	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	14	mod@relcl	_	AlignBegin=62302|AlignEnd=62409|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+28	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	14	mod@relcl	_	AlignBegin=62302|AlignEnd=62409|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 29	/	_	PUNCT	_	_	28	punct	_	AlignBegin=62409|AlignEnd=62731|Gloss=/|TokenType=Break
 30	hasam	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=62731|AlignEnd=62890|Gloss=go_past|RX=[V2]|TokenType=Root
 31	-ja	_	PRON	TAM.PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	30	subj/m	_	AlignBegin=62890|AlignEnd=63049|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff

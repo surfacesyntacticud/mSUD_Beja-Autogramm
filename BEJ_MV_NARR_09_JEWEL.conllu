@@ -168,7 +168,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_09_JEWEL.WAV
 # sent_timecode = 31302, 41580
 # phonetic_text = toːt ti= ʤoːhara -aːji =t =oː daː -s -ti =hoːb / oː= dar / i= ti= ʤoːhara -jaːj / daː -s -aː =t tiː- kti =jeːb mariː jʔ -eːtiːt / koːba =t =oː jhak -s -i =t / oːt ti= koːba / dhaːj gʷanbi eːn //
-# text = toːt tiʤoːharaːjitoː daːstihoːb / oːdar / itiʤoːharaːj / daːsaːt tiːktijeːb mariː jʔeːtiːt / koːbaːtoː jhaksit / oːt tikoːba / dhaːj gʷambi eːn //
+# text = toːt ti= ʤoːhara -aːji =t =oː daː -s -ti =hoːb / oː= dar / i= ti= ʤoːhara -jaːj / daː -s -aː -t tiː- kti =jeːb mariː jʔ -eːtiːt / koːba =t =oː jhak -s -i =t / oːt ti= koːba / dhaːj gʷanbi eːn //
 # text_en = when it puts its jewel (on the ground) he comes from the place where it had put the jewel, and he lifts up his container, and he covers it with the container, they said.
 1	toːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=31302|AlignEnd=31718|Gloss=PROX.SG.F.ACC|RX=[DEM]|TokenType=Root
 2	ti=	_	DET	DET	Definite=Def|Gender=Fem	3	det	_	AlignBegin=31718|AlignEnd=31801|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -195,7 +195,7 @@
 23	-t	_	PRON	DET	Gender=Fem	22	subj/m	_	AlignBegin=34775|AlignEnd=34877|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
 24	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	25	subj/m	_	AlignBegin=34877|AlignEnd=35011|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 25	kti	_	VERB	AUX	Aspect=Aor	26	comp	_	AlignBegin=35011|AlignEnd=35145|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-26	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+26	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 27	mariː	_	ADV	ADV	_	28	mod	_	AlignBegin=35279|AlignEnd=35681|Gloss=from_the_direction|RX=[ADV]|TokenType=Root
 28	jʔ	_	VERB	V2	VerbClass=2	29	comp/m	_	AlignBegin=35681|AlignEnd=35882|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 29	-eːtiːt	_	AUX	_	_	35	mod	_	AlignBegin=35882|AlignEnd=36083|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff

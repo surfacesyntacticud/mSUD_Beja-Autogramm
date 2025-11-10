@@ -3,7 +3,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_13_GRAVE.WAV
 # sent_timecode = 0, 7764
 # phonetic_text = tak / ʔiːbaːb -eː / miːmaʃ -a -ji dar =iːb / jʔ -i =jeːb oː= doːr / ontʔa / diw -iːni eːn dijar -i =hoːb //
-# text = tak / ʔiːbaːbeː / miːmaʃaːji dariːb / jʔijeːb oːdoːr /  ontʔa / diwiːni eːn dijariːhoːb //
+# text = tak / ʔiːbaːb -eː / miːmaʃ -a =ji dar =iːb / jʔ -i =jeːb oː= doːr / ontʔa / diw -iːni eːn dijar -i =hoːb //
 # text_en = A man, while he is travelling, when he arrives in the vicinity of a cemetery, he falls asleep, they said, when he is tired.
 1	tak	_	NOUN	N	Gender=Masc	12	subj	_	AlignBegin=0|AlignEnd=190|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=190|AlignEnd=381|Gloss=/|TokenType=Root
@@ -18,7 +18,7 @@
 11	/	_	PUNCT	_	_	10	punct	_	AlignBegin=2284|AlignEnd=2664|Gloss=/|TokenType=Root
 12	jʔ	_	VERB	V2	VerbClass=2	14	comp	_	AlignBegin=2664|AlignEnd=2777|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 13	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	12	subj/m	_	AlignBegin=2777|AlignEnd=2890|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
-14	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	mod@relcl	_	AlignBegin=2890|AlignEnd=3002|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+14	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	mod@relcl	_	AlignBegin=2890|AlignEnd=3002|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 15	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	det	_	AlignBegin=3002|AlignEnd=3171|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 16	doːr	_	NOUN	N	Gender=Masc	20	mod	_	AlignBegin=3171|AlignEnd=3340|Gloss=time|RX=[N].[M]|TokenType=Root
 17	/	_	PUNCT	_	_	16	punct	_	AlignBegin=3340|AlignEnd=3677|Gloss=/|TokenType=Root
@@ -301,7 +301,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_13_GRAVE.WAV
 # sent_timecode = 26462, 59110
 # phonetic_text = oːn aneːb / gaːt deː =t =i tiː- fiːːː / tak ti- dʔar / oː= tak ti- t- dʔaːr =eːk =ka ti- baːɖin =heːb / oːn oː= dhaj ontʔa afirha -s -tini / karaːma =t eːn ## j= ʔajidhaːj -a dhaːj / i- farʔa -na / beːt ti= karaːma =t -i dhaːj i- farʔa -n =eːb / w= ʔiʤir =uː / kantiːm akoː / afirh -eːna / i- ndi eːn //
-# text = beːt ti= karaːma =t -i dhaːj i- farʔa -n =eːb  / w= ʔiʤir =uː  / kantiːm akoː  / afirh -eːna  / i- ndi eːn //
+# text = beːt ti= karaːma =t =i dhaːj i- farʔa -n =eːb / w= ʔiʤir =uː / kantiːm akoː / afirh -eːna / i- ndi eːn //
 # text_en = They are happy because of these alms they gave, because their divine reward has arrived",  he says, they said.
 1	beːt	_	DET	DEM	Case=Acc|Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=50724|AlignEnd=51200|Gloss=DIST.SG.F.ACC|RX=[DEM]|TokenType=Root
 2	ti=	_	DET	DET	Definite=Def|Gender=Fem	3	det	_	AlignBegin=51200|AlignEnd=51319|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -312,7 +312,7 @@
 7	i-	_	PRON	PNG	Person=3	8	subj/m	_	AlignBegin=52152|AlignEnd=52271|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 8	farʔa	_	VERB	V1	Aspect=Perf|VerbClass=1	19	conj:coord	_	AlignBegin=52271|AlignEnd=52390|Gloss=take_out\PFV|RX=[V1]|TokenType=Root
 9	-n	_	PRON	PNG	Number=Plur	8	subj/m	_	AlignBegin=52390|AlignEnd=52509|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	3	mod@relcl	_	AlignBegin=52509|AlignEnd=52628|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	3	mod@relcl	_	AlignBegin=52509|AlignEnd=52628|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 11	/	_	PUNCT	_	_	10	punct	_	AlignBegin=52628|AlignEnd=53102|Gloss=/|TokenType=Root
 12	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=53698|AlignEnd=53810|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 13	ʔiʤir	_	NOUN	N	Gender=Masc	16	subj	_	AlignBegin=53810|AlignEnd=53922|Gloss=reward|RX=[SBJ].[N].[M]|TokenType=Root
