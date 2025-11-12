@@ -63,8 +63,8 @@
 17	=jeːk	_	SCONJ	CONJ	_	20	comp:obj	_	AlignBegin=12511|AlignEnd=12618|Gloss==if|Reported=Yes|RX==[CONJ]|TokenType=Clit
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=12618|AlignEnd=12940|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 19	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	20	subj/m	_	AlignBegin=12940|AlignEnd=13028|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-20	d	_	VERB	V1	Aspect=Aor|VerbClass=1	21	comp	_	AlignBegin=13028|AlignEnd=13117|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
-21	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	23	mod@relcl	_	AlignBegin=13117|AlignEnd=13206|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+20	d	_	VERB	V1	Aspect=Aor|VerbClass=1	21	comp	_	AlignBegin=13028|AlignEnd=13117|Filler=Obj|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
+21	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	23	mod@relcl$obj	_	AlignBegin=13117|AlignEnd=13206|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 22	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	23	det	_	AlignBegin=13206|AlignEnd=13339|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 23	doːr	_	NOUN	N	Gender=Masc	59	mod	_	AlignBegin=13339|AlignEnd=13472|Gloss=time|RX=[N].[M]|TokenType=Root
 24	/	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=13472|AlignEnd=14538|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -138,8 +138,8 @@
 26	-eːna	_	PRON	TAM.PNG	Mood=Imp|Number=Plur	25	subj/m	_	AlignBegin=26851|AlignEnd=27058|Gloss=-IMP.PL|RX=-[TAM].[PNG]|TokenType=InflAff
 27	/	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=27058|AlignEnd=27970|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 28	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	29	subj/m	_	AlignBegin=27970|AlignEnd=28042|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-29	d	_	VERB	V1	Aspect=Aor|VerbClass=1	30	comp	_	AlignBegin=28042|AlignEnd=28114|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
-30	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	32	mod@relcl	_	AlignBegin=28114|AlignEnd=28186|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+29	d	_	VERB	V1	Aspect=Aor|VerbClass=1	30	comp	_	AlignBegin=28042|AlignEnd=28114|Filler=Obj|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
+30	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	32	mod@relcl$obj	_	AlignBegin=28114|AlignEnd=28186|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 31	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	32	det	_	AlignBegin=28186|AlignEnd=28294|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 32	doːr	_	NOUN	N	Gender=Masc	41	mod	_	AlignBegin=28294|AlignEnd=28402|Gloss=time|RX=[N].[M]|TokenType=Root
 33	/	_	PUNCT	PUNCT	_	32	punct	_	AlignBegin=28402|AlignEnd=28618|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -210,8 +210,8 @@
 26	=t	_	DET	_	Degree=Dim|Gender=Fem	25	det	_	AlignBegin=40422|AlignEnd=40520|Gloss==INDF.F|RX==[DIM]|TokenType=Clit
 27	=i	_	ADP	CASE	Case=Gen	29	udep	_	AlignBegin=40520|AlignEnd=40618|Gloss==GEN|RX==[CASE]|TokenType=Clit
 28	=t	_	DET	DET	Gender=Fem	27	det	_	AlignBegin=40618|AlignEnd=40716|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-29	hallaːn	_	ADV	ADV	_	30	comp	_	AlignBegin=40716|AlignEnd=40912|Gloss=now|RX=[ADV]|TokenType=Root
-30	=eːt	_	SCONJ	_	Gender=Fem	21	mod@relcl	_	AlignBegin=40912|AlignEnd=41108|Gloss==REL.F|RX==CONJ|TokenType=Clit
+29	hallaːn	_	ADV	ADV	_	30	comp	_	AlignBegin=40716|AlignEnd=40912|Filler=Obj|Gloss=now|RX=[ADV]|TokenType=Root
+30	=eːt	_	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl$obj	_	AlignBegin=40912|AlignEnd=41108|Gloss==REL.F|RX==CONJ|TokenType=Clit
 31	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	32	subj/m	_	AlignBegin=41108|AlignEnd=41238|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 32	miː-	_	AUX	V1	Aspect=Aor|VerbClass=1|Voice=Pass	0	root	_	AlignBegin=41238|AlignEnd=41369|DerPos=VERB|Gloss=PASS.INT.AOR-|RX=[V1].[DER]-|TokenType=DerAff
 33	firʔa	_	VERB	V1	VerbClass=1	32	comp/m	_	AlignBegin=41369|AlignEnd=41500|Gloss=take_out|RX=[V1]|TokenType=Root
@@ -335,8 +335,8 @@
 27	-i	_	PRON	TAM.PNG	Gender=Fem|Mood=Imp|Number=Sing	26	subj/m	_	AlignBegin=63315|AlignEnd=63481|Gloss=-IMP.SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
 28	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=63481|AlignEnd=63813|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 29	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	30	subj/m	_	AlignBegin=63813|AlignEnd=63900|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-30	d	_	VERB	V1	Aspect=Aor|VerbClass=1	31	comp	_	AlignBegin=63900|AlignEnd=63988|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
-31	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	33	mod@relcl	_	AlignBegin=63988|AlignEnd=64076|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+30	d	_	VERB	V1	Aspect=Aor|VerbClass=1	31	comp	_	AlignBegin=63900|AlignEnd=63988|Filler=Obj|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
+31	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	33	mod@relcl$obj	_	AlignBegin=63988|AlignEnd=64076|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 32	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	33	det	_	AlignBegin=64076|AlignEnd=64208|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 33	doːr	_	NOUN	N	Gender=Masc	38	mod	_	AlignBegin=64208|AlignEnd=64340|Gloss=time|RX=[N].[M]|TokenType=Root
 34	/	_	PUNCT	PUNCT	_	33	punct	_	AlignBegin=64340|AlignEnd=64894|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -378,8 +378,8 @@
 25	-i	_	PRON	TAM.PNG	Gender=Fem|Mood=Imp|Number=Sing	24	subj/m	_	AlignBegin=71265|AlignEnd=71479|Gloss=-IMP.SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
 26	/	_	PUNCT	PUNCT	_	24	punct	_	AlignBegin=71479|AlignEnd=72022|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 27	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	28	subj/m	_	AlignBegin=72022|AlignEnd=72094|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-28	d	_	VERB	V1	Aspect=Aor|VerbClass=1	29	comp	_	AlignBegin=72094|AlignEnd=72166|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
-29	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	31	mod@relcl	_	AlignBegin=72166|AlignEnd=72238|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+28	d	_	VERB	V1	Aspect=Aor|VerbClass=1	29	comp	_	AlignBegin=72094|AlignEnd=72166|Filler=Obj|Gloss=say\AOR|RX=[V1].[IRG]|TokenType=Root
+29	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	31	mod@relcl$obj	_	AlignBegin=72166|AlignEnd=72238|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 30	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	31	det	_	AlignBegin=72238|AlignEnd=72346|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 31	doːr	_	NOUN	N	Gender=Masc	36	mod	_	AlignBegin=72346|AlignEnd=72454|Gloss=time|RX=[N].[M]|TokenType=Root
 32	/	_	PUNCT	PUNCT	_	31	punct	_	AlignBegin=72454|AlignEnd=72671|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -418,9 +418,9 @@
 10	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	11	comp	_	AlignBegin=77489|AlignEnd=77601|Gloss=people|RX=[N].[COL].[M]|TokenType=Root
 11	=i	_	ADP	CASE	Case=Gen	12	udep	_	AlignBegin=77601|AlignEnd=77713|Gloss==GEN|RX==[CASE]|TokenType=Clit
 12	=da	_	ADP	POSTP	_	13	comp:obl	_	AlignBegin=77713|AlignEnd=77825|Gloss==DIR|RX==[POSTP]|TokenType=Clit
-13	jʔ	_	VERB	V2	VerbClass=2	15	comp	_	AlignBegin=77825|AlignEnd=77937|Gloss=come|RX=[V2].[IRG]|TokenType=Root
+13	jʔ	_	VERB	V2	VerbClass=2	15	comp	_	AlignBegin=77825|AlignEnd=77937|Filler=Obj|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 14	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	13	subj/m	_	AlignBegin=77937|AlignEnd=78049|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
-15	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl	_	AlignBegin=78049|AlignEnd=78161|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+15	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=78049|AlignEnd=78161|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 16	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	det	_	AlignBegin=78161|AlignEnd=78329|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 17	doːr	_	NOUN	N	Gender=Masc	25	mod	_	AlignBegin=78329|AlignEnd=78497|Gloss=time|RX=[N].[M]|TokenType=Root
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=78497|AlignEnd=79574|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -594,9 +594,9 @@
 12	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=108625|AlignEnd=108868|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 13	dhaːj	_	ADP	POSTP	_	15	comp:obl	_	AlignBegin=108868|AlignEnd=109101|Gloss=DIR|RX=[POSTP]|TokenType=Root
 14	haːj	_	ADP	POSTP	Case=Com	15	mod	_	AlignBegin=109101|AlignEnd=109335|Gloss=COM|RX=[POSTP]|TokenType=Root
-15	jʔ	_	VERB	V2	VerbClass=2	17	comp	_	AlignBegin=109335|AlignEnd=109413|Gloss=come|RX=[V2].[IRG]|TokenType=Root
+15	jʔ	_	VERB	V2	VerbClass=2	17	comp	_	AlignBegin=109335|AlignEnd=109413|Filler=Obj|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 16	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	15	subj/m	_	AlignBegin=109413|AlignEnd=109491|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
-17	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	19	mod@relcl	_	AlignBegin=109491|AlignEnd=109569|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+17	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	19	mod@relcl$obj	_	AlignBegin=109491|AlignEnd=109569|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 18	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	det	_	AlignBegin=109569|AlignEnd=109686|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 19	doːr	_	NOUN	N	Gender=Masc	27	mod	_	AlignBegin=109686|AlignEnd=109803|Gloss=time|RX=[N].[M]|TokenType=Root
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=109803|AlignEnd=110568|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -644,8 +644,8 @@
 2	ʔamuːl	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=116001|AlignEnd=116148|Gloss=milk_container|RX=[N].[M]|TokenType=Root
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=116148|AlignEnd=116294|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 4	faːdi	_	ADJ	ADJ	Foreign=Yes	2	mod	_	AlignBegin=116294|AlignEnd=116441|Gloss=empty|Lang=ar|RX=[ADJ].[BORR].[ARA]|TokenType=Root
-5	eːwna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	6	comp	_	AlignBegin=116441|AlignEnd=116587|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
-6	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	8	mod@relcl	_	AlignBegin=116587|AlignEnd=116734|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	eːwna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	6	comp	_	AlignBegin=116441|AlignEnd=116587|Filler=Obj|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
+6	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	8	mod@relcl$obj	_	AlignBegin=116587|AlignEnd=116734|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=116734|AlignEnd=116880|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 8	doːr	_	NOUN	N	Gender=Masc	13	mod	_	AlignBegin=116880|AlignEnd=117027|Gloss=time|RX=[N].[M]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=117027|AlignEnd=117321|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -824,8 +824,8 @@
 9	a-	_	PRON	PNG	Number=Sing|Person=1	10	subj/m	_	AlignBegin=148200|AlignEnd=148376|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 10	haragʷi	_	VERB	V1	Aspect=Imp|VerbClass=1	12	comp:obj	_	AlignBegin=148376|AlignEnd=148553|Gloss=be_hungry\IPFV|Reported=Yes|RX=[V1].[IRG]|TokenType=Root
 11	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	12	subj/m	_	AlignBegin=148553|AlignEnd=148670|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
-12	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	13	comp	_	AlignBegin=148670|AlignEnd=148788|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
-13	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	15	mod@relcl	_	AlignBegin=148788|AlignEnd=148906|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+12	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	13	comp	_	AlignBegin=148670|AlignEnd=148788|Filler=Obj|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
+13	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	15	mod@relcl$obj	_	AlignBegin=148788|AlignEnd=148906|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 14	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	det	_	AlignBegin=148906|AlignEnd=149082|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 15	doːr	_	NOUN	N	Gender=Masc	17	mod	_	AlignBegin=149082|AlignEnd=149259|Gloss=time|RX=[N].[M]|TokenType=Root
 16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=149259|AlignEnd=149613|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1289,9 +1289,9 @@
 10	dhaːj	_	ADP	POSTP	_	13	mod	_	AlignBegin=221035|AlignEnd=221290|Gloss=DIR|RX=[POSTP]|TokenType=Root
 11	{laughter}	_	X	PUNCT	_	13	discourse	_	AlignBegin=221290|AlignEnd=221544|RX=[PUNCT]|TokenType=Root
 12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=221544|AlignEnd=221799|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-13	jʔ	_	VERB	V2	VerbClass=2	15	comp	_	AlignBegin=221799|AlignEnd=221915|Gloss=come|RX=[V2].[IRG]|TokenType=Root
+13	jʔ	_	VERB	V2	VerbClass=2	15	comp	_	AlignBegin=221799|AlignEnd=221915|Filler=Obj|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 14	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	13	subj/m	_	AlignBegin=221915|AlignEnd=222032|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
-15	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl	_	AlignBegin=222032|AlignEnd=222149|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+15	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=222032|AlignEnd=222149|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 16	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	det	_	AlignBegin=222149|AlignEnd=222324|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 17	doːr	_	NOUN	N	Gender=Masc	28	mod	_	AlignBegin=222324|AlignEnd=222499|Gloss=time|RX=[N].[M]|TokenType=Root
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=222499|AlignEnd=223424|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1375,8 +1375,8 @@
 10	bʔ	_	VERB	V2	VerbClass=2	13	comp:obj	_	AlignBegin=237962|AlignEnd=238126|Gloss=lie_down|Reported=Yes|RX=[V2]|TokenType=Root
 11	-aː	_	PRON	TAM.PNG	Gender=Masc|Mood=Imp|Number=Sing	10	subj/m	_	AlignBegin=238126|AlignEnd=238291|Gloss=-IMP.SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 12	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	13	subj/m	_	AlignBegin=238291|AlignEnd=238400|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-13	ndi	_	VERB	LV	Aspect=Imp	14	comp	_	AlignBegin=238400|AlignEnd=238510|Gloss=say\IPFV|RX=[V1.IRG]|TokenType=Root
-14	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	16	mod@relcl	_	AlignBegin=238510|AlignEnd=238620|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+13	ndi	_	VERB	LV	Aspect=Imp	14	comp	_	AlignBegin=238400|AlignEnd=238510|Filler=Obj|Gloss=say\IPFV|RX=[V1.IRG]|TokenType=Root
+14	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	16	mod@relcl$obj	_	AlignBegin=238510|AlignEnd=238620|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 15	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	16	det	_	AlignBegin=238620|AlignEnd=238784|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 16	doːr	_	NOUN	N	Gender=Masc	22	mod	_	AlignBegin=238784|AlignEnd=238949|Gloss=time|RX=[N].[M]|TokenType=Root
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=238949|AlignEnd=239279|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1437,9 +1437,9 @@
 # text = ti= w= hagiː =t =i =ka hanka fitik -na / aː= nda dhaːj jʔ -eːn =hoːb / ti= w= hagiː =t =i =ka hanka fitik -na / ti- ndi eːn //
 # phonetic_text = tiwhagiːtika hanka fitikna / aːnda dhaːj jʔeːnhoːb / tiwhagiːtika hanka fitikna / tindi eːn //
 # text_en = When the men come, it says: 'First take off each that are in my buttocks! First take off each that are in my buttocks!' they said.
-1	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	6	comp	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+1	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	6	comp	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=249696|AlignEnd=249772|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-3	hagiː	_	NOUN	N	Gender=Masc	1	mod@relcl	_	AlignBegin=249772|AlignEnd=249848|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+3	hagiː	_	NOUN	N	Gender=Masc	1	mod@relcl$subj	_	AlignBegin=249772|AlignEnd=249848|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
 4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=249848|AlignEnd=249924|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	udep@poss	_	AlignBegin=249924|AlignEnd=250000|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 6	=ka	_	ADP	POSTP	Case=Dis	8	comp:obj	_	AlignBegin=250000|AlignEnd=250077|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1454,9 +1454,9 @@
 15	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	14	subj/m	_	AlignBegin=252018|AlignEnd=252099|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 16	=hoːb	_	SCONJ	CONJ	_	29	mod	_	AlignBegin=252099|AlignEnd=252181|Gloss==when|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=252181|AlignEnd=252426|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-18	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	23	comp	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+18	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	23	comp	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 19	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	20	det	_	AlignBegin=252509|AlignEnd=252593|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-20	hagiː	_	NOUN	N	Gender=Masc	18	mod@relcl	_	AlignBegin=252593|AlignEnd=252677|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+20	hagiː	_	NOUN	N	Gender=Masc	18	mod@relcl$subj	_	AlignBegin=252593|AlignEnd=252677|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
 21	=t	_	DET	DET	Gender=Fem	20	det	_	AlignBegin=252677|AlignEnd=252760|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 22	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	20	udep@poss	_	AlignBegin=252760|AlignEnd=252844|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 23	=ka	_	ADP	POSTP	Case=Dis	25	comp:obj	_	AlignBegin=252844|AlignEnd=252928|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1536,8 +1536,8 @@
 4	-na	_	PRON	TAM.PNG	Mood=Imp|Number=Plur	3	subj/m	_	AlignBegin=264404|AlignEnd=264540|Gloss=-IMP.PL|RX=-[TAM].[PNG]|TokenType=InflAff
 5	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=264540|AlignEnd=265196|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 6	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	7	subj/m	_	AlignBegin=265196|AlignEnd=265255|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-7	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	8	comp	_	AlignBegin=265255|AlignEnd=265315|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
-8	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	10	mod@relcl	_	AlignBegin=265315|AlignEnd=265375|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+7	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	8	comp	_	AlignBegin=265255|AlignEnd=265315|Filler=Obj|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
+8	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	10	mod@relcl$obj	_	AlignBegin=265315|AlignEnd=265375|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 9	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	det	_	AlignBegin=265375|AlignEnd=265464|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 10	doːr	_	NOUN	N	Gender=Masc	14	mod	_	AlignBegin=265464|AlignEnd=265554|Gloss=time|RX=[N].[M]|TokenType=Root
 11	//	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=265554|AlignEnd=265733|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1568,8 +1568,8 @@
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=270191|AlignEnd=270297|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 14	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	15	det	_	AlignBegin=270297|AlignEnd=270429|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 15	ʔamuːl	_	NOUN	N	Gender=Masc	16	comp:obj	_	AlignBegin=270429|AlignEnd=270562|Gloss=milk_container|RX=[N].[M]|TokenType=Root
-16	eːjawna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	17	comp	_	AlignBegin=270562|AlignEnd=270695|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
-17	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	19	mod@relcl	_	AlignBegin=270695|AlignEnd=270828|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+16	eːjawna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	17	comp	_	AlignBegin=270562|AlignEnd=270695|Filler=Obj|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
+17	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	19	mod@relcl$obj	_	AlignBegin=270695|AlignEnd=270828|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 18	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	det	_	AlignBegin=270828|AlignEnd=270960|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 19	doːr	_	NOUN	N	Gender=Masc	24	mod	_	AlignBegin=270960|AlignEnd=271093|Gloss=time|RX=[N].[M]|TokenType=Root
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=271093|AlignEnd=271359|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break

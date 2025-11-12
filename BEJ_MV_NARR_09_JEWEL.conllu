@@ -184,7 +184,7 @@
 12	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=32964|AlignEnd=33102|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 13	dar	_	NOUN	N	Gender=Masc	28	comp:obj	_	AlignBegin=33102|AlignEnd=33241|Gloss=side|RX=[N].[M]|TokenType=Root
 14	/	_	PUNCT	_	_	13	punct	_	AlignBegin=33241|AlignEnd=33518|Gloss=/|TokenType=Break
-15	i=	_	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	21	comp:obj@R	_	AlignBegin=33518|AlignEnd=33638|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
+15	i=	i=	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	21	comp:obj@R	_	AlignBegin=33518|AlignEnd=33638|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
 16	ti=	_	DET	DET	Definite=Def|Gender=Fem	17	det	_	AlignBegin=33638|AlignEnd=33758|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 17	ʤoːhara	_	NOUN	N	Gender=Fem	21	comp:obj@T	_	AlignBegin=33758|AlignEnd=33878|Gloss=jewel|RX=[N].[F]|TokenType=Root
 18	-jaːj	_	DET	_	_	17	det/m	_	AlignBegin=33878|AlignEnd=33996|Gloss=-SING|TokenType=InflAff
@@ -194,8 +194,8 @@
 22	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	25	comp:pred	_	AlignBegin=34675|AlignEnd=34775|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 23	-t	_	PRON	DET	Gender=Fem	22	subj/m	_	AlignBegin=34775|AlignEnd=34877|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
 24	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	25	subj/m	_	AlignBegin=34877|AlignEnd=35011|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
-25	kti	_	VERB	AUX	Aspect=Aor	26	comp	_	AlignBegin=35011|AlignEnd=35145|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-26	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+25	kti	_	VERB	AUX	Aspect=Aor	26	comp	_	AlignBegin=35011|AlignEnd=35145|Filler=Obj|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
+26	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl$obj	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 27	mariː	_	ADV	ADV	_	28	mod	_	AlignBegin=35279|AlignEnd=35681|Gloss=from_the_direction|RX=[ADV]|TokenType=Root
 28	jʔ	_	VERB	V2	VerbClass=2	29	comp/m	_	AlignBegin=35681|AlignEnd=35882|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 29	-eːtiːt	_	AUX	_	_	35	mod	_	AlignBegin=35882|AlignEnd=36083|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff

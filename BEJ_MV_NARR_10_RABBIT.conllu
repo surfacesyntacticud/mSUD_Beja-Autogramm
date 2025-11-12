@@ -163,9 +163,9 @@
 # text_en = when I shook hands with the man, he said: "Under the tree which the man was sawing, a hare which was eating small branches appeared to me". While I was shaking hand with the man.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=25358|AlignEnd=25535|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=25535|AlignEnd=25712|Gloss=man|RX=[N].[M]|TokenType=Root
-3	ʃoːb	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=25712|AlignEnd=25830|Gloss=greet|RX=[V2]|TokenType=Root
+3	ʃoːb	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=25712|AlignEnd=25830|Filler=Obj|Gloss=greet|RX=[V2]|TokenType=Root
 4	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	3	subj/m	_	AlignBegin=25830|AlignEnd=25948|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
-5	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	7	mod@relcl	_	AlignBegin=25948|AlignEnd=26066|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	7	mod@relcl$obj	_	AlignBegin=25948|AlignEnd=26066|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=26066|AlignEnd=26243|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 7	doːr	_	NOUN	N	Gender=Masc	32	mod	_	AlignBegin=26243|AlignEnd=26420|Gloss=time|RX=[N].[M]|TokenType=Root
 8	/	_	PUNCT	_	_	7	punct	_	AlignBegin=26420|AlignEnd=26774|Gloss=/|TokenType=Break
@@ -173,8 +173,8 @@
 10	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	11	det	_	AlignBegin=27171|AlignEnd=27319|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 11	tak	_	NOUN	N	Gender=Masc	13	subj	_	AlignBegin=27319|AlignEnd=27466|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 12	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	13	subj/m	_	AlignBegin=27466|AlignEnd=27564|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
-13	hikil	_	VERB	V1	Aspect=Aor|VerbClass=1	14	comp	_	AlignBegin=27564|AlignEnd=27662|Gloss=saw\AOR|RX=[V1]|TokenType=Root
-14	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl	_	AlignBegin=27662|AlignEnd=27761|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+13	hikil	_	VERB	V1	Aspect=Aor|VerbClass=1	14	comp	_	AlignBegin=27564|AlignEnd=27662|Filler=Obj|Gloss=saw\AOR|RX=[V1]|TokenType=Root
+14	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=27662|AlignEnd=27761|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 15	/	_	PUNCT	_	_	14	punct	_	AlignBegin=27761|AlignEnd=28057|Gloss=/|TokenType=Break
 16	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	17	det	_	AlignBegin=28057|AlignEnd=28181|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 17	handi	_	NOUN	N	Gender=Masc	18	comp	_	AlignBegin=28181|AlignEnd=28305|Gloss=tree|RX=[N].[M]|TokenType=Root

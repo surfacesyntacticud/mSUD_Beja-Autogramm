@@ -166,9 +166,9 @@
 16	tʔa	_	PART	PTCL	_	19	mod	_	AlignBegin=27430|AlignEnd=27596|Gloss=now|RX=[PTCL]|TokenType=Root
 17	/	_	PUNCT	_	_	16	punct	_	AlignBegin=27596|AlignEnd=27763|Gloss=/|TokenType=Break
 18	tʔa	_	PART	PTCL	_	16	conj:dicto	_	AlignBegin=29688|AlignEnd=29872|Gloss=now|RX=[PTCL]|TokenType=Root
-19	gʷʔa	_	VERB	V2	VerbClass=2	21	comp	_	AlignBegin=29872|AlignEnd=29995|Gloss=drink|RX=[V2]|TokenType=Root
+19	gʷʔa	_	VERB	V2	VerbClass=2	21	comp	_	AlignBegin=29872|AlignEnd=29995|Filler=Obj|Gloss=drink|RX=[V2]|TokenType=Root
 20	-taːn	_	PRON	TAM.PNG	Aspect=Perf|Number=Plur|Person=2	19	subj/m	_	AlignBegin=29995|AlignEnd=30118|Gloss=-PFV.2PL|RX=-[TAM].[PNG]|TokenType=InflAff
-21	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl	_	AlignBegin=30118|AlignEnd=30240|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+21	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl$obj	_	AlignBegin=30118|AlignEnd=30240|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 22	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	23	subj/m	_	AlignBegin=30240|AlignEnd=30363|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 23	kati	_	VERB	V1	Aspect=Imp|VerbClass=1	24	comp	_	AlignBegin=30363|AlignEnd=30486|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root
 24	=jeːk	_	SCONJ	CONJ	_	9	dislocated:mod	_	AlignBegin=30486|AlignEnd=30608|Gloss==if|RX==[CONJ]|TokenType=Clit
