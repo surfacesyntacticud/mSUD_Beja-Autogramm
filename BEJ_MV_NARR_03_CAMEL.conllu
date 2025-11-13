@@ -297,7 +297,7 @@
 5	i-	_	PRON	PNG	_	6	subj/m	_	AlignBegin=56514|AlignEnd=56623|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 6	ktiːn	_	VERB	V1, IRG	Aspect=Imp|VerbClass=1|Voice=Mid	8	comp	_	AlignBegin=56623|AlignEnd=56733|Filler=Obj|Gloss=know\MID.IPFV|RX=[V1].[DER].[IRG]|TokenType=Root
 7	-n	_	PRON	PNG	Number=Plur	6	subj/m	_	AlignBegin=56733|AlignEnd=56843|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-8	=i	_	SCONJ	CONJ	PronType=Rel	9	mod@relcl$obj	_	AlignBegin=56843|AlignEnd=56953|Gloss==REL|RX==[CONJ]|TokenType=Clit
+8	=i	=i	SCONJ	CONJ	PronType=Rel	9	mod@relcl$obj	_	AlignBegin=56843|AlignEnd=56953|Gloss==REL|RX==[CONJ]|TokenType=Clit
 9	kaːm	_	NOUN	N	_	10	subj	_	AlignBegin=56953|AlignEnd=57099|Gloss=camel|RX=[N]|TokenType=Root
 10	=u	_	AUX	N, COP	Number=Sing|Person=3|VerbType=Cop	11	comp	_	AlignBegin=57099|AlignEnd=57245|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
 11	=it	_	SCONJ	CONJ	_	17	mod	_	AlignBegin=57245|AlignEnd=57392|Gloss==CSL|RX==[CONJ]|TokenType=Clit
@@ -529,7 +529,7 @@
 3	-b	_	PRON	DET	Case=Acc|Definite=Ind|Gender=Masc	2	subj/m	_	AlignBegin=95025|AlignEnd=95152|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 4	a-	_	PRON	PNG	Number=Sing|Person=1	5	subj/m	_	AlignBegin=95152|AlignEnd=95279|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 5	kati	_	VERB	AUX	Aspect=Imp	6	comp	_	AlignBegin=95279|AlignEnd=95406|Gloss=become\IPFV|RX=[AUX].[PRF]|TokenType=Root
-6	=jeː	_	SCONJ	CONJ	PronType=Rel	7	mod@relcl	_	AlignBegin=95406|AlignEnd=95533|Gloss==ifREL\=if|RX==[CONJ]|TokenType=Clit
+6	=jeː	=eː	SCONJ	CONJ	PronType=Rel	7	mod@relcl	_	AlignBegin=95406|AlignEnd=95533|Gloss==ifREL\=if|RX==[CONJ]|TokenType=Clit
 7	kaːm	_	NOUN	N	_	8	subj	_	AlignBegin=95533|AlignEnd=95723|Gloss=camel|RX=[SBJ].[N]|TokenType=Root
 8	=u	_	AUX	PRO	Number=Sing|Person=3	9	comp	_	AlignBegin=95723|AlignEnd=95914|Gloss==COP.3SG|RX==[PRED].[NOM]|TokenType=Clit
 9	=it	_	SCONJ	PRO	_	17	mod	_	AlignBegin=95723|AlignEnd=95914|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit

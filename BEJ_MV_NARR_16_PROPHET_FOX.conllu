@@ -211,7 +211,7 @@
 27	=i	_	ADP	CASE	Case=Gen	29	udep	_	AlignBegin=40520|AlignEnd=40618|Gloss==GEN|RX==[CASE]|TokenType=Clit
 28	=t	_	DET	DET	Gender=Fem	27	det	_	AlignBegin=40618|AlignEnd=40716|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 29	hallaːn	_	ADV	ADV	_	30	comp	_	AlignBegin=40716|AlignEnd=40912|Filler=Obj|Gloss=now|RX=[ADV]|TokenType=Root
-30	=eːt	_	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl$obj	_	AlignBegin=40912|AlignEnd=41108|Gloss==REL.F|RX==CONJ|TokenType=Clit
+30	=eːt	=eːt	SCONJ	_	Gender=Fem|PronType=Rel	21	mod@relcl$obj	_	AlignBegin=40912|AlignEnd=41108|Gloss==REL.F|RX==CONJ|TokenType=Clit
 31	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	32	subj/m	_	AlignBegin=41108|AlignEnd=41238|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 32	miː-	_	AUX	V1	Aspect=Aor|VerbClass=1|Voice=Pass	0	root	_	AlignBegin=41238|AlignEnd=41369|DerPos=VERB|Gloss=PASS.INT.AOR-|RX=[V1].[DER]-|TokenType=DerAff
 33	firʔa	_	VERB	V1	VerbClass=1	32	comp/m	_	AlignBegin=41369|AlignEnd=41500|Gloss=take_out|RX=[V1]|TokenType=Root

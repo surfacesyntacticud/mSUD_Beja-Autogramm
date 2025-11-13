@@ -772,7 +772,7 @@
 20	ʃaga	_	VERB	V2	VerbClass=2	21	comp/m	_	AlignBegin=136531|AlignEnd=136646|Gloss=work|RX=[V2]|TokenType=Root
 21	-am	_	AUX	V2	VerbClass=2	23	comp	_	AlignBegin=136646|AlignEnd=136760|DerPos=VERB|Filler=Obj|Gloss=-MID|RX=-[V2].[DER]|TokenType=DerAff
 22	-i	_	PRON	TAM.PNG	Aspect=Aor|Number=Sing|Person=1	21	subj/m	_	AlignBegin=136760|AlignEnd=136875|Gloss=-AOR.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
-23	=jeːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=136875|AlignEnd=136990|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+23	=jeːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=136875|AlignEnd=136990|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 24	//	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=136990|AlignEnd=138010|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 25	fassal	_	VERB	V2	VerbClass=2	29	conj:coord	_	AlignBegin=138010|AlignEnd=138214|Gloss=cut|RX=[V2]|TokenType=Root
 26	-ani	_	PRON	TAM.PNG	Aspect=Imp|Number=Sing|Person=1	25	subj/m	_	AlignBegin=138214|AlignEnd=138418|Gloss=-IPFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -873,7 +873,7 @@
 44	daː	_	VERB	V2	VerbClass=2	45	comp/m	_	AlignBegin=153162|AlignEnd=153249|Gloss=be_there|RX=[V2]|TokenType=Root
 45	-s	_	AUX	V2	VerbClass=2|Voice=Cau	47	comp	_	AlignBegin=153249|AlignEnd=153337|DerPos=VERB|Filler=Obj|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
 46	-ti	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=2	45	subj/m	_	AlignBegin=153337|AlignEnd=153425|Gloss=-AOR.2SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
-47	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	49	mod@relcl$obj	_	AlignBegin=153425|AlignEnd=153513|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+47	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	49	mod@relcl$obj	_	AlignBegin=153425|AlignEnd=153513|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 48	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	49	det	_	AlignBegin=153513|AlignEnd=153688|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 49	mhiːn	_	NOUN	N	Gender=Masc	24	dislocated:obj	_	AlignBegin=153688|AlignEnd=153864|Gloss=place|RX=[N].[M]|TokenType=Root
 
@@ -1135,7 +1135,7 @@
 2	daː	_	VERB	V2	VerbClass=2	3	comp/m	_	AlignBegin=202043|AlignEnd=202116|Gloss=be_there|RX=[V2]|TokenType=Root
 3	-s	_	AUX	V2	VerbClass=2|Voice=Cau	5	comp	_	AlignBegin=202116|AlignEnd=202189|DerPos=VERB|Filler=Obj|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
 4	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	3	subj/m	_	AlignBegin=202189|AlignEnd=202262|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
-5	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	7	mod@relcl$obj	_	AlignBegin=202262|AlignEnd=202336|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	7	mod@relcl$obj	_	AlignBegin=202262|AlignEnd=202336|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=202336|AlignEnd=202482|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 7	doːr	_	NOUN	N	Gender=Masc	16	mod	_	AlignBegin=202482|AlignEnd=202629|Gloss=time|RX=[N].[M]|TokenType=Root
 8	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=202629|AlignEnd=203051|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1376,7 +1376,7 @@
 35	iː-	_	PRON	PNG	Person=3	36	subj/m	_	AlignBegin=245656|AlignEnd=245714|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 36	ktiː	_	VERB	AUX	Aspect=Aor	38	comp	_	AlignBegin=245714|AlignEnd=245772|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
 37	-n	_	PRON	PNG	Number=Plur	36	subj/m	_	AlignBegin=245772|AlignEnd=245830|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-38	=eː	_	SCONJ	CONJ.REL	PronType=Rel	39	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
+38	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	39	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
 39	=naː	_	NOUN	CONJ	_	41	comp	_	AlignBegin=245888|AlignEnd=245946|Gloss==thing|RX==[CONJ]|TokenType=Clit
 40	=t	_	DET	DET	Gender=Fem	39	det	_	AlignBegin=245946|AlignEnd=246004|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 41	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	44	comp:obl	_	AlignBegin=246004|AlignEnd=246062|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit

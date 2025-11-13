@@ -94,7 +94,7 @@
 13	ʔani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	15	subj	_	AlignBegin=19488|AlignEnd=19634|Gloss=1SG.NOM|RX=[PRO]|TokenType=Root
 14	a-	_	PRON	PNG	Number=Sing|Person=1	15	subj/m	_	AlignBegin=19634|AlignEnd=19731|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 15	kteːn	_	VERB	V1	Aspect=Imp|VerbClass=1	16	comp	_	AlignBegin=19731|AlignEnd=19828|Filler=Obj|Gloss=know\MID.IPFV|RX=[V1].[DER].[IRG]|TokenType=Root
-16	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=19828|AlignEnd=19926|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+16	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=19828|AlignEnd=19926|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=19926|AlignEnd=20334|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 18	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	19	subj/m	_	AlignBegin=20334|AlignEnd=20450|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 19	kati	_	VERB	V1	Aspect=Imp|VerbClass=1	20	comp	_	AlignBegin=20450|AlignEnd=20567|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root

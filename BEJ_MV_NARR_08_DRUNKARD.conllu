@@ -1131,7 +1131,7 @@
 13	hoːj	_	ADP	PRO	_	15	comp:obl	_	AlignBegin=191640|AlignEnd=191794|Gloss=LOC|RX=[POSTP]|TokenType=Root
 14	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=1	15	subj/m	_	AlignBegin=191794|AlignEnd=191897|Gloss=1SG.M-|RX=[PNG]-|TokenType=InflAff
 15	fi	_	VERB	V1	Aspect=Aor|VerbClass=1	16	comp	_	AlignBegin=191897|AlignEnd=192000|Filler=Obj|Gloss=be_there\AOR|RX=[V1].[IRG]|TokenType=Root
-16	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=192000|AlignEnd=192102|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+16	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=192000|AlignEnd=192102|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	_	_	16	punct	_	AlignBegin=192102|AlignEnd=192409|Gloss=/|TokenType=Break
 18	j=	_	DET	DET	Definite=Def|Gender=Masc	19	det	_	AlignBegin=192409|AlignEnd=192543|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 19	ʔaraw	_	NOUN	N	Number=Plur	26	comp:obj	_	AlignBegin=192543|AlignEnd=192677|Gloss=friend|RX=[N].[PL]|TokenType=Root
@@ -1149,7 +1149,7 @@
 31	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	33	comp:obj	_	AlignBegin=195267|AlignEnd=195377|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 32	a-	_	PRON	PNG	Number=Sing|Person=1	33	subj/m	_	AlignBegin=195377|AlignEnd=195487|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 33	jan	_	VERB	V1	Aspect=Perf|VerbClass=1	34	comp	_	AlignBegin=195487|AlignEnd=195597|Filler=Obj|Gloss=die\PFV|RX=[V1].[IRG]|TokenType=Root
-34	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	30	mod@relcl$obj	_	AlignBegin=195597|AlignEnd=195707|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+34	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	30	mod@relcl$obj	_	AlignBegin=195597|AlignEnd=195707|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 35	rhi	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=195707|AlignEnd=195927|Gloss=see|RX=[V2]|TokenType=Root
 36	-tnija	_	PRON	TAM.PNG	Aspect=Imp|Gender=Masc|Number=Sing|Person=2	35	subj/m	_	AlignBegin=195927|AlignEnd=196147|Gloss=-IPFV.2SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 37	/	_	PUNCT	_	_	35	punct	_	AlignBegin=196147|AlignEnd=196587|Gloss=/|TokenType=Break

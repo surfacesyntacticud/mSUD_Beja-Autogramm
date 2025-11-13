@@ -743,10 +743,10 @@
 20	nda	_	NOUN	N	Gender=Masc|Number=Plur	28	subj	_	AlignBegin=109411|AlignEnd=109566|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
 21	i=	_	DET	DET	Definite=Def|Gender=Masc	22	det	_	AlignBegin=109566|AlignEnd=109669|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 22	gʷibi	_	NOUN	N	Gender=Masc	23	comp	_	AlignBegin=109669|AlignEnd=109772|Filler=Obj|Gloss=shield|RX=[N].[M]|TokenType=Root
-23	=ji	_	SCONJ	CONJ.REL	PronType=Rel	20	mod@relcl$obj	_	AlignBegin=109772|AlignEnd=109876|Gloss==REL|RX==[CONJ]|TokenType=Clit
+23	=ji	=i	SCONJ	CONJ.REL	PronType=Rel	20	mod@relcl$obj	_	AlignBegin=109772|AlignEnd=109876|Gloss==REL|RX==[CONJ]|TokenType=Clit
 24	bʔaɖaɖ	_	NOUN	N	Gender=Masc	26	comp	_	AlignBegin=109876|AlignEnd=109979|Filler=Obj|Gloss=sword|RX=[N].[M]|TokenType=Root
 25	-a	_	DET	_	Number=Plur	24	det/m	_	AlignBegin=109979|AlignEnd=110082|Gloss=-PL|RX=-.|TokenType=InflAff
-26	=ji	_	SCONJ	CONJ.REL	PronType=Rel	20	mod@relcl$obj	_	AlignBegin=110082|AlignEnd=110186|Gloss==REL|RX==[CONJ]|TokenType=Clit
+26	=ji	=i	SCONJ	CONJ.REL	PronType=Rel	20	mod@relcl$obj	_	AlignBegin=110082|AlignEnd=110186|Gloss==REL|RX==[CONJ]|TokenType=Clit
 27	i-	_	PRON	PNG	Person=3	28	subj/m	_	AlignBegin=110186|AlignEnd=110263|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 28	saːn	_	VERB	V1	Aspect=Aor|VerbClass=1	39	conj:coord	_	AlignBegin=110263|AlignEnd=110341|Gloss=wait\AOR|RX=[V1]|TokenType=Root
 29	-n	_	PRON	PNG	Number=Plur	28	subj/m	_	AlignBegin=110341|AlignEnd=110418|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
