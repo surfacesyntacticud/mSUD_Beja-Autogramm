@@ -195,7 +195,7 @@
 23	-t	_	PRON	DET	Gender=Fem	22	subj/m	_	AlignBegin=34775|AlignEnd=34877|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
 24	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	25	subj/m	_	AlignBegin=34877|AlignEnd=35011|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 25	kti	_	VERB	AUX	Aspect=Aor	26	comp	_	AlignBegin=35011|AlignEnd=35145|Filler=Obj|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-26	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl$obj	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+26	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	13	mod@relcl$obj	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 27	mariː	_	ADV	ADV	_	28	mod	_	AlignBegin=35279|AlignEnd=35681|Gloss=from_the_direction|RX=[ADV]|TokenType=Root
 28	jʔ	_	VERB	V2	VerbClass=2	29	comp/m	_	AlignBegin=35681|AlignEnd=35882|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 29	-eːtiːt	_	AUX	_	_	35	mod	_	AlignBegin=35882|AlignEnd=36083|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff

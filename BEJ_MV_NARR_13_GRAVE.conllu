@@ -666,7 +666,7 @@
 25	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	27	comp:obj	_	AlignBegin=116544|AlignEnd=116677|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 26	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=2	27	subj/m	_	AlignBegin=116677|AlignEnd=116810|Gloss=2SG.F-|RX=[PNG]-|TokenType=InflAff
 27	firʔi	_	VERB	V1	Aspect=Perf|VerbClass=1	28	comp	_	AlignBegin=116810|AlignEnd=116943|Filler=Obj|Gloss=take_out\PFV|RX=[V1]|TokenType=Root
-28	=jeːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	20	mod@relcl$obj	_	AlignBegin=116943|AlignEnd=117076|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+28	=jeːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	20	mod@relcl$obj	_	AlignBegin=116943|AlignEnd=117076|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 29	i-	_	PRON	PNG	_	30	subj/m	_	AlignBegin=117076|AlignEnd=117253|Gloss=3M-|RX=[PNG]-|TokenType=InflAff
 30	ktim	_	VERB	V1	Aspect=Perf|VerbClass=1	34	conj:coord	_	AlignBegin=117253|AlignEnd=117430|Gloss=arrive\PFV|RX=[V1]|TokenType=Root
 31	-na	_	PRON	PNG	Number=Plur	30	subj/m	_	AlignBegin=117430|AlignEnd=117608|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
