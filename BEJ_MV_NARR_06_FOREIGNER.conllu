@@ -241,23 +241,23 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_06_FOREIGNER.WAV
 # sent_timecode = 40245, 47303
 # phonetic_text = ontʔa / uː= jhaːm / ʔawwal kʷinhi -jaː -n =eːt ti= kʷinha =t =iːb / ani baː= sʔajiːn // hasara t= ʔalaːma hasam -an /
-# text = ontʔa / uːjhaːm / ʔawwal kʷinhijaneːt tikʷinhatiːb / ani baːsʔajiːn // hasara tʔalaːma hasaman /
+# text = ontʔa / uː= jhaːm / ʔawwal kʷinhi -ja -n =eːt ti= kʷinha =t =iːb / ani baː= sʔajiːn // hasara t= ʔalaːma hasam -an /
 # text_en = so, first, when the leopard roared its roar, (lit. in the roar that he roared) without noticing, I went past the marks.
-1	ontʔa	_	ADV	PTCL	_	4	mod	_	AlignBegin=40245|AlignEnd=40456|Gloss=now|RX=[PTCL]|TokenType=Root
+1	ontʔa	_	ADV	PTCL	_	7	mod	_	AlignBegin=40245|AlignEnd=40456|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=40456|AlignEnd=40667|Gloss=/|TokenType=Break
 3	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=41736|AlignEnd=41863|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 4	jhaːm	_	NOUN	N	Gender=Masc	7	subj	_	AlignBegin=41863|AlignEnd=41990|Gloss=leopard|RX=[SBJ].[N].[M]|TokenType=Root
 5	/	_	PUNCT	_	_	4	punct	_	AlignBegin=41990|AlignEnd=42243|Gloss=/|TokenType=Break
 6	ʔawwal	_	ADV	NUM	_	7	mod	_	AlignBegin=42614|AlignEnd=43080|Gloss=first|RX=[ADV]|TokenType=Root
-7	kʷinhi	_	VERB	V2	VerbClass=2	18	conj:coord	_	AlignBegin=43080|AlignEnd=43196|Gloss=shout|RX=[V2]|TokenType=Root
+7	kʷinhi	_	VERB	V2	VerbClass=2	10	comp	_	AlignBegin=43080|AlignEnd=43196|Filler=Obj|Gloss=shout|RX=[V2]|TokenType=Root
 8	-ja	_	PRON	TAM.PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	7	subj/m	_	AlignBegin=43196|AlignEnd=43312|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 9	-n	_	PART	_	_	7	unk/m	_	AlignBegin=43312|AlignEnd=43428|Gloss=-L|TokenType=InflAff
-10	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	7	comp:obj	_	AlignBegin=43428|AlignEnd=43546|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+10	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	12	mod@relcl$obj	_	AlignBegin=43428|AlignEnd=43546|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 11	ti=	_	DET	DET	Definite=Def|Gender=Fem	12	det	_	AlignBegin=43546|AlignEnd=43662|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-12	kʷinha	_	NOUN	N.V	_	10	mod@relcl$subj	_	AlignBegin=43662|AlignEnd=43778|Filler=Subj|Gloss=shout|RX=[N].[V]|TokenType=Root
+12	kʷinha	_	NOUN	N.V	_	14	comp	_	AlignBegin=43662|AlignEnd=43778|Filler=Subj|Gloss=shout|RX=[N].[V]|TokenType=Root
 13	=t	_	DET	DET	Gender=Fem	12	det	_	AlignBegin=43778|AlignEnd=43894|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-14	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	12	udep	_	AlignBegin=43894|AlignEnd=44012|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
-15	/	_	PUNCT	_	_	7	punct	_	AlignBegin=44012|AlignEnd=44476|Gloss=/|TokenType=Break
+14	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	23	mod	_	AlignBegin=43894|AlignEnd=44012|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
+15	/	_	PUNCT	_	_	14	punct	_	AlignBegin=44012|AlignEnd=44476|Gloss=/|TokenType=Break
 16	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	18	subj	_	AlignBegin=44476|AlignEnd=44787|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 17	baː=	_	PART	PTCL	Polarity=Neg	18	mod	_	AlignBegin=44787|AlignEnd=44943|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
 18	sʔajiːn	_	VERB	V1	VerbClass=1	23	mod	_	AlignBegin=44943|AlignEnd=45098|Gloss=notice\CVB.SMLT|RX=[V1]|TokenType=Root

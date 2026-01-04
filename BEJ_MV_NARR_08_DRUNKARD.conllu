@@ -48,7 +48,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 7239, 21701
 # phonetic_text = ontʔa / aːn i= ʃawwa =aː hoːj daːjag -am -eːn =hoːb / maːlik iː- d -na tak iː- fi =ajt / dhaːj jʔ -eːtiːt / jaː iraːnaj uːn uː= tak / w= haːʃ =iː tara giːg -i bi= i- diː =jeːk // tara tuːb -i bi= i- diː =jeːk // oːn w= haːʃ =joːn / oːn oː= tak // gabbal -am -ni ki= n- di eːn //
-# text = ontʔa / aːn iʃawwaː hoːj daːjagameːnhoːb / maːlik iːdna tak iːfeːjt / dhaːj jʔeːtiːt / jaː iraːnaj uːn uːtak / whaːʃiː tara giːgi biːdijeːk // tara tuːbi biːdijeːk // oːn whaːʃjoːn / oːn oːtak // gabbalamni kindi eːn //
+# text = ontʔa / aːn i= ʃawwa =jaː hoːj daːjag -am -eːn =hoːb / maːlik iː- d -na tak iː- fi =ajt / dhaːj jʔ -eːtiːt / jaː iraːnaj uːn uː= tak / w= haːʃ =iː tara giːg -i bi= i- di =jeːk // tara tuːb -i bi= i- di =jeːk // oːn w= haːʃ =joːn / oːn oː= tak // gabbal -am -ni ki= n- di eːn //
 # text_en = So, when his neighbours are annoyed with that, since there was a man called Malik, they went to him and "Gosh, if the man does not leave the country, or repent, we won't accept this man in our country", they said.
 1	ontʔa	_	ADV	PTCL	_	9	discourse	_	AlignBegin=7244|AlignEnd=7488|Gloss=now|RX=[PTCL]|TokenType=Root
 2	/	_	PUNCT	_	_	1	punct	_	AlignBegin=7488|AlignEnd=7733|Gloss=/|TokenType=Break
@@ -64,7 +64,7 @@
 12	/	_	PUNCT	_	_	11	punct	_	AlignBegin=9257|AlignEnd=9596|Gloss=/|TokenType=Break
 13	maːlik	_	PROPN	N	_	15	comp:obj	_	AlignBegin=9596|AlignEnd=9910|Gloss=Malik|RX=[N].[PROP]|TokenType=Root
 14	iː-	_	PRON	PNG	Person=3	15	subj/m	_	AlignBegin=9910|AlignEnd=10015|Gloss=3-|RX=[PNG]-|TokenType=InflAff
-15	d	_	VERB	V1	Aspect=Perf|VerbClass=1	17	mod@relcl	_	AlignBegin=10015|AlignEnd=10120|Gloss=say\PFV|RX=[V1].[IRG]|TokenType=Root
+15	d	_	VERB	V1	Aspect=Perf|VerbClass=1	17	mod@relcl$obj	_	AlignBegin=10015|AlignEnd=10120|Filler=Obj|Gloss=say\PFV|RX=[V1].[IRG]|TokenType=Root
 16	-na	_	PRON	PNG	Number=Plur	15	subj/m	_	AlignBegin=10120|AlignEnd=10224|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
 17	tak	_	NOUN	N	Gender=Masc	19	subj	_	AlignBegin=10224|AlignEnd=10538|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 18	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	19	subj/m	_	AlignBegin=10538|AlignEnd=10643|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -653,7 +653,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 114832, 124418
 # phonetic_text = naːnaːt -i =da jʔ -aː =b =wa aflaːn i- ndi =hoːb / uːn ani / gʷada -am -an =t / siːleːl -an =t / barijoːk =da adʔiːm -i a- ni =hoːb / ti= biri =t =iː hoː waliːk -ti na / a- maːsiw i- ndi eːn //
-# text = naːnaːt -i =da jʔ -aː =b =wa aflaːn i- ndi =hoːb / uːn ani / gʷada -am -an =t / siːleːl -an =t / barjoːk =da adʔi -im -i a- ni =hoːb / ti= bri =t =iː hoː waliːk -ti na / a- maːsiw i- ndi eːn //
+# text = naːnaːt =i =da jʔ -aː -b =wa aflaːn i- ndi =hoːb / uːn ani / gʷada -am -an =t / siːleːl -an =t / barjoːk =da adʔi -im -i a- ni =hoːb / ti= bri =t =iː hoː waliːk -ti na / a- maːsiw i- ndi eːn //
 # text_en = When he says: "So, why have you come?" "I washed myself and I prayed and when I was going to implore Him about you I heard something from the sky calling me", he says, they said.
 1	naːnaːt	_	ADV	ADV	PartType=Int	2	comp	_	AlignBegin=114832|AlignEnd=114952|Gloss=what|RX=[ADV].[Q]|TokenType=Root
 2	=i	_	ADP	CASE	Case=Gen	3	comp	_	AlignBegin=114952|AlignEnd=115072|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
@@ -693,7 +693,7 @@
 36	=t	_	DET	DET	Gender=Fem	35	det	_	AlignBegin=121797|AlignEnd=121883|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 37	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	39	comp:obl	_	AlignBegin=121883|AlignEnd=121971|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
 38	hoː	_	PRON	PRO	Number=Sing|Person=1	39	comp:obl	_	AlignBegin=121971|AlignEnd=122317|Gloss=1SG.DAT/ABL|RX=[PRO]|TokenType=Root
-39	waliːk	_	VERB	V2	VerbClass=2	41	mod@relcl	_	AlignBegin=122317|AlignEnd=122490|Gloss=call|RX=[V2]|TokenType=Root
+39	waliːk	_	VERB	V2	VerbClass=2	41	mod@relcl$subj	_	AlignBegin=122317|AlignEnd=122490|Filler=Subj|Gloss=call|RX=[V2]|TokenType=Root
 40	-ti	_	PRON	TAM.PNG	Aspect=Aor|Gender=Fem|Number=Sing|Person=3	39	subj/m	_	AlignBegin=122490|AlignEnd=122663|Gloss=-AOR.3SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
 41	na	_	NOUN	N	Gender=Fem	44	comp:obj	_	AlignBegin=122663|AlignEnd=123009|Gloss=thing|RX=[N].[F]|TokenType=Root
 42	/	_	PUNCT	_	_	41	punct	_	AlignBegin=123009|AlignEnd=123357|Gloss=/|TokenType=Break
@@ -963,7 +963,7 @@
 4	/	_	PUNCT	_	_	3	punct	_	AlignBegin=166749|AlignEnd=166952|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_08_drunkard_185-189
-# text = am- mar~ri -jaː =t ʔamma rhi -i =hoːb / a- ʃanbiːb =hoːb / tak whiː ɖib -a =b =i rh -ani i- ni //
+# text = am- mar~ri -jaː -t ʔamma rhi -i =hoːb / a- ʃanbiːb =hoːb / tak whiː ɖib -a -b =i rh -ani i- ni //
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 166952, 171030
@@ -987,7 +987,7 @@
 16	ɖib	_	VERB	V2	VerbClass=2	17	comp/m	_	AlignBegin=169573|AlignEnd=169640|Gloss=fall|RX=[V2]|TokenType=Root
 17	-a	_	AUX	_	_	19	comp:pred	_	AlignBegin=169640|AlignEnd=169707|DerPos=VERB|Gloss=-CVB.MNR|TokenType=DerAff
 18	-b	=b	PRON	DET	Case=Acc|Gender=Masc	17	subj/m	_	AlignBegin=169707|AlignEnd=169775|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
-19	=i	_	AUX	DET	Number=Sing|Person=3	14	mod@relcl	_	AlignBegin=169707|AlignEnd=169775|Gloss==COP.3SG|RX==[PRED.NOM]|TokenType=Clit
+19	=i	_	AUX	DET	Number=Sing|Person=3	14	mod@relcl$subj	_	AlignBegin=169707|AlignEnd=169775|Filler=Subj|Gloss==COP.3SG|RX==[PRED.NOM]|TokenType=Clit
 20	rh	_	VERB	V2	VerbClass=2	23	comp:obj	_	AlignBegin=169775|AlignEnd=169876|Gloss=see|Reported=Yes|RX=[V2]|TokenType=Root
 21	-ani	_	PRON	TAM.PNG	Aspect=Imp|Number=Sing|Person=1	20	subj/m	_	AlignBegin=169876|AlignEnd=169977|Gloss=-IPFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 22	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	23	subj/m	_	AlignBegin=169977|AlignEnd=170078|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -995,7 +995,7 @@
 24	//	_	PUNCT	_	_	23	punct	_	AlignBegin=170179|AlignEnd=170384|Gloss=//|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_08_drunkard_190-200
-# text = dhaːj jʔeːtiːt / aʃambiːbhoːb / uːtak iʃawwi / isuːr geːboːn askinaːb akajeː / amarrihoːb / igirmaj geːb eːstʔi /
+# text = dhaːj jʔ -eːtiːt / a- ʃanbiːb =hoːb / uː= tak i= ʃawwi / i= suːr geːb =oːn askin -aː -b aka -jeː / a- manri =hoːb / i= girma =i geːb eː- stʔi /
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_08_DRUNKARD.WAV
 # sent_timecode = 171030, 178795
@@ -1022,7 +1022,7 @@
 19	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	21	comp:aux	_	AlignBegin=175287|AlignEnd=175417|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 20	-b	_	PRON	DET	Case=Acc|Gender=Masc	19	subj/m	_	AlignBegin=175417|AlignEnd=175547|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 21	aka	_	AUX	AUX	Aspect=Perf	22	comp/m	_	AlignBegin=175547|AlignEnd=175742|Gloss=become|RX=[AUX].[PRF]|TokenType=Root
-22	-jeː	_	AUX	_	_	10	mod@relcl	_	AlignBegin=175742|AlignEnd=175937|DerPos=AUX|Gloss=-CVB.SMLT|TokenType=DerAff
+22	-jeː	_	AUX	_	_	10	mod@relcl$subj	_	AlignBegin=175742|AlignEnd=175937|DerPos=AUX|Filler=Subj|Gloss=-CVB.SMLT|TokenType=DerAff
 23	/	_	PUNCT	_	_	10	punct	_	AlignBegin=175937|AlignEnd=176325|Gloss=/|TokenType=Break
 24	a-	_	PRON	PNG	Number=Sing|Person=1	25	subj/m	_	AlignBegin=176325|AlignEnd=176437|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 25	manri	_	VERB	V1	Aspect=Imp|VerbClass=1	26	comp	_	AlignBegin=176437|AlignEnd=176549|Gloss=find\IPFV|RX=[V1]|TokenType=Root

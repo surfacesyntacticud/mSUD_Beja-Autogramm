@@ -1437,9 +1437,9 @@
 # text = ti= w= hagiː =t =i =ka hanka fitik -na / aː= nda dhaːj jʔ -eːn =hoːb / ti= w= hagiː =t =i =ka hanka fitik -na / ti- ndi eːn //
 # phonetic_text = tiwhagiːtika hanka fitikna / aːnda dhaːj jʔeːnhoːb / tiwhagiːtika hanka fitikna / tindi eːn //
 # text_en = When the men come, it says: 'First take off each that are in my buttocks! First take off each that are in my buttocks!' they said.
-1	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	6	comp	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+1	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	3	subj	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=249696|AlignEnd=249772|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-3	hagiː	_	NOUN	N	Gender=Masc	1	mod@relcl$subj	_	AlignBegin=249772|AlignEnd=249848|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+3	hagiː	_	NOUN	N	Gender=Masc	6	mod@relcl$subj	_	AlignBegin=249772|AlignEnd=249848|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
 4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=249848|AlignEnd=249924|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	udep@poss	_	AlignBegin=249924|AlignEnd=250000|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 6	=ka	_	ADP	POSTP	Case=Dis	8	comp:obj	_	AlignBegin=250000|AlignEnd=250077|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1454,9 +1454,9 @@
 15	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	14	subj/m	_	AlignBegin=252018|AlignEnd=252099|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 16	=hoːb	_	SCONJ	CONJ	_	29	mod	_	AlignBegin=252099|AlignEnd=252181|Gloss==when|RX==[CONJ]|TokenType=Clit
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=252181|AlignEnd=252426|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-18	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	23	comp	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+18	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	20	subj	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 19	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	20	det	_	AlignBegin=252509|AlignEnd=252593|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-20	hagiː	_	NOUN	N	Gender=Masc	18	mod@relcl$subj	_	AlignBegin=252593|AlignEnd=252677|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+20	hagiː	_	NOUN	N	Gender=Masc	23	mod@relcl$subj	_	AlignBegin=252593|AlignEnd=252677|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
 21	=t	_	DET	DET	Gender=Fem	20	det	_	AlignBegin=252677|AlignEnd=252760|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 22	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	20	udep@poss	_	AlignBegin=252760|AlignEnd=252844|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 23	=ka	_	ADP	POSTP	Case=Dis	25	comp:obj	_	AlignBegin=252844|AlignEnd=252928|Gloss==DISTR|RX==[POSTP]|TokenType=Clit

@@ -1143,7 +1143,7 @@
 10	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=203260|AlignEnd=203751|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 11	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	16	comp:obj	_	AlignBegin=203751|AlignEnd=203866|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 12	t-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	13	subj/m	_	AlignBegin=203866|AlignEnd=203981|Gloss=3.SG.F-|RX=[PNG]-|TokenType=InflAff
-13	hiːjad	_	VERB	V1	Aspect=Imp|VerbClass=1	11	mod@relcl	_	AlignBegin=203981|AlignEnd=204096|Gloss=sew\IPFV|RX=[V1]|TokenType=Root
+13	hiːjad	_	VERB	V1	Aspect=Imp|VerbClass=1	11	mod@relcl$subj	_	AlignBegin=203981|AlignEnd=204096|Filler=Subj|Gloss=sew\IPFV|RX=[V1]|TokenType=Root
 14	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=204096|AlignEnd=204442|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 15	i-	_	PRON	PNG	Person=3	16	subj/m	_	AlignBegin=204442|AlignEnd=204543|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 16	kteːni	_	VERB	V1	Aspect=Imp|VerbClass=1	24	conj:coord	_	AlignBegin=204543|AlignEnd=204645|Gloss=know\MID.IPFV|RX=[V1].[DER].[IRG]|TokenType=Root
@@ -1336,7 +1336,7 @@
 20	//	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=238786|AlignEnd=239643|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_270-278
-# text = beːntoːj ti= takat =t =i =da jʔ -eːtiːt / dirar -tiːt / takat =hi =wa barhi =wa / am- malh -eː jʔ -eːtiːt / mhasi beːt ti= tilʔi =t =oː ti= dʔi -jaː =b iː- ktiː -n =eː =naː =t =iː / talʔ -am -iːna eːn //
+# text = beːntoːj ti= takat =t =i =da jʔ -eːtiːt / dirar -tiːt / takat =hi =wa barhi =wa / am- malh -eː jʔ -eːtiːt / mhasi beːt ti= tilʔi =t =oː ti= dʔi -jaː -b iː- ktiː -n =eː =naː =t =iː / talʔ -am -iːna eːn //
 # phonetic_text = beːntoːj titakattida jʔeːtiːt / dirartiːt / takathiwa barhiwa / ammalheː jʔeːtiːt / mhasi beːt titilʔiːtoː tidʔijaːb iːktiːneːnaːti / talʔamiːna eːn //
 # text_en = After he has come there to his wife,  after they have had supper, after his wife and himself accompanied each other,   again they peeped through his hole that they had done, they said.
 1	beːntoːj	_	PART	DEICT	_	7	mod	_	AlignBegin=239643|AlignEnd=240067|Gloss=there|RX=[DEICT]|TokenType=Root
@@ -1374,10 +1374,10 @@
 33	-jaː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	36	comp:pred	_	AlignBegin=245452|AlignEnd=245554|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 34	-b	_	PRON	DET	Case=Acc|Gender=Masc	33	subj/m	_	AlignBegin=245554|AlignEnd=245656|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 35	iː-	_	PRON	PNG	Person=3	36	subj/m	_	AlignBegin=245656|AlignEnd=245714|Gloss=3-|RX=[PNG]-|TokenType=InflAff
-36	ktiː	_	VERB	AUX	Aspect=Aor	38	comp	_	AlignBegin=245714|AlignEnd=245772|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
+36	ktiː	_	VERB	AUX	Aspect=Aor	38	comp	_	AlignBegin=245714|AlignEnd=245772|Filler=Obj|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
 37	-n	_	PRON	PNG	Number=Plur	36	subj/m	_	AlignBegin=245772|AlignEnd=245830|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-38	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	39	mod@relcl	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
-39	=naː	_	NOUN	CONJ	_	41	comp	_	AlignBegin=245888|AlignEnd=245946|Gloss==thing|RX==[CONJ]|TokenType=Clit
+38	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	39	mod@relcl$obj	_	AlignBegin=245830|AlignEnd=245888|Gloss==REL|RX==[CONJ]|TokenType=Clit
+39	=naː	_	NOUN	CONJ	_	28	conj:appos	_	AlignBegin=245888|AlignEnd=245946|Gloss==thing|RX==[CONJ]|TokenType=Clit
 40	=t	_	DET	DET	Gender=Fem	39	det	_	AlignBegin=245946|AlignEnd=246004|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 41	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	44	comp:obl	_	AlignBegin=246004|AlignEnd=246062|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
 42	/	_	PUNCT	PUNCT	_	41	punct	_	AlignBegin=246062|AlignEnd=246573|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break

@@ -163,10 +163,11 @@
 44	//	_	PUNCT	PUNCT	_	43	punct	_	AlignBegin=27256|AlignEnd=28614|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_03_camel_035-042
-# text = doːr / oː= meːk oːn ba= a- akaj / kaːm han ʔam -aː =b =i i- ni // mhaj nafar -a nuːn / naː =t bi= t- ʔam =eːb //
+# text = doːr / oː= meːk oːn ba= a- akaj / kaːm han ʔam -aː -b =i i- ni // mhaj nafar -a nuːn / naː =t bi= t- ʔam =eːb //
 # text_en = "Once, it's not a donkey but a camel that I rode, he said, that only three men could ride."
 # phonetic_text = doːr / oːmeːk oːn baːkaj / kaːm han amaːbi ini // mhaj nafara nuːn / naːt bitʔameːb //
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
+# tags = ?
 1	doːr	_	NOUN	N	Gender=Masc	8	mod	_	AlignBegin=28614|AlignEnd=28792|Gloss=time|RX=[N].[M]|TokenType=Root
 2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=28792|AlignEnd=29410|TokenType=Break
 3	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=29410|AlignEnd=29552|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -174,7 +175,7 @@
 5	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=29695|AlignEnd=29981|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 6	ba=	_	AUX	PTCL	Mood=Opt	8	mod	_	AlignBegin=29981|AlignEnd=30076|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 7	a-	_	PRON	PNG	Number=Sing|Person=1	8	subj/m	_	AlignBegin=30076|AlignEnd=30171|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
-8	akaj	_	VERB	V1, IRG, NEG	Mood=Opt|Polarity=Neg|VerbClass=1	10	mod@relcl	_	AlignBegin=30171|AlignEnd=30267|Gloss=become\NEG.OPT|RX=[V1].[IRG]|TokenType=Root
+8	akaj	_	VERB	V1, IRG, NEG	Mood=Opt|Polarity=Neg|VerbClass=1	10	mod@relcl$subj	_	AlignBegin=30171|AlignEnd=30267|Filler=Subj|Gloss=become\NEG.OPT|RX=[V1].[IRG]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=30267|AlignEnd=30553|TokenType=Break
 10	kaːm	_	NOUN	N	_	15	comp:obj	_	AlignBegin=30553|AlignEnd=30772|Gloss=camel|RX=[N]|TokenType=Root
 11	han	_	PART	PTCL	_	10	mod	_	AlignBegin=30772|AlignEnd=30991|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
@@ -321,7 +322,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=60529|AlignEnd=60695|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	7	subj	_	AlignBegin=60695|AlignEnd=60861|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
-3	ɖaːb	_	VERB	V2	VerbClass=2	5	mod@relcl	_	AlignBegin=60861|AlignEnd=61027|Gloss=run|RX=[V2]|TokenType=Root
+3	ɖaːb	_	VERB	V2	VerbClass=2	5	mod@relcl$subj	_	AlignBegin=60861|AlignEnd=61027|Filler=Subj|Gloss=run|RX=[V2]|TokenType=Root
 4	-iːni	_	PRON	TAM, PNG	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=61027|AlignEnd=61193|Gloss=-IPFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 5	kaːm	_	NOUN	N	_	7	comp:obj	_	AlignBegin=61193|AlignEnd=61525|Gloss=camel|RX=[N]|TokenType=Root
 6	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	7	subj/m	_	AlignBegin=61525|AlignEnd=61691|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -801,6 +802,7 @@
 # phonetic_text = geː ikamhina / winneːt naʃʃalama kama // annafaːjt //
 # text_en = Anyhow, their camels were very athletic camels, because they were Annafa (camels). #
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
+# tags = ?
 1	geː	_	PART	PTCL	_	3	discourse	_	AlignBegin=140985|AlignEnd=141367|Gloss=[DM]|RX=[PTCL]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=141367|AlignEnd=141494|Gloss=[DEF].[M]=|RX=[DET]=|TokenType=Clit
 3	kam	_	NOUN	N	Number=Plur	8	subj	_	AlignBegin=141494|AlignEnd=141622|Gloss=camel\[PL]|RX=[SBJ].[N]|TokenType=Root
@@ -808,7 +810,7 @@
 5	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=141750|AlignEnd=142133|Gloss=[PUNCT]|RX=[PUNCT]|TokenType=Break
 6	winneːt	_	ADV	ADV	_	7	mod	_	AlignBegin=142133|AlignEnd=142531|Gloss=plenty|RX=[ADV]|TokenType=Root
 7	naʃʃalam	_	ADJ	ADJ	_	8	comp:pred	_	AlignBegin=142531|AlignEnd=142730|Gloss=athletic|RX=[ADJ]|TokenType=Root
-8	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	9	mod@relcl	_	AlignBegin=142730|AlignEnd=142929|Gloss==[COP].[3PL]|RX==[PRED].[N]|TokenType=Clit
+8	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	9	mod	_	AlignBegin=142730|AlignEnd=142929|Gloss==[COP].[3PL]|RX==[PRED].[N]|TokenType=Clit
 9	kam	_	NOUN	N	Number=Plur	10	comp:pred	_	AlignBegin=142929|AlignEnd=143128|Gloss=camel\[PL]|RX=[N]|TokenType=Root
 10	=a	_	AUX	COP	Number=Plur|VerbType=Cop	0	root	_	AlignBegin=143128|AlignEnd=143327|Gloss==[COP].[PL]|RX==[PRED].[NOM]|TokenType=Clit
 11	//	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=143327|AlignEnd=144049|Gloss=[PUNCT]|RX=[PUNCT]|TokenType=Break
@@ -956,9 +958,9 @@
 10	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=169204|AlignEnd=169655|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 11	dangar	_	NOUN	N	Gender=Fem	13	comp:obj@R	_	AlignBegin=169655|AlignEnd=170033|Gloss=racetrack|RX=[N].[F]|TokenType=Root
 12	i-	_	PRON	PNG	Person=3	13	subj/m	_	AlignBegin=170033|AlignEnd=170127|Gloss=3-|RX=[PNG]-|TokenType=InflAff
-13	dʔi	_	VERB	V1	Aspect=Perf|VerbClass=1	15	comp	_	AlignBegin=170127|AlignEnd=170222|Filler=Obj|Gloss=do\PFV|RX=[V1].[IRG]|TokenType=Root
+13	dʔi	_	VERB	V1	Aspect=Perf|VerbClass=1	15	comp	_	AlignBegin=170127|AlignEnd=170222|Gloss=do\PFV|RX=[V1].[IRG]|TokenType=Root
 14	-n	_	PRON	PNG	Number=Plur	13	subj/m	_	AlignBegin=170222|AlignEnd=170316|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-15	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=170316|AlignEnd=170411|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+15	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod	_	AlignBegin=170316|AlignEnd=170411|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 16	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	det	_	AlignBegin=170411|AlignEnd=170600|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 17	doːr	_	NOUN	N	Gender=Masc	30	mod	_	AlignBegin=170600|AlignEnd=170789|Gloss=time|RX=[N].[M]|TokenType=Root
 18	//	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=170789|AlignEnd=171631|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -975,7 +977,7 @@
 29	ɖab	_	NOUN	N.V	_	30	comp:obj@intern	_	AlignBegin=173426|AlignEnd=173846|Gloss=run\N.AC|RX=[N].[V]|TokenType=Root
 30	ɖaːb	_	VERB	V2	VerbClass=2	32	comp	_	AlignBegin=173846|AlignEnd=173930|Gloss=run|RX=[V2]|TokenType=Root
 31	-iːn	_	PRON	TAM.PNG	Aspect=Aor|Number=Plur|Person=3	30	subj/m	_	AlignBegin=173930|AlignEnd=174014|Gloss=-AOR.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
-32	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	33	mod@relcl	_	AlignBegin=174014|AlignEnd=174098|Gloss==REL|RX==[CONJ]|TokenType=Clit
+32	=eː	=eː	SCONJ	CONJ.REL	_	33	mod	_	AlignBegin=174014|AlignEnd=174098|Gloss==REL|RX==[CONJ]|TokenType=Clit
 33	=naː	_	NOUN	CONJ	_	34	udep	_	AlignBegin=174098|AlignEnd=174182|Gloss==thing|RX==[CONJ]|TokenType=Clit
 34	=ji	_	ADP	CASE	Case=Gen	35	udep	_	AlignBegin=174182|AlignEnd=174266|Gloss==GEN|RX==[CASE]|TokenType=Clit
 35	sabbiː	_	ADP	POSTP	Foreign=Yes	44	mod	_	AlignBegin=174266|AlignEnd=174686|Gloss=because|Lang=ar|RX=[POSTP].[BORR].[ARA]|TokenType=Root
@@ -1171,7 +1173,7 @@
 5	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=203204|AlignEnd=203963|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_03_camel_228-236
-# text = whiː hamʃuːk -an =hoːb // eːn i= babʔa =jeː / diluːl -i boːj dh =i law -jaː i- ni // aːn# aw# uː= kaːm hasara / winneːt ɖaːb -aː =b =u =it //
+# text = whiː hamʃuːk -an =hoːb // eːn i= babʔa =jeː / diluːl -i boːj dh =i law -jaː i- ni // aːn# aw# uː= kaːm hasara / winneːt ɖaːb -aː -b =u =it //
 # phonetic_text = whiː hamʃuːkanhoːb // eːn ibabʔaːjeː / diluːli boːj dhi lawja ini // aːn# aw# uːkaːm hasara / winneːt ɖaːbaːbujt //
 # text_en = When I rested under it,  blood appeared to me that was dripping from the fabric of its armpits, he said,  er, because the camel had run a lot".
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
@@ -1185,7 +1187,7 @@
 8	babʔa	_	NOUN	N	Gender=Masc	11	comp:obj	_	AlignBegin=206128|AlignEnd=206228|Gloss=armpit_cloth|RX=[N].[M]|TokenType=Root
 9	=jeː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	8	udep@poss	_	AlignBegin=206228|AlignEnd=206328|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
 10	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=206328|AlignEnd=207145|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	diluːl	_	VERB	V2	VerbClass=2	13	mod@relcl	_	AlignBegin=207145|AlignEnd=207277|Gloss=drip|RX=[V2]|TokenType=Root
+11	diluːl	_	VERB	V2	VerbClass=2	13	mod@relcl$subj	_	AlignBegin=207145|AlignEnd=207277|Filler=Subj|Gloss=drip|RX=[V2]|TokenType=Root
 12	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	11	subj/m	_	AlignBegin=207277|AlignEnd=207410|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 13	boːj	_	NOUN	N	Gender=Masc	16	subj	_	AlignBegin=207410|AlignEnd=207675|Gloss=blood|RX=[SBJ].[N].[M]|TokenType=Root
 14	dh	_	ADP	POSTP	_	15	udep@poss	_	AlignBegin=207675|AlignEnd=207807|Gloss=DIR|RX=[POSTP]|TokenType=Root
