@@ -495,15 +495,15 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=89838|AlignEnd=89922|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	jam	_	NOUN	N	Gender=Masc|Number=Plur	3	comp	_	AlignBegin=89922|AlignEnd=90007|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
-3	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	9	conj:dicto	_	AlignBegin=90007|AlignEnd=90092|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
+3	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	11	comp:obl	_	AlignBegin=90007|AlignEnd=90092|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
 4	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=90092|AlignEnd=90694|TokenType=Break
-5	ji=	_	SCONJ	CONJ	Gender=Masc|Number=Plur|PronType=Rel	13	mod@relcl	_	AlignBegin=90694|AlignEnd=90816|Gloss=REL.PL.M=|RX=[CONJ]=|TokenType=Clit
+5	ji=	ji=	PRON	CONJ	Gender=Masc|Number=Plur|PronType=Rel	7	subj	_	AlignBegin=90694|AlignEnd=90816|Gloss=REL.PL.M=|RX=[CONJ]=|TokenType=Clit
 6	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=90816|AlignEnd=90938|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-7	bri	_	NOUN	N	Gender=Masc	8	udep	_	AlignBegin=90938|AlignEnd=91060|Gloss=rain|RX=[N].[M]|TokenType=Root
+7	bri	_	NOUN	N	Gender=Masc	8	mod@relcl$subj	_	AlignBegin=90938|AlignEnd=91060|Gloss=rain|RX=[N].[M]|TokenType=Root
 8	=naː	_	NOUN	CONJ	_	9	comp	_	AlignBegin=91060|AlignEnd=91243|Gloss=thing\=thing|RX==[N.F]|TokenType=Root
-9	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	11	comp:obl	_	AlignBegin=91243|AlignEnd=91426|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
+9	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	3	conj:dicto	_	AlignBegin=91243|AlignEnd=91426|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
 10	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=91426|AlignEnd=92040|TokenType=Break
-11	kaɖaw	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=92040|AlignEnd=92261|Gloss=make_noise|Reported=Yes|RX=[V2]|TokenType=Root
+11	kaɖaw	_	VERB	V2	VerbClass=2	13	mod@relcl$subj	_	AlignBegin=92040|AlignEnd=92261|Filler=Subj|Gloss=make_noise|Reported=Yes|RX=[V2]|TokenType=Root
 12	-i	_	PRON	TAM, PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	11	subj/m	_	AlignBegin=92261|AlignEnd=92482|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 13	mijʔat	_	NOUN	N	Gender=Masc	15	comp:obj	_	AlignBegin=92482|AlignEnd=92925|Gloss=footprint|RX=[N].[M]|TokenType=Root
 14	a-	_	PRON	PNG	Number=Sing|Person=1	15	subj/m	_	AlignBegin=92925|AlignEnd=93072|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
@@ -828,7 +828,7 @@
 4	=b	_	DET	DET	Case=Acc|Definite=Ind|Gender=Masc	2	det	_	AlignBegin=147492|AlignEnd=147587|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 5	=wa	_	CCONJ	CCONJ	_	2	cc	_	AlignBegin=147587|AlignEnd=147683|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 6	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=147683|AlignEnd=148160|TokenType=Break
-7	ji=	_	SCONJ	CONJ	Gender=Masc|Number=Plur|PronType=Rel	2	mod@relcl	_	AlignBegin=148160|AlignEnd=148239|Gloss=REL.PL.M=|RX=[CONJ]=|TokenType=Clit
+7	ji=	ji=	PRON	CONJ	Gender=Masc|Number=Plur|PronType=Rel	2	mod@relcl$subj	_	AlignBegin=148160|AlignEnd=148239|Gloss=REL.PL.M=|RX=[CONJ]=|TokenType=Clit
 8	i=	_	DET	DET	Definite=Def|Gender=Masc	9	det	_	AlignBegin=148239|AlignEnd=148318|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 9	tak	_	NOUN	N	Gender=Masc	7	comp	_	AlignBegin=148318|AlignEnd=148397|Gloss=man|RX=[N].[M]|TokenType=Root
 10	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	9	udep	_	AlignBegin=148397|AlignEnd=148476|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
