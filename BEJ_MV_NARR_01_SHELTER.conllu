@@ -167,7 +167,7 @@
 14	-b	_	PRON	DET	Case=Acc|Definite=Ind|Gender=Masc	13	subj/m	_	AlignBegin=33071|AlignEnd=33206|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 15	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	16	subj/m	_	AlignBegin=33206|AlignEnd=33340|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 16	kti	_	AUX	AUX	Aspect=Perf	17	comp	_	AlignBegin=33340|AlignEnd=33474|Filler=Obj|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-17	=jeːb	=eːb	SCONJ	CONJ	Gender=Masc|Number=Sing|PronType=Rel	1	mod@relcl$obj	_	AlignBegin=33474|AlignEnd=33609|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+17	=jeːb	=eːb	SCONJ	CONJ	Gender=Masc|PronType=Rel	1	mod@relcl$obj	_	AlignBegin=33474|AlignEnd=33609|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=33609|AlignEnd=35009|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_043-047
@@ -617,7 +617,7 @@
 3	iː-	_	PRON	PNG	_	4	subj/m	_	AlignBegin=114948|AlignEnd=115044|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 4	fi	_	VERB	V1, IRG	Aspect=Aor|VerbClass=1	6	comp	_	AlignBegin=115044|AlignEnd=115141|Filler=Subj|Gloss=be_there\AOR|RX=[V1].[IRG]|TokenType=Root
 5	-n	_	PRON	PNG	Number=Plur	4	subj/m	_	AlignBegin=115141|AlignEnd=115237|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-6	=t	=t	SCONJ	CCONJ	PronType=Rel	7	mod@relcl$subj	_	AlignBegin=115237|AlignEnd=115334|Gloss==DET.SG.F|RX==[REL]|TokenType=Clit
+6	=t	=t	SCONJ	CCONJ	Gender=Fem|PronType=Rel	7	mod@relcl$subj	_	AlignBegin=115237|AlignEnd=115334|Gloss==REL.F|RX==[REL]|TokenType=Clit
 7	iːjʔaː	_	NOUN	N	Gender=Fem|Number=Plur	9	comp:obj@T	_	AlignBegin=115334|AlignEnd=115527|Gloss=milk|RX=[N].[PL].[F]|TokenType=Root
 8	=t	_	DET	DET	Definite=Ind|Gender=Fem	7	det	_	AlignBegin=115527|AlignEnd=115721|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 9	sallam	_	VERB	V2	VerbClass=2	11	comp	_	AlignBegin=115721|AlignEnd=115817|Gloss=give|RX=[V2]|TokenType=Root
