@@ -129,7 +129,7 @@
 1	amseːnoːk	_	ADV	ADV	_	3	mod	_	AlignBegin=23131|AlignEnd=23511|Gloss=that_day|RX=[ADV]|TokenType=Root
 2	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	3	subj/m	_	AlignBegin=23511|AlignEnd=23638|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 3	kati	_	VERB	V1	VerbClass=1	4	comp	_	AlignBegin=23638|AlignEnd=23765|Filler=Obj|Gloss=become\IPFV|RX=[V1].[IRG]|TokenType=Root
-4	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	6	mod@relcl$obj	_	AlignBegin=23765|AlignEnd=23891|Gloss==REL.SG|RX==[CONJ]|TokenType=Clit
+4	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	6	mod@relcl$obj	_	AlignBegin=23765|AlignEnd=23891|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 5	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	6	det	_	AlignBegin=23891|AlignEnd=24081|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 6	doːr	_	NOUN	N	Gender=Masc	13	mod	_	AlignBegin=24081|AlignEnd=24271|Gloss=time|RX=[N].[M]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=24271|AlignEnd=24649|Gloss=/|TokenType=Break
@@ -275,14 +275,14 @@
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=48138|AlignEnd=48264|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	handi	_	NOUN	N	Gender=Masc	13	comp:obj	_	AlignBegin=48264|AlignEnd=48389|Gloss=tree|RX=[N].[M]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=48389|AlignEnd=48640|Gloss=/|TokenType=Break
-4	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	6	comp:obj	_	AlignBegin=48859|AlignEnd=49024|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
+4	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	5	comp	_	AlignBegin=48859|AlignEnd=49024|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 5	whiː	_	ADP	POSTP	_	6	comp:obl	_	AlignBegin=49024|AlignEnd=49189|Gloss=under|RX=[POSTP]|TokenType=Root
 6	mir	_	VERB	V1	VerbClass=1	7	comp/m	_	AlignBegin=49189|AlignEnd=49299|Gloss=find|RX=[V1]|TokenType=Root
 7	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	10	comp:aux	_	AlignBegin=49299|AlignEnd=49409|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 8	-b	_	PRON	DET	Case=Acc|Gender=Masc	7	subj/m	_	AlignBegin=49409|AlignEnd=49519|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 9	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	subj/m	_	AlignBegin=49519|AlignEnd=49629|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 10	kti	_	AUX	AUX	Aspect=Perf	11	comp	_	AlignBegin=49629|AlignEnd=49739|Filler=Obj|Gloss=become\AOR|RX=[AUX].[PRF]|TokenType=Root
-11	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	2	mod@relcl$obj	_	AlignBegin=49739|AlignEnd=49849|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+11	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	2	mod@relcl$obl	_	AlignBegin=49739|AlignEnd=49849|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 12	rhi	_	VERB	V2	VerbClass=2	13	comp/m	_	AlignBegin=49849|AlignEnd=49931|Gloss=see|RX=[V2]|TokenType=Root
 13	-is	_	AUX	V2	VerbClass=2|Voice=Cau	15	comp	_	AlignBegin=49931|AlignEnd=50013|DerPos=VERB|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
 14	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	13	subj/m	_	AlignBegin=50013|AlignEnd=50095|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -442,7 +442,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 78867, 95051
 # phonetic_text = hagit -eː hagit -eː hagit -eː / ontʔa // w= haˈwaːd jʔ -i =hoːb // suːriː / i= kam =ihi dhaːj =wa / i= meːk =ihi =da =wa / w= harroː =joː i- miːr =hoːb dʔiːt jʔ -i =ajt / w= harroː =joː / kaː# oːn oːn dammʔara =joː i= kam =iheː =da / i= meːk =ihi dhaːj =wa dʔi -tiːt / haːj jʔ -iːni eːn //
-# text = hagteː hagteː hagteː /ontʔa //whaˈwaːd jʔiːhoːb // BI_319 suːriː / ikaːmjhi dhaːjwa / imeːkjhidawa / wharroːjoː imiːrhoːb dʔiːt jʔijaːjt / wharroːjoː / BI_681 kaː# oːn oːn dammʔaraːjoː ikamiheːda /imeːkihi dhaːjwa dʔiːtiːt / haːj jʔiːni eːn //
+# text = hagit -eː hagit -eː hagit -eː / ontʔa // w= haˈwaːd jʔ -i =hoːb // suːriː / i= kam =ihi dhaːj =wa / i= meːk =ihi =da =wa / w= harroː =joː i- miːr =hoːb dʔiːt jʔ -i =ajt / w= harroː =joː / kaː# oːn oːn dammʔara =joː i= kam =iheː =da / i= meːk =ihi dhaːj =wa dʔi -tiːt / haːj jʔ -iːni eːn //
 # text_en = While he was waiting for a long time, now,  when the night was coming, since before, when he had earned his sorghum he came and put it on his camels and his donkey, his sorghum... he puts his gold on his camels and his donkey and he brings it  back, they said.
 1	hagit	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=78867|AlignEnd=79037|Gloss=wait|RX=[V1]|TokenType=Root
 2	-eː	_	AUX	_	_	4	conj:redup	_	AlignBegin=79037|AlignEnd=79207|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
@@ -473,7 +473,7 @@
 27	=da	_	ADP	POSTP	_	36	comp:obl	_	AlignBegin=84676|AlignEnd=84761|Gloss==DIR|RX==[POSTP]|TokenType=Clit
 28	=wa	_	CCONJ	CONJ	_	27	cc	_	AlignBegin=84761|AlignEnd=84845|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 29	/	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=84845|AlignEnd=85269|Gloss=/|TokenType=Break
-30	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	31	det	_	AlignBegin=85269|AlignEnd=85377|Gloss=DEF.M.SG=|RX=[DET]=|TokenType=Clit
+30	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	31	det	_	AlignBegin=85269|AlignEnd=85377|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 31	harroː	_	NOUN	N	Gender=Masc	34	comp:obj	_	AlignBegin=85377|AlignEnd=85485|Gloss=sorghum|RX=[N].[M]|TokenType=Root
 32	=joː	_	PRON	PRO	Case=Acc|Number=Sing|Person=3|Poss=Yes	31	udep@poss	_	AlignBegin=85485|AlignEnd=85593|Gloss==POSS.3SG.ACC|RX==[PRO]|TokenType=Clit
 33	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	34	subj/m	_	AlignBegin=85593|AlignEnd=85701|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
@@ -850,7 +850,7 @@
 31	sikʷ	_	VERB	V1	VerbClass=1	32	comp/m	_	AlignBegin=164503|AlignEnd=164707|Gloss=pull|RX=[V1]|TokenType=Root
 32	-ti	_	AUX	_	_	33	mod	_	AlignBegin=164707|AlignEnd=164910|DerPos=VERB|Gloss=-CVB.GNRL|TokenType=DerAff
 33	fanrʔi	_	VERB	V1	Aspect=Imp|Number=Sing|Person=2|VerbClass=1	34	comp	_	AlignBegin=164910|AlignEnd=165114|Filler=Obj|Gloss=take_out\IPFV.3SG|RX=[V1]|TokenType=Root
-34	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	36	mod@relcl$obj	_	AlignBegin=165114|AlignEnd=165317|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+34	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	36	mod@relcl$obj	_	AlignBegin=165114|AlignEnd=165317|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 35	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	36	det	_	AlignBegin=165317|AlignEnd=165521|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 36	doːr	_	NOUN	N	Gender=Masc	43	mod	_	AlignBegin=165521|AlignEnd=165724|Gloss=time|RX=[N].[M]|TokenType=Root
 37	/	_	PUNCT	PUNCT	_	36	punct	_	AlignBegin=165724|AlignEnd=166133|Gloss=/|TokenType=Break
@@ -1287,9 +1287,9 @@
 15	har#	_	X	FS	_	14	conj:dicto	_	AlignBegin=252715|AlignEnd=252998|Gloss=FS|RX=[FS]|TokenType=Root
 16	##	_	PUNCT	_	_	15	punct	_	AlignBegin=252998|AlignEnd=253281|TokenType=Root
 17	manni	_	NOUN	N	Gender=Masc	18	comp/m	_	AlignBegin=253281|AlignEnd=253355|Gloss=wish|RX=[N].[M]|TokenType=Root
-18	-im	_	AUX	V2	VerbClass=2	20	comp	_	AlignBegin=253355|AlignEnd=253429|DerPos=VERB|Gloss=-MID|RX=-[V2].[DER]|TokenType=DerAff
+18	-im	_	AUX	V2	VerbClass=2	20	comp	_	AlignBegin=253355|AlignEnd=253429|DerPos=VERB|Filler=Obl|Gloss=-MID|RX=-[V2].[DER]|TokenType=DerAff
 19	-ti	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=2	18	subj/m	_	AlignBegin=253429|AlignEnd=253503|Gloss=-AOR.2SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
-20	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	21	mod@relcl	_	AlignBegin=253503|AlignEnd=253577|Gloss==REL|RX==[CONJ]|TokenType=Clit
+20	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	21	mod@relcl$obl	_	AlignBegin=253503|AlignEnd=253577|Gloss==REL|RX==[CONJ]|TokenType=Clit
 21	=na	_	NOUN	REL	Gender=Fem	22	comp	_	AlignBegin=253577|AlignEnd=253651|Gloss==thing|RX==[CONJ]|TokenType=Clit
 22	=ka	_	ADP	POSTP	_	24	comp:obl	_	AlignBegin=253651|AlignEnd=253728|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
 23	a-	_	PRON	PNG	Number=Sing|Person=1	24	subj/m	_	AlignBegin=253728|AlignEnd=253877|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
@@ -1484,7 +1484,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 292160, 295722
 # phonetic_text = manni -im -a i- ni =jeːb / i= manni -im -ti =iː i- miri =jeː =na ti- kati //
-# text = manniːma inijeːb / imanniːmtaj imrijeːna tikati // BI_665
+# text = manni -im -a i- ni =jeːb / i= manni -im -ti =iː i- mri =jeː =na ti- kati //
 # text_en = after he was told: "Wish!", it becomes a thing he found by wishing.
 1	manni	_	NOUN	N	Gender=Masc	2	comp/m	_	AlignBegin=292160|AlignEnd=292273|Gloss=wish|RX=[N].[M]|TokenType=Root
 2	-im	_	AUX	V2	VerbClass=2	5	comp:obj	_	AlignBegin=292273|AlignEnd=292386|DerPos=VERB|Gloss=-MID|Reported=Yes|RX=-[V2].[DER]|TokenType=DerAff
@@ -1499,8 +1499,8 @@
 11	-ti	_	SCONJ	N.V	_	12	comp	_	AlignBegin=293457|AlignEnd=293551|DerPos=NOUN|Gloss=-N.AC|RX=-[N].[V]|TokenType=DerAff
 12	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	14	comp:obl	_	AlignBegin=293551|AlignEnd=293645|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
 13	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	14	subj/m	_	AlignBegin=293645|AlignEnd=293763|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
-14	mri	_	VERB	V1	Aspect=Perf|VerbClass=1	15	comp	_	AlignBegin=293763|AlignEnd=293881|Gloss=find\PFV|RX=[V1]|TokenType=Root
-15	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl	_	AlignBegin=293881|AlignEnd=293999|Gloss==REL|RX==[CONJ]|TokenType=Clit
+14	mri	_	VERB	V1	Aspect=Perf|VerbClass=1	15	comp	_	AlignBegin=293763|AlignEnd=293881|Filler=Obj|Gloss=find\PFV|RX=[V1]|TokenType=Root
+15	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl$obj	_	AlignBegin=293881|AlignEnd=293999|Gloss==REL|RX==[CONJ]|TokenType=Clit
 16	=na	_	NOUN	CONJ	_	18	subj	_	AlignBegin=293999|AlignEnd=294115|Gloss==thing|RX==[CONJ]|TokenType=Clit
 17	ti-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	18	subj/m	_	AlignBegin=294115|AlignEnd=294350|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 18	kati	_	VERB	V1	VerbClass=1	0	root	_	AlignBegin=294350|AlignEnd=294585|Gloss=become|RX=[V1].[IRG]|TokenType=Root
@@ -1635,16 +1635,16 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 317626, 320376
 # phonetic_text = oː= kina hoːj bi= i- bari -n =eː =na ki= t- haːj eːn /
-# text = oːkna hoːj biːbariːneːna kithaːj eːn /
+# text = oː= kna hoːj bi= i- bari -n =eː =na ki= t- haːj eːn /
 # text_en = there is really nothing that they do not get from it, they said.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=317626|AlignEnd=317810|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	kna	_	PRON	PRO	Reflex=Yes	6	discourse	_	AlignBegin=317810|AlignEnd=317994|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 3	hoːj	_	ADP	PRO	_	6	comp:obl	_	AlignBegin=317994|AlignEnd=318362|Gloss=LOC|RX=[POSTP]|TokenType=Root
 4	bi=	_	PART	PTCL	Mood=Opt	6	mod	_	AlignBegin=318362|AlignEnd=318423|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
 5	i-	_	PRON	PNG	Person=3	6	subj/m	_	AlignBegin=318423|AlignEnd=318484|Gloss=3-|RX=[PNG]-|TokenType=InflAff
-6	bari	_	VERB	V1	Mood=Opt|Polarity=Neg|VerbClass=1	8	comp	_	AlignBegin=318484|AlignEnd=318545|Gloss=have\NEG.OPT|RX=[V1].[IRG]|TokenType=Root
+6	bari	_	VERB	V1	Mood=Opt|Polarity=Neg|VerbClass=1	8	comp	_	AlignBegin=318484|AlignEnd=318545|Filler=Obj|Gloss=have\NEG.OPT|RX=[V1].[IRG]|TokenType=Root
 7	-n	_	PRON	PNG	Number=Plur	6	subj/m	_	AlignBegin=318545|AlignEnd=318606|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-8	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	9	mod@relcl	_	AlignBegin=318606|AlignEnd=318667|Gloss==REL|RX==[CONJ]|TokenType=Clit
+8	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	9	mod@relcl$obj	_	AlignBegin=318606|AlignEnd=318667|Gloss==REL|RX==[CONJ]|TokenType=Clit
 9	=na	_	NOUN	CONJ	_	12	subj	_	AlignBegin=318667|AlignEnd=318730|Gloss==thing|RX==[CONJ]|TokenType=Clit
 10	ki=	_	PART	PTCL	Aspect=Imp	11	mod	_	AlignBegin=318730|AlignEnd=318853|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
 11	t-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	12	subj/m	_	AlignBegin=318853|AlignEnd=318976|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff

@@ -1146,9 +1146,9 @@
 11	=eːk	_	SCONJ	CONJ	_	19	mod	_	AlignBegin=220415|AlignEnd=220516|Gloss==if|RX==[CONJ]|TokenType=Clit
 12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=220516|AlignEnd=221473|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 13	i-	_	PRON	PNG	Person=3	14	subj/m	_	AlignBegin=221473|AlignEnd=221559|Gloss=3-|RX=[PNG]-|TokenType=InflAff
-14	deːr	_	VERB	V1	Aspect=Perf|VerbClass=1	16	comp	_	AlignBegin=221559|AlignEnd=221645|Gloss=kill\INT.PFV|RX=[V1].[DER]|TokenType=Root
+14	deːr	_	VERB	V1	Aspect=Perf|VerbClass=1	16	comp	_	AlignBegin=221559|AlignEnd=221645|Filler=Obl|Gloss=kill\INT.PFV|RX=[V1].[DER]|TokenType=Root
 15	-n	_	PRON	PNG	Number=Plur	14	subj/m	_	AlignBegin=221645|AlignEnd=221732|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-16	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	17	mod@relcl	_	AlignBegin=221732|AlignEnd=221818|Gloss==REL|RX==[CONJ]|TokenType=Clit
+16	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	17	mod@relcl$obl	_	AlignBegin=221732|AlignEnd=221818|Gloss==REL|RX==[CONJ]|TokenType=Clit
 17	=na	_	NOUN	CONJ	_	18	comp:obj	_	AlignBegin=221818|AlignEnd=221905|Gloss==thing|RX==[CONJ]|TokenType=Clit
 18	rankʷi	_	VERB	V1	Aspect=Imp|Number=Sing|Person=3|VerbClass=1	19	comp	_	AlignBegin=221905|AlignEnd=222121|Gloss=be_afraid\INT.IPFV.3SG|RX=[V1].[DER]|TokenType=Root
 19	=ajt	_	SCONJ	CONJ	_	23	mod	_	AlignBegin=222121|AlignEnd=222337|Gloss==CSL|RX==[CONJ]|TokenType=Clit

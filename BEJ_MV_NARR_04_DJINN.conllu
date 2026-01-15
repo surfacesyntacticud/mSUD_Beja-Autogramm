@@ -19,7 +19,7 @@
 12	gaw	_	NOUN	N	Gender=Masc	23	comp:pred	_	AlignBegin=3828|AlignEnd=4044|Gloss=house|RX=[N].[M]|TokenType=Root
 13	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=4044|AlignEnd=4260|Gloss=//|TokenType=Break
 14	dikʷkʷaːn	_	NOUN	N	Gender=Masc	17	subj	_	AlignBegin=5383|AlignEnd=5737|Gloss=shop|RX=[N].[M]|TokenType=Root
-15	hoːj	_	PRON	PRO	PronType=Res	17	comp:obl	_	AlignBegin=5737|AlignEnd=6091|Gloss=3.DAT/ABL|RX=[PRO]|TokenType=Root
+15	hoːj	_	ADP	PRO	_	17	comp:obl	_	AlignBegin=5737|AlignEnd=6091|Gloss=LOC|RX=[POSTP]|TokenType=Root
 16	iː-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	17	subj/m	_	AlignBegin=6091|AlignEnd=6162|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 17	fi	_	VERB	V1	Aspect=Aor|VerbClass=1	18	comp	_	AlignBegin=6162|AlignEnd=6233|Filler=Obl|Gloss=be_there\AOR|RX=[V1].[IRG]|TokenType=Root
 18	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	19	mod@relcl$obl	_	AlignBegin=6233|AlignEnd=6304|Gloss==REL|RX==[CONJ]|TokenType=Clit
@@ -573,7 +573,7 @@
 # phonetic_text = i= soːk =ijoː =da // mhasi areː / jin -aː =t a- sni =t a- dgi /
 # text_en = "Once more, I waited a few days and went back to Souakin.
 # text = mhasi i= soːk =ijoː =da // mhasi areː / jin -aː =t a- sni =t a- dgi /
-1	mhasi	_	DET	DET	_	3	mod	_	AlignBegin=91949|AlignEnd=92041|Gloss=again|RX=[PTCL]|TokenType=Root
+1	mhasi	_	ADV	DET	_	3	mod	_	AlignBegin=91949|AlignEnd=92041|Gloss=again|RX=[ADV]|TokenType=Root
 2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=91949|AlignEnd=92041|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	soːk	_	PROPN	N	_	5	comp	_	AlignBegin=92041|AlignEnd=92133|Gloss=Souakin|RX=[N].[PROP]|TokenType=Root
 4	=ijoː	_	PRON	PRO	Case=Gen|Number=Sing|Person=3|Poss=Yes	3	udep@poss	_	AlignBegin=92133|AlignEnd=92225|Gloss==POSS.3SG.GEN|RX==[PRO]|TokenType=Clit
@@ -631,7 +631,7 @@
 # phonetic_text = i= kina =ji han i= tak -i ginha =eːb / i= maːl =i wi= iː- biri =i daːj -jaː / ahaː / uː= nifʔa wi= iː- biri =eː /
 # text = i= kna =ji han i= tak =i ginh =eːb / i= maːl =i wi= iː- bri =i daː -ja / ahaː / uː= nfʔa wi= iː- bri =i /
 # text_en = even all the fortune I had were the man's debts. Hum, the fortune I had.
-1	i=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=100298|AlignEnd=100407|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
+1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=100298|AlignEnd=100407|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	kna	_	PRON	PRO	Reflex=Yes	4	discourse	_	AlignBegin=100407|AlignEnd=100516|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 3	=ji	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	2	udep@poss	_	AlignBegin=100516|AlignEnd=100626|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
 4	han	_	PART	PTCL	_	6	discourse	_	AlignBegin=100626|AlignEnd=100954|Gloss=also|RX=[PTCL].[FOC]|TokenType=Root
@@ -646,8 +646,8 @@
 13	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	12	udep@poss	_	AlignBegin=102228|AlignEnd=102373|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 14	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	16	comp:obj	_	AlignBegin=102373|AlignEnd=102481|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 15	iː-	_	PRON	PNG	Number=Sing|Person=1	16	subj/m	_	AlignBegin=102481|AlignEnd=102589|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
-16	bri	_	VERB	V1	Aspect=Aor|VerbClass=1	17	comp/m	_	AlignBegin=102589|AlignEnd=102697|Gloss=have\AOR|RX=[V1].[IRG]|TokenType=Root
-17	=i	=i	SCONJ	CONJ.REL	PronType=Rel	12	mod@relcl	_	AlignBegin=102697|AlignEnd=102806|Gloss==REL|RX==[CONJ]|TokenType=Clit
+16	bri	_	VERB	V1	Aspect=Aor|VerbClass=1	17	comp/m	_	AlignBegin=102589|AlignEnd=102697|Filler=Obj|Gloss=have\AOR|RX=[V1].[IRG]|TokenType=Root
+17	=i	=i	SCONJ	CONJ.REL	PronType=Rel	12	mod@relcl$obj	_	AlignBegin=102697|AlignEnd=102806|Gloss==REL|RX==[CONJ]|TokenType=Clit
 18	daː	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=102806|AlignEnd=103022|Gloss=be_there|RX=[V2]|TokenType=Root
 19	-ja	_	PRON	TAM.PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	18	subj/m	_	AlignBegin=103022|AlignEnd=103239|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 20	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=103239|AlignEnd=103671|Gloss=/|TokenType=Break
@@ -686,9 +686,9 @@
 16	ʃaːtaːj	_	PROPN	N	_	19	comp:obj	_	AlignBegin=110597|AlignEnd=110846|Gloss=Shatay|RX=[N].[PROP]|TokenType=Root
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=110846|AlignEnd=111094|Gloss=/|TokenType=Break
 18	iː-	_	PRON	PNG	Person=3	19	subj/m	_	AlignBegin=111094|AlignEnd=111172|Gloss=3-|RX=[PNG]-|TokenType=InflAff
-19	fi	_	VERB	V1	Aspect=Aor|VerbClass=1	21	comp	_	AlignBegin=111172|AlignEnd=111250|Gloss=be_there\AOR|RX=[V1].[IRG]|TokenType=Root
+19	fi	_	VERB	V1	Aspect=Aor|VerbClass=1	21	comp	_	AlignBegin=111172|AlignEnd=111250|Filler=Subj|Gloss=be_there\AOR|RX=[V1].[IRG]|TokenType=Root
 20	-ina	_	PRON	PNG	Number=Plur	19	subj/m	_	AlignBegin=111250|AlignEnd=111328|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
-21	=j	=i	SCONJ	CONJ	PronType=Rel	13	mod@relcl	_	AlignBegin=111328|AlignEnd=111406|Gloss==REL|RX==[CONJ]|TokenType=Clit
+21	=j	=i	SCONJ	CONJ	PronType=Rel	13	mod@relcl$subj	_	AlignBegin=111328|AlignEnd=111406|Gloss==REL|RX==[CONJ]|TokenType=Clit
 22	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=111406|AlignEnd=111717|Gloss=/|TokenType=Break
 23	dhaːj	_	ADP	POSTP	_	24	comp:obl	_	AlignBegin=111717|AlignEnd=111927|Gloss=DIR|RX=[POSTP]|TokenType=Root
 24	jʔ	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=111927|AlignEnd=111997|Gloss=come|RX=[V2].[IRG]|TokenType=Root
@@ -701,15 +701,16 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
 # sent_timecode = 113283, 119310
 # phonetic_text = jaː iraːni / bak tʔi -it =eː =na i- ni =hoːb jhaː / oːn oː= gaw suːriː / dhaj hanka =oːk // hoːj ak -aː =b =a /
-# text = jaː iraːni / bak tʔiːteːna injhoːb jhaː /oːn oːgaw suːriː /dhaj hankoːk // hoːj akaːba /
+# text = jaː iraːni / bak tʔi -it =eː =na i- ni =hoːb jhaː / oːn oː= gaw suːriː / dhaj hanka =oːk // hoːj ak -aː -b =a /
 # text_en = Gosh! when he said something like that: "Hey! Formerly, people were living in this house before you.
+# tags = TO CHECK
 1	jaː	_	PART	PTCL	_	2	mod	_	AlignBegin=113283|AlignEnd=113463|Gloss=ADRF|InIdiom=Yes|RX=[PTCL]|TokenType=Root
 2	iraːni	_	INTJ	_	ExtPos=INTJ	5	discourse	_	AlignBegin=113463|AlignEnd=113643|Gloss=gosh|Idiom=Yes|RX=[EXCL]|TokenType=Root
 3	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=113643|AlignEnd=113822|Gloss=/|TokenType=Break
 4	bak	_	PART	DEICT	_	5	mod	_	AlignBegin=113822|AlignEnd=114069|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
-5	tʔi	_	VERB	V1	VerbClass=1	6	comp/m	_	AlignBegin=114069|AlignEnd=114131|Gloss=resemble|RX=[V1].[IRG]|TokenType=Root
+5	tʔi	_	VERB	V1	VerbClass=1	6	comp/m	_	AlignBegin=114069|AlignEnd=114131|Filler=Obj|Gloss=resemble|RX=[V1].[IRG]|TokenType=Root
 6	-it	_	SCONJ	N.V	_	7	comp	_	AlignBegin=114131|AlignEnd=114193|DerPos=NOUN|Gloss=-VN|RX=-[N].[V]|TokenType=DerAff
-7	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	8	mod@relcl	_	AlignBegin=114193|AlignEnd=114255|Gloss==REL|RX==[CONJ]|TokenType=Clit
+7	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	8	mod@relcl$obj	_	AlignBegin=114193|AlignEnd=114255|Gloss==REL|RX==[CONJ]|TokenType=Clit
 8	=na	_	NOUN	CONJ	_	10	comp:obj	_	AlignBegin=114255|AlignEnd=114316|Gloss==thing|RX==[N.F]|TokenType=Clit
 9	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	10	subj/m	_	AlignBegin=114316|AlignEnd=114398|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 10	ni	_	VERB	V1	Aspect=Perf|VerbClass=1	11	comp	_	AlignBegin=114398|AlignEnd=114480|Gloss=say\PFV|RX=[V1].[IRG]|TokenType=Root
@@ -737,7 +738,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
 # sent_timecode = 119310, 123057
 # phonetic_text = umbaruːk // ʔakr -a ginʔ =iː / i= tak -i ginha =eːb / ti- bari =jeː =na baː= raːt -a /
-# text = umbaruːk // ʔakra ginʔiː /itaki ginheːb /tibarijeːna baːraːtaːjaː /
+# text = umbaruːk // ʔakr -a ginʔ =iː / i= tak =i ginha =eːb / ti- bari =jeː =na baː= raːt -a /
 # text_en = You, by all means, don't try to get your debts paid! (lit. don't look for what you have in the man's chest!)
 1	umbaruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	19	dislocated:subj	_	AlignBegin=119310|AlignEnd=119620|Gloss=2SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
 2	//	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=119620|AlignEnd=119929|Gloss=//|TokenType=Break
@@ -753,8 +754,8 @@
 12	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	19	comp:obl	_	AlignBegin=121363|AlignEnd=121488|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=121488|AlignEnd=121737|Gloss=/|TokenType=Break
 14	ti-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	15	subj/m	_	AlignBegin=121840|AlignEnd=121942|Gloss=2SG.M-|RX=[PNG]-|TokenType=InflAff
-15	bari	_	VERB	V1	VerbClass=1	16	comp	_	AlignBegin=121942|AlignEnd=122044|Gloss=have|RX=[V1].[IRG]|TokenType=Root
-16	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	17	mod@relcl	_	AlignBegin=122044|AlignEnd=122146|Gloss==REL|RX==[CONJ]|TokenType=Clit
+15	bari	_	VERB	V1	VerbClass=1	16	comp	_	AlignBegin=121942|AlignEnd=122044|Filler=Obj|Gloss=have|RX=[V1].[IRG]|TokenType=Root
+16	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	17	mod@relcl$obj	_	AlignBegin=122044|AlignEnd=122146|Gloss==REL|RX==[CONJ]|TokenType=Clit
 17	=na	_	NOUN	CONJ	_	19	comp:obj	_	AlignBegin=122146|AlignEnd=122246|Gloss==thing|RX==[N.F]|TokenType=Clit
 18	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	19	mod	_	AlignBegin=122246|AlignEnd=122381|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
 19	raːt	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=122381|AlignEnd=122516|Gloss=ask|RX=[V2]|TokenType=Root
@@ -826,8 +827,9 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
 # sent_timecode = 131123, 133148
 # phonetic_text = i= tak -i ginha =eːb / ti- bari =jeː =na baː= hariw -a /
-# text = itaki ginheːb / tibarijeːna baːhariwa /
+# text = i= tak =i ginha =eːb / ti- bari =jeː =na baː= hariw -a /
 # text_en = don't try to get your debts paid! (lit. don't look for what you have in the man's chest!)
+# tags = TO CHECK
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=131123|AlignEnd=131196|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	tak	_	NOUN	N	Gender=Masc	3	comp	_	AlignBegin=131196|AlignEnd=131269|Gloss=man|RX=[N].[M]|TokenType=Root
 3	=i	_	ADP	CASE	Case=Gen	4	udep	_	AlignBegin=131269|AlignEnd=131341|Gloss==GEN|RX==[CASE]|TokenType=Clit|wordform=-i
@@ -835,8 +837,8 @@
 5	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	12	comp:obl	_	AlignBegin=131450|AlignEnd=131559|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
 6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=131559|AlignEnd=131777|Gloss=/|TokenType=Break
 7	ti-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	8	subj/m	_	AlignBegin=131777|AlignEnd=131877|Gloss=2SG.M-|RX=[PNG]-|TokenType=InflAff
-8	bari	_	VERB	V1	VerbClass=1	9	comp	_	AlignBegin=131877|AlignEnd=131977|Gloss=have\IPFV|RX=[V1].[IRG]|TokenType=Root
-9	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	10	mod@relcl	_	AlignBegin=131977|AlignEnd=132077|Gloss==REL|RX==[CONJ]|TokenType=Clit
+8	bari	_	VERB	V1	VerbClass=1	9	comp	_	AlignBegin=131877|AlignEnd=131977|Filler=Obj|Gloss=have\IPFV|RX=[V1].[IRG]|TokenType=Root
+9	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	10	mod@relcl$obj	_	AlignBegin=131977|AlignEnd=132077|Gloss==REL|RX==[CONJ]|TokenType=Clit
 10	=na	_	NOUN	CONJ	_	12	comp:obj	_	AlignBegin=132077|AlignEnd=132179|Gloss==thing|RX==[N.F]|TokenType=Clit
 11	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	12	mod	_	AlignBegin=132179|AlignEnd=132313|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
 12	hariw	_	VERB	V1	VerbClass=1	0	root	_	AlignBegin=132313|AlignEnd=132447|Gloss=seek|RX=[V1]|TokenType=Root
@@ -848,10 +850,10 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_04_DJINN.WAV
 # sent_timecode = 134057, 138736
 # phonetic_text = baroːk i= kina =joːk i= ʃuːk =eːk sallam -jaːn =hoːb // ti- firʔa =jaː i- d =heːb i- ni //
-# text = baroːk iknaːjoːk iʃuːkeːk sallamjaːnhoːb //tifirʔaːjaː idheːb ini // BI_583
+# text = baroːk i= kna =joːk i= ʃuːk =eːk sallam -jaːn =hoːb // ti- firʔa =jaː i- d =heːb i- ni //
 # text_en = Since nothing happened to you (lit. when they (the jinns) gave your soul)
 1	baroːk	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=2	8	discourse	_	AlignBegin=134057|AlignEnd=134504|Gloss=2SG.M.ACC|RX=[PRO]|TokenType=Root
-2	i=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=134504|AlignEnd=134653|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=134504|AlignEnd=134653|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 3	kna	_	PRON	PRO	Reflex=Yes	1	discourse	_	AlignBegin=134653|AlignEnd=134802|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 4	=joːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	3	udep@poss	_	AlignBegin=134802|AlignEnd=134951|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
 5	i=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=134951|AlignEnd=135100|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit

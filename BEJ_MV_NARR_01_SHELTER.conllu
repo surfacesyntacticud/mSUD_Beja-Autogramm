@@ -818,7 +818,7 @@
 17	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=146431|AlignEnd=147206|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_162-167
-# text = j= halak -a =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa eːn / ani ti= kna =t =i / ti= sitoːb -oːj ti= a- stoːbi =jeːt a- kteːn =aj // sallam -a =heːb ti- ni =t =heːb /
+# text = j= halak -a =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa =jeːn / ani ti= kna =t =i / ti= sitoːb -oːj ti= a- stoːbi =jeːt a- kteːn =aj // sallam -a =heːb ti- ni =t =heːb /
 # text_en = "As I know myself how to bring the man's clothes and his weapons back to him, give them to me!", she told me, [and]
 # phonetic_text = jhalakabwa / jiʔitakiːb areː eːn eːgaɖʔajeː na / ani tiknaːti / tistoːboːj tiʔastoːbjeːt akteːnaj // sallamaheːb tinitheːb /
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
@@ -836,7 +836,7 @@
 12	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	AlignBegin=148793|AlignEnd=149109|Gloss=PROX.PL.M.ACC|RX=[DEM]|TokenType=Root
 13	i=	_	DET	DET	Definite=Def|Gender=Masc	14	det	_	AlignBegin=149109|AlignEnd=149214|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 14	gaɖʔa	_	NOUN	N	Gender=Masc|Number=Plur	24	comp:obj	_	AlignBegin=149214|AlignEnd=149320|Gloss=weapon\PL|RX=[N].[M]|TokenType=Root
-15	eːn	_	DET	PRO	Case=Acc|Gender=Masc|Number=Plur|PronType=Dem	14	det	_	AlignBegin=149320|AlignEnd=149426|Gloss=PROX.PL.ACC|RX==[DET]|TokenType=Root
+15	=jeːn	=eːn	PRON	PRO	Case=Acc|Gender=Masc|Number=Plur|Poss=Yes	14	det@poss	_	AlignBegin=149320|AlignEnd=149426|Gloss=POSS.PL.M.ACC|RX==[PRO]|TokenType=Root
 16	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=149742|AlignEnd=150059|TokenType=Break
 17	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	24	subj	_	AlignBegin=150059|AlignEnd=150374|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 18	ti=	_	DET	DET	Definite=Def|Gender=Fem	19	det	_	AlignBegin=150374|AlignEnd=150453|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -869,7 +869,7 @@
 # text_en = she took them from me, [and]
 # phonetic_text = hoː sallamamta /
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
-1	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1	3	comp:obl	_	AlignBegin=154887|AlignEnd=155285|Gloss=1SG.DAT|RX=[PRO]|TokenType=Root
+1	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=1|PronType=Prs	3	comp:obl	_	AlignBegin=154887|AlignEnd=155285|Gloss=1SG.DAT|RX=[PRO]|TokenType=Root
 2	sallam	_	VERB	V2	VerbClass=2	3	comp/m	_	AlignBegin=155285|AlignEnd=155418|Gloss=give|RX=[V2]|TokenType=Root
 3	-am	_	AUX	V2	VerbClass=2|Voice=Mid	0	root	_	AlignBegin=155418|AlignEnd=155551|DerPos=VERB|Gloss=-MID|RX=-[V2].[DER]|TokenType=DerAff
 4	-ta	_	PRON	TAM, PNG	Aspect=Perf|Gender=Fem|Number=Sing|Person=3	3	subj/m	_	AlignBegin=155551|AlignEnd=155684|Gloss=-PFV.3SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
