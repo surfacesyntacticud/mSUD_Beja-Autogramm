@@ -41,7 +41,7 @@
 16	//	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=7576|AlignEnd=8752|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_010-025
-# text = ontʔa / hiddaːb / ʔiːbaːb -eː ʔiːbaːb -eː ʔiːbaːb -eː / lhaweː =t // a- haragʷi =jeːk / tiː- d =eːb oː= doːr / beːn j= ʔawi baj =i =t / j= ʔaweː =ji ʔaweː =b ʃaw~wawi =i =t / i= nabi -i =t sala ak -eːna / i= nabi -i =t sala ak -eːna di -i iː- d eːn //
+# text = ontʔa / hiddaːb / ʔiːbaːb -eː ʔiːbaːb -eː ʔiːbaːb -eː / lhaweː =t // a- haragʷi =jeːk / tiː- d =eːb oː= doːr / beːn j= ʔawi baj -i =t / j= ʔaweː =ji ʔaweː =b ʃaw~wawi -i =t / i= nabi =i =t sala ak -eːna / i= nabi =i =t sala ak -eːna di -i iː- d eːn //
 # phonetic_text = ontʔa / hiddaːb / ʔiːbaːbeː ʔiːbaːbeː ʔiːbaːbeː / lhaweːt // ahragʷijeːk / tiːdeːb oːdoːr / beːn jʔawi bajit / jʔaweːji ʔaweːb ʃawwawijiːt / inabit sala akeːna / inabit sala akeːna diː iːd eːn //
 # text_en = Now, while they were travelling together,  when Vixen said: 'If I am hungry?', "Go and get that stone from the stones and become the grilled meat of the Prophet say: become the Prophet's grilled meat!' he said, they said.
 1	ontʔa	_	PART	PTCL	_	5	discourse	_	AlignBegin=8752|AlignEnd=8994|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -75,7 +75,7 @@
 29	-i	_	PRON	TAM.PNG	Gender=Fem|Mood=Imp|Number=Sing	28	subj/m	_	AlignBegin=15126|AlignEnd=15210|Gloss=-IMP.SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
 30	=t	_	CCONJ	CONJ	_	28	cc	_	AlignBegin=15210|AlignEnd=15294|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 31	/	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=15294|AlignEnd=16023|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-32	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	33	det	_	AlignBegin=16023|AlignEnd=16134|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+32	j=	_	DET	DET	Definite=Def|Gender=Masc	33	det	_	AlignBegin=16023|AlignEnd=16134|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 33	ʔaweː	_	NOUN	N	Gender=Masc	34	comp	_	AlignBegin=16134|AlignEnd=16245|Gloss=stone|RX=[N].[M]|TokenType=Root
 34	=ji	_	ADP	CASE	Case=Gen	35	udep	_	AlignBegin=16245|AlignEnd=16357|Gloss==GEN|RX==[CASE]|TokenType=Clit
 35	ʔaweː	_	NOUN	N	Gender=Masc	37	comp:obj	_	AlignBegin=16357|AlignEnd=16524|Gloss=stone|RX=[N].[M]|TokenType=Root
@@ -107,14 +107,14 @@
 61	//	_	PUNCT	PUNCT	_	59	punct	_	AlignBegin=20905|AlignEnd=22151|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_026-033
-# text = tiː- dif =aːt / j= ʔaweː =ji ʔaweː =b ʃaw~waw =iːtiːt lhaweː =t =i =t sala ak -eːna / lhaweː =t -i =t sala ak -eːna / tiː- d =eːb oː= doːr / naː =t / sala =t dhaːj ka= ʔeːta //
+# text = tiː- dif =aːt / j= ʔaweː =ji ʔaweː =b ʃaw~waw -iːtiːt lhaweː =t =i =t sala ak -eːna / lhaweː =t =i =t sala ak -eːna / tiː- d =eːb oː= doːr / naː =t / sala =t dhaːj ka= ʔeːta //
 # phonetic_text = tiːdifaːt / jʔaweːji ʔaweːb ʃawwawiːtiːt lhaweːtit sala akeːna / lhaweːtiːt sala akeːna / tiːdeːb oːdoːr / naːt / salaːt dhaːj kaʔeːta //
 # text_en = It went and after it has gathered stones among the stones, when it said: 'Become Vixen's grilled meat, become Vixen's grilled meat!' no grilled meat comes for it.
 1	tiː-	_	PRON	PNG	Gender=Fem|Number=Sing|Person=3	2	subj/m	_	AlignBegin=22151|AlignEnd=22263|Gloss=3SG.F-|RX=[PNG]-|TokenType=InflAff
 2	dif	_	VERB	V1	Aspect=Aor|VerbClass=1	10	conj:coord	_	AlignBegin=22263|AlignEnd=22375|Gloss=leave\AOR|RX=[V1]|TokenType=Root
 3	=aːt	_	CCONJ	CONJ	_	2	cc	_	AlignBegin=22375|AlignEnd=22487|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 4	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=22487|AlignEnd=22824|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-5	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	6	det	_	AlignBegin=22824|AlignEnd=22966|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+5	j=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=22824|AlignEnd=22966|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 6	ʔaweː	_	NOUN	N	Gender=Masc	7	comp	_	AlignBegin=22966|AlignEnd=23109|Gloss=stone|RX=[N].[M]|TokenType=Root
 7	=ji	_	ADP	CASE	Case=Gen	8	udep	_	AlignBegin=23109|AlignEnd=23252|Gloss==GEN|RX==[CASE]|TokenType=Clit
 8	ʔaweː	_	NOUN	N	Gender=Masc	10	comp:obj	_	AlignBegin=23252|AlignEnd=23466|Gloss=stone|RX=[N].[M]|TokenType=Root
@@ -834,7 +834,7 @@
 19	=t	_	CCONJ	CONJ	_	17	cc	_	AlignBegin=149790|AlignEnd=149879|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 20	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=149879|AlignEnd=150265|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 21	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	23	det	_	AlignBegin=150265|AlignEnd=150517|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
-22	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	23	det	_	AlignBegin=150517|AlignEnd=150643|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+22	j=	_	DET	DET	Definite=Def|Gender=Masc	23	det	_	AlignBegin=150517|AlignEnd=150643|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 23	ʔawi	_	NOUN	N	Gender=Masc	24	comp:obj	_	AlignBegin=150643|AlignEnd=150769|Gloss=stone|RX=[N].[M]|TokenType=Root
 24	baj	_	VERB	V1	VerbClass=1	28	conj:coord	_	AlignBegin=150769|AlignEnd=150853|Gloss=go\INT|RX=[V1].[DER].[IRG]|TokenType=Root
 25	-a	_	PRON	TAM.PNG	Gender=Masc|Mood=Imp|Number=Sing	24	subj/m	_	AlignBegin=150853|AlignEnd=150937|Gloss=-IMP.SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
@@ -869,10 +869,10 @@
 54	//	_	PUNCT	PUNCT	_	52	punct	_	AlignBegin=157323|AlignEnd=158066|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_182-188
-# text = j= ʔawi ʃaw~waw =iːtiːt ontʔa / lhaweː =t =i =t sala ak -eːna // lhaweː =t -i =t sala ak -eːna i- ndi =hoːb / naː =t / sala =t dhaːj ka= ʔeːta //
+# text = j= ʔawi ʃaw~waw -iːtiːt ontʔa / lhaweː =t =i =t sala ak -eːna // lhaweː =t =i =t sala ak -eːna i- ndi =hoːb / naː =t / sala =t dhaːj ka= ʔeːta //
 # phonetic_text = jʔawi ʃawwawiːtiːt ontʔa / lhaweːtiːt sala akeːna // lhaweːtiːt sala akeːna indihoːb / naːt / salaːt dhaːj kaʔeːta //
 # text_en = After it had gathered stones, now,  when it says: Become Vixen's grilled meat! become Vixen's grilled meat!'  no grilled meat comes to it.
-1	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=158066|AlignEnd=158221|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=158066|AlignEnd=158221|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔawi	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=158221|AlignEnd=158377|Gloss=stone|RX=[N].[M]|TokenType=Root
 3	ʃaw~waw	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=158377|AlignEnd=158533|Gloss=gather\PLAC|RX=[V1].[DER]|TokenType=Root
 4	-iːtiːt	_	AUX	CVB	VerbForm=Conv	12	mod	_	AlignBegin=158533|AlignEnd=158689|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff

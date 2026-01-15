@@ -313,7 +313,7 @@
 18	//	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=47748|AlignEnd=48196|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_060-070
-# text = i= jaf =oː tha -ta =ajt // oː= jaf i- fdig =hoːb // baroːk tam -aː =hoːk eː- d -na / ambataː amsi ti= nʔeː =t =hi =wa / j= handi =hi =wa / toː= wʔaː =t =hi =wa / i= jam =hi =wa / hoːj jhak -aː =t =a ti- di eːn //
+# text = i= jaf =oː tha -ta =ajt // oː= jaf i- fdig =hoːb // baroːk tam -aː =hoːk eː- d -na / ambataː amsi ti= nʔeː =t =hi =wa / j= handi =hi =wa / toː= wʔaː =t =hi =wa / i= jam =hi =wa / hoːj jhak -aː -t =a ti- di eːn //
 # phonetic_text = ijafoː thataːjt // oːjaf ifdighoːb // baroːk tamaːhoːk eːdna / ambataː amsi tinʔeːthiwa / jhandiːhiwa / toːwʔaːthiwa / ijamhiwa / hoːj jhakaːta tidi eːn //
 # text_en = Because she touched her mouth,  when he freed her mouth,  she said:  "They want to eat you. Today, they have got their fire, their wood, their earthenware, their water", they said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=48196|AlignEnd=48300|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -356,7 +356,7 @@
 38	=hi	_	PRON	PRO	Poss=Yes	36	udep@poss	_	AlignBegin=53347|AlignEnd=53403|Gloss==POSS.3ACC|RX==[PRO]|TokenType=Clit
 39	=wa	_	CCONJ	CONJ	_	36	cc	_	AlignBegin=53403|AlignEnd=53459|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 40	/	_	PUNCT	PUNCT	_	36	punct	_	AlignBegin=53459|AlignEnd=53740|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-41	i=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	42	det	_	AlignBegin=53740|AlignEnd=53812|Gloss=DEF.PL.M.ACC=|RX=[DET]=|TokenType=Clit
+41	i=	_	DET	DET	Definite=Def|Gender=Masc	42	det	_	AlignBegin=53740|AlignEnd=53812|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 42	jam	_	NOUN	N	Gender=Masc|Number=Plur	48	comp:obj	_	AlignBegin=53812|AlignEnd=53885|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
 43	=hi	_	PRON	PRO	Poss=Yes	42	udep@poss	_	AlignBegin=53885|AlignEnd=53958|Gloss==POSS.3ACC|RX==[PRO]|TokenType=Clit
 44	=wa	_	CCONJ	CONJ	_	42	cc	_	AlignBegin=53958|AlignEnd=54031|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -781,7 +781,7 @@
 58	//	_	PUNCT	PUNCT	_	56	punct	_	AlignBegin=115352|AlignEnd=116165|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_136-140
-# text = t= hataːj aː= nda / i= gʷibi =ji bʔaɖaɖ =i i- seː -n =hoːb hammad hammad / baroːk w= ʔabuːk =oːk aneːb teː= far ti- di =t /
+# text = t= hataːj aː= nda / i= gʷibi -ji bʔaɖaɖ -i i- seː -n =hoːb hammad hammad / baroːk w= ʔabuːk =oːk aneːb teː= far ti- di =t /
 # phonetic_text = thataːj aːnda / igʷbiji bʔaɖaɖi iseːnhoːb hammad hammad / baroːk wʔabuːkoːk aneːb teːfar tidit /
 # text_en = When the mare found the men with shield and sword, it said: "Hammad, Hammad, you hold tight, I jump!' [and]
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=116165|AlignEnd=116297|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -791,9 +791,9 @@
 5	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=116694|AlignEnd=117246|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	AlignBegin=117246|AlignEnd=117322|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 7	gʷibi	_	NOUN	N	Gender=Masc	8	comp	_	AlignBegin=117322|AlignEnd=117398|Filler=Obj|Gloss=shield|RX=[N].[M]|TokenType=Root
-8	=ji	=i	SCONJ	CONJ.REL	PronType=Rel	4	mod@relcl$obj	_	AlignBegin=117398|AlignEnd=117475|Gloss==REL|RX==[CONJ]|TokenType=Clit
+8	-ji	-i	ADP	CONJ.REL	Case=Gen	4	udep	_	AlignBegin=117398|AlignEnd=117475|Gloss=-GEN|RX=-[CASE]|TokenType=InflAff
 9	bʔaɖaɖ	_	NOUN	N	Gender=Masc	10	comp	_	AlignBegin=117475|AlignEnd=117589|Filler=Obj|Gloss=sword|RX=[N].[M]|TokenType=Root
-10	=i	=i	SCONJ	CONJ.REL	PronType=Rel	4	mod@relcl$obj	_	AlignBegin=117589|AlignEnd=117704|Gloss==REL|RX==[CONJ]|TokenType=Clit
+10	-i	-i	ADP	CONJ.REL	Case=Gen	8	conj:coord	_	AlignBegin=117589|AlignEnd=117704|Gloss=-GEN|RX=[CASE]|TokenType=InflAff
 11	i-	_	PRON	PNG	Person=3	12	subj/m	_	AlignBegin=117704|AlignEnd=117761|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 12	seː	_	VERB	V1	Aspect=Perf|VerbClass=1	14	comp	_	AlignBegin=117761|AlignEnd=117819|Gloss=wait\PFV|RX=[V1]|TokenType=Root
 13	-n	_	PRON	PNG	Number=Plur	12	subj/m	_	AlignBegin=117819|AlignEnd=117876|Gloss=-PL|RX=-[PNG]|TokenType=InflAff

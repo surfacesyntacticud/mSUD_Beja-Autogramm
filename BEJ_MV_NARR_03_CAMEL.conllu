@@ -521,7 +521,7 @@
 12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=94387|AlignEnd=94772|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_03_camel_107-109
-# text = hamil -aː =b a- kati =jeː kaːm =u =it // haraw -aː =b haraw -aː =b =u // ki= haːj =wa //
+# text = hamil -aː -b a- kati =jeː kaːm =u =it // haraw -aː -b haraw -aː -b =u // ki= haːj =wa //
 # text_en = since it is a camel that I had let loose, it needed to be looked for. Because it is not there.
 # phonetic_text = hamilaːb akatijeː kaːmujt // harawaːb harawaːbu // kihaːjwa //
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
@@ -529,8 +529,8 @@
 2	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	5	comp:pred	_	AlignBegin=94898|AlignEnd=95025|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 3	-b	_	PRON	DET	Case=Acc|Definite=Ind|Gender=Masc	2	subj/m	_	AlignBegin=95025|AlignEnd=95152|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 4	a-	_	PRON	PNG	Number=Sing|Person=1	5	subj/m	_	AlignBegin=95152|AlignEnd=95279|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
-5	kati	_	VERB	AUX	Aspect=Imp	6	comp	_	AlignBegin=95279|AlignEnd=95406|Gloss=become\IPFV|RX=[AUX].[PRF]|TokenType=Root
-6	=jeː	=eː	SCONJ	CONJ	PronType=Rel	7	mod@relcl	_	AlignBegin=95406|AlignEnd=95533|Gloss==ifREL\=if|RX==[CONJ]|TokenType=Clit
+5	kati	_	AUX	AUX	Aspect=Imp	6	comp	_	AlignBegin=95279|AlignEnd=95406|Filler=Obj|Gloss=become\IPFV|RX=[AUX].[PRF]|TokenType=Root
+6	=jeː	=eː	SCONJ	CONJ	PronType=Rel	7	mod@relcl$obj	_	AlignBegin=95406|AlignEnd=95533|Gloss==ifREL\=if|RX==[CONJ]|TokenType=Clit
 7	kaːm	_	NOUN	N	_	8	subj	_	AlignBegin=95533|AlignEnd=95723|Gloss=camel|RX=[SBJ].[N]|TokenType=Root
 8	=u	_	AUX	PRO	Number=Sing|Person=3	9	comp	_	AlignBegin=95723|AlignEnd=95914|Gloss==COP.3SG|RX==[PRED].[NOM]|TokenType=Clit
 9	=it	_	SCONJ	PRO	_	17	mod	_	AlignBegin=95723|AlignEnd=95914|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
@@ -1054,11 +1054,12 @@
 # phonetic_text = geː suːr sakaneːnaːtika / tʔa diːseːt / dʔam hoːj amri /
 # text_en = So, in spite of what I did before, now slowly I really liked it.
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
+# tags = TO CHECK
 1	geː	_	PART	PTCL	_	3	discourse	_	AlignBegin=186463|AlignEnd=186841|Gloss=DM|RX=[PTCL]|TokenType=Root
 2	suːr	_	ADV	ADV	_	3	mod	_	AlignBegin=186841|AlignEnd=187219|Gloss=before|RX=[ADV]|TokenType=Root
-3	sak	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=187219|AlignEnd=187273|Gloss=do|RX=[V2]|TokenType=Root
+3	sak	_	VERB	V2	VerbClass=2	5	comp	_	AlignBegin=187219|AlignEnd=187273|Filler=Obj|Gloss=do|RX=[V2]|TokenType=Root
 4	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	3	subj/m	_	AlignBegin=187273|AlignEnd=187327|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
-5	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	6	mod@relcl	_	AlignBegin=187327|AlignEnd=187381|Gloss==REL|RX==[CONJ]|TokenType=Clit
+5	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	6	mod@relcl$obj	_	AlignBegin=187327|AlignEnd=187381|Gloss==REL|RX==[CONJ]|TokenType=Clit
 6	=naː	_	NOUN	CONJ	_	8	comp	_	AlignBegin=187381|AlignEnd=187435|Gloss==thing|RX==[CONJ]|TokenType=Clit
 7	=t	_	DET	DET	Gender=Fem	6	det	_	AlignBegin=187435|AlignEnd=187489|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 8	=i	_	ADP	CASE	Case=Gen	9	udep	_	AlignBegin=187489|AlignEnd=187543|Gloss==GEN|RX==[CASE]|TokenType=Break

@@ -1397,7 +1397,7 @@
 # sent_id = BEJ_MV_NARR_14_sijadok_304-310
 # text = tuːt tuː= na ti= ti- firʔa =jeːt / alif =iː ba= a- mraːj na / ti= dijja =t =iːb ti- kati =jeːk // uːn ani naː =t firʔa -aː -b ka= a- ki //
 # phonetic_text = tuːt tuːna titifirʔajeːt / alfiː bamraːj na / tidijjaːtiːb tikatjeːk // uːn ani naːt firʔaːb kaːki //
-# text_en = "The thing that you gave,  since it is something that I do not find even for one thousand dinars in the lower world,  I did not give it.
+# text_en = "The thing that you gave,  since it is something in the lower world that I do not find even for one thousand dinars,  I did not give it.
 1	tuːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=262748|AlignEnd=263080|Gloss=PROX.SG.F.NOM|RX=[DEM]|TokenType=Root
 2	tuː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	AlignBegin=263080|AlignEnd=263246|Gloss=DEF.SG.F.NOM=|RX=[DET]=|TokenType=Clit
 3	na	_	NOUN	N	Gender=Fem	21	subj	_	AlignBegin=263246|AlignEnd=263412|Gloss=thing|RX=[SBJ].[N].[F]|TokenType=Root
