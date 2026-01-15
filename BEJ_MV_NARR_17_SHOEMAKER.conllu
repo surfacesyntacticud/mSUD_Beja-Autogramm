@@ -1,5 +1,6 @@
 # sent_id = BEJ_MV_NARR_17_shoemaker_001-002
 # text = tak / iː- fi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = tak / iːfi /
 # text_en = There was a man,
 1	tak	_	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=0|AlignEnd=245|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
@@ -10,6 +11,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_003-004
 # text = ʔar =eː iː- bri /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = ʔareː iːbiri /
 # text_en = he had his children,
 1	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	4	comp:obj	_	AlignBegin=1194|AlignEnd=1372|Gloss=child\M.PL|RX=[N]|TokenType=Root
@@ -20,6 +22,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_005-005
 # text = takat =t =oː iː- bri /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = takattoː iːbiri /
 # text_en = he had his wife [and]
 1	takat	_	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=2476|AlignEnd=2623|Gloss=woman|RX=[N].[F]|TokenType=Root
@@ -31,6 +34,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_006-007
 # text = miskiːn -aː =b =a /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = miskiːnaːba /
 # text_en = they were poor,
 1	miskiːn	_	ADJ	ADJ	_	4	comp:pred	_	AlignBegin=3802|AlignEnd=3949|Gloss=poor|RX=[ADJ]|TokenType=Root
@@ -41,6 +45,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_008-011
 # text = giɖʔa =t =ka / tikʷikʷ -tiːt eːt ti= giɖʔa =t =eːb / i= diraːr =oː i- hariw eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = giɖʔaːtka / tikʷikʷtiːt eːt tigiɖʔaːteːb / idiraːroː jhariw eːn /
 # text_en = he was always making shoes, and from these shoes, he was earning his living, they said.
 1	giɖʔa	_	NOUN	N	Gender=Fem	5	comp:obj	_	AlignBegin=5089|AlignEnd=5219|Gloss=shoe|RX=[N].[F]|TokenType=Root
@@ -65,6 +70,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_012-016
 # text = giɖʔa =t / tʔa iː- tikʷikʷ =eːb oː= doːr / gaːl ʤoːz giɖʔa =t =eːb / uː= kna doːr han hoːj ka= giːg -jaː /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = giɖʔaːt / tʔa iːtikʷikʷeːb oːdoːr / gaːl ʤoːz giɖʔaːteːb / uːkna doːr han hoːj kagiːgja /
 # text_en = Now, when he was making shoes,  not even one pair of shoes he would ever sell.
 1	giɖʔa	_	NOUN	N	Gender=Fem	6	comp:obj	_	AlignBegin=9218|AlignEnd=9334|Gloss=shoe|RX=[N].[F]|TokenType=Root
@@ -95,6 +101,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_017-020
 # text = asarama =t jin -a i- sini / tamin -a faɖig =t jin -a i- sni / doːr han hoːj ka= giːg -jaː =ajt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = asaramat jina isni / tamna faɖigt jina isni / doːr han hoːj kagiːgjaːjt /
 # text_en = He would wait seven days,  he would wait fourteen days,  they would not even sell.
 1	asarama	_	NUM	NUM	_	3	mod	_	AlignBegin=14386|AlignEnd=14531|Gloss=seven|RX=[NUM]|TokenType=Root
@@ -124,6 +131,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_021-040
 # text = uːn allaːji / dhaːj i- khan =ajt // oːn amseːnoːk / giɖʔa =t =eː ah -eːtiːt / fassa~sal -eːtiːt / daː -s -i =jeːb oː= doːr / ontʔa / w= haˈwaːd jʔ -eː // w= haˈwaːd jʔ -i =hoːb / ʔiʃ -ti giːg -jaː =t // j= ʔar =eː /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = uːn allaːji / dhaːj ikhanaːjt // oːn amseːnoːk / giɖʔaːteː aheːtiːt / fassasaleːtiːt / daːsijeːb oːdoːr / ontʔa / whaˈwaːd jʔeː // whaˈwaːd jʔihoːb / iʃti giːgjaːt // jʔareː /
 # text_en = Since it was God's will for him, that one day, after he had taken his shoes and cut them,   when he put them down, now, while the night was coming, when the night came,   he left leaving his children behind, [and]
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=19480|AlignEnd=19693|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
@@ -179,6 +187,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_041-051
 # text = mhali giriʃ iː- bri =t / mhall =eː i= giriʃ =eː j= ʔar =eː / dhaːj diraːr =ijoː dʔi -tiːt / j= ʔar =eː haːj eː- bi =jaːt / iː- t- drir =aːt / w= ʔiʃa =joː siːleːl -eːtiːt / diw -i eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = mhali giriʃ iːbriːt / mhalleː igirʃeː jʔareː / dhaːj diraːrijoː dʔiːtiːt / jʔareː haːj eːbijaːt / iːddriraːt / wʔiʃaːjoː siːleːleːtiːt / diwi eːn //
 # text_en = Since he had two pennies, after he had made his dinner out of his two pennies for the children,  he brought it back to his children and  he had supper, and  after he had said his evening prayer he slept, they said.
 1	mhali	_	NUM	NUM	_	2	mod	_	AlignBegin=33973|AlignEnd=34246|Gloss=two|RX=[NUM]|TokenType=Root
@@ -228,6 +237,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_052-062
 # text = faʤil ontʔa / mh -eːti jʔ -i =hoːb / aːt ti= giɖʔa am- hajd -aː =t / aka -jeː i- sini =hoːb oː= kna / baː= hajiːd giːg -jaːn =eːb // baː= hajiːd giːg -jaːn =eːb teː= kna / eː- t- giːm /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = faʤil ontʔa / mheːti jʔihoːb / aːt tigiɖʔa amhajdaːt / akajeː isinhoːb oːkna / baːhajiːd giːgjaːneːb // baːhajiːd giːgjaːneːb teːkna / eːtgiːm /
 # text_en = In the morning, now,  when morning came, when he found these shoes sewn, he would not even know whether they had left  them themselves without having sewn them.
 1	faʤil	_	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=43554|AlignEnd=43801|Gloss=morning|RX=[N].[M]|TokenType=Root
@@ -276,6 +286,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_063-070
 # text = haːjloː wari =t giɖʔa / ǝǝǝ ʔaːwi =t aka -jeː areː / teːn / tak hoːj dilib -ti i- niːn / daːji taman =iː //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = hajloː warit giɖʔa / ǝǝǝ ʔaːwiːt akajeː areː / teːn / tak hoːj dilibti iniːn / daːji tamaniː //
 # text_en = Anyway, other shoes ...  er, then in the morning,   a man bought them from him. For a good price.
 1	haːjloː	_	PART	PTCL	_	2	discourse	_	AlignBegin=52938|AlignEnd=53183|Gloss=anyway|RX=[PTCL]|TokenType=Root
@@ -306,6 +317,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_071-073
 # text = wari =t giɖʔa ah -eːtiːt / ontʔa fassa~sal -eː / w= haˈwaːd dhaːj jʔ -iːni /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = warit giɖʔa aheːtiːt / ontʔa fassasaleː / whaˈwaːd dhaːj jʔiːni /
 # text_en = He took other shoes and now, while he was cutting them, night came on him.
 1	wari	_	NOUN	N	Number=Plur	3	mod	_	AlignBegin=59606|AlignEnd=59759|Gloss=other\PL|RX=[N]|TokenType=Root
@@ -327,6 +339,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_074-079
 # text = i= tafsiːl faːjis -i =hoːb / haːjid -aː =b ba= kaːj / ti= giɖʔa =t =eː daː -s -eːtiːt / ʔiʃ -ti j= ʔar =eː eː- bi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = itafsiːl faːjsihoːb / haːjdaːb baːkaːj / tigiɖʔaːteː daːseːtiːt / iʃti jʔareː eːbi /
 # text_en = When he had finished the cutting without having sewn them, he put his shoes down and  he went  to his children leaving them aside.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=62790|AlignEnd=62936|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -360,6 +373,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_080-088
 # text = girʃ -aː =b iː- br =ajt oː= doːr oːn / wana i- dlib =eːt / ti= giɖʔa =t =eːb daːji girʃ -a mir -aː -b =u =it / daːji na // j= ʔar =eːhi =d i- niːn eːn / haːj i- t- dariːr -na =eːt //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = girʃaːb iːbrajt oːdoːr oːn / wana idlibeːt / tigiɖʔaːteːb daːji girʃa miraːbujt / daːji na // jʔareːhid iniːn eːn / haːj iddariːrneːt //
 # text_en = Since he had money this time,  since he had got a good price from the shoes he had sold in the morning, he brought back something good for his children, they said, that they dine with.
 1	girʃ	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=68344|AlignEnd=68434|Gloss=money|RX=[N].[M]|TokenType=Root
@@ -411,6 +425,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_089-097
 # text = ontʔa / dirar -tiːt / w= ʔiʃa =joː siːleːl -tiːt / diw -iːni winneːt saːlhi tak // siːleːl =iːb / gʷada -am -i =b =u =it /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = ontʔa / dirartiːt / wʔiʃaːjoː siːleːltiːt / diwiːni winneːt saːlhi tak // siːleːliːb / gʷadaːmiːbuːjt /
 # text_en = Now,  after he had had supper,  and had said his evening prayer,  he slept. Since he was a very noble man who would splash before praying.
 1	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=76789|AlignEnd=77019|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -443,6 +458,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_098-104
 # text = faʤil mh -eːti jʔ -i =jeːb oː= doːr eːt ti= giɖʔa / t= ʔafa girab ʔiʃ -aː =b iː- kti =jeːt / am- hajd -aː =t aka -jeː =wa / daːwli -loːj -a =t aka -jeː i- seːn -n =hoːb // ʔaːwi =t aka -jeː uː= dhaj jʔ -eːn =aːt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = faʤil mheːti jʔiːjeːb oːdoːr eːt tigiɖʔa / tʔafa girab iʃaːb iːktijeːt / amhajdaːt akajeːwa / daːwliloːjaːt akajeː iseːnhoːb // ʔaːwiːt akajeː uːdhaj jʔeːnaːt /
 # text_en = When morning came, these shoes that he had left the previous evening having been sewn,  when he finds them very nicely done,   the people come in the morning [and]
 1	faʤil	_	NOUN	N	Gender=Masc	4	subj	_	AlignBegin=84269|AlignEnd=84581|Gloss=morning|RX=[SBJ].[N].[M]|TokenType=Root
@@ -499,6 +515,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_105-106
 # text = hoːj dilib -ti i- jaj -na //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = hoːj dilibti ijajna //
 # text_en = buy them from him.
 1	hoːj	_	ADP	POSTP	Case=Loc	5	comp:obl	_	AlignBegin=94000|AlignEnd=94267|Gloss=LOC|RX=[POSTP]|TokenType=Root
@@ -511,6 +528,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_107-107
 # text = areː tʔa ontʔabit toː= na ti= t- hiːjad toː= kna gam -aː =b =u =it areː =ka /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = areː tʔa ontʔabit toːna tithiːjad toːkna gamaːbujt areːka /
 # text_en = Still he did not know more who had sewn them.
 1	areː	_	CCONJ	PTCL	_	2	cc	_	AlignBegin=96706|AlignEnd=97126|Gloss=then|RX=[PTCL]|TokenType=Root
@@ -534,6 +552,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_108-112
 # text = oːn / ti= giɖʔa =t =eː bass / harʔa i- ba =eːk / fassal -at daː -s -at iː- kʷsi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = oːn / tigiɖʔaːteː bass / harʔa ibajeːk / fassalat daːsat iːkʷsi eːn //
 # text_en = When he was going on with his shoes, he was making them cutting and putting them down repeatedly, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	4	discourse	_	AlignBegin=100491|AlignEnd=100644|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
@@ -561,6 +580,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_113-114
 # text = teː= kna bass fassal -at daː -s -at iː- kʷsi eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = teːkna bass fassalat daːsat iːkʷsi eːn /
 # text_en = he was making them cutting and putting them down repeatedly, they said.
 1	teː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Plur	2	det	_	AlignBegin=104171|AlignEnd=104315|Gloss=DEF.PL.F.ACC=|RX=[DET]=|TokenType=Clit
@@ -578,6 +598,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_115-116
 # text = faʤil =ka jʔ -i =jeːb =ka / am- hajd -aː =t aka -jeː i- siːn -na /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = faʤilka jʔijeːbka / amhajdaːt akajeː isinna /
 # text_en = Each time he came in the morning, he found them sewn,
 1	faʤil	_	NOUN	N	Gender=Masc	2	comp	_	AlignBegin=106632|AlignEnd=106778|Gloss=morning|RX=[N].[M]|TokenType=Root
@@ -600,6 +621,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_117-120
 # text = j= ʔar =aː =wa / barhi =wa rajjh -am -jaːn -i / i- toː- gaːd -n -i iː- jheː -na /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = jʔaraːwa / barhiwa rajjhamjaːni / itoːgaːdni iːjheːna /
 # text_en = his children and himself were really happy.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=108862|AlignEnd=108948|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -626,6 +648,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_121-122
 # text = eː= ʃʔa iː- jheː -na /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = eːʃʔa iːjheːna /
 # text_en = They bought cows,
 1	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=112162|AlignEnd=112330|Gloss=DEF.PL.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -637,6 +660,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_123-124
 # text = t= ʔani iː- jheː -na /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = tʔani iːjheːna /
 # text_en = they bought sheep,
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=113278|AlignEnd=113440|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -648,6 +672,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_125-130
 # text = ahaː / oːn i= reːw =iːb / bi= i- bari -n =i ʤinis teː= kam hadiːd / ki= i- haːj -na /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = ahaː / oːn ireːwiːb / biːbariːni ʤinis teːkam hadiːd / kiːhaːjna /
 # text_en = there was not a single type of cattle that they could not have, even camels.
 1	ahaː	_	INTJ	_	_	5	discourse	_	AlignBegin=114746|AlignEnd=114954|Gloss=ahaː|RX=[FILL]|TokenType=Root
@@ -675,6 +700,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_131-134
 # text = aːn aː= kna bass geː / rajha =i gidhiː iː- fi rajha //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = aːn aːkna bass geː / rajhi gidhiː iːfi rajjha //
 # text_en = So, they were really happy, beyond happyness.
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	3	det	_	AlignBegin=118797|AlignEnd=119001|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
@@ -693,6 +719,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_135-141
 # text = bass rajjh -am -aː =b aka -jeː / uːt ti= takat =t =uː hoːj daːj -eːtiːt / jaː iraːnaj umbaruːk / suːr bak tʔi -it =eːt / hajʔa =t =iːb bi= n- haː =jeːk aːn hinin /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = bass rajjhamaːb akajeː / uːt titakattuː hoːj daːjeːtiːt / jaː iraːnaj umbaruːk / suːr bak tʔiːteːt / hajʔaːtiːb binhaːjeːk aːn hinin /
 # text_en = While they were happy, after his wife turned to him,  'Gosh, you, we were never so well off before.'
 1	bass	_	PART	PTCL	Foreign=Yes	6	mod	_	AlignBegin=122627|AlignEnd=122921|Gloss=only|Lang=ar|RX=[PTCL].[BORR].[ARA]|TokenType=Root
@@ -735,6 +762,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_142-142
 # text = naː =t ti- mri =i nifʔaː =u /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = naːt timriji nifʔaːju /
 # text_en = 'Where did you find your money?'
 1	naː	_	PRON	PRO	PronType=Int	4	mod	_	AlignBegin=129782|AlignEnd=129965|Gloss=which|RX=[PRO].[Q]|TokenType=Root
@@ -748,6 +776,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_143-155
 # text = kak / gab -ta -i tiː- jha / ti- ndi =hoːb // uːn ani eːt ti= giɖʔa / ti= ʃaga -am -i =jeːt // fassal -ani / daː -s -ani / faʤil =ka am- heːjd -a i- sn =heːb /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = kak / gabtaːj tiːjha / tindihoːb // uːn ani eːt tigiɖʔa / tiʃagaːmijeːt // fassalani / daːsani / faʤilka amheːjda isnheːb /
 # text_en = When she said: 'How come you are so rich?'  'As for me, these shoes,  that I work on, I cut them, I put them down, every morning I found them sewn.'
 1	kak	_	ADV	ADV	PartType=Int	3	mod	_	AlignBegin=131248|AlignEnd=131382|Gloss=how|RX=[ADV].[Q]|TokenType=Root
@@ -793,6 +822,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_156-159
 # text = uː= dhaj =ka jʔ -eːtiːt hoːs =i dilib -ti i- jaj -na i- ndi =hoːb / oːt toː= na ti= t- haːjid / niː- ktiːn eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = uːdhajka jʔeːtiːt hoːsi dilibti ijajna indihoːb / oːt toːna tithaːjid / niːktiːn eːn //
 # text_en = when he says: 'All the people come, and they come to buy them from me', 'We are going to know what sews', they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=141198|AlignEnd=141308|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
@@ -825,6 +855,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_160-166
 # text = tuːt tuː= na haˈwaːd bi= ti- jʔ -aj =eːk / bʔeː =b ka= ʔeːta diː -tiːt / t= ʔoːda =t =iːb tilʔi =t dʔi -jaː ti- ndi eːn // oː= mhiːn // wi= am- ʔarw -a =b =i // ti= giɖʔa =t =eːk daː -s -ti =jeːb oː= mhiːn
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = tuːt tuːna haˈwaːd bitijʔajeːk / bʔeːb kaʔeːta diːtiːt / tʔoːdaːtiːb tilʔiːt dʔija tindi eːn // oːmhiːn // wiʔamʔarwaːb // tigiɖʔaːteːk daːstijeːb oːmhiːn //
 # text_en = After she had said: 'If this thing does not come at night, it does not come during the day either',  she says: 'Dig a hole in the room!' they said, 'In the place which is close to where you put down your shoes.'
 1	tuːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=145839|AlignEnd=146085|Gloss=PROX.SG.F.NOM|RX=[DEM]|TokenType=Root
@@ -879,6 +910,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_167-178
 # text = oː= mhiːn tilʔi =t dʔi -tiːt / girab / areː / majʔa hoːj buːb -s -eːtiːt / i- ndiːf eːn // ti= takat =t =iheː =d //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = oːmhiːn tilʔiːt dʔiːtiːt / girab / areː / majʔa hoːj buːbseːtiːt / indiːf eːn // titakattiheːd //
 # text_en = After he had dug a hole in the place,  in the evening,  then,  after he had kindled the light,   he leaves, they said.  To his wife.
 1	//	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=153864|AlignEnd=154843|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -912,6 +944,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_179-187
 # text = dirar -tiːt / w= ʔiʃa =joː faːjis -eːtiːt / ontʔa nʔa -ti bʔa -ti i- kati =jeːb oː= doːr / barhi =wa / takat =t =i =wa / am- mallh -eː jʔ -eːna eːn // mhall =aː //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = dirartiːt / wʔiʃaːjoː faːjseːtiːt / ontʔa nʔati bʔati ikatijeːb oːdoːr / barhiwa / takattiwa / ammallheː jʔeːna eːn // mhallaː //
 # text_en = After he had had supper,  after he had finished his evening prayer, now, when comes the time to lie down,  he and   his wife  come together, they said.  Both of them.
 1	dirar	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=163398|AlignEnd=163660|Gloss=dine\MID|RX=[V1].[DER]|TokenType=Root
@@ -955,6 +988,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_188-201
 # text = oːt ti= tilʔi =t =iː ʃibib -eː / oːt ti= tilʔi =t =iː ʃibib -eː / doːrhanhanhan naː =t baː= ʃuːm -aj / ʃibib -eː / doːrhan naː =t baː= ʃuːm -aj / aːn aːmas / mhaloː =t ʤhali i- kati -n =hoːb / w= haˈwaːd =i tarab =eːb uːn / i= ɖeːfa kaɖaw -iːni /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = oːt titlʔiːtiː ʃibbeː / oːt titlʔiːtiː ʃibbeː / doːrhan naːt baːʃuːmaj / ʃibbeː / doːrhan naːt baːʃuːmaj / aːn aːmas / mhaloːt ʤhali ikatinhoːb / whaˈwaːdi tarabeːb uːn / iɖeːfa kaɖawiːni /
 # text_en = While they were looking through the hole for a long time, without even anything being able to go in, this time, while they were looking,  without even anything being able to go in, this time when it is the middle of the night,  halfway through the night, this door makes noise.
 1	oːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=171585|AlignEnd=171909|Gloss=PROX.SG.F.ACC|RX=[DEM]|TokenType=Root
@@ -1016,6 +1050,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_202-202
 # text = takat ʃuːm -tini eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = takat ʃuːmtini eːn //
 # text_en = A woman comes in, they said.
 1	takat	_	NOUN	N	Gender=Fem	2	subj	_	AlignBegin=184208|AlignEnd=184451|Gloss=woman|RX=[SBJ].[N].[F]|TokenType=Root
@@ -1026,6 +1061,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_203-205
 # text = mali -a / kaɖaw -iːni mali -a =t ʃuːm -tini /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = malja / kaɖawiːni maljaːt ʃuːmtini /
 # text_en = A second time (the door) makes noise, and a second one goes in,
 1	mali	_	NUM	NUM	_	2	comp/m	_	AlignBegin=185933|AlignEnd=186065|Gloss=two|RX=[NUM]|TokenType=Root
@@ -1042,6 +1078,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_206-207
 # text = mhaj =t mʔa ʃuːm -eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = mhajt mʔa ʃuːmeːn /
 # text_en = three women come in.
 1	mhaj	_	NUM	NUM	_	3	mod	_	AlignBegin=187948|AlignEnd=188121|Gloss=three|RX=[NUM]|TokenType=Root
@@ -1053,6 +1090,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_208-209
 # text = mhaj =t ʤaːntaːji =t =a =it //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = mhajt ʤaːntaːjitaːjt //
 # text_en = Because they are three fairies.
 1	mhaj	_	NUM	NUM	_	3	mod	_	AlignBegin=189712|AlignEnd=189962|Gloss=three|RX=[NUM]|TokenType=Root
@@ -1065,6 +1103,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_210-211
 # text = bass i- haːjid -na /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = bass jhaːjidna /
 # text_en = They sew [and]
 1	bass	_	PART	PTCL	Foreign=Yes	3	mod	_	AlignBegin=191548|AlignEnd=191867|Gloss=only|Lang=ar|RX=[PTCL].[BORR].[ARA]|TokenType=Root
@@ -1075,6 +1114,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_212-215
 # text = faːjis -eːn =eːb =ka / jisis -tiːt daːwli -is -eːtiːt oːn oː= ʤoːz / bak daː -s -eːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = faːjseːneːbka / jisistiːt daːwliːseːtiːt oːn oːʤoːz / bak daːseːna /
 # text_en = and each time they finish, after they have rubbed and made the pair beautiful,   they put them down like that.
 1	faːjis	_	VERB	V2	VerbClass=2	3	comp	_	AlignBegin=193153|AlignEnd=193255|Gloss=finish|RX=[V2]|TokenType=Root
@@ -1099,6 +1139,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_216-220
 # text = haːjid -eː haːjid -eː jisis -eː / haːjid -eː jisis -eː / haːjid -eː jisis -eː / kass =t =eː ti= giɖʔa faːjis -eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = haːjdeː haːjdeː jisseː / haːjdeː jisseː / haːjdeː jisseː / kasteː tigiɖʔa faːjseːn /
 # text_en = Sewing and sewing and rubbing for a long time,    they finish all the shoes.
 1	haːjid	_	VERB	V1	VerbClass=1	2	comp/m	_	AlignBegin=197271|AlignEnd=197411|Gloss=sew|RX=[V1]|TokenType=Root
@@ -1129,6 +1170,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_221-230
 # text = bak daː -s -eːn =eːb oː= doːr / ontʔa / ti= t- hiːjad / i- kteːni -n =aːt / baraː / ʔiʃ -ti giːg -eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = bak daːseːneːb oːdoːr / ontʔa / tithiːjad / ikteːninaːt / baraː / iʃti giːgeːn //
 # text_en = When they put them down like that,   now, they recognize who had sewn and   they go away leaving them.
 1	bak	_	PART	DEICT	_	3	mod	_	AlignBegin=201750|AlignEnd=202043|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
@@ -1160,6 +1202,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_231-241
 # text = lhajt faʤil / iraːnaj eːt / ti= ʤaːntaːji aːn hinin / kak / iraːnaj / oːn i= ʤaza =joː / ni- kʷeːs eː- d -na //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = lhajt faʤil / iraːnaj eːt / tiʤaːntaːji aːn hinin / kak / iraːnaj / oːn iʤazaːjoː / nikʷeːs eːdna //
 # text_en = The following morning,  they say: Gosh, how can we pay back this gift to these fairies?'
 1	lhajt	_	ADV	ADV	_	2	mod	_	AlignBegin=208361|AlignEnd=208611|Gloss=tomorrow|RX=[ADV]|TokenType=Root
@@ -1191,6 +1234,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_242-247
 # text = oːn i= ʤaza =joː =na / kak sak -iːni diːt / fakka~kar -eːn =aːt //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = oːn iʤazaːjoːna / kak sakiːni diːt / fakkakareːnaːt //
 # text_en = After they've said: ''As for the remuneration, what shall we do?'   they think hard and
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=215410|AlignEnd=215721|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
@@ -1211,6 +1255,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_248-253
 # text = aːn hinin // mhaj =t / fatiːr -a niː- dʔa ti- ndi eːn uːt ti= takat // taː= mʔa han mhaj =t =a =ajt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = aːn hinin // mhajt / fatiːra niːdʔa tindi eːn uːt titakat // taːmʔa han mhajtaːjt /
 # text_en = this woman says: 'We are going to make three pancakes', they said.  'Since the women are also three.'
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	AlignBegin=219727|AlignEnd=219907|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
@@ -1241,6 +1286,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_254-260
 # text = lʔa =wa / sakʷkʷar =t =wa / hoːj dʔi -tiːt / imbateː ni- dʔa / giɖʔa =t daː -s -eːti baː= hiːw -a / eːt ti= fatiːr -a / mhaj =t koː =t =eː daː -s -a =jaː ti- ndi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = lʔawa / sakʷkʷartwa / hoːj dʔiːtiːt / imbateː nidʔa / giɖʔaːt daːseːti baːhiːwa / eːt tifatiːra / mhajt koːteː daːsaja tindi eːn //
 # text_en = After she has put fat and sugar on them,   she says: 'We are going to put these pancakes instead of the shoes. Put these pancakes for all three of them!' they said.
 1	lʔa	_	NOUN	N	Gender=Masc	4	conj:coord	_	AlignBegin=225019|AlignEnd=225158|Gloss=fat|RX=[N].[M]|TokenType=Root
@@ -1288,6 +1334,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_261-263
 # text = daːjiː =t =i diː -tiːt // mhaj =t koː =t =eː ti= fatiːr -a daː -s -i =t /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = daːjiːti diːtiːt // mhajt koːteː tifatiːra daːsit /
 # text_en = After he has said: 'Fine',   he put all the three pancakes,
 1	daːjiː	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=232162|AlignEnd=232254|Gloss=good|RX=[ADJ]|TokenType=Root
@@ -1312,6 +1359,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_264-269
 # text = oːn suːr -n =eːt =hoːk // majʔa =oː dʔi -tiːt / i- ndiːf eːn // hamniː =t aka -jeː //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = oːn suːrneːthoːk // majʔoː dʔiːtiːt / indiːf eːn // hamniːt akajeː //
 # text_en = I say, after he has put the light on like before,   he leaves, they said, during the afternoon.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=235124|AlignEnd=235396|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
@@ -1337,6 +1385,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_270-278
 # text = beːntoːj ti= takat =t =i =da jʔ -eːtiːt / dirar -tiːt / takat =hi =wa barhi =wa / am- malh -eː jʔ -eːtiːt / mhasi beːt ti= tilʔi =t =oː ti= dʔi -jaː -b iː- ktiː -n =eː =naː =t =iː / talʔ -am -iːna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = beːntoːj titakattida jʔeːtiːt / dirartiːt / takathiwa barhiwa / ammalheː jʔeːtiːt / mhasi beːt titilʔiːtoː tidʔijaːb iːktiːneːnaːti / talʔamiːna eːn //
 # text_en = After he has come there to his wife,  after they have had supper, after his wife and himself accompanied each other,   again they peeped through his hole that they had done, they said.
 1	beːntoːj	_	PART	DEICT	_	7	mod	_	AlignBegin=239643|AlignEnd=240067|Gloss=there|RX=[DEICT]|TokenType=Root
@@ -1389,6 +1438,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_279-287
 # text = aːn aːmas / i- t- katʔi -n =eːb oː= doːr / ʤaːntaːji mhaj =t / koː =t =aː jʔ -eːn =aːt // giɖʔa =t ʃibib~ʃibib -s -eːn =hoːb / ka= rh -jaːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = aːn aːmas / itkatʔineːb oːdoːr / ʤaːntaːji mhajt / koːtaː jʔeːnaːt // giɖʔaːt ʃibibʃibibseːnhoːb / karhjaːn /
 # text_en = When midnight came,  all the three fairies arrive and when they look around for shoes,  they don't see them.
 1	aːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	2	det	_	AlignBegin=247850|AlignEnd=248112|Gloss=PROX.PL.M.NOM|RX=[DEM]|TokenType=Root
@@ -1427,6 +1477,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_288-289
 # text = ti= giɖʔa =t =i mhiːn ti= fatiːr -a rh -eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = tigiɖʔaːti mhiːn tifatiːra rheːn /
 # text_en = Instead of the shoes, they see the pancakes.
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=253974|AlignEnd=254043|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1443,6 +1494,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_290-291
 # text = miʃi eː- t- liːg -na / ka~kaf -eːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = miʃi eːtliːgna / kakafeːna /
 # text_en = They just dance and keep singing again and again.
 1	miʃi	_	PART	PTCL	_	3	mod	_	AlignBegin=255948|AlignEnd=256298|Gloss=only|RX=[PTCL]|TokenType=Root
@@ -1457,6 +1509,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_292-294
 # text = ti= fatiːr -a =t =eːb / firha =t =eː misis -tiːt gaːt =ka fatiːr -aː =t =oː ʔaːm -eːti i- dʔa -na eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = tifatiːraːteːb / firhaːteː misistiːt gaːtka fatiːraːtoː ʔaːmeːti idʔana eːn //
 # text_en = They were dying of joy because of the pancakes and all of them wolfed down their pancakes, they said.
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=257846|AlignEnd=257936|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1486,6 +1539,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_295-297
 # text = bak tʔi -it =i / gab -a mi- jaːj uːn uː= tak / gab -jaː -i iː- jha eːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = bak tʔiːti / gaba mijaːj uːn uːtak / gabjaːj iːjha eːna /
 # text_en = The man became very rich with a fortune like that.
 1	bak	_	PART	DEICT	_	2	mod	_	AlignBegin=262558|AlignEnd=262879|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
@@ -1511,6 +1565,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_298-299
 # text = ʔamaːr =oːn baː= kʷaːs -a / samaːr =oːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = amaːroːn baːkʷaːsa / samaːroːn //
 # text_en = Let it not be our fate!
 1	ʔamaːr	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=265778|AlignEnd=265973|Gloss=possessions|RX=[N].[M]|TokenType=Root
@@ -1525,6 +1580,7 @@
 
 # sent_id = BEJ_MV_NARR_17_shoemaker_252-253
 # text = taː= mʔa han mhaj =t =a =ajt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_17_SHOEMAKER.WAV
 # phonetic_text = taːmʔa han mhajtaːjt /
 # text_en = 'Since the women are also three.'
 1	taː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Plur	2	det	_	AlignBegin=223214|AlignEnd=223372|Gloss=DEF.PL.F.NOM=|RX=[DET]=|TokenType=Clit
