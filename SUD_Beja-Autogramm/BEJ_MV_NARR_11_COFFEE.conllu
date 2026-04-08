@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = BEJ_MV_NARR_11_coffee_01-06
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_11_COFFEE.WAV
@@ -147,8 +146,8 @@
 13	tʔa	_	PART	PTCL	_	16	mod	_	AlignBegin=27430|AlignEnd=27596|Gloss=now|RX=[PTCL]|TokenType=Root
 14	/	_	PUNCT	_	_	13	punct	_	AlignBegin=27596|AlignEnd=27763|Gloss=/|TokenType=Break
 15	tʔa	_	PART	PTCL	_	13	conj:dicto	_	AlignBegin=29688|AlignEnd=29872|Gloss=now|RX=[PTCL]|TokenType=Root
-16	gʷʔataːn	_	VERB	V2	Number=Plur|VerbClass=2	17	comp	_	AlignBegin=29872|AlignEnd=30118|Gloss=drink|MGloss=drink-PFV.2PL|MSeg=gʷʔa-taːn|RX=[V2]-[TAM].[PNG]|TokenType=Root
-17	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	10	mod@relcl	_	AlignBegin=30118|AlignEnd=30240|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+16	gʷʔataːn	_	VERB	V2	Number=Plur|VerbClass=2	17	comp	_	AlignBegin=29872|AlignEnd=30118|Filler=Obj|Gloss=drink|MGloss=drink-PFV.2PL|MSeg=gʷʔa-taːn|RX=[V2]-[TAM].[PNG]|TokenType=Root
+17	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	10	mod@relcl$obj	_	AlignBegin=30118|AlignEnd=30240|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 18	ikati	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	19	comp	_	AlignBegin=30240|AlignEnd=30486|Gloss=become\IPFV|MGloss=3SG.M-become\IPFV|MSeg=i-kati|RX=[PNG]-[V1].[IRG]|TokenType=Root
 19	=jeːk	_	SCONJ	CONJ	_	6	dislocated:mod	_	AlignBegin=30486|AlignEnd=30608|Gloss==if|RX==[CONJ]|TokenType=Clit
 20	//	_	PUNCT	_	_	6	punct	_	AlignBegin=30608|AlignEnd=30978|Gloss=//|TokenType=Break

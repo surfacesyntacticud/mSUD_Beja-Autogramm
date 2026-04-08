@@ -1,4 +1,3 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = BEJ_MV_NARR_09_jewel_01-13
 # speaker_id = SP
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_09_JEWEL.WAV
@@ -161,13 +160,13 @@
 9	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	10	det	_	AlignBegin=32964|AlignEnd=33102|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 10	dar	_	NOUN	N	Gender=Masc	20	comp:obj	_	AlignBegin=33102|AlignEnd=33241|Gloss=side|RX=[N].[M]|TokenType=Root
 11	/	_	PUNCT	_	_	10	punct	_	AlignBegin=33241|AlignEnd=33518|Gloss=/|TokenType=Break
-12	i=	_	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	16	comp:obj@R	_	AlignBegin=33518|AlignEnd=33638|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
+12	i=	i=	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	16	comp:obj@R	_	AlignBegin=33518|AlignEnd=33638|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
 13	ti=	_	DET	DET	Definite=Def|Gender=Fem	14	det	_	AlignBegin=33638|AlignEnd=33758|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 14	ʤoːharajaːj	_	NOUN	N	Gender=Fem	16	comp:obj@T	_	AlignBegin=33758|AlignEnd=33996|Gloss=jewel|MGloss=jewel-SING|MSeg=ʤoːhara-jaːj|RX=[N].[F]|TokenType=Root
 15	/	_	PUNCT	_	_	14	punct	_	AlignBegin=33996|AlignEnd=34475|Gloss=/|TokenType=Break
 16	daːsaːt	_	VERB	V2	Gender=Fem|VerbClass=2	17	comp:pred	_	AlignBegin=34475|AlignEnd=34877|Gloss=be_there|MGloss=be_there-CAUS-CVB.MNR-INDF.F|MSeg=daː-s-aː-t|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
-17	tiːkti	_	VERB	AUX	Aspect=Aor|Gender=Fem|Number=Sing	18	comp	_	AlignBegin=34877|AlignEnd=35145|Gloss=become\AOR|MGloss=3SG.F-become\AOR|MSeg=tiː-kti|RX=[PNG]-[AUX].[PRF]|TokenType=Root
-18	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	10	mod@relcl	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.SG.M|RX==[CONJ]|TokenType=Clit
+17	tiːkti	_	VERB	AUX	Aspect=Aor|Gender=Fem|Number=Sing	18	comp	_	AlignBegin=34877|AlignEnd=35145|Filler=Obj|Gloss=become\AOR|MGloss=3SG.F-become\AOR|MSeg=tiː-kti|RX=[PNG]-[AUX].[PRF]|TokenType=Root
+18	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	10	mod@relcl$obj	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 19	mariː	_	ADV	ADV	_	20	mod	_	AlignBegin=35279|AlignEnd=35681|Gloss=from_the_direction|RX=[ADV]|TokenType=Root
 20	jʔeːtiːt	_	VERB	V2	VerbClass=2	25	mod	_	AlignBegin=35681|AlignEnd=36083|Gloss=come|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]|TokenType=Root
 21	/	_	PUNCT	_	_	20	punct	_	AlignBegin=36083|AlignEnd=36485|Gloss=/|TokenType=Break

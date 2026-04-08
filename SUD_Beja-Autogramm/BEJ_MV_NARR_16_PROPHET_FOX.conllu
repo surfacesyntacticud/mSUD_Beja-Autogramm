@@ -1,6 +1,6 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_001-006
 # text = i= nabi =wa // lhaweː =t =wa // imoːra~rimna eːn ʔiːbaːb =t //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = inabiwa // lhaweːtwa // imoːrarimna eːn ʔiːbaːbt //
 # text_en = The Prophet and  a vixen are travelling together, they said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=0|AlignEnd=198|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -19,6 +19,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_007-009
 # text = ʔaraweːsamti =jaːt / i= nabi ʕalehu issalaːt wa ssalaːm ʕalehu issalaːt wa ssalaːm //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ʔaraweːsamtijaːt / inabi < ʕalehu issalaːt wa ssalaːm > //
 # text_en = It was becoming friend with the Prophet, prayer and peace be on him,
 1	ʔaraweːsamti	_	VERB	N	Gender=Fem|Number=Sing	0	root	_	AlignBegin=4845|AlignEnd=5267|Gloss=friendship|MGloss=friendship-RECP-AOR.3SG.F|MSeg=ʔaraweː-sam-ti|RX=[N].[F]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
@@ -38,6 +39,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_010-025
 # text = ontʔa / hiddaːb / ʔiːbaːbeː ʔiːbaːbeː ʔiːbaːbeː / lhaweː =t // aharagʷi =jeːk / tiːd =eːb oː= doːr / beːn j= ʔawi baji =t / j= ʔaweː =ji ʔaweː =b ʃaw~wawii =t / i= nabi =i =t sala akeːna / i= nabi =i =t sala akeːna dii iːd eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa / hiddaːb / ʔiːbaːbeː ʔiːbaːbeː ʔiːbaːbeː / lhaweːt // ahragʷijeːk / tiːdeːb oːdoːr / beːn jʔawi bajit / jʔaweːji ʔaweːb ʃawwawijiːt / inabit sala akeːna / inabit sala akeːna diː iːd eːn //
 # text_en = Now, while they were travelling together,  when Vixen said: 'If I am hungry?', "Go and get that stone from the stones and become the grilled meat of the Prophet say: become the Prophet's grilled meat!' he said, they said.
 1	ontʔa	_	PART	PTCL	_	5	discourse	_	AlignBegin=8752|AlignEnd=8994|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -54,8 +56,8 @@
 12	aharagʷi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	13	comp	_	AlignBegin=12297|AlignEnd=12511|Gloss=be_hungry\IPFV|MGloss=1SG-be_hungry\IPFV|MSeg=a-haragʷi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 13	=jeːk	_	SCONJ	CONJ	_	15	comp:obj	_	AlignBegin=12511|AlignEnd=12618|Gloss==if|Reported=Yes|RX==[CONJ]|TokenType=Clit
 14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=12618|AlignEnd=12940|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-15	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	16	comp	_	AlignBegin=12940|AlignEnd=13117|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
-16	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	18	mod@relcl	_	AlignBegin=13117|AlignEnd=13206|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+15	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	16	comp	_	AlignBegin=12940|AlignEnd=13117|Filler=Obj|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
+16	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	18	mod@relcl$obj	_	AlignBegin=13117|AlignEnd=13206|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 17	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=13206|AlignEnd=13339|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 18	doːr	_	NOUN	N	Gender=Masc	48	mod	_	AlignBegin=13339|AlignEnd=13472|Gloss=time|RX=[N].[M]|TokenType=Root
 19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=13472|AlignEnd=14538|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -65,7 +67,7 @@
 23	baji	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	31	conj:coord	_	AlignBegin=15042|AlignEnd=15210|Gloss=go\INT|MGloss=go\INT-IMP.SG.F|MSeg=baj-i|RX=[V1].[DER].[IRG]-[TAM].[PNG]|TokenType=Root
 24	=t	_	CCONJ	CONJ	_	23	cc	_	AlignBegin=15210|AlignEnd=15294|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 25	/	_	PUNCT	PUNCT	_	23	punct	_	AlignBegin=15294|AlignEnd=16023|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-26	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	27	det	_	AlignBegin=16023|AlignEnd=16134|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+26	j=	_	DET	DET	Definite=Def|Gender=Masc	27	det	_	AlignBegin=16023|AlignEnd=16134|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 27	ʔaweː	_	NOUN	N	Gender=Masc	28	comp	_	AlignBegin=16134|AlignEnd=16245|Gloss=stone|RX=[N].[M]|TokenType=Root
 28	=ji	_	ADP	CASE	Case=Gen	29	udep	_	AlignBegin=16245|AlignEnd=16357|Gloss==GEN|RX==[CASE]|TokenType=Clit
 29	ʔaweː	_	NOUN	N	Gender=Masc	31	comp:obj	_	AlignBegin=16357|AlignEnd=16524|Gloss=stone|RX=[N].[M]|TokenType=Root
@@ -93,12 +95,13 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_026-033
 # text = tiːdif =aːt / j= ʔaweː =ji ʔaweː =b ʃaw~wawiːtiːt lhaweː =t =i =t sala akeːna / lhaweː =t =i =t sala akeːna / tiːd =eːb oː= doːr / naː =t / sala =t dhaːj ka= ʔeːta //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tiːdifaːt / jʔaweːji ʔaweːb ʃawwawiːtiːt lhaweːtit sala akeːna / lhaweːtiːt sala akeːna / tiːdeːb oːdoːr / naːt / salaːt dhaːj kaʔeːta //
 # text_en = It went and after it has gathered stones among the stones, when it said: 'Become Vixen's grilled meat, become Vixen's grilled meat!' no grilled meat comes for it.
 1	tiːdif	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	9	conj:coord	_	AlignBegin=22151|AlignEnd=22375|Gloss=leave\AOR|MGloss=3SG.F-leave\AOR|MSeg=tiː-dif|RX=[PNG]-[V1]|TokenType=Root
 2	=aːt	_	CCONJ	CONJ	_	1	cc	_	AlignBegin=22375|AlignEnd=22487|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 3	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=22487|AlignEnd=22824|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-4	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	5	det	_	AlignBegin=22824|AlignEnd=22966|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+4	j=	_	DET	DET	Definite=Def|Gender=Masc	5	det	_	AlignBegin=22824|AlignEnd=22966|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 5	ʔaweː	_	NOUN	N	Gender=Masc	6	comp	_	AlignBegin=22966|AlignEnd=23109|Gloss=stone|RX=[N].[M]|TokenType=Root
 6	=ji	_	ADP	CASE	Case=Gen	7	udep	_	AlignBegin=23109|AlignEnd=23252|Gloss==GEN|RX==[CASE]|TokenType=Clit
 7	ʔaweː	_	NOUN	N	Gender=Masc	9	comp:obj	_	AlignBegin=23252|AlignEnd=23466|Gloss=stone|RX=[N].[M]|TokenType=Root
@@ -118,8 +121,8 @@
 21	sala	_	NOUN	N	Gender=Fem	22	comp:pred	_	AlignBegin=26232|AlignEnd=26645|Gloss=grilled_meat|RX=[N].[F]|TokenType=Root
 22	akeːna	_	VERB	V1	Number=Plur|VerbClass=1	24	comp:obj	_	AlignBegin=26645|AlignEnd=27058|Gloss=become|MGloss=become-IMP.PL|MSeg=ak-eːna|Reported=Yes|RX=[V1].[IRG]-[TAM].[PNG]|TokenType=Root
 23	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=27058|AlignEnd=27970|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-24	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	25	comp	_	AlignBegin=27970|AlignEnd=28114|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
-25	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	27	mod@relcl	_	AlignBegin=28114|AlignEnd=28186|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+24	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	25	comp	_	AlignBegin=27970|AlignEnd=28114|Filler=Obj|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
+25	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	27	mod@relcl$obj	_	AlignBegin=28114|AlignEnd=28186|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 26	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	27	det	_	AlignBegin=28186|AlignEnd=28294|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 27	doːr	_	NOUN	N	Gender=Masc	36	mod	_	AlignBegin=28294|AlignEnd=28402|Gloss=time|RX=[N].[M]|TokenType=Root
 28	/	_	PUNCT	PUNCT	_	27	punct	_	AlignBegin=28402|AlignEnd=28618|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -135,6 +138,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_034-039
 # text = simas# ## agʷoːj =eːk / tiːd =hoːb // simaːsiwi =heːb hoːk / iːd eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = simas# ## agʷoːjeːk / tiːdhoːb // simaːsiwiːheːb hoːk / iːd eːn //
 # text_en = When it said: 'I could not do anything'' he said: 'Let me hear what you said!'  they said.
 1	simas#	_	X	FS	_	3	conj:dicto	_	AlignBegin=31741|AlignEnd=32059|Gloss=FS|RX=[FS]|TokenType=Root
@@ -155,6 +159,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_040-044
 # text = i= nabi =i =t sala akeːna / i= nabi =i =t sala akeːna tiːd =hoːb / igeːsi sala =t bass // ʔeːɖa =t =i =t hallaːn =eːt timiːfirʔa eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = inabit sala akeːna / inabit sala akeːna tiːdhoːb / igeːsi salaːt bass // ʔeːɖaːtiːt hallaːneːt timiːfirʔa eːn //
 # text_en = When it said: 'Become the prophet's grilled meat, become the prophet's grilled meat!' at once, grilled meat that was smoking, that of now, was ready to be eaten, they said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=36061|AlignEnd=36159|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -182,14 +187,15 @@
 23	=t	_	DET	_	Degree=Dim|Gender=Fem	22	det	_	AlignBegin=40422|AlignEnd=40520|Gloss==INDF.F|RX==[DIM]|TokenType=Clit
 24	=i	_	ADP	CASE	Case=Gen	26	udep	_	AlignBegin=40520|AlignEnd=40618|Gloss==GEN|RX==[CASE]|TokenType=Clit
 25	=t	_	DET	DET	Gender=Fem	24	det	_	AlignBegin=40618|AlignEnd=40716|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-26	hallaːn	_	ADV	ADV	_	27	comp	_	AlignBegin=40716|AlignEnd=40912|Gloss=now|RX=[ADV]|TokenType=Root
-27	=eːt	_	SCONJ	_	Gender=Fem	18	mod@relcl	_	AlignBegin=40912|AlignEnd=41108|Gloss==REL.F|RX==CONJ|TokenType=Clit
+26	hallaːn	_	ADV	ADV	_	27	comp	_	AlignBegin=40716|AlignEnd=40912|Filler=Obj|Gloss=now|RX=[ADV]|TokenType=Root
+27	=eːt	=eːt	SCONJ	_	Gender=Fem|PronType=Rel	18	mod@relcl$obj	_	AlignBegin=40912|AlignEnd=41108|Gloss==REL.F|RX==CONJ|TokenType=Clit
 28	timiːfirʔa	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=41108|AlignEnd=41500|Gloss=take_out|MGloss=3SG.F-PASS.INT.AOR-take_out|MSeg=ti-miː-firʔa|RX=[PNG]-[V1].[DER]-[V1]|TokenType=Root
 29	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	28	discourse	_	AlignBegin=41500|AlignEnd=41892|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 30	//	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=41892|AlignEnd=42782|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_045-046
 # text = tameːti hoːj gabti =jaːt areː tiːtram eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tameːti hoːj gabtijaːt areː tiːtram eːn //
 # text_en = It became satiated eating from it and then it went with him, they said.
 1	tameːti	_	VERB	V2	VerbClass=2	3	mod	_	AlignBegin=42782|AlignEnd=43076|Gloss=eat|MGloss=eat-CVB.GNRL|MSeg=tam-eːti|RX=[V2]-.|TokenType=Root
@@ -203,6 +209,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_047-052
 # text = hiːreːreː hiːreːreː hiːreːreː / ontʔa / tiːjiwaːj eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = hiːreːreː hiːreːreː hiːreːreː / ontʔa / tiːjwaːj eːn //
 # text_en = While they were walking,  it became very thirsty, they said.
 1	hiːreːreː	_	VERB	V2	VerbClass=2	2	conj:redup	_	AlignBegin=45317|AlignEnd=45655|Gloss=walk|MGloss=walk-CVB.SMLT|MSeg=hiːreːr-eː|RX=[V2]-.|TokenType=Root
@@ -217,6 +224,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_053-063
 # text = tijiwaːj =hoːb / ajiwaːj =eːk tiːd =hoːb // beːn / t= ʔaba baji =t / magʷal firikiːt / i= nabi =i =t ʃiha akai / i= nabi =i =t ʃiha akai dii iːd eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tijiwaːjhoːb / ajiwaːjeːk tiːdhoːb // beːn / tʔaba bajit / magʷal firkiːt / inabit ʃiha akaːj / inabit ʃiha akaːj diː iːd eːn //
 # text_en = When it became very thirsty,  when it said: 'As I am very thirsty, "Go to that valley and  after you've dug a reservoir,  say, 'Become the Prophet's waterhole! Become the Prophet's waterhole!' he said, they said.
 1	tijiwaːj	_	VERB	V1	Aspect=Perf|Gender=Fem|Number=Sing|VerbClass=1	2	comp	_	AlignBegin=49612|AlignEnd=49776|Gloss=be_thirsty\INT.PFV|MGloss=3SG.F-be_thirsty\INT.PFV|MSeg=ti-jiwaːj|RX=[PNG]-[V1].[DER]|TokenType=Root
@@ -257,6 +265,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_064-072
 # text = ʔeːti =jaːt / i= magʷal tifirik =aːt / lhaweː =t =i =t ʃiha akai / lhaweː =t =i =t ʃɛːka# ## i= ʃiha akai / tiːd =eːb oː= doːr / naː dhaːj ka= ʔeːta eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ʔeːtijaːt / imagʷal tifrikaːt / lhaweːtiːt ʃiha akaːj / lhaweːtiːt ʃɛːka# ## iʃiha akaːj / tiːdeːb oːdoːr / naː dhaːj kaʔeːta eːn //
 # text_en = It came and  it dug the pool and   when it said: 'Become Vixen's waterhole, become Vixen's waterhole!'  nothing came to it, they said.
 1	ʔeːti	_	VERB	V2	Aspect=Aor|Gender=Fem|Number=Sing|Person=3|VerbClass=2	6	conj:coord	_	AlignBegin=58689|AlignEnd=58814|Gloss=come\AOR.3SG.F|RX=[V2].[IRG]|TokenType=Root
@@ -284,8 +293,8 @@
 23	ʃiha	_	NOUN	N	Gender=Fem	24	comp:pred	_	AlignBegin=62983|AlignEnd=63149|Gloss=waterhole|RX=[N].[F]|TokenType=Root
 24	akai	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	26	comp:obj	_	AlignBegin=63149|AlignEnd=63481|Gloss=become|MGloss=become-IMP.SG.F|MSeg=aka-i|Reported=Yes|RX=[V1].[IRG]-[TAM].[PNG]|TokenType=Root
 25	/	_	PUNCT	PUNCT	_	24	punct	_	AlignBegin=63481|AlignEnd=63813|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-26	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	27	comp	_	AlignBegin=63813|AlignEnd=63988|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
-27	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	29	mod@relcl	_	AlignBegin=63988|AlignEnd=64076|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+26	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	27	comp	_	AlignBegin=63813|AlignEnd=63988|Filler=Obj|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
+27	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	29	mod@relcl$obj	_	AlignBegin=63988|AlignEnd=64076|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 28	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	29	det	_	AlignBegin=64076|AlignEnd=64208|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 29	doːr	_	NOUN	N	Gender=Masc	34	mod	_	AlignBegin=64208|AlignEnd=64340|Gloss=time|RX=[N].[M]|TokenType=Root
 30	/	_	PUNCT	PUNCT	_	29	punct	_	AlignBegin=64340|AlignEnd=64894|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -298,6 +307,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_073-082
 # text = agʷoːj =eːk / tiːd =hoːb // simaːsiwi =heːb iː =hoːk iːd =hoːb // i= nabi =i =t ʃiha akai / tiːd =eːb oː= doːr / miʃi jam imiːfirʔana =t / gʷʔeːti hoːj lʔatiːt tiːtram eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = agʷoːjeːk / tiːdhoːb // simaːsiwiheːb iːhoːk iːdhoːb // inabit ʃiha akiː / tiːdeːb oːdoːr / miʃi jam imiːfirʔanaːt / gʷʔeːti hoːj lʔatiːt tiːtram eːn //
 # text_en = When it said: 'I could not do anything',  when he said: 'Hey, you! let me hear what you said!'  when it said: 'Become the Prophet's waterhole!' only water was going out, and he drunk from it, and it quenched its thirst, and it went away with him, they said.
 1	agʷoːj	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	2	comp	_	AlignBegin=66776|AlignEnd=67036|Gloss=be_unable\PFV|MGloss=1SG-be_unable\PFV|MSeg=a-gʷoːj|RX=[PNG]-[V1]|TokenType=Root
@@ -320,8 +330,8 @@
 18	ʃiha	_	NOUN	N	Gender=Fem	19	comp:pred	_	AlignBegin=70624|AlignEnd=71052|Gloss=waterhole|RX=[N].[F]|TokenType=Root
 19	akai	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	21	comp:obj	_	AlignBegin=71052|AlignEnd=71479|Gloss=become|MGloss=become-IMP.SG.F|MSeg=aka-i|Reported=Yes|RX=[V1].[IRG]-[TAM].[PNG]|TokenType=Root
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=71479|AlignEnd=72022|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-21	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	22	comp	_	AlignBegin=72022|AlignEnd=72166|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
-22	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	24	mod@relcl	_	AlignBegin=72166|AlignEnd=72238|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+21	tiːd	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	22	comp	_	AlignBegin=72022|AlignEnd=72166|Filler=Obj|Gloss=say\AOR|MGloss=3SG.F-say\AOR|MSeg=tiː-d|RX=[PNG]-[V1].[IRG]|TokenType=Root
+22	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	24	mod@relcl$obj	_	AlignBegin=72166|AlignEnd=72238|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 23	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	24	det	_	AlignBegin=72238|AlignEnd=72346|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 24	doːr	_	NOUN	N	Gender=Masc	28	mod	_	AlignBegin=72346|AlignEnd=72454|Gloss=time|RX=[N].[M]|TokenType=Root
 25	/	_	PUNCT	PUNCT	_	24	punct	_	AlignBegin=72454|AlignEnd=72671|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -339,6 +349,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_083-089
 # text = difeː difeː difeː difeː / dhaj =i =da jʔeːn =eːb oː= doːr / ontʔa / iːjʔaː =t dhaːj haːj jʔeːna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = difeː difeː difeː difeː / dhajida jʔeːneːb oːdoːr / ontʔa / iːjʔaːt dhaːj haːj jʔeːna eːn //
 # text_en = While they walked,  when they arrived at people's place,  then,  they brought them milk, they said.
 1	difeː	_	VERB	V1	VerbClass=1	2	conj:redup	_	AlignBegin=76082|AlignEnd=76363|Gloss=leave|MGloss=leave-CVB.SMLT|MSeg=dif-eː|RX=[V1]-.|TokenType=Root
@@ -349,8 +360,8 @@
 6	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	7	comp	_	AlignBegin=77489|AlignEnd=77601|Gloss=people|RX=[N].[COL].[M]|TokenType=Root
 7	=i	_	ADP	CASE	Case=Gen	8	udep	_	AlignBegin=77601|AlignEnd=77713|Gloss==GEN|RX==[CASE]|TokenType=Clit
 8	=da	_	ADP	POSTP	_	9	comp:obl	_	AlignBegin=77713|AlignEnd=77825|Gloss==DIR|RX==[POSTP]|TokenType=Clit
-9	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	10	comp	_	AlignBegin=77825|AlignEnd=78049|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-10	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	12	mod@relcl	_	AlignBegin=78049|AlignEnd=78161|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+9	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	10	comp	_	AlignBegin=77825|AlignEnd=78049|Filler=Obj|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
+10	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	12	mod@relcl$obj	_	AlignBegin=78049|AlignEnd=78161|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 11	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	det	_	AlignBegin=78161|AlignEnd=78329|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 12	doːr	_	NOUN	N	Gender=Masc	20	mod	_	AlignBegin=78329|AlignEnd=78497|Gloss=time|RX=[N].[M]|TokenType=Root
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=78497|AlignEnd=79574|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -366,6 +377,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_090-096
 # text = uː= dhaj // fira# firaʃ / əəə maɖam =t / dhaj haːj jʔeːn eːn / martabaː =t //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = uːdhaj // fira# firaʃ / əəə maɖamt / dhaj haːj jʔeːn eːn / martabaːt //
 # text_en = People bring them mattresses, they said.
 1	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=83239|AlignEnd=83357|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
@@ -389,6 +401,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_097-099
 # text = dhaːj jʔeːn =hoːb / beːn lhaweː =t hiːna indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = dhaːj jʔeːnhoːb / beːn lhaweːt hiːna indi eːn //
 # text_en = When they bring them to them,  he says: 'Give them to that Vixen!'
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=87784|AlignEnd=87937|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -405,6 +418,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_100-101
 # text = lhaweː =t eːwna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = lhaweːt eːwna eːn //
 # text_en = They give them to Vixen, they said.
 1	lhaweː	_	NOUN	N	Gender=Fem	3	comp:obj	_	AlignBegin=90261|AlignEnd=90376|Gloss=vixen|RX=[N].[F]|TokenType=Root
@@ -415,6 +429,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_102-104
 # text = aneːb beːt ti= naweː =t =eː / i= karas w= ʔakraː =ka -b ʃibibna =t / naweː =t dhaːj haːj mʔaːna //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = aneːb beːt tinaweːteː / ikaras wʔakraːkaːb ʃibibnat / naweːt dhaːj haːj mʔaːna //
 # text_en = 'Look for these thorns from the strongest ones for me and  bring the thorns to me!'
 1	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	14	discourse	_	AlignBegin=91882|AlignEnd=92261|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
@@ -442,6 +457,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_105-116
 # text = dh =i haːj mʔaːna indi =hoːb / ti= nawi dhaːj jʔeːna =t // nʔati daːs isiːsjoːdin =hoːb / khaːj bʔaː indi =hoːb / martabaː =t toːt toː= kna / miʃi // daːwri daːwri ahaːt / hajjʔajikʷtiːt ikati eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = dhi haːj mʔaːna indihoːb / tinawi dhaːj jʔeːnat // nʔati daːs isiːsjoːdinhoːb / khaːj bʔaː indihoːb / martabaːt toːt toːkna / miʃi // daːwriː daːwriː ahaːt / hajjʔajikʷtiːt ikati eːn //
 # text_en = When he says: 'Bring them to me!' they bring him the thorns and when they put them on the floor, when he says: 'Lie down on them!'  they even become a very beautiful and bouncing mattresses, they said.
 1	dh	_	ADP	POSTP	_	4	comp:obl	_	AlignBegin=96097|AlignEnd=96199|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -486,6 +502,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_117-122
 # text = daːjiː =t =i diːtiːt ontʔa / uː= dhaj iːjʔaː =t / dhaːj haːj jʔeːn =eːb oː= doːr / oːn lhaweː =t hiːna indi =hoːb / lhaweː =t ti= iːjʔaː gʷʔeːti dannʔi //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = daːjiːti diːtiːt ontʔa / uːdhaj iːjʔaːt / dhaːj haːj jʔeːneːb oːdoːr / oːn lhaweːt hiːna indihoːb / lhaweːt tiːjʔaː gʷʔeːti dannʔi //
 # text_en = After he had said: 'Fine', then  when the people bring him milk when he says: 'Give it to this Vixen!' Vixen drinks the milk.
 1	daːjiː	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=106920|AlignEnd=107021|Gloss=good|RX=[ADJ]|TokenType=Root
@@ -501,8 +518,8 @@
 11	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=108625|AlignEnd=108868|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 12	dhaːj	_	ADP	POSTP	_	14	comp:obl	_	AlignBegin=108868|AlignEnd=109101|Gloss=DIR|RX=[POSTP]|TokenType=Root
 13	haːj	_	ADP	POSTP	Case=Com	14	mod	_	AlignBegin=109101|AlignEnd=109335|Gloss=COM|RX=[POSTP]|TokenType=Root
-14	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	15	comp	_	AlignBegin=109335|AlignEnd=109491|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-15	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl	_	AlignBegin=109491|AlignEnd=109569|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+14	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	15	comp	_	AlignBegin=109335|AlignEnd=109491|Filler=Obj|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
+15	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=109491|AlignEnd=109569|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 16	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	det	_	AlignBegin=109569|AlignEnd=109686|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 17	doːr	_	NOUN	N	Gender=Masc	23	mod	_	AlignBegin=109686|AlignEnd=109803|Gloss=time|RX=[N].[M]|TokenType=Root
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=109803|AlignEnd=110568|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -523,6 +540,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_123-124
 # text = a# am# aneːb ʔamuːl faːdi =b hiːna =heːb indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = a# am# aneːb amuːl faːdib hiːnheːb indi eːn //
 # text_en = He says: 'For me, bring an empty milk container!' they said.
 1	a#	_	X	FS	_	2	conj:dicto	_	AlignBegin=113093|AlignEnd=113345|Gloss=FS|RX=[FS]|TokenType=Root
@@ -539,14 +557,15 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_125-128
 # text = w= ʔamuːl i= faːdi eːwna =eːb oː= doːr / ʔasti ingiːd eːn / w= ʔamuːl //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = wʔamuːl ifaːdi eːwneːb oːdoːr / ʔasti ingiːd eːn / wʔamuːl //
 # text_en = When they bring him the empty container,  he throws it upwards, they said, the milk container.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=115855|AlignEnd=116001|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	ʔamuːl	_	NOUN	N	Gender=Masc	5	comp:obj	_	AlignBegin=116001|AlignEnd=116148|Gloss=milk_container|RX=[N].[M]|TokenType=Root
 3	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=116148|AlignEnd=116294|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 4	faːdi	_	ADJ	ADJ	Foreign=Yes	2	mod	_	AlignBegin=116294|AlignEnd=116441|Gloss=empty|Lang=ar|RX=[ADJ].[BORR].[ARA]|TokenType=Root
-5	eːwna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	6	comp	_	AlignBegin=116441|AlignEnd=116587|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
-6	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	8	mod@relcl	_	AlignBegin=116587|AlignEnd=116734|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	eːwna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	6	comp	_	AlignBegin=116441|AlignEnd=116587|Filler=Obj|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
+6	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	8	mod@relcl$obj	_	AlignBegin=116587|AlignEnd=116734|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=116734|AlignEnd=116880|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 8	doːr	_	NOUN	N	Gender=Masc	11	mod	_	AlignBegin=116880|AlignEnd=117027|Gloss=time|RX=[N].[M]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=117027|AlignEnd=117321|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -560,6 +579,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_129-130
 # text = w= ʔamuːl tikʷeːti jʔi =hoːb / mhall =eː j= ʔaj =eːsoː ʔanbiːk /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = wʔamuːl tikʷeːti jʔihoːb / mhalleː jʔajeːsoː ʔanbiːk /
 # text_en = When the milk container comes back down, he catches it with his two hands,
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=119571|AlignEnd=119725|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -578,6 +598,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_131-132
 # text = ʔataːb ʔamuːl / ʔaː =t =eːb ikati /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ʔataːb amuːl / ʔaːteːb ikati /
 # text_en = a container that had become full of milk.
 1	ʔataːb	_	ADJ	ADJ	_	2	mod	_	AlignBegin=121753|AlignEnd=122078|Gloss=full|RX=[ADJ]|TokenType=Root
@@ -591,6 +612,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_133-134
 # text = gʷʔeːti hoːj inlʔi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = gʷʔeːti hoːj illʔi eːn //
 # text_en = He drinks from it until he is quenched, they said.
 1	gʷʔeːti	_	VERB	V2	VerbClass=2	3	mod	_	AlignBegin=123674|AlignEnd=123855|Gloss=drink|MGloss=drink-CVB.GNRL|MSeg=gʷʔ-eːti|RX=[V2]-.|TokenType=Root
@@ -601,6 +623,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_135-151
 # text = ontʔa / lhaweː =t / t= ʔarawi toːn rhaːt =u akoː / lhajt kʷiːkʷʔaːj =iːb daːjeːtiːt / kʷiːkʷʔaːj jhaː / ʔar~raraweːsamni / tindi eːn // uːn ani / naː =t / rhaːt =u =it //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa / lhaweːt / tʔarawi toːn rhaːtu akoː / lhajt kʷiːkʷʔaːjiːb daːjeːtiːt / kʷiːkʷʔaːj jhaː / ʔarraraweːsamni / tindi eːn // uːn ani / naːt / rhaːtujt //
 # text_en = Now, since Vixen saw this friendship,  the following day after it went to Crow (to tell it),  it says: Crow! Let's become friends!' they said, 'Since I learned something.'
 1	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=125303|AlignEnd=125545|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -641,6 +664,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_152-157
 # text = daːjiː =t =i diːt kʷiːkʷʔaːj =wa / lhaweː =t =wa / imoːra~rimna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = daːjiːti diːt kʷiːkʷʔaːjwa / lhaweːtwa / imoːrarimna eːn //
 # text_en = 'Fine', it answered and Crow and  Vixen went together, they said.
 1	daːjiː	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=136104|AlignEnd=136222|Gloss=good|RX=[ADJ]|TokenType=Root
@@ -660,6 +684,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_158-159
 # text = tiːjiwaːj =eːk soːja =heːb /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tiːjwaːjeːk soːjaheːb /
 # text_en = 'If you are very thirsty, tell me!
 1	tiːjiwaːj	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	2	comp	_	AlignBegin=141153|AlignEnd=141455|Gloss=be_thirsty\INT.AOR|MGloss=3SG.F-be_thirsty\INT.AOR|MSeg=tiː-jiwaːj|RX=[PNG]-[V1].[DER]|TokenType=Root
@@ -670,6 +695,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_160-165
 # text = tharagʷi =jeːk soːja =heːb / tindi eːn // lhaweː =t //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tharagʷijeːk soːjaheːb / tindi eːn // lhaweːt //
 # text_en = If you are hungry, tell me!'  Vixen says, they said.
 1	tharagʷi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	2	comp	_	AlignBegin=142656|AlignEnd=142902|Gloss=be_hungry\IPFV|MGloss=2SG-be_hungry\IPFV|MSeg=t-haragʷi|RX=[PNG]-[V1].[IRG]|TokenType=Root
@@ -686,6 +712,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_166-181
 # text = ontʔa kʷiːkʷʔaːj // i= sikka =i hiːreːreː aharagʷi indi =jeːb oː= doːr / difa =t / beːn j= ʔawi baja =t / ʃaw~wawia =t / lhaweː =t =i =t / sala akeːna / lhaweː =t =i =t sala akeːna dijaː // tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa kʷiːkʷʔaːj // isikkaːj hiːreːreː ahragʷ indijeːb oːdoːr / difat / beːn jʔawi bajaːt / ʃawwawijaːt / lhaweːtiːt / sala akeːna / lhaweːtiːt sala akeːna dija // tindi eːn //
 # text_en = Now, when Crow, while walking on the road, said:  'I am hungry',    it said: 'Go and go towards these stones, and gather them, and say: 'Become Vixen's grilled meat! become Vixen's grilled meat!' they said.
 1	ontʔa	_	PART	PTCL	_	7	discourse	_	AlignBegin=146386|AlignEnd=146672|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -696,8 +723,8 @@
 6	=i	_	ADP	CASE	Case=Gen	7	comp:obl	_	AlignBegin=147729|AlignEnd=147847|Gloss==GEN|RX==[CASE]|TokenType=Clit
 7	hiːreːreː	_	VERB	V2	VerbClass=2	9	mod	_	AlignBegin=147847|AlignEnd=148200|Gloss=walk|MGloss=walk-CVB.SMLT|MSeg=hiːreːr-eː|RX=[V2]-.|TokenType=Root
 8	aharagʷi	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	9	comp:obj	_	AlignBegin=148200|AlignEnd=148553|Gloss=be_hungry\IPFV|MGloss=1SG-be_hungry\IPFV|MSeg=a-haragʷi|Reported=Yes|RX=[PNG]-[V1].[IRG]|TokenType=Root
-9	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	10	comp	_	AlignBegin=148553|AlignEnd=148788|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-10	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	12	mod@relcl	_	AlignBegin=148788|AlignEnd=148906|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+9	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	10	comp	_	AlignBegin=148553|AlignEnd=148788|Filler=Obj|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
+10	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	12	mod@relcl$obj	_	AlignBegin=148788|AlignEnd=148906|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 11	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	12	det	_	AlignBegin=148906|AlignEnd=149082|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 12	doːr	_	NOUN	N	Gender=Masc	14	mod	_	AlignBegin=149082|AlignEnd=149259|Gloss=time|RX=[N].[M]|TokenType=Root
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=149259|AlignEnd=149613|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -705,7 +732,7 @@
 15	=t	_	CCONJ	CONJ	_	14	cc	_	AlignBegin=149790|AlignEnd=149879|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 16	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=149879|AlignEnd=150265|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 17	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	19	det	_	AlignBegin=150265|AlignEnd=150517|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
-18	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	19	det	_	AlignBegin=150517|AlignEnd=150643|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+18	j=	_	DET	DET	Definite=Def|Gender=Masc	19	det	_	AlignBegin=150517|AlignEnd=150643|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 19	ʔawi	_	NOUN	N	Gender=Masc	20	comp:obj	_	AlignBegin=150643|AlignEnd=150769|Gloss=stone|RX=[N].[M]|TokenType=Root
 20	baja	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	23	conj:coord	_	AlignBegin=150769|AlignEnd=150937|Gloss=go\INT|MGloss=go\INT-IMP.SG.M|MSeg=baj-a|RX=[V1].[DER].[IRG]-[TAM].[PNG]|TokenType=Root
 21	=t	_	CCONJ	CONJ	_	20	cc	_	AlignBegin=150937|AlignEnd=151021|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -735,9 +762,10 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_182-188
 # text = j= ʔawi ʃaw~wawiːtiːt ontʔa / lhaweː =t =i =t sala akeːna // lhaweː =t =i =t sala akeːna indi =hoːb / naː =t / sala =t dhaːj ka= ʔeːta //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = jʔawi ʃawwawiːtiːt ontʔa / lhaweːtiːt sala akeːna // lhaweːtiːt sala akeːna indihoːb / naːt / salaːt dhaːj kaʔeːta //
 # text_en = After it had gathered stones, now,  when it says: Become Vixen's grilled meat! become Vixen's grilled meat!'  no grilled meat comes to it.
-1	j=	_	DET	DET	Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=158066|AlignEnd=158221|Gloss=DEF.M.PL=|RX=[DET]=|TokenType=Clit
+1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=158066|AlignEnd=158221|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔawi	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=158221|AlignEnd=158377|Gloss=stone|RX=[N].[M]|TokenType=Root
 3	ʃaw~wawiːtiːt	_	VERB	V1	VerbClass=1	11	mod	_	AlignBegin=158377|AlignEnd=158689|Gloss=gather\PLAC|MGloss=gather\PLAC-CVB.SEQ|MSeg=ʃaw~waw-iːtiːt|RX=[V1].[DER]-.|TokenType=Root
 4	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=158689|AlignEnd=159001|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -770,6 +798,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_189-192
 # text = ago# aga# ## agʷoːj =eːk / indi =hoːb // simaːsiwa =heːb hoːk / tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ago# aga# ## agʷoːjeːk / indihoːb // simaːsiwheːb hoːk / tindi eːn //
 # text_en = When it says: 'I could not do anything for you',  it says: 'Let me hear what you said!' they said.
 1	ago#	_	X	FS	_	2	conj:dicto	_	AlignBegin=165149|AlignEnd=165318|Gloss=FS|RX=[FS]|TokenType=Root
@@ -791,6 +820,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_193-195
 # text = lhaweː =t =i =t sala akeːna // lhaweː =t =i =t sala akeːna // diːt igʷoːji eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = lhaweːtiːt sala akeːna // lhaweːtiːt sala akeːna // diːt igʷoːji eːn //
 # text_en = 'Become Vixen's grilled meat! 'Become Vixen's grilled meat!' it said and it could not do it, they said.
 1	lhaweː	_	NOUN	N	Gender=Fem	3	comp	_	AlignBegin=169248|AlignEnd=169357|Gloss=vixen|RX=[N].[F]|TokenType=Root
@@ -814,6 +844,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_196-197
 # text = naː =t ki= taki eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = naːt kitaki eːn //
 # text_en = Nothing happened, they said.
 1	naː	_	NOUN	N	Gender=Fem	4	subj	_	AlignBegin=173639|AlignEnd=173728|Gloss=thing|RX=[SBJ].[N].[F]|TokenType=Root
@@ -825,6 +856,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_198-200
 # text = naː =t / sala =t dhaːj ka= ʔeːta eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = naːt / salaːt dhaːj kaʔeːta eːn //
 # text_en = No grilled meat came to it, they said.
 1	naː	_	NOUN	N	Gender=Fem	8	mod	_	AlignBegin=174601|AlignEnd=174726|Gloss=thing|RX=[N].[F]|TokenType=Root
@@ -840,6 +872,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_201-204
 # text = igeːsi ontʔa / lhaweː =t =i =dha // lhaweː =t / jhaka tindi eːn
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = igeːsi ontʔa / lhaweːtidha // lhaweːt / jhaka tindi eːn
 # text_en = Straight away, now,  it says to Vixen: 'Vixen, get up! they said,
 1	igeːsi	_	ADV	ADV	_	13	mod	_	AlignBegin=176660|AlignEnd=176888|Gloss=immediately|RX=[ADV]|TokenType=Root
@@ -859,6 +892,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_204-209
 # text = i= kna =juːk a# ## aja ʤhar =i =b =wa =jaːj //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = iknajuːk a# ## aja ʤhariːbwajaːj //
 # text_en = really you are unlucky,
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=181900|AlignEnd=181974|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -876,6 +910,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_210-211
 # text = ʔakra aja ʤhari =b =wa =jaːj //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ʔakra ajaː ʤharibwaːjaːj //
 # text_en = you are thoroughly unlucky.
 1	ʔakra	_	VERB	V1	VerbClass=1	2	mod	_	AlignBegin=183840|AlignEnd=184054|Gloss=be_strong|MGloss=be_strong-CVB.MNR|MSeg=ʔakr-a|RX=[V1]-.|TokenType=Root
@@ -888,6 +923,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_212-212
 # text = nifir =wa /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = nifirwa /
 # text_en = You are detestable,
 1	nifir	_	NOUN	N	Gender=Masc	2	comp:pred	_	AlignBegin=185825|AlignEnd=185988|Gloss=horror|RX=[N].[M]|TokenType=Root
@@ -896,6 +932,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_213-218
 # text = kʷiːkʷʔaːj / w= hadal / w= haraːmʤʔoːr // jhaka / tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = kʷiːkʷʔaːj / whadal  / wharaːmʤʔoːr // jhaka / tindi eːn //
 # text_en = you black bastard of a crow,  get up!' it says, they said.
 1	kʷiːkʷʔaːj	_	NOUN	N	Gender=Masc	9	vocative	_	AlignBegin=186480|AlignEnd=186658|Gloss=crow|RX=[N].[M]|TokenType=Root
@@ -914,6 +951,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_219-219
 # text = imoːra~rimna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = imoːrarimna /
 # text_en = They go together,
 1	imoːra~rimna	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	AlignBegin=189226|AlignEnd=189681|Gloss=accompany\PLAC.IPFV|MGloss=3-RECP-accompany\PLAC.IPFV-PL|MSeg=i-moː-ra~rim-na|RX=[PNG]-[V1].[DER]-[V1].[DER]-[PNG]|TokenType=Root
@@ -921,6 +959,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_220-226
 # text = difeː difeː difeː / tʔa ajiwaːj =eːk indi =hoːb / lhaweː =t =i =t ʃiha akeːna dijaː =t / beːn oː= mhiːn / ʃiha =t firika tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = difeː difeː difeː / tʔa ajiwaːjeːk indihoːb / lhaweːtiːt ʃiha akeːna dijat / beːn oːmhiːn / ʃihat firika tindi eːn //
 # text_en = while they leave, when it says: ' now, I am thirsty',  it says: 'Say: Become Vixen's waterhole, and dig a waterhole in that place!', they said.
 1	difeː	_	VERB	V1	VerbClass=1	2	conj:redup	_	AlignBegin=190136|AlignEnd=190384|Gloss=leave|MGloss=leave-CVB.SMLT|MSeg=dif-eː|RX=[V1]-.|TokenType=Root
@@ -955,6 +994,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_227-230
 # text = areː / t= ʔaba jʔeːtiːt / fanriːk eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = areː / tʔaba jʔeːtiːt / farriːk eːn //
 # text_en = Then,  after it has come to the valley,  it digs it, they said.
 1	areː	_	CCONJ	PTCL	_	5	cc	_	AlignBegin=196818|AlignEnd=197022|Gloss=then|RX=[PTCL]|TokenType=Root
@@ -969,6 +1009,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_231-234
 # text = lhaweː =t =i =t ʃiha akeːna / lhaweː =t =i =t ʃiha akeːna indi =hoːb / naː =t dhaːj ka= ʔeːta eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = lhaweːtiːt ʃiha akeːna / lhaweːtiːt ʃiha akeːna indihoːb / naːt dhaːj kaʔeːta eːn //
 # text_en = when it says: 'Become Vixen's waterhole! become Vixen's waterhole!'  nothing comes to it, they said.
 1	lhaweː	_	NOUN	N	Gender=Fem	3	comp	_	AlignBegin=199391|AlignEnd=199474|Gloss=vixen|RX=[N].[F]|TokenType=Root
@@ -997,6 +1038,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_235-240
 # text = sima# ## agʷoːj =eːk indi =hoːb / simaːsiwa =heːb hoːk / tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = sima# ## agʷoːjeːk indihoːb / simaːsiwheːb hoːk / tindi eːn //
 # text_en = When it says: 'I could not do anything for you', it says: 'Let me hear what you said!' they said.
 1	sima#	_	X	FS	_	3	conj:dicto	_	AlignBegin=204543|AlignEnd=204719|Gloss=FS|RX=[FS]|TokenType=Root
@@ -1016,6 +1058,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_241-245
 # text = lhaweː =t =i =t ʃiha akai // lhaweː =t =i =t ʃiha akai / indi =hoːb // naː =t dhaːj ka= ʔeːta //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = lhaweːtiːt ʃiha akaːj // lhaweːtiːt ʃiha akaːj / indihoːb // naːt dhaːj kaʔeːta //
 # text_en = When it says: 'Become Vixen's waterhole! become Vixen's waterhole!'  nothing comes to it.
 1	lhaweː	_	NOUN	N	Gender=Fem	3	comp	_	AlignBegin=208736|AlignEnd=208846|Gloss=vixen|RX=[N].[F]|TokenType=Root
@@ -1044,6 +1087,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_246-246
 # text = jhaka tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = jhaka tindi eːn //
 # text_en = It says: 'Get up!' they said.
 1	jhaka	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	2	comp:obj	_	AlignBegin=213670|AlignEnd=213870|Gloss=get_up|MGloss=get_up-IMP.SG.M|MSeg=jhak-a|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -1053,6 +1097,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_247-250
 # text = kʷiːkʷʔaːj w= hadal // ʔakra aja dhar =i =b =wa =jaːj //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = kʷiːkʷʔaːj whadal // ʔakra aja dhariwwajaːj //
 # text_en = 'Black crow !  you are totally unlucky!'
 1	kʷiːkʷʔaːj	_	NOUN	N	Gender=Masc	10	vocative	_	AlignBegin=214473|AlignEnd=214746|Gloss=crow|RX=[SBJ].[N].[M]|TokenType=Root
@@ -1070,6 +1115,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_251-252
 # text = eːdifna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = eːdifna eːn //
 # text_en = They leave, they said.
 1	eːdifna	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	AlignBegin=216858|AlignEnd=217027|Gloss=leave\IPFV|MGloss=3-leave\IPFV-PL|MSeg=eː-dif-na|RX=[PNG]-[V1]-[PNG]|TokenType=Root
@@ -1078,6 +1124,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_253-254
 # text = dhaj =i =da jʔeːna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = dhajida jʔeːna eːn //
 # text_en = They arrive at people's place, they said.
 1	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	2	comp	_	AlignBegin=217939|AlignEnd=218042|Gloss=people|RX=[N].[COL].[M]|TokenType=Root
@@ -1089,6 +1136,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_255-263
 # text = dhaj =i =da jʔeːn =hoːb / martabaː =t dhaːj {laughter} / jʔeːn =eːb oː= doːr / ti= martaba / beːn lhaweː =t hiːna ini //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = dhajida jʔeːnhoːb / martabaːtdha dhaːj {laughter} / jʔeːneːb oːdoːr / timartaba / beːn lhaweːt hiːna ini //
 # text_en = When they arrive at the people's place,  when they bring them mattresses,  it said: 'Give the mattress to that Vixen!'
 1	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	3	comp	_	AlignBegin=219775|AlignEnd=219854|Gloss=people|RX=[N].[COL].[M]|TokenType=Root
@@ -1102,8 +1150,8 @@
 9	dhaːj	_	ADP	POSTP	_	12	mod	_	AlignBegin=221035|AlignEnd=221290|Gloss=DIR|RX=[POSTP]|TokenType=Root
 10	{laughter}	_	X	PUNCT	_	12	discourse	_	AlignBegin=221290|AlignEnd=221544|RX=[PUNCT]|TokenType=Root
 11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=221544|AlignEnd=221799|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-12	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	13	comp	_	AlignBegin=221799|AlignEnd=222032|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-13	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	15	mod@relcl	_	AlignBegin=222032|AlignEnd=222149|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+12	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	13	comp	_	AlignBegin=221799|AlignEnd=222032|Filler=Obj|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
+13	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	15	mod@relcl$obj	_	AlignBegin=222032|AlignEnd=222149|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 14	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	15	det	_	AlignBegin=222149|AlignEnd=222324|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 15	doːr	_	NOUN	N	Gender=Masc	24	mod	_	AlignBegin=222324|AlignEnd=222499|Gloss=time|RX=[N].[M]|TokenType=Root
 16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=222499|AlignEnd=223424|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1119,6 +1167,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_264-266
 # text = beːn əəə / kʷiːkʷʔaːj hiːna tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = beːn əəə / kʷiːkʷʔaːj hiːna tindi eːn //
 # text_en = she says: 'Give it to that Crow!, they said.
 1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=225716|AlignEnd=225918|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
@@ -1132,6 +1181,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_267-269
 # text = kʷiːkʷʔaːj eːjawna eːn // ti= martaba /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = kʷiːkʷʔaːj eːjawna eːn // timartaba /
 # text_en = They give it to Crow, they said, the mattress...
 1	kʷiːkʷʔaːj	_	NOUN	N	Gender=Masc	2	comp:obj	_	AlignBegin=228305|AlignEnd=228528|Gloss=crow|RX=[N].[M]|TokenType=Root
@@ -1144,6 +1194,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_270-274
 # text = aneːb beːt ti= naweː =t =eː {laughter} / {laughter} naweː =t haːj mʔaːna =heːb / tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = aneːb beːt tinaweːteː {laughter} / {laughter} naweːt haːj mʔaːnheːb / tindi eːn //
 # text_en = It says: 'Bring those long and thick thorns to me!', they said.
 1	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	13	dislocated:obj	_	AlignBegin=230696|AlignEnd=231004|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
@@ -1167,6 +1218,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_275-280
 # text = dhaːj jʔeːn =hoːb / ti= nawi dhaːj / bʔaː tindi =jeːb oː= doːr / naweː =t hoːj talʔameːna eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = dhaːj jʔeːnhoːb / tinawi dhaːj / bʔaː tindijeːb oːdoːr / naweːt hoːj talʔameːna eːn /
 # text_en = When they bring them to it,  when it says: 'Lie down on the thorns!'  the thorns pierce him through, they said.
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=236011|AlignEnd=236312|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -1178,8 +1230,8 @@
 7	dhaːj	_	ADP	POSTP	_	9	comp:obl	_	AlignBegin=237170|AlignEnd=237425|Gloss=DIR|RX=[POSTP]|TokenType=Root
 8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=237425|AlignEnd=237962|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 9	bʔaː	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	10	comp:obj	_	AlignBegin=237962|AlignEnd=238291|Gloss=lie_down|MGloss=lie_down-IMP.SG.M|MSeg=bʔ-aː|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-10	tindi	_	VERB	LV	Aspect=Imp|Gender=Fem|Number=Sing	11	comp	_	AlignBegin=238291|AlignEnd=238510|Gloss=say\IPFV|MGloss=3SG.F-say\IPFV|MSeg=ti-ndi|RX=[PNG]-[V1.IRG]|TokenType=Root
-11	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	13	mod@relcl	_	AlignBegin=238510|AlignEnd=238620|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+10	tindi	_	VERB	LV	Aspect=Imp|Gender=Fem|Number=Sing	11	comp	_	AlignBegin=238291|AlignEnd=238510|Filler=Obj|Gloss=say\IPFV|MGloss=3SG.F-say\IPFV|MSeg=ti-ndi|RX=[PNG]-[V1.IRG]|TokenType=Root
+11	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	13	mod@relcl$obj	_	AlignBegin=238510|AlignEnd=238620|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 12	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=238620|AlignEnd=238784|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 13	doːr	_	NOUN	N	Gender=Masc	18	mod	_	AlignBegin=238784|AlignEnd=238949|Gloss=time|RX=[N].[M]|TokenType=Root
 14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=238949|AlignEnd=239279|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1192,6 +1244,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_281-282
 # text = ontʔa / wheːli tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa / wheːli tindi eːn //
 # text_en = So   it says: 'Damned'!' they said.
 1	ontʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=242379|AlignEnd=242642|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -1203,6 +1256,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_283-284
 # text = ʤawtini eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ʤawtini eːn /
 # text_en = It shouts, they said.
 1	ʤawtini	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	0	root	_	AlignBegin=244171|AlignEnd=244428|Gloss=shout|MGloss=shout-IPFV.3SG.F|MSeg=ʤaw-tini|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -1211,6 +1265,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_285-289
 # text = kʷiːkʷʔaːj eː= nda waliːka / kʷiːkʷʔaːj eː= nda waliːka / {laughter} tindi eːn // {laughter}
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = kʷiːkʷʔaːj eːnda waliːka / kʷiːkʷʔaːj eːnda waliːka / {laughter} tindi eːn // {laughter}
 # text_en = 'Crow! call the people! it says: 'Crow! call the people!' they said.
 1	kʷiːkʷʔaːj	_	NOUN	N	Gender=Masc	4	vocative	_	AlignBegin=245300|AlignEnd=245644|Gloss=crow|RX=[N].[M]|TokenType=Root
@@ -1231,11 +1286,12 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_290-294
 # text = ti= w= hagiː =t =i =ka hanka fitikna / aː= nda dhaːj jʔeːn =hoːb / ti= w= hagiː =t =i =ka hanka fitikna / tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tiwhagiːtika hanka fitikna / aːnda dhaːj jʔeːnhoːb / tiwhagiːtika hanka fitikna / tindi eːn //
 # text_en = When the men come, it says: 'First take off each that are in my buttocks! First take off each that are in my buttocks!' they said.
-1	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	6	comp	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+1	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	3	subj	_	AlignBegin=249620|AlignEnd=249696|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 2	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	3	det	_	AlignBegin=249696|AlignEnd=249772|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-3	hagiː	_	NOUN	N	Gender=Masc	1	mod@relcl	_	AlignBegin=249772|AlignEnd=249848|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+3	hagiː	_	NOUN	N	Gender=Masc	6	mod@relcl$subj	_	AlignBegin=249772|AlignEnd=249848|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
 4	=t	_	DET	DET	Gender=Fem	3	det	_	AlignBegin=249848|AlignEnd=249924|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 5	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	3	udep@poss	_	AlignBegin=249924|AlignEnd=250000|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 6	=ka	_	ADP	POSTP	Case=Dis	8	comp:obj	_	AlignBegin=250000|AlignEnd=250077|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1248,9 +1304,9 @@
 13	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	14	comp	_	AlignBegin=251937|AlignEnd=252099|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
 14	=hoːb	_	SCONJ	CONJ	_	25	mod	_	AlignBegin=252099|AlignEnd=252181|Gloss==when|RX==[CONJ]|TokenType=Clit
 15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=252181|AlignEnd=252426|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-16	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	21	comp	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+16	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	18	subj	_	AlignBegin=252426|AlignEnd=252509|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 17	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=252509|AlignEnd=252593|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
-18	hagiː	_	NOUN	N	Gender=Masc	16	mod@relcl	_	AlignBegin=252593|AlignEnd=252677|Gloss=buttocks|RX=[N].[M]|TokenType=Root
+18	hagiː	_	NOUN	N	Gender=Masc	21	mod@relcl$subj	_	AlignBegin=252593|AlignEnd=252677|Filler=Subj|Gloss=buttocks|RX=[N].[M]|TokenType=Root
 19	=t	_	DET	DET	Gender=Fem	18	det	_	AlignBegin=252677|AlignEnd=252760|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 20	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	18	udep@poss	_	AlignBegin=252760|AlignEnd=252844|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 21	=ka	_	ADP	POSTP	Case=Dis	23	comp:obj	_	AlignBegin=252844|AlignEnd=252928|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
@@ -1263,6 +1319,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_295-298
 # text = ontʔa / aː= nda dhaːj jʔeːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa / aːnda dhaːj jʔeːna /
 # text_en = So,  people come to it,
 1	ontʔa	_	PART	PTCL	_	4	discourse	_	AlignBegin=255533|AlignEnd=255750|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -1275,6 +1332,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_299-300
 # text = ti= nawi soːkʷeːti hoːj ifarʔana //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tinawi soːkʷeːti hoːj ifarʔana //
 # text_en = they pull out the thorns from it one after the other.
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=257240|AlignEnd=257421|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1286,6 +1344,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_301-305
 # text = ontʔa // ti= iːjʔaː / dhaːj haːj jʔeːna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa // tiːjʔaː / dhaːj haːj jʔeːna eːn //
 # text_en = Now,  they bring them milk, they said.
 1	ontʔa	_	PART	PTCL	_	4	discourse	_	AlignBegin=259548|AlignEnd=259735|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -1301,6 +1360,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_306-308
 # text = tʔa areː aː= nda / haːj jʔeːna //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tʔa areː aːnda / haːj jʔeːna //
 # text_en = Now the men  bring it to them.
 1	tʔa	_	ADV	ADV	_	2	discourse	_	AlignBegin=262342|AlignEnd=262521|Gloss=now|RX=[ADV]|TokenType=Root
@@ -1314,14 +1374,15 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_309-315
 # text = beːn kʷiːkʷʔaːj hiːna // tindi =jeːb oː= doːr // gibitti dannʔi eːn // kʷiːkʷʔaːj //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = beːn kʷiːkʷʔaːj hiːna // tindijeːb oːdoːr // gibitti dannʔi eːn // kʷiːkʷʔaːj //
 # text_en = When it says: ''Give it to that Crow!' Crow is drinking it all (i.e. the milk) in a long sip, they said.
 1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=263727|AlignEnd=263998|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
 2	kʷiːkʷʔaːj	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=263998|AlignEnd=264269|Gloss=crow|RX=[N].[M]|TokenType=Root
 3	hiːna	_	VERB	V1	Number=Plur|VerbClass=1	5	comp:obj	_	AlignBegin=264269|AlignEnd=264540|Gloss=give|MGloss=give-IMP.PL|MSeg=hiː-na|Reported=Yes|RX=[V1].[IRG]-[TAM].[PNG]|TokenType=Root
 4	//	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=264540|AlignEnd=265196|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-5	tindi	_	VERB	V1	Aspect=Imp|Gender=Fem|Number=Sing|VerbClass=1	6	comp	_	AlignBegin=265196|AlignEnd=265315|Gloss=say\IPFV|MGloss=3SG.F-say\IPFV|MSeg=ti-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-6	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	8	mod@relcl	_	AlignBegin=265315|AlignEnd=265375|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	tindi	_	VERB	V1	Aspect=Imp|Gender=Fem|Number=Sing|VerbClass=1	6	comp	_	AlignBegin=265196|AlignEnd=265315|Filler=Obj|Gloss=say\IPFV|MGloss=3SG.F-say\IPFV|MSeg=ti-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
+6	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	8	mod@relcl$obj	_	AlignBegin=265315|AlignEnd=265375|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=265375|AlignEnd=265464|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 8	doːr	_	NOUN	N	Gender=Masc	11	mod	_	AlignBegin=265464|AlignEnd=265554|Gloss=time|RX=[N].[M]|TokenType=Root
 9	//	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=265554|AlignEnd=265733|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1334,6 +1395,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_316-321
 # text = ontʔa aneːb ʔamuːl faːdi =b hiːna =heːb // tindi =hoːb / w= ʔamuːl eːjawna =eːb oː= doːr / ʔasti tingiːd //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa aneːb amuːl faːdib hiːnheːb // tindihoːb / wʔamuːl eːjawneːb oːdoːr / ʔasti tingiːd //
 # text_en = Now, when it says:  "Give me an empy container!",  when they give it the container,  it throws it upwards.
 1	ontʔa	_	PART	PTCL	_	2	discourse	_	AlignBegin=268336|AlignEnd=268609|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -1349,8 +1411,8 @@
 11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=270191|AlignEnd=270297|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 12	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=270297|AlignEnd=270429|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 13	ʔamuːl	_	NOUN	N	Gender=Masc	14	comp:obj	_	AlignBegin=270429|AlignEnd=270562|Gloss=milk_container|RX=[N].[M]|TokenType=Root
-14	eːjawna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	15	comp	_	AlignBegin=270562|AlignEnd=270695|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
-15	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl	_	AlignBegin=270695|AlignEnd=270828|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+14	eːjawna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	15	comp	_	AlignBegin=270562|AlignEnd=270695|Filler=Obj|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
+15	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	17	mod@relcl$obj	_	AlignBegin=270695|AlignEnd=270828|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 16	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	17	det	_	AlignBegin=270828|AlignEnd=270960|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 17	doːr	_	NOUN	N	Gender=Masc	20	mod	_	AlignBegin=270960|AlignEnd=271093|Gloss=time|RX=[N].[M]|TokenType=Root
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=271093|AlignEnd=271359|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1360,6 +1422,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_322-326
 # text = ʔasti tingiːd =hoːb / w= ʔamuːl hoːgeːti jʔeːtiːt / bhoː =t hoːj dannʔi eːn / i= girma =i // {laughter}
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ʔasti tingiːdhoːb / wʔamuːl hoːgeːti jʔeːtiːt / bhoːt hoːj dannʔi eːn / igirmaːj // {laughter}
 # text_en = When it throws it upwards, after the milk container has come back down, it wounded him on he head, they said, on the head.
 1	ʔasti	_	VERB	V1	VerbClass=1	2	compound:svc	_	AlignBegin=272821|AlignEnd=273062|Gloss=be_up|MGloss=be_up-CVB.GNRL|MSeg=ʔas-ti|RX=[V1]-.|TokenType=Root
@@ -1385,6 +1448,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_327-330
 # text = ontʔa / diwa naːj ʃanbiːb /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = ontʔa / diwanaːj naːj ʃambiːb /
 # text_en = So,   it had to skip dinner.
 1	ontʔa	_	PART	PTCL	_	3	mod	_	AlignBegin=278322|AlignEnd=278550|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -1396,6 +1460,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_331-334
 # text = diwa naːjaːt =i kʷiːkʷʔaːj / kʷiːkʷʔaːj tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = diwa naːjaːti kʷiːkʷʔaːj / kʷiːkʷʔaːj tindi eːn //
 # text_en = It skipped dinner and it says: 'Crow! Crow!' they said.
 1	diwa	_	VERB	V2	VerbClass=2	2	mod	_	AlignBegin=280559|AlignEnd=280794|Gloss=sleep|MGloss=sleep-CVB.MNR|MSeg=diw-a|RX=[V2]-.|TokenType=Root
@@ -1410,6 +1475,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_335-336
 # text = ti= iːjʔaː naː =t hoːj tʔiʃa kʷiːkʷʔaːj ?
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = tiːjʔaː naːt hoːj tʔiʃa kʷiːkʷʔaːj //
 # text_en = 'Did you leave some milk, Crow?'
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=283214|AlignEnd=283345|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1423,6 +1489,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_337-340
 # text = ka= aki jhaː / ʔiʃi =heːb indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = kaːki jhaː / ʔiʃiheːb indi eːn //
 # text_en = 'No!  Leave me alone, you!' it says, they said.
 1	ka=	_	PART	PTCL	Aspect=Imp	2	mod	_	AlignBegin=285067|AlignEnd=285160|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
@@ -1437,6 +1504,7 @@
 
 # sent_id = BEJ_MV_NARR_16_Prophet_Fox_341-341
 # text = ʔamaːr =oːn baː= kʷaːsa samaːr =oːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_16_PROPHET-FOX.WAV
 # phonetic_text = amaːroːn baːkʷaːsa samaːroːn // {laughter}
 # text_en = Let it not be our fate!
 1	ʔamaːr	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=287779|AlignEnd=288053|Gloss=possessions|RX=[N].[M]|TokenType=Root

@@ -1,6 +1,6 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = BEJ_MV_NARR_14_sijadok_001-006
 # text = maʔawja i= zamaːn =iːb / tak / nasraːni iːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = maʔawja izamaːniːb / tak / nasraːni iːfi /
 # text_en = In the time of Mawya, there was a Christian man.
 1	maʔawja	_	PROPN	N	_	3	udep	_	AlignBegin=30|AlignEnd=510|Gloss=Ma'awya|RX=[N].[PROP]|TokenType=Root
@@ -16,6 +16,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_007-008
 # text = gaːdi iːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = gaːdi iːfi /
 # text_en = There was a qadi.
 1	gaːdi	_	NOUN	N	Gender=Masc	2	subj	_	AlignBegin=5353|AlignEnd=5712|Gloss=judge|RX=[SBJ].[N].[M]|TokenType=Root
@@ -24,6 +25,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_009-016
 # text = takat miskiːn =t areː / ʔarit / mhaj =t / tiːbri =t tiːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = takat miskiːnt areː / ʔarit / mhajt / tiːbirit tiːfi /
 # text_en = There was also a poor woman who had three daughters.
 1	takat	_	NOUN	N	Gender=Fem	13	subj	_	AlignBegin=6921|AlignEnd=7305|Gloss=woman|RX=[SBJ].[N].[F]|TokenType=Root
@@ -36,13 +38,14 @@
 8	mhaj	_	NUM	NUM	_	6	mod	_	AlignBegin=9537|AlignEnd=9641|Gloss=three|RX=[NUM]|TokenType=Root
 9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=9641|AlignEnd=9746|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 10	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=9746|AlignEnd=10103|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	tiːbri	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	12	comp	_	AlignBegin=10103|AlignEnd=10349|Gloss=have\AOR|MGloss=3SG.F-have\AOR|MSeg=tiː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
-12	=t	_	SCONJ	REL	Gender=Fem|PronType=Rel	1	mod@relcl	_	AlignBegin=10349|AlignEnd=10473|Gloss==INDF.F|RX==[REL]|TokenType=Clit
+11	tiːbri	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	12	comp	_	AlignBegin=10103|AlignEnd=10349|Filler=Subj|Gloss=have\AOR|MGloss=3SG.F-have\AOR|MSeg=tiː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
+12	=t	=t	SCONJ	REL	Gender=Fem|PronType=Rel	1	mod@relcl$subj	_	AlignBegin=10349|AlignEnd=10473|Gloss==INDF.F|RX==[REL]|TokenType=Clit
 13	tiːfi	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=10473|AlignEnd=10844|Gloss=be_there\AOR|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=10844|AlignEnd=11719|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_14_sijadok_017-025
 # text = oːt ti= takat / i= damaːn haːj imag =t oː= dhaj / maʤaʔaː =t ʔeːtan =eːb oː= doːr / ti= mʔari / inawna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = oːt titakat / idamaːn haːj imagt oːdhaj / maʤaʔaːt ʔeːtaneːb oːdoːr / / timʔari / inawna eːn //
 # text_en = Times became difficult for this woman, and when starvation hit the people they lacked food, they said.
 1	oːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=11719|AlignEnd=11994|Gloss=PROX.SG.F.ACC|RX=[DEM]|TokenType=Root
@@ -59,8 +62,8 @@
 12	/	_	PUNCT	PUNCT	_	11	punct	_	AlignBegin=14284|AlignEnd=14651|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 13	maʤaʔaː	_	NOUN	N	Gender=Fem	15	subj	_	AlignBegin=14651|AlignEnd=14898|Gloss=famine|RX=[SBJ].[N].[F]|TokenType=Root
 14	=t	_	DET	DET	Gender=Fem	13	det	_	AlignBegin=14898|AlignEnd=15145|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-15	ʔeːtan	_	VERB	V2	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbClass=2	16	comp	_	AlignBegin=15145|AlignEnd=15392|Gloss=come\PFV.3SG.F|RX=[V2].[IRG]|TokenType=Root
-16	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	18	mod@relcl	_	AlignBegin=15392|AlignEnd=15639|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+15	ʔeːtan	_	VERB	V2	Aspect=Perf|Gender=Fem|Number=Sing|Person=3|VerbClass=2	16	comp	_	AlignBegin=15145|AlignEnd=15392|Filler=Obj|Gloss=come\PFV.3SG.F|RX=[V2].[IRG]|TokenType=Root
+16	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	18	mod@relcl$obj	_	AlignBegin=15392|AlignEnd=15639|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 17	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=15639|AlignEnd=15886|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 18	doːr	_	NOUN	N	Gender=Masc	23	mod	_	AlignBegin=15886|AlignEnd=16133|Gloss=time|RX=[N].[M]|TokenType=Root
 19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=16133|AlignEnd=16951|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -73,6 +76,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_026-047
 # text = ti= mʔari inawn =hoːb / t= ʔar =t =aː oːn amasangʔa / miʃi hoːj wa~waːwjaːn =hoːb / t= ʔarit =i baː= waːwaːna // uːn ani lhajt faʤil / i= gaːdi beːtiːt / uːn ani / mʔari =t / beːtalmaːl =eː / hi =hoːn diːtiːt / ijaːw =hoːkna andi // tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = timʔari inawnhoːb / tʔartaː oːn amasangʔa / miʃi hoːj wawaːwjaːnhoːb / tʔariti baːwaːwaːna // uːn ani lhajt faʤil / igaːdi beːtiːt / uːn ani / mʔarit / beːtalmaːl > eː / hihoːn diːtiːt / ijaːwhoːkna andi // tindi eːn //
 # text_en = When they lacked food, when her daughters were only weeping a lot in her lap in the middle of the night  "Girls, don't weep!  Tomorrow morning  I'll go to the judge and and I'll tell him: "Give us food from the religious treasure!" and I'll give it to you", she said, they said.
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=19310|AlignEnd=19441|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -130,6 +134,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_048-053
 # text = daːji =t =i diːtiːt / t= ʔar =t =aː / hus ikatin eːn // faʤil =had //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = daːjiti diːtiːt / tʔartaː / hus ikatin eːn // faʤilhad //
 # text_en = "Fine", they said and her daughters kept quiet, they said,  until the morning.
 1	daːji	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=35595|AlignEnd=35665|Gloss=good|RX=[ADJ]|TokenType=Root
@@ -152,6 +157,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_054-066
 # text = faʤil uː= mha mhii =hoːb / i= gaːdi =da ʔeːti =jaːt / i= ɖeːfa dhaːj tinkʷiːl =hoːb / ahaː // ʔa# ## ʔar =wa / kiʃja =b =wa / iːbri / dhaːj ʃuːmseːn eːn j= ʔar //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = faʤil uːmha mhiːhoːb / igaːdida ʔeːtijaːt / iɖeːfa dhaːj tinkʷiːlhoːb / ahaː // ʔa# ## ʔarwa / kiʃjaːbwa / iːbiriːt / dhaːj ʃuːmʃeːn eːn jʔar //
 # text_en = When the morning came, she comes to the judge and when she knocks at the door er, he had children and servants, the children let her in, they said.
 1	faʤil	_	NOUN	N	Gender=Masc	4	mod	_	AlignBegin=39083|AlignEnd=39342|Gloss=morning|RX=[N].[M]|TokenType=Root
@@ -194,11 +200,12 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_067-078
 # text = bak tʔiit =eːt takat hanriːw =hoːk eːdna =hoːb / dhaːj jʔeːtiːt oːn aneːb / naː =t iraːnaj / oːn w= ʔislaːmi / əəə naː =ji / ijaːw =heːb bi= tdiː =jeːk / t= ʔarit hargʷi =t hoːs =i tidir /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = bak tʔiːteːt takat harriːwhoːk eːdnhoːb / dhaːj jʔeːtiːt oːn aneːb / naːt iraːnej / oːn wʔislaːmi / əəə naːj / ijaːwheːb biddiːjeːk / tʔarit hargʷiːt hoːsi tidir /
 # text_en = When they say: "There is a woman like that who is looking for you", she went towards him. (she said): "If you don't give me something of the Muslim nation's public treasury hunger is bound to kill my daughters."
 1	bak	_	PART	DEICT	_	5	mod	_	AlignBegin=49036|AlignEnd=49381|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	tʔiit	_	NOUN	V1	VerbClass=1	3	comp	_	AlignBegin=49381|AlignEnd=49611|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-3	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	4	mod@relcl	_	AlignBegin=49611|AlignEnd=49726|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+3	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	4	mod@relcl$obj	_	AlignBegin=49611|AlignEnd=49726|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 4	takat	_	NOUN	N	Gender=Fem	5	subj	_	AlignBegin=49726|AlignEnd=50071|Gloss=woman|RX=[SBJ].[N].[F]|TokenType=Root
 5	hanriːw	_	VERB	V1	Aspect=Imp|VerbClass=1	7	comp:obj	_	AlignBegin=50071|AlignEnd=50243|Gloss=seek\IPFV.3SG.F|Reported=Yes|RX=[V1]|TokenType=Root
 6	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	5	comp:obj	_	AlignBegin=50243|AlignEnd=50416|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
@@ -239,6 +246,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_079-084
 # text = mhaj =t ʔarit abari / waːweː ʔiʃaːt =u tini =hoːb // uːn ani naː =t ijaːw =hoːk andi =aj / lhajt mʔai =heːb indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = mhajt ʔarit abari / waːweː ʔiʃaːtu tiːjhoːb // uːn ani naːt ijaːwhoːk andaj / lhajt mʔajiheːb indi eːn //
 # text_en = When she says: "I have three daughters and I left them in tears",  "I'll give you something,  come back to me tomorrow!", he says, they said.
 1	mhaj	_	NUM	NUM	_	3	mod	_	AlignBegin=59715|AlignEnd=59871|Gloss=three|RX=[NUM]|TokenType=Root
@@ -270,6 +278,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_085-093
 # text = t= ʔar =t =eːhi =d ʔagartiːt / i= gaːdi eːn j= ʔadim id =heːb / lhajt hadiːd / t= ʔarit =aj / hus akeːna tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = tʔarteːhid ʔagartiːt / igaːdi eːn jʔadim idheːb / lhajt hadiːd / tʔaritej / hus akeːna tindi eːn //
 # text_en = She went back to her daughters and "The judge told me these words,   until tomorrow,  girls, shut up!", she says, they said.
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=67108|AlignEnd=67220|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -302,6 +311,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_094-103
 # text = t= ʔarit ontʔa / lhajt uː= mha mhii =hoːb / tuː= ndi ʔiʃti jʔeːtiːt / i= gaːdi =d ʔeːti =hoːb / i= gaːdi i= ɖeːfa =i / barraːb sʔeː sanni eːn // i= gaw =ijoː suːriː //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = tʔarit ontʔa / lhajt uːmha mhiːhoːb / tuːndi iʃti jʔeːtiːt / igaːdid ʔeːtihoːb / igaːdi iɖeːfaːj / barraːb sʔeː sanni eːn // igawijoː suːriː //
 # text_en = The girls, now, when the following morning came, the mother comes leaving them behind and when she arrives at the judge's the judge was waiting for her sitting outside in front of the door, they said, in front of his house.
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=75294|AlignEnd=75410|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -344,6 +354,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_104-106
 # text = iri oːn aneːb / timwadaj =heːb /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = iri oːn aneːb / timwadaːheːb /
 # text_en = "You gave me an appointement yesterday
 1	iri	_	ADV	ADV	_	5	mod	_	AlignBegin=85746|AlignEnd=85933|Gloss=yesterday|RX=[ADV]|TokenType=Root
@@ -355,7 +366,8 @@
 7	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=86840|AlignEnd=87696|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_14_sijadok_107-115
-# text = jʔan =it =hoːk / mʔari =t / bak tʔiit =eː =naː =t =iː / hi =heːb ani =hoːk =hoːb // tindi eːn //
+# text = jʔan =it =hoːk / mʔari =t / bak tʔiit =eː =naː =t =i / hi =heːb ani =hoːk =hoːb // tindi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = jʔanithoːk / mʔarit / bak tʔiːteːnaːtiː / hiheːb anihoːkhoːb // tindi eːn //
 # text_en = as I came to you, when I told you like that: "Give me some food!" she says, they said.
 1	jʔan	_	VERB	V2	Number=Sing|VerbClass=2	2	comp	_	AlignBegin=87696|AlignEnd=87897|Gloss=come|MGloss=come-PFV.1SG|MSeg=jʔ-an|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
@@ -367,10 +379,10 @@
 7	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=89319|AlignEnd=90341|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 8	bak	_	PART	DEICT	_	11	mod	_	AlignBegin=90341|AlignEnd=90719|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 9	tʔiit	_	NOUN	V1	VerbClass=1	10	comp	_	AlignBegin=90719|AlignEnd=90845|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-10	=eː	_	SCONJ	CONJ.REL	PronType=Rel	11	mod@relcl	_	AlignBegin=90845|AlignEnd=90908|Gloss==REL|RX==[CONJ]|TokenType=Clit
-11	=naː	_	NOUN	CONJ	_	13	comp	_	AlignBegin=90908|AlignEnd=90971|Gloss==thing|RX==[CONJ]|TokenType=Clit
+10	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	11	mod@relcl	_	AlignBegin=90845|AlignEnd=90908|Gloss==REL|RX==[CONJ]|TokenType=Clit
+11	=naː	_	NOUN	CONJ	_	13	comp:pred	_	AlignBegin=90908|AlignEnd=90971|Gloss==thing|RX==[CONJ]|TokenType=Clit
 12	=t	_	DET	DET	Gender=Fem	11	det	_	AlignBegin=90971|AlignEnd=91034|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-13	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	15	comp:obl	_	AlignBegin=91034|AlignEnd=91097|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
+13	=i	_	AUX	POSTP	Number=Sing	15	parataxis:parenth	_	AlignBegin=91034|AlignEnd=91097|Gloss==COP.3SG|RX==PRED.NOM|TokenType=Clit
 14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=91097|AlignEnd=91475|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 15	hi	_	VERB	V1	Gender=Masc|Mood=Imp|Number=Sing|VerbClass=1	21	comp:obj	_	AlignBegin=91475|AlignEnd=91655|Gloss=give\IMP.SG.M|Reported=Yes|RX=[V1].[IRG]|TokenType=Root
 16	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	15	comp:obj@R	_	AlignBegin=91655|AlignEnd=91836|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
@@ -384,6 +396,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_116-120
 # text = difi indi =jaːt / toːt toː= kna neːweːti / naː =t dhaːj ki= iʔiʃ eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = difi indijaːt / toːt toːkna neːweːti / naːt dhaːj kiːʔiʃ eːn //
 # text_en = "Go away!" he says and he insults her and without forgetting a single insult, they said.
 1	difi	_	VERB	V1	Gender=Fem|Number=Sing|VerbClass=1	2	comp:obj	_	AlignBegin=93598|AlignEnd=93872|Gloss=leave|MGloss=leave-IMP.SG.F|MSeg=dif-i|Reported=Yes|RX=[V1]-[TAM].[PNG]|TokenType=Root
@@ -405,6 +418,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_121-124
 # text = gadabeː ti= takat misistiːt / titʔagiːr //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = gadabeː titakat misistiːt / titʔagiːr //
 # text_en = The woman goes back very sad.
 1	gadabeː	_	VERB	V2	VerbClass=2	3	mod	_	AlignBegin=98297|AlignEnd=98792|Gloss=be_sad|MGloss=be_sad-CVB.SMLT|MSeg=gadab-eː|RX=[V2]-.|TokenType=Root
@@ -417,13 +431,14 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_125-130
 # text = oː= doːr wi= titʔagiːr =eːb / i= gaw =ijoː dar =iːb / iːfin // ʔaʃaj //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = oːdoːr wititʔagiːreːb / igawijoː dariːb / iːfiːn // ʔaʃaj //
 # text_en = While going back there were ruins next to her house.
 1	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=101863|AlignEnd=102073|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 2	doːr	_	NOUN	N	Gender=Masc	13	mod	_	AlignBegin=102073|AlignEnd=102283|Gloss=time|RX=[N].[M]|TokenType=Root
-3	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	comp:obj	_	AlignBegin=102283|AlignEnd=102367|Gloss=REL.M=|RX=[CONJ]=|TokenType=Clit
+3	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	4	comp:obj	_	AlignBegin=102283|AlignEnd=102367|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 4	titʔagiːr	_	VERB	V1	Aspect=Imp|Gender=Fem|Number=Sing|VerbClass=1	5	comp	_	AlignBegin=102367|AlignEnd=102619|Gloss=come_back\IPFV|MGloss=3SG.F-MID-come_back\IPFV|MSeg=ti-t-ʔagiːr|RX=[PNG]-[V1].[DER]-[V1]|TokenType=Root
-5	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	2	mod@relcl	_	AlignBegin=102619|AlignEnd=102704|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	2	mod@relcl$obj	_	AlignBegin=102619|AlignEnd=102704|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 6	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=102704|AlignEnd=103838|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 7	i=	_	DET	DET	Definite=Def|Gender=Masc	8	det	_	AlignBegin=103838|AlignEnd=103945|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 8	gaw	_	NOUN	N	Gender=Masc	10	udep	_	AlignBegin=103945|AlignEnd=104052|Gloss=house|RX=[SBJ].[N].[M]|TokenType=Root
@@ -438,6 +453,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_131-134
 # text = katʔama gawa / hoːj teːstʔi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = katʔama gawa / hoːj teːstʔi eːn //
 # text_en = She sat in broken houses, they said.
 1	katʔama	_	VERB	V1	VerbClass=1	2	mod	_	AlignBegin=106147|AlignEnd=106494|Gloss=cut\MID|MGloss=cut\MID-MID-CVB.MNR|MSeg=katʔ-am-a|RX=[V1].[DER]-[V2].[DER]-.|TokenType=Root
@@ -450,6 +466,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_135-135
 # text = hoːj teːstʔi =jaːt waːwtini eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = hoːj teːstʔijaːt waːwtini eːn //
 # text_en = She sits there and she cries, they said.
 1	hoːj	_	ADP	POSTP	Case=Loc	2	comp:obl	_	AlignBegin=110021|AlignEnd=110316|Gloss=LOC|RX=[POSTP]|TokenType=Root
@@ -461,6 +478,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_136-139
 # text = uːn ani eːt t= ʔar =t =i eːbi =hoːb / naː fiːr =eː amnfariːd ?
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = uːn ani eːt tʔarti eːbihoːb / naː fiːreː amfariːd /
 # text_en = "When I go to my daughters, How shall I have the guts to tell them? (lit. from which face shall I talk to?)
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=111498|AlignEnd=111703|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
@@ -481,6 +499,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_140-141
 # text = kak andi ?
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = kak andi /
 # text_en = What shall I say?
 1	kak	_	ADV	ADV	PartType=Int	2	mod	_	AlignBegin=114693|AlignEnd=114959|Gloss=how|RX=[ADV].[Q]|TokenType=Root
@@ -489,6 +508,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_142-142
 # text = kak id =heːb andi ?
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = kak idheːb andi /
 # text_en = How shall I tell them what he told me?
 1	kak	_	ADV	ADV	PartType=Int	2	mod	_	AlignBegin=115602|AlignEnd=115870|Gloss=how|RX=[ADV].[Q]|TokenType=Root
@@ -499,6 +519,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_143-145
 # text = naː =t mʔari haːj eːbi diːt ? miʃi waːwtini //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = naːt mʔari haːj eːbi diːt / miʃi wawtini //
 # text_en = What shall I bring them to eat?", she says and she can only cry.
 1	naː	_	PRON	PRO	PronType=Int	5	mod	_	AlignBegin=116676|AlignEnd=116816|Gloss=which|RX=[PRO].[Q]|TokenType=Root
@@ -514,6 +535,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_146-150
 # text = beːn uː= tak / sijjaːdoːk iːdna =ajt / jʔiːni eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = beːn uːtak / sijjaːdoːk iːdnajt / jʔiːni eːn /
 # text_en = That man who is named Siyadok is coming, they said.
 1	beːn	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=119996|AlignEnd=120264|Gloss=DIST.SG.M.NOM|RX=[DEM]|TokenType=Root
@@ -530,6 +552,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_151-152
 # text = ʔiʃa =t ʔoːʃaː diːt jʔi =jeːk / naː =t gaːl =na =t =i =da /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = ʔiʃaːt oːʃa diːt jʔijeːk / naːt gaːnaːtida /
 # text_en = May be he comes to piss or for something else.
 1	ʔiʃa	_	NOUN	N	Gender=Fem|Number=Plur	3	comp:obj	_	AlignBegin=124012|AlignEnd=124197|Gloss=urine|RX=[N].[PL].[F]|TokenType=Root
@@ -550,6 +573,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_153-157
 # text = baruː eːn / j= ʔaʃaj =i dar =i hasami =hoːb / toːt ti= takat ti= waːwti =t rhi =hoːb / i= mana dhaːj inʔakʷna
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = baruː eːn / jʔaʃaji dari hasamihoːb / toːt titakat tiwaːwtiːt rhihoːb / imana dhaːj inʔakʷna /
 # text_en = When he passed by next to these ruins, this woman, when he saw her crying, he pitied her.
 1	baruː	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=3	9	subj	_	AlignBegin=126999|AlignEnd=127179|Gloss=3SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
@@ -567,8 +591,8 @@
 13	ti=	_	DET	N	Gender=Fem	14	det	_	AlignBegin=129929|AlignEnd=130106|Gloss=DEF.F=|RX=[N].[F]=|TokenType=Clit
 14	takat	_	NOUN	REL	Gender=Fem	18	comp:obj	_	AlignBegin=130106|AlignEnd=130194|Gloss=woman|RX=[N].[F]|TokenType=Root
 15	ti=	_	SCONJ	V2	Gender=Fem	16	comp:obj	_	AlignBegin=130194|AlignEnd=130282|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
-16	waːwti	_	VERB	TAM.PNG	Gender=Fem|Number=Plur|VerbClass=2	17	comp	_	AlignBegin=130282|AlignEnd=130459|Gloss=weep|MGloss=weep-AOR.SSG.F|MSeg=waːw-ti|RX=[V2]-[TAM].[PNG]|TokenType=Root
-17	=t	_	SCONJ	V2	Definite=Ind|Gender=Fem	14	mod@relcl	_	AlignBegin=130459|AlignEnd=130576|Gloss==INDF.F|RX==[REL]|TokenType=Clit
+16	waːwti	_	VERB	TAM.PNG	Gender=Fem|Number=Plur|VerbClass=2	17	comp	_	AlignBegin=130282|AlignEnd=130459|Filler=Subj|Gloss=weep|MGloss=weep-AOR.SSG.F|MSeg=waːw-ti|RX=[V2]-[TAM].[PNG]|TokenType=Root
+17	=t	=t	SCONJ	V2	Definite=Ind|Gender=Fem|PronType=Rel	14	mod@relcl$subj	_	AlignBegin=130459|AlignEnd=130576|Gloss==INDF.F|RX==[REL]|TokenType=Clit
 18	rhi	_	VERB	TAM.PNG	_	19	comp	_	AlignBegin=130576|AlignEnd=130812|Gloss=see|MGloss=see-AOR.3SG.M|MSeg=rh-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
 19	=hoːb	_	SCONJ	PUNCT	_	24	mod	_	AlignBegin=130812|AlignEnd=131165|Gloss=when\=when|RX==[CONJ]|TokenType=Clit
 20	/	_	PUNCT	DET	_	19	punct	_	AlignBegin=131165|AlignEnd=131340|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -579,6 +603,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_158-171
 # text = winneːt gadabat takat waːwtiːt / rhi =jeːb oː= doːr / ʔagartiːt / j= ʔar =eː beːtiːt / eːn j= hankʷila ji= iːbri =jeːb / hankʷila =b =wa / kiʃja =b =wwa iːbri =ajt / oːt ti= takat / haːj mʔaːna =heːb indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = winneːt gadabat takat waːwtiːt / rhijeːb oːdoːr / ʔagartiːt / jʔareː beːtiːt / eːn jhankʷila jiʔiːbirijeːb / hankʷilaːbwa / kiʃjaːbwa iːbirajt / oːt titakat / haːj mʔaːnheːb indi eːn //
 # text_en = When he saw the very sad woman crying, he went back and went to his children, to the helpful lads he had because he had young ones and servants, he says: "Bring me this woman!", they said.
 1	winneːt	_	ADV	ADV	_	2	mod	_	AlignBegin=132572|AlignEnd=133054|Gloss=plenty|RX=[ADV]|TokenType=Root
@@ -586,8 +611,8 @@
 3	takat	_	NOUN	N	Gender=Fem	4	subj	_	AlignBegin=133536|AlignEnd=134018|Gloss=woman|RX=[N].[F]|TokenType=Root
 4	waːwtiːt	_	VERB	V2	VerbClass=2	6	mod	_	AlignBegin=134018|AlignEnd=134500|Gloss=weep|MGloss=weep-CVB.SEQ|MSeg=waːw-tiːt|RX=[V2]-.|TokenType=Root
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=134500|AlignEnd=135775|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-6	rhi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	7	comp	_	AlignBegin=135775|AlignEnd=135996|Gloss=see|MGloss=see-AOR.3SG.M|MSeg=rh-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
-7	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl	_	AlignBegin=135996|AlignEnd=136107|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+6	rhi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	7	comp	_	AlignBegin=135775|AlignEnd=135996|Filler=Obj|Gloss=see|MGloss=see-AOR.3SG.M|MSeg=rh-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
+7	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=135996|AlignEnd=136107|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 8	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	det	_	AlignBegin=136107|AlignEnd=136273|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 9	doːr	_	NOUN	N	Gender=Masc	11	mod	_	AlignBegin=136273|AlignEnd=136439|Gloss=time|RX=[N].[M]|TokenType=Root
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=136439|AlignEnd=137402|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -601,9 +626,9 @@
 18	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	20	det	_	AlignBegin=139725|AlignEnd=140038|Gloss=PROX.PL.M.ACC|RX=[DEM]|TokenType=Root
 19	j=	_	DET	DET	Definite=Def|Gender=Masc	20	det	_	AlignBegin=140038|AlignEnd=140142|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 20	hankʷila	_	NOUN	N	Gender=Masc|Number=Plur	42	comp:obl	_	AlignBegin=140142|AlignEnd=140352|Gloss=helpful_lad|MGloss=helpful_lad-PL|MSeg=hankʷil-a|RX=[N].[M]-.|TokenType=Root
-21	ji=	_	PRON	CONJ.REL	Gender=Masc|Number=Plur|PronType=Rel	22	comp:obj	_	AlignBegin=140352|AlignEnd=140430|Gloss=REL.PL.M=|RX=[CONJ]=|TokenType=Clit
-22	iːbri	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	23	comp	_	AlignBegin=140430|AlignEnd=140586|Gloss=have\AOR|MGloss=3SG.M-have\AOR|MSeg=iː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
-23	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	20	mod@relcl	_	AlignBegin=140586|AlignEnd=140665|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+21	ji=	ji=	PRON	CONJ.REL	Gender=Masc|Number=Plur|PronType=Rel	22	comp:obj	_	AlignBegin=140352|AlignEnd=140430|Gloss=REL.PL.M=|RX=[CONJ]=|TokenType=Clit
+22	iːbri	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	23	comp	_	AlignBegin=140430|AlignEnd=140586|Filler=Obj|Gloss=have\AOR|MGloss=3SG.M-have\AOR|MSeg=iː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
+23	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	20	mod@relcl$obj	_	AlignBegin=140586|AlignEnd=140665|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 24	/	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=140665|AlignEnd=140979|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 25	hankʷila	_	NOUN	N	Gender=Masc|Number=Plur	29	conj:coord	_	AlignBegin=140979|AlignEnd=141184|Gloss=helpful_lad|MGloss=helpful_lad-PL|MSeg=hankʷil-a|RX=[N].[M]-.|TokenType=Root
 26	=b	_	DET	DET	Case=Acc|Gender=Masc	25	det	_	AlignBegin=141184|AlignEnd=141287|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
@@ -628,6 +653,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_172-175
 # text = ti= takat =i =da jʔeːn =aːt j= ʔar / jhaki ijadna eːn // uːn uː= tak hanriːw =hoːk =aj //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = titakatida jʔeːnaːt jʔar / jkaki ijadna eːn // uːn uːtak harriːwhoːkaj //
 # text_en = The boys go to the woman and  tell her: "Come", they said,  "Because this man is looking for you."
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=146401|AlignEnd=146476|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -653,6 +679,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_176-180
 # text = dhaːj ʔeːti =jaːt / dhaːj hadiːdti =jaːt / uːn ani ʔarit /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = dhaːj ʔeːtijaːt / dhaːj hadiːdtijaːt / uːn ani ʔarit /
 # text_en = She comes to him and she tells him: "As for me, my daughters..."
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=150591|AlignEnd=150939|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -670,6 +697,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_181-181
 # text = naːn hoːk ammar~rijaːt =u //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = naːn hoːk immarrijaːtu //
 # text_en = "What has happened to you?
 1	naːn	_	PRON	PRO	PronType=Int	3	mod	_	AlignBegin=153683|AlignEnd=153978|Gloss=what|RX=[PRO].[Q]|TokenType=Root
@@ -680,6 +708,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_182-186
 # text = haːl =oːk =u // naːn waːwistin =hoːk indi =hoːb / bak tʔiit =eː =naː =t =i oːn aneːb / ʔar =t =i haragʷaːt akajeː ʔiʃaːt =i //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = haːloːku // naːn waːwistinhoːk indihoːb / bak tʔiːteːnaːtiː oːn aneːb / ʔarti hargʷaːt akajeː iʃaːti //
 # text_en = when he says: "What's wrong with you? What makes you cry?" (She says) something like that:  "I left my daughters  hungry.
 1	haːl	_	NOUN	N	Gender=Masc	3	comp:pred	_	AlignBegin=154866|AlignEnd=154973|Gloss=state|RX=[N].[M]|TokenType=Root
@@ -690,14 +719,14 @@
 6	waːwistin	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	8	comp:obj	_	AlignBegin=155774|AlignEnd=155974|Gloss=weep|MGloss=weep-CAUS-IPFV.3SG.F|MSeg=waːw-is-tin|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
 7	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	6	comp:obj	_	AlignBegin=155974|AlignEnd=156041|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 8	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	9	comp	_	AlignBegin=156041|AlignEnd=156218|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-9	=hoːb	_	SCONJ	CONJ	_	16	mod	_	AlignBegin=156218|AlignEnd=156307|Gloss==when|RX==[CONJ]|TokenType=Root
+9	=hoːb	_	SCONJ	CONJ	_	26	mod	_	AlignBegin=156218|AlignEnd=156307|Gloss==when|RX==[CONJ]|TokenType=Root
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=156307|AlignEnd=156574|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 11	bak	_	PART	DEICT	_	16	mod	_	AlignBegin=156574|AlignEnd=156833|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 12	tʔiit	_	NOUN	V1	VerbClass=1	13	comp	_	AlignBegin=156833|AlignEnd=156919|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-13	=eː	_	SCONJ	CONJ.REL	PronType=Rel	14	mod@relcl	_	AlignBegin=156919|AlignEnd=156963|Gloss==REL|RX==[CONJ]|TokenType=Clit
+13	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	14	mod@relcl	_	AlignBegin=156919|AlignEnd=156963|Gloss==REL|RX==[CONJ]|TokenType=Clit
 14	=naː	_	NOUN	CONJ	_	16	comp:pred	_	AlignBegin=156963|AlignEnd=157006|Gloss==thing|RX==[CONJ]|TokenType=Clit
 15	=t	_	DET	DET	Gender=Fem	14	det	_	AlignBegin=157006|AlignEnd=157049|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-16	=i	_	AUX	POSTP	Number=Sing|Person=3	25	comp:obj	_	AlignBegin=157049|AlignEnd=157093|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[NOM]|TokenType=Clit
+16	=i	_	AUX	POSTP	Number=Sing|Person=3	26	parataxis:parenth	_	AlignBegin=157049|AlignEnd=157093|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[NOM]|TokenType=Clit
 17	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	18	det	_	AlignBegin=157093|AlignEnd=157353|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 18	aneːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	25	discourse	_	AlignBegin=157353|AlignEnd=157613|Gloss=1SG.ACC|RX=[PRO]|TokenType=Root
 19	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=157613|AlignEnd=157873|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -712,13 +741,14 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_187-189
 # text = ti= mʔari ti= tamiːn =eːt / ki= ibarin //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = timʔari titamiːneːt / kiːbariːn //
 # text_en = They have nothing to eat.
 1	ti=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=160529|AlignEnd=160755|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 2	mʔari	_	NOUN	N	Gender=Fem	8	comp:obj	_	AlignBegin=160755|AlignEnd=160982|Gloss=food|RX=[N].[F]|TokenType=Root
-3	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	4	comp:obj	_	AlignBegin=160982|AlignEnd=161095|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
-4	tamiːn	_	VERB	V2	Number=Plur|VerbClass=2	5	comp	_	AlignBegin=161095|AlignEnd=161321|Gloss=eat|MGloss=eat-AOR.3PL|MSeg=tam-iːn|RX=[V2]-[TAM].[PNG]|TokenType=Root
-5	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	2	mod@relcl	_	AlignBegin=161321|AlignEnd=161435|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+3	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	4	comp:obj	_	AlignBegin=160982|AlignEnd=161095|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+4	tamiːn	_	VERB	V2	Number=Plur|VerbClass=2	5	comp	_	AlignBegin=161095|AlignEnd=161321|Filler=Obj|Gloss=eat|MGloss=eat-AOR.3PL|MSeg=tam-iːn|RX=[V2]-[TAM].[PNG]|TokenType=Root
+5	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	2	mod@relcl$obj	_	AlignBegin=161321|AlignEnd=161435|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 6	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=161435|AlignEnd=161888|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 7	ki=	_	PART	PTCL	Aspect=Imp	8	mod	_	AlignBegin=161888|AlignEnd=161989|Gloss=NEG.IPFV=|RX=[PTCL]=|TokenType=Clit
 8	ibarin	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	0	root	_	AlignBegin=161989|AlignEnd=162293|Gloss=have\IPFV|MGloss=3-have\IPFV-PL|MSeg=i-bari-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
@@ -726,6 +756,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_190-200
 # text = uːn ani / i= gaːdi abaj =t / mʔari =t / t= ʔar =t =i aniːw =eːt hi =heːb // iri ani =jeːb oː= doːr / lhajt ijaːw =hoːk andi =aj / mʔii ini =heːb /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = uːn ani / igaːdi abajt / mʔarit / tʔarti aniːweːt hiheːb // iri anijeːb oːdoːr / lhajt ijaːwhoːk andej / mʔiː inheːb /
 # text_en = I went to the judge, and when I told him yesterday: "Give me something to eat that I'll give to my daughters!" he told me: "Come tomorrow I'll give you something!"
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	det	_	AlignBegin=163345|AlignEnd=163532|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
@@ -743,14 +774,14 @@
 13	ʔar	_	NOUN	N	Gender=Masc|Number=Plur	16	comp:obj	_	AlignBegin=166029|AlignEnd=166113|Gloss=child\M.PL|RX=[N]|TokenType=Root
 14	=t	_	DET	DET	Gender=Fem	13	det	_	AlignBegin=166113|AlignEnd=166197|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 15	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	13	udep@poss	_	AlignBegin=166197|AlignEnd=166281|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
-16	aniːw	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	17	comp	_	AlignBegin=166281|AlignEnd=166504|Gloss=give\IPFV|MGloss=1SG-give\IPFV|MSeg=a-niːw|RX=[PNG]-[V1].[IRG]|TokenType=Root
-17	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	9	mod@relcl	_	AlignBegin=166504|AlignEnd=166616|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+16	aniːw	_	VERB	V1	Aspect=Imp|Number=Sing|VerbClass=1	17	comp	_	AlignBegin=166281|AlignEnd=166504|Filler=Obj|Gloss=give\IPFV|MGloss=1SG-give\IPFV|MSeg=a-niːw|RX=[PNG]-[V1].[IRG]|TokenType=Root
+17	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=166504|AlignEnd=166616|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 18	hi	_	VERB	V1	Gender=Masc|Mood=Imp|Number=Sing|VerbClass=1	22	comp:obj	_	AlignBegin=166616|AlignEnd=166783|Gloss=give.IMP.SG.M|Reported=Yes|RX=[V1].[IRG]|TokenType=Root
 19	=heːb	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	18	comp:obj@R	_	AlignBegin=166783|AlignEnd=166951|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 20	//	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=166951|AlignEnd=167469|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 21	iri	_	ADV	ADV	_	22	mod	_	AlignBegin=167469|AlignEnd=167718|Gloss=yesterday|RX=[ADV]|TokenType=Root
-22	ani	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	23	comp	_	AlignBegin=167718|AlignEnd=167884|Gloss=say\PFV|MGloss=1SG-say\PFV|MSeg=a-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
-23	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	25	mod@relcl	_	AlignBegin=167884|AlignEnd=167968|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+22	ani	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	23	comp	_	AlignBegin=167718|AlignEnd=167884|Filler=Obj|Gloss=say\PFV|MGloss=1SG-say\PFV|MSeg=a-ni|RX=[PNG]-[V1].[IRG]|TokenType=Root
+23	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	25	mod@relcl$obj	_	AlignBegin=167884|AlignEnd=167968|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 24	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	25	det	_	AlignBegin=167968|AlignEnd=168092|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 25	doːr	_	NOUN	N	Gender=Masc	30	mod	_	AlignBegin=168092|AlignEnd=168217|Gloss=time|RX=[N].[M]|TokenType=Root
 26	/	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=168217|AlignEnd=168467|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -767,6 +798,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_201-204
 # text = dhaːj jʔan =hoːb / uːn uː= kna i= neːwa =jeːb naː =t dh =i ʔiʃat irib /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = dhaːj jʔanhoːb / uːn uːkna ineːwajeːb naːt dhi ʔiʃat irib /
 # text_en = When I went to his place, he insulted me with all possible insults.
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=170873|AlignEnd=171161|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -789,6 +821,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_205-206
 # text = beːt tuː= na waːwistini =heːb tidi //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = beːt tuːna waːwistinheːb tidi //
 # text_en = That is what made me cry", she said.
 1	beːt	_	DET	DEM	Case=Nom|Deixis=Remt|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=175242|AlignEnd=175591|Gloss=DIST.SG.F.NOM|RX=[DEM]|TokenType=Root
@@ -801,6 +834,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_207-212
 # text = j= ʔar =eːheː dhaːj / alif / diːnaːra hiːna / indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = jʔareːheː dhaːj / alif / diːnaːra hiːna / indi eːn //
 # text_en = He says: "Give one thousand dinars to her sons (sic)!", they said.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=177432|AlignEnd=177541|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -819,6 +853,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_213-220
 # text = oːt ti= takat // mhaj =t // taːga / halaka =jeː =t hiːna indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = oːt titakat // mhajt // taːga / halakaːjeːt hiːna indi eːn //
 # text_en = He says: "Give this woman three bolts of cloth!", they said.
 1	oːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=182201|AlignEnd=182577|Gloss=PROX.SG.F.ACC|RX=[DEM]|TokenType=Root
@@ -840,6 +875,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_221-221
 # text = mhaj =t taːga halaka =jeː =t eːwna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = mhajt taːga halakaːjeːt eːwna /
 # text_en = They give her three bolts of cloth.
 1	mhaj	_	NUM	NUM	_	3	mod	_	AlignBegin=187726|AlignEnd=187909|Gloss=three|RX=[NUM]|TokenType=Root
@@ -853,14 +889,15 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_222-226
 # text = w= alif wi= dijaːb iːkti =jeːb eːjawna =t / t= ʔar =t =eː / ahiːt teːbi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = wʔalif widijaːb iːktijeːb eːjawnat / tʔarteː / ahiːt teːbi eːn //
 # text_en = They give her the thousand dinars that he had mentioned, and she goes to her daughters to give them to them, they said.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=189556|AlignEnd=189760|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 2	alif	_	NUM	NUM	_	7	comp:obj	_	AlignBegin=189760|AlignEnd=189964|Gloss=thousand|RX=[NUM]|TokenType=Root
-3	wi=	_	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	5	comp:obj	_	AlignBegin=189964|AlignEnd=190066|Gloss=REL.M=|RX=[CONJ]=|TokenType=Clit
+3	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	5	comp:obj	_	AlignBegin=189964|AlignEnd=190066|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
 4	dijaːb	_	VERB	V1	Gender=Masc|VerbClass=1	5	comp:pred	_	AlignBegin=190066|AlignEnd=190373|Gloss=say|MGloss=say-CVB.MNR-INDF.M.ACC|MSeg=di-jaː-b|RX=[V1].[IRG]-[PRF]-[DET]|TokenType=Root
-5	iːkti	_	VERB	AUX	Aspect=Aor|Gender=Masc|Number=Sing	6	comp	_	AlignBegin=190373|AlignEnd=190645|Gloss=become\AOR|MGloss=3SG.M-become\AOR|MSeg=iː-kti|RX=[PNG]-[AUX].[PRF]|TokenType=Root
-6	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	2	mod@relcl	_	AlignBegin=190645|AlignEnd=190781|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+5	iːkti	_	VERB	AUX	Aspect=Aor|Gender=Masc|Number=Sing	6	comp	_	AlignBegin=190373|AlignEnd=190645|Filler=Obj|Gloss=become\AOR|MGloss=3SG.M-become\AOR|MSeg=iː-kti|RX=[PNG]-[AUX].[PRF]|TokenType=Root
+6	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	2	mod@relcl$obj	_	AlignBegin=190645|AlignEnd=190781|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 7	eːjawna	_	VERB	V1	Aspect=Imp|Number=Plur|Person=3|VerbClass=1	15	conj:coord	_	AlignBegin=190781|AlignEnd=190985|Gloss=give\IPFV.3PL|RX=[V1].[IRG]|TokenType=Root
 8	=t	_	CCONJ	CONJ	_	7	cc	_	AlignBegin=190985|AlignEnd=191190|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 9	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=191190|AlignEnd=192115|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -876,6 +913,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_227-232
 # text = gaːl dirhim =iː / oːt ti= mʔari / i= ʤinsa / kass =eː dhaːj daːlibtiːt / haːj ʔeːtni /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = gaːl dirhimiː / oːt timʔari / iʤinsa / kasseː dhaːj daːlibtiːt / haːj ʔeːtni /
 # text_en = From one dirham, she buys all sorts of food and she brings them to them.
 1	gaːl	_	NUM	NUM	_	2	mod	_	AlignBegin=194875|AlignEnd=195275|Gloss=one|RX=[NUM]|TokenType=Root
@@ -900,6 +938,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_233-236
 # text = t= ʔar =t =aː / tameːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = tʔartaː / tameːn /
 # text_en = Her daughters eat.
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=200005|AlignEnd=200076|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -912,6 +951,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_237-238
 # text = gabeːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = gabeːn /
 # text_en = They eat their fill.
 1	gabeːn	_	VERB	V2	Number=Plur|VerbClass=2	0	root	_	AlignBegin=202314|AlignEnd=202648|Gloss=be_rich|MGloss=be_rich-IPFV.3PL|MSeg=gab-eːn|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -919,6 +959,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_239-239
 # text = afirheːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = afirheːna /
 # text_en = They are happy.
 1	afirheːna	_	VERB	V2	Number=Plur|VerbClass=2	0	root	_	AlignBegin=203435|AlignEnd=203967|Gloss=rejoice|MGloss=rejoice-IPFV.3PL|MSeg=afirh-eːna|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -926,6 +967,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_240-240
 # text = hawaːjeːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = hawaːjeːna /
 # text_en = They play.
 1	hawaːjeːna	_	VERB	V2	Number=Plur|VerbClass=2	0	root	_	AlignBegin=204499|AlignEnd=204978|Gloss=play|MGloss=play-IPFV.3PL|MSeg=hawaː-jeːna|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -933,6 +975,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_241-242
 # text = rajjhameːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = rajjhameːn //
 # text_en = They are happy.
 1	rajjhameːn	_	VERB	V2	Number=Plur|VerbClass=2	0	root	_	AlignBegin=205457|AlignEnd=205854|Gloss=calm_down|MGloss=calm_down-MID-IPFV.3PL|MSeg=rajjh-am-eːn|RX=[V2]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
@@ -940,6 +983,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_243-247
 # text = amas / uːn i= gaːdi diwi =jeːb oː= doːr / ti= gijaːma jhaktan =eːb hiːsiːni //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = amas / uːn igaːdi diwijeːb oːdoːr / tigijaːma jhaktaneːb hiːsiːni //
 # text_en = At night, when this judge is asleep, he dreams that doomsday has come.
 1	amas	_	ADV	ADV	_	6	mod	_	AlignBegin=206648|AlignEnd=207011|Gloss=at_night|RX=[ADV]|TokenType=Root
@@ -947,8 +991,8 @@
 3	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	5	det	_	AlignBegin=207375|AlignEnd=207742|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
 4	i=	_	DET	DET	Definite=Def|Gender=Masc	5	det	_	AlignBegin=207742|AlignEnd=207926|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 5	gaːdi	_	NOUN	N	Gender=Masc	6	subj	_	AlignBegin=207926|AlignEnd=208110|Gloss=judge|RX=[SBJ].[N].[M]|TokenType=Root
-6	diwi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	7	comp	_	AlignBegin=208110|AlignEnd=208354|Gloss=sleep|MGloss=sleep-AOR.3SG.M|MSeg=diw-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
-7	=jeːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl	_	AlignBegin=208354|AlignEnd=208477|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+6	diwi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	7	comp	_	AlignBegin=208110|AlignEnd=208354|Filler=Obj|Gloss=sleep|MGloss=sleep-AOR.3SG.M|MSeg=diw-i|RX=[V2]-[TAM].[PNG]|TokenType=Root
+7	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=208354|AlignEnd=208477|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 8	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	det	_	AlignBegin=208477|AlignEnd=208661|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 9	doːr	_	NOUN	N	Gender=Masc	15	mod	_	AlignBegin=208661|AlignEnd=208845|Gloss=time|RX=[N].[M]|TokenType=Root
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=208845|AlignEnd=209636|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -961,6 +1005,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_248-252
 # text = malaːʔik dhaːj jʔeːtiːt / haːj giːgeːn =aːt // ti= ʤanna rhiiseːn eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = < malaːʔik > dhaːj jʔeːtiːt / haːj giːgeːnaːt // tiʤanna rhiseːn eːn //
 # text_en = Angels come to him and take him away and they show him the paradise, they said.
 1	malaːʔik	_	X	_	Foreign=Yes|Number=Plur	3	subj	_	AlignBegin=212398|AlignEnd=212617|Gloss=angel\PL|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
@@ -979,6 +1024,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_253-254
 # text = jaːguːt hoːj hi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = jaːguːt hoːj ihi /
 # text_en = There was  a precious stone in it.
 1	jaːguːt	_	NOUN	N	Gender=Masc	3	subj	_	AlignBegin=216756|AlignEnd=217052|Gloss=precious_stone|RX=[SBJ].[N].[M]|TokenType=Root
@@ -988,6 +1034,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_255-256
 # text = i= ʤoːhar hoːj ihi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = iʤoːhar hoːj hi /
 # text_en = There were jewels in it.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=218112|AlignEnd=218271|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -998,6 +1045,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_257-259
 # text = t= huːri / ti= daːwri =i daːwrija haat hoːj hiin /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = thuːri / tidaːwriː daːwrija haːt hoːj hiːn /
 # text_en = There were very beautiful houris in it.
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=219930|AlignEnd=220037|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1014,6 +1062,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_260-260
 # text = ʃibiba eːdna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = ʃibiba eːdna eːn //
 # text_en = They tell him: "Look!", they said.
 1	ʃibiba	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	2	comp:obj	_	AlignBegin=222871|AlignEnd=223082|Gloss=look|MGloss=look-IMP.SG.M|MSeg=ʃibib-a|Reported=Yes|RX=[V1]-[TAM].[PNG]|TokenType=Root
@@ -1023,6 +1072,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_261-266
 # text = uːt ti= ʤanna suːr / barijoːk =dha // sibisirab iːktiːn =i / gasir =i eːdna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = uːt tiʤanna suːr / barijoːkdha // sibasiraːb iːktiːni / gasiri eːdna eːn //
 # text_en = "Before, this paradise  that they had allocated you, was a castle", they tell him, they said.
 1	uːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=223715|AlignEnd=223947|Gloss=PROX.SG.F.NOM|RX=[DEM]|TokenType=Root
@@ -1034,8 +1084,8 @@
 7	=dha	_	ADP	POSTP	_	10	comp:obl	_	AlignBegin=225066|AlignEnd=225236|Gloss==DIR|RX==[POSTP]|TokenType=Clit
 8	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=225236|AlignEnd=226064|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 9	sibisirab	_	VERB	V1	Gender=Masc|VerbClass=1	10	comp:pred	_	AlignBegin=226064|AlignEnd=226520|Gloss=manage|MGloss=CAUS-manage-CVB.MNR-INDF.M.ACC|MSeg=si-bisir-a-b|RX=[V1].[DER]-[V1]-[PRF]-[DET]|TokenType=Root
-10	iːktiːn	_	VERB	AUX	Aspect=Aor|Number=Plur	11	comp	_	AlignBegin=226520|AlignEnd=226862|Gloss=become\AOR|MGloss=3-become\AOR-PL|MSeg=iː-ktiː-n|RX=[PNG]-[AUX].[PRF]-[PNG]|TokenType=Root
-11	=i	_	SCONJ	CONJ.REL	PronType=Rel	3	mod@relcl	_	AlignBegin=226862|AlignEnd=226977|Gloss==REL|RX==[CONJ]|TokenType=Clit
+10	iːktiːn	_	VERB	AUX	Aspect=Aor|Number=Plur	11	comp	_	AlignBegin=226520|AlignEnd=226862|Filler=Obj|Gloss=become\AOR|MGloss=3-become\AOR-PL|MSeg=iː-ktiː-n|RX=[PNG]-[AUX].[PRF]-[PNG]|TokenType=Root
+11	=i	=i	SCONJ	CONJ.REL	PronType=Rel	3	mod@relcl$obj	_	AlignBegin=226862|AlignEnd=226977|Gloss==REL|RX==[CONJ]|TokenType=Clit
 12	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=226977|AlignEnd=227434|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 13	gasir	_	NOUN	N	Gender=Masc	14	comp:pred	_	AlignBegin=227434|AlignEnd=227541|Gloss=castle|RX=[N].[M]|TokenType=Root
 14	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	15	comp:obj	_	AlignBegin=227541|AlignEnd=227649|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
@@ -1045,6 +1095,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_267-280
 # text = uːn i= gasir =wa / oːn / ti= daːjinaj / t= hoː heːn =t // baruːk / eːt ti= tamaʔa ti= tiːbri =jeː =naː =t =eː / thagil =t / sijjaːdoːk nheː indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = uːn igasirwa / oːn / tidaːjinaj / thoː heːnt // baruːk / eːt titamaʔa titiːbirijeːnaːteː / thagilt / sijjaːdoːk nheː indi eːn //
 # text_en = "This castle and   the good deeds that are in it,  you won't have them, because of this miserliness that you had and  we gave them to Siyadok", he says, they said.
 1	uːn	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=228296|AlignEnd=228613|Gloss=PROX.SG.M.NOM|RX=[DEM]|TokenType=Root
@@ -1055,25 +1106,25 @@
 6	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	9	discourse	_	AlignBegin=229464|AlignEnd=229613|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=229613|AlignEnd=230214|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 8	ti=	_	DET	DET	Definite=Def|Gender=Fem	9	det	_	AlignBegin=230214|AlignEnd=230333|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-9	daːjinaj	_	NOUN	ADJ	Number=Plur	32	dislocated:obj	_	AlignBegin=230333|AlignEnd=230572|Gloss=good|MGloss=good-ABST.PL|MSeg=daːji-naj|RX=[ADJ]-[SUFX]|TokenType=Root
+9	daːjinaj	_	NOUN	ADJ	Number=Plur	28	dislocated:obj	_	AlignBegin=230333|AlignEnd=230572|Gloss=good|MGloss=good-ABST.PL|MSeg=daːji-naj|RX=[ADJ]-[SUFX]|TokenType=Root
 10	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=230572|AlignEnd=230931|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	t=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	13	comp:obj	_	AlignBegin=230931|AlignEnd=231012|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+11	t=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	13	comp:obj	_	AlignBegin=230931|AlignEnd=231012|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 12	hoː	_	PRON	PRO	Case=Dat|Number=Sing|Person=3	13	comp:obl	_	AlignBegin=231012|AlignEnd=231093|Gloss=3SG.DAT|RX=[PRO]|TokenType=Root
-13	heːn	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	14	comp	_	AlignBegin=231093|AlignEnd=231201|Gloss=be_there\IPFV|MGloss=be_there\IPFV-3PL|MSeg=heː-n|RX=[V1].[IRG]-[PNG]|TokenType=Root
-14	=t	_	SCONJ	REL	Gender=Fem|PronType=Rel	9	mod@relcl	_	AlignBegin=231201|AlignEnd=231255|Gloss==INDF.F|RX==[REL]|TokenType=Clit
+13	heːn	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	14	comp	_	AlignBegin=231093|AlignEnd=231201|Filler=Subj|Gloss=be_there\IPFV|MGloss=be_there\IPFV-3PL|MSeg=heː-n|RX=[V1].[IRG]-[PNG]|TokenType=Root
+14	=t	=t	SCONJ	REL	Gender=Fem|PronType=Rel	9	mod@relcl$subj	_	AlignBegin=231201|AlignEnd=231255|Gloss==INDF.F|RX==[REL]|TokenType=Clit
 15	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=231255|AlignEnd=232291|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-16	baruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	28	subj	_	AlignBegin=232291|AlignEnd=232582|Gloss=2SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
+16	baruːk	_	PRON	PRO	Case=Nom|Gender=Masc|Number=Sing|Person=2	28	dislocated:subj	_	AlignBegin=232291|AlignEnd=232582|Gloss=2SG.M.NOM|RX=[SBJ].[PRO]|TokenType=Root
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=232582|AlignEnd=232874|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 18	eːt	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Fem|Number=Plur|PronType=Dem	20	det	_	AlignBegin=232874|AlignEnd=233409|Gloss=PROX.PL.F.ACC|RX=[DEM]|TokenType=Root
 19	ti=	_	DET	DET	Definite=Def|Gender=Fem	20	det	_	AlignBegin=233409|AlignEnd=233676|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-20	tamaʔa	_	NOUN	N	Foreign=Yes|Gender=Fem	28	subj	_	AlignBegin=233676|AlignEnd=233944|Gloss=miserliness|Lang=ar|RX=[N].[F].[BORR].[ARA]|TokenType=Root
-21	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	22	subj	_	AlignBegin=233944|AlignEnd=234020|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
-22	tiːbri	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	23	comp	_	AlignBegin=234020|AlignEnd=234173|Gloss=have\AOR|MGloss=2SG.M-have\AOR|MSeg=tiː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
-23	=jeː	_	SCONJ	CONJ.REL	PronType=Rel	24	mod@relcl	_	AlignBegin=234173|AlignEnd=234249|Gloss==REL|RX==[CONJ]|TokenType=Clit
-24	=naː	_	NOUN	CONJ	_	26	udep	_	AlignBegin=234249|AlignEnd=234326|Gloss==thing|RX==[CONJ]|TokenType=Clit
+20	tamaʔa	_	NOUN	N	Foreign=Yes|Gender=Fem	26	comp	_	AlignBegin=233676|AlignEnd=233944|Gloss=miserliness|Lang=ar|RX=[N].[F].[BORR].[ARA]|TokenType=Root
+21	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	22	comp:obj	_	AlignBegin=233944|AlignEnd=234020|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+22	tiːbri	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	23	comp	_	AlignBegin=234020|AlignEnd=234173|Filler=Obj|Gloss=have\AOR|MGloss=2SG.M-have\AOR|MSeg=tiː-bri|RX=[PNG]-[V1].[IRG]|TokenType=Root
+23	=jeː	=eː	SCONJ	CONJ.REL	PronType=Rel	24	mod@relcl$obj	_	AlignBegin=234173|AlignEnd=234249|Gloss==REL|RX==[CONJ]|TokenType=Clit
+24	=naː	_	NOUN	CONJ	_	20	conj:appos	_	AlignBegin=234249|AlignEnd=234326|Gloss==thing|RX==[CONJ]|TokenType=Clit
 25	=t	_	DET	DET	Gender=Fem	24	det	_	AlignBegin=234326|AlignEnd=234402|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-26	=eː	_	ADP	CASE	Case=Gen|Number=Plur	20	mod	_	AlignBegin=234402|AlignEnd=234479|Gloss==GEN.PL|RX==[CASE]|TokenType=Clit
-27	/	_	PUNCT	PUNCT	_	20	punct	_	AlignBegin=234479|AlignEnd=235709|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
+26	=eː	_	ADP	CASE	Case=Gen|Number=Plur	28	mod	_	AlignBegin=234402|AlignEnd=234479|Gloss==GEN.PL|RX==[CASE]|TokenType=Clit
+27	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=234479|AlignEnd=235709|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 28	thagil	_	VERB	V1	Aspect=Perf|Number=Sing|VerbClass=1	32	conj:coord	_	AlignBegin=235709|AlignEnd=236037|Gloss=miss\PFV|MGloss=2SG-miss\PFV|MSeg=t-hagil|RX=[PNG]-[V1]|TokenType=Root
 29	=t	_	CCONJ	CONJ	_	28	cc	_	AlignBegin=236037|AlignEnd=236201|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 30	/	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=236201|AlignEnd=236992|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1085,6 +1136,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_281-286
 # text = daːji =t =i diːt / winneːt siraːkʷoːma =wa / gadaba =wa / ʔasti fariːni eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = daːjiti diːt / winneːt siraːkʷoːmaːwa / gadabaːwa / ʔasti fariːni eːn /
 # text_en = "Well", he says and he jumps up out of fright and anger, they said,
 1	daːji	_	ADJ	ADJ	_	3	comp:pred	_	AlignBegin=239338|AlignEnd=239440|Gloss=good|RX=[ADJ]|TokenType=Root
@@ -1106,6 +1158,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_287-289
 # text = tʔa toː= nʔeː =t =u =j // i= daːr =uːk baruːk ijadna //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = tʔa toːnʔeːtuːj // idaːruːk baruːk ijadna //
 # text_en = "Now, you, your destiny will really be the Hell, they say.
 1	tʔa	_	ADV	ADV	_	5	mod	_	AlignBegin=245027|AlignEnd=245382|Gloss=now|RX=[ADV]|TokenType=Root
@@ -1124,6 +1177,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_290-296
 # text = ɖaːbeː dhaːj jʔeːtiːt oːn / sijjaːdoːk =iːb i= ɖeːfa inkʷiːl =hoːb // j= hankʷila =jaː dhaːj jhaki =t / i= ɖeːfa dhaːj inaːgilna //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = ɖaːbeː dhaːj jʔeːtiːt oːn / sijjaːdoːkiːb iɖeːfa inkʷiːlhoːb // jhankʷilaːjaː dhaːj jhakit / iɖeːfa dhaːj inaːgilna //
 # text_en = He went to Siyadok running, and when the judge knocks at Siyadok's door, his helpful lads got up towards him and  opened the doors for him.
 1	ɖaːbeː	_	VERB	V2	VerbClass=2	3	mod	_	AlignBegin=248895|AlignEnd=249167|Gloss=run|MGloss=run-CVB.SMLT|MSeg=ɖaːb-eː|RX=[V2]-.|TokenType=Root
@@ -1153,6 +1207,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_297-299
 # text = i= ɖeːfa dhaːj inaːgilna =aːt // ʃuːmiːni //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = iɖeːfa dhaːj inaːgilnaːt // ʃuːmiːni //
 # text_en = They opened the doors for him and he comes in.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=255965|AlignEnd=256142|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -1166,6 +1221,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_300-301
 # text = oːn amsi umbaruːk / naːn tifirʔa indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = oːn amsi umbaruːk / naːn tifirʔa indi eːn //
 # text_en = "Today, you, what did you give?" he says, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	2	discourse	_	AlignBegin=258488|AlignEnd=258692|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
@@ -1180,6 +1236,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_302-303
 # text = naː =t karaːma tifirʔa indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = naːt karaːma tifirʔa indi eːn //
 # text_en = He says: "Which (type of) alms did you give?", they said.
 1	naː	_	PRON	PRO	PronType=Int	4	mod	_	AlignBegin=260430|AlignEnd=260585|Gloss=which|RX=[PRO].[Q]|TokenType=Root
@@ -1192,19 +1249,20 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_304-310
 # text = tuːt tuː= na ti= tifirʔa =jeːt / alif =iː ba= amraːj na / ti= dijja =t =iːb tikati =jeːk // uːn ani naː =t firʔaaːb ka= aki //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = tuːt tuːna titifirʔajeːt / alfiː bamraːj na / tidijjaːtiːb tikatjeːk // uːn ani naːt firʔaːb kaːki //
-# text_en = "The thing that you gave,  since it is something that I do not find even for one thousand dinars in the lower world,  I did not give it.
+# text_en = "The thing that you gave,  since it is something in the lower world that I do not find even for one thousand dinars,  I did not give it.
 1	tuːt	_	DET	DEM	Case=Nom|Deixis=Prox|Gender=Fem|Number=Sing|PronType=Dem	3	det	_	AlignBegin=262748|AlignEnd=263080|Gloss=PROX.SG.F.NOM|RX=[DEM]|TokenType=Root
 2	tuː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	3	det	_	AlignBegin=263080|AlignEnd=263246|Gloss=DEF.SG.F.NOM=|RX=[DET]=|TokenType=Clit
 3	na	_	NOUN	N	Gender=Fem	18	subj	_	AlignBegin=263246|AlignEnd=263412|Gloss=thing|RX=[SBJ].[N].[F]|TokenType=Root
-4	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	5	comp:obj	_	AlignBegin=263412|AlignEnd=263495|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
-5	tifirʔa	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	6	comp	_	AlignBegin=263495|AlignEnd=263661|Gloss=take_out\PFV|MGloss=2SG.M-take_out\PFV|MSeg=ti-firʔa|RX=[PNG]-[V1]|TokenType=Root
-6	=jeːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	3	mod@relcl	_	AlignBegin=263661|AlignEnd=263744|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+4	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	5	comp:obj	_	AlignBegin=263412|AlignEnd=263495|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+5	tifirʔa	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	6	comp	_	AlignBegin=263495|AlignEnd=263661|Filler=Obj|Gloss=take_out\PFV|MGloss=2SG.M-take_out\PFV|MSeg=ti-firʔa|RX=[PNG]-[V1]|TokenType=Root
+6	=jeːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	3	mod@relcl$obj	_	AlignBegin=263661|AlignEnd=263744|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 7	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=263744|AlignEnd=264077|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 8	alif	_	NUM	NUM	_	9	comp	_	AlignBegin=264077|AlignEnd=264257|Gloss=thousand|RX=[NUM]|TokenType=Root
 9	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	11	comp:obl	_	AlignBegin=264257|AlignEnd=264437|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
 10	ba=	_	PART	PTCL	Mood=Opt	11	mod	_	AlignBegin=264437|AlignEnd=264557|Gloss=OPT=|RX=[PTCL]=|TokenType=Clit
-11	amraːj	_	VERB	V1	Mood=Opt|Number=Sing|VerbClass=1	12	mod@relcl	_	AlignBegin=264557|AlignEnd=264798|Gloss=find\NEG.OPT|MGloss=1SG-find\NEG.OPT|MSeg=a-mraːj|RX=[PNG]-[V1].[DER]|TokenType=Root
+11	amraːj	_	VERB	V1	Mood=Opt|Number=Sing|VerbClass=1	12	mod@relcl$obj	_	AlignBegin=264557|AlignEnd=264798|Filler=Obj|Gloss=find\NEG.OPT|MGloss=1SG-find\NEG.OPT|MSeg=a-mraːj|RX=[PNG]-[V1].[DER]|TokenType=Root
 12	na	_	NOUN	N	Gender=Fem	18	subj	_	AlignBegin=264798|AlignEnd=265159|Gloss=thing|RX=[N].[F]|TokenType=Root
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=265159|AlignEnd=265707|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 14	ti=	_	DET	DET	Definite=Def|Gender=Fem	15	det	_	AlignBegin=265707|AlignEnd=265827|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1225,6 +1283,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_311-312
 # text = haː =b gʷʔaan //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = haːb gʷʔan //
 # text_en = I drunk alcohol.
 1	haː	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=269989|AlignEnd=270111|Gloss=alcohol|RX=[N].[M]|TokenType=Root
@@ -1234,6 +1293,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_313-314
 # text = diwan indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = diwan indi eːn //
 # text_en = I slept", he says, they said.
 1	diwan	_	VERB	V2	Number=Sing|VerbClass=2	2	comp:obj	_	AlignBegin=271042|AlignEnd=271236|Gloss=sleep|MGloss=sleep-PFV.1SG|MSeg=diw-an|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -1243,6 +1303,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_315-318
 # text = haː =b gʷʔaa diwaːb ki= tkaj =aj // dh =i hadiːda indi =jaːt //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = haːb gʷʔaː diwaːb kitkajaj // dhi hadiːda indijaːt //
 # text_en = "As you have not slept after having drunk alcohol, tell me everything!", he (the judge) says [and]
 1	haː	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=272941|AlignEnd=273116|Gloss=alcohol|RX=[N].[M]|TokenType=Root
@@ -1262,6 +1323,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_319-325
 # text = dhaːj halla~lafoːji =hoːb // ʔaːmansi =hoːb // ontʔa / dh# dh =i hadiːda ti= rhitaːn =i //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = dhaːj hallalafoːjihoːb // ʔaːmansihoːb // ontʔa / dh# dhi hadiːda tirhitaːni //
 # text_en = when he had sworn to him a lot, when he had convinced him, (Siyadook tells him): "So tell me what you saw!"
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=276458|AlignEnd=276886|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -1277,21 +1339,22 @@
 11	dh	_	ADP	POSTP	_	13	comp:obl	_	AlignBegin=281390|AlignEnd=281568|Gloss=DIR|RX=[POSTP]|TokenType=Root
 12	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	11	comp	_	AlignBegin=281568|AlignEnd=281747|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 13	hadiːda	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=281747|AlignEnd=282103|Gloss=talk|MGloss=talk-IMP.SG.M|MSeg=hadiːd-a|Reported=Yes|RX=[V2]-[TAM].[PNG]|TokenType=Root
-14	ti=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	15	comp:obj	_	AlignBegin=282103|AlignEnd=282174|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
-15	rhitaːn	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	16	mod@relcl	_	AlignBegin=282174|AlignEnd=282388|Gloss=see|MGloss=see-PFV.2SG.M-L|MSeg=rhi-taː-n|RX=[V2]-[TAM].[PNG]-.|TokenType=Root
-16	=i	_	SCONJ	CONJ.REL	PronType=Rel	13	comp:obj	_	AlignBegin=282388|AlignEnd=282460|Gloss==REL|RX==[CONJ]|TokenType=Clit
+14	ti=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	15	comp:obj	_	AlignBegin=282103|AlignEnd=282174|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+15	rhitaːn	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	16	mod@relcl$subj	_	AlignBegin=282174|AlignEnd=282388|Filler=Subj|Gloss=see|MGloss=see-PFV.2SG.M-L|MSeg=rhi-taː-n|RX=[V2]-[TAM].[PNG]-.|TokenType=Root
+16	=i	=i	SCONJ	CONJ.REL	PronType=Rel	13	comp:obj	_	AlignBegin=282388|AlignEnd=282460|Gloss==REL|RX==[CONJ]|TokenType=Clit
 17	//	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=282460|AlignEnd=282817|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_14_sijadok_326-328
-# text = bak tʔiit =eː =naː =t =iː / ʤanna =t rhan /
+# text = bak tʔiit =eː =naː =t =i / ʤanna =t rhan /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = bak tʔiːteːnaːtiː / ʤannaːt rhan /
 # text_en = "I saw something like a paradise,
 1	bak	_	PART	DEICT	_	2	mod	_	AlignBegin=282817|AlignEnd=283182|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 2	tʔiit	_	NOUN	V1	VerbClass=1	3	comp	_	AlignBegin=283182|AlignEnd=283303|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-3	=eː	_	SCONJ	CONJ.REL	PronType=Rel	4	mod@relcl	_	AlignBegin=283303|AlignEnd=283364|Gloss==REL|RX==[CONJ]|TokenType=Clit
-4	=naː	_	NOUN	CONJ	_	6	comp	_	AlignBegin=283364|AlignEnd=283425|Gloss==thing|RX==[CONJ]|TokenType=Clit
+3	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	4	mod@relcl	_	AlignBegin=283303|AlignEnd=283364|Gloss==REL|RX==[CONJ]|TokenType=Clit
+4	=naː	_	NOUN	CONJ	_	6	comp:pred	_	AlignBegin=283364|AlignEnd=283425|Gloss==thing|RX==[CONJ]|TokenType=Clit
 5	=t	_	DET	DET	Gender=Fem	4	det	_	AlignBegin=283425|AlignEnd=283486|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-6	=iː	_	ADP	POSTP	Case=Abl|Number=Sing	10	comp:obl	_	AlignBegin=283486|AlignEnd=283547|Gloss==ABL.SG|RX==[POSTP]|TokenType=Clit
+6	=i	_	AUX	POSTP	Case=Abl|Number=Sing	10	parataxis:parenth	_	AlignBegin=283486|AlignEnd=283547|Gloss==COP.3SG|RX==PRED.NOM|TokenType=Clit
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=283547|AlignEnd=283913|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 8	ʤanna	_	NOUN	N	Gender=Fem	10	comp:obj	_	AlignBegin=283913|AlignEnd=284065|Gloss=paradise|RX=[N].[F]|TokenType=Root
 9	=t	_	DET	DET	Gender=Fem	8	det	_	AlignBegin=284065|AlignEnd=284218|Gloss==INDF.F|RX==[DET]|TokenType=Clit
@@ -1300,6 +1363,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_329-332
 # text = ahaː / huːri =t hoːj hiːna /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = ahaː / huːrit hoːj hiːna /
 # text_en = er, there are houris in it.
 1	ahaː	_	INTJ	_	_	6	discourse	_	AlignBegin=285364|AlignEnd=285646|Gloss=ahaː|RX=[FILL]|TokenType=Root
@@ -1312,6 +1376,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_333-340
 # text = mmm / ti= ʤanna areː / tuː= kna dammʔara =iː =wa / atdʔiraːt =u
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = mmm / tiʤanna areː / tuːkna dammʔaraːjwa / atdʔiraːtu /
 # text_en = the  paradise, also, itself,  is built out of gold and things like that.
 1	mmm	_	INTJ	HESIT	_	4	discourse	_	AlignBegin=288270|AlignEnd=288507|Gloss=mmm|RX=[HESIT]|TokenType=Root
@@ -1331,14 +1396,15 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_341-342
 # text = t= hoːj =t =eːb iːfi =b oː= tak / sagi mhiːn =iː dh =oːk lawi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = thoːjteːb iːfib oːtak / sagi mhiːniː dhoːk lawi /
 # text_en = The man who is in it  appears to you from far away.
-1	t=	_	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	5	comp:obj	_	AlignBegin=293005|AlignEnd=293102|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
+1	t=	ti=	PRON	REL	Definite=Def|Gender=Fem|PronType=Rel	5	comp:obj	_	AlignBegin=293005|AlignEnd=293102|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 2	hoːj	_	NOUN	N	Gender=Fem|Number=Plur	4	comp	_	AlignBegin=293102|AlignEnd=293199|Gloss=interior|RX=[N].[PL].[F]|TokenType=Root
 3	=t	_	DET	DET	Gender=Fem	2	det	_	AlignBegin=293199|AlignEnd=293296|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 4	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	5	comp:obl	_	AlignBegin=293296|AlignEnd=293393|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
-5	iːfi	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	6	comp	_	AlignBegin=293393|AlignEnd=293651|Gloss=be_there\AOR|MGloss=3SG.M-be_there\AOR|MSeg=iː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-6	=b	_	SCONJ	REL	Case=Acc|Gender=Masc|PronType=Rel	8	mod@relcl	_	AlignBegin=293651|AlignEnd=293781|Gloss==INDF.M.ACC|RX==[REL]|TokenType=Clit
+5	iːfi	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	6	comp	_	AlignBegin=293393|AlignEnd=293651|Filler=Subj|Gloss=be_there\AOR|MGloss=3SG.M-be_there\AOR|MSeg=iː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
+6	=b	=b	SCONJ	REL	Case=Acc|Gender=Masc|PronType=Rel	8	mod@relcl$subj	_	AlignBegin=293651|AlignEnd=293781|Gloss==INDF.M.ACC|RX==[REL]|TokenType=Clit
 7	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	8	det	_	AlignBegin=293781|AlignEnd=293975|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 8	tak	_	NOUN	N	Gender=Masc	15	subj	_	AlignBegin=293975|AlignEnd=294169|Gloss=man|RX=[SBJ].[N].[M]|TokenType=Root
 9	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=294169|AlignEnd=294557|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1352,6 +1418,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_343-349
 # text = t= huːri / w# winneːt daːwri / t= huːri daːwri daːwri =a =t hoːj hiːn / indi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = thuːri / w# winneːt daːwri / thuːri daːwri daːwrijaːt hoːj ihiːn / indi eːn //
 # text_en = There are very beautiful houris  in it", he says, they said.
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=296091|AlignEnd=296192|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -1365,8 +1432,8 @@
 9	huːri	_	NOUN	N	Gender=Fem	15	subj	_	AlignBegin=298010|AlignEnd=298174|Gloss=houri|RX=[SBJ].[N].[F]|TokenType=Root
 10	daːwri	_	ADJ	N	_	11	conj:redup	_	AlignBegin=298174|AlignEnd=298501|Gloss=beautiful|RX=[ADJ]|TokenType=Root
 11	daːwri	_	ADJ	ADJ	_	12	comp:pred	_	AlignBegin=298501|AlignEnd=298610|Gloss=beautiful|RX=[ADJ]|TokenType=Root
-12	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	13	comp	_	AlignBegin=298610|AlignEnd=298719|Gloss==COP.3PL|RX==[PRED].[N]|TokenType=Clit
-13	=t	_	SCONJ	REL	Gender=Fem|PronType=Rel	9	mod@relcl	_	AlignBegin=298719|AlignEnd=298828|Gloss==INDF.F|RX==[REL]|TokenType=Clit
+12	=a	_	AUX	N.COP	Number=Plur|Person=3|VerbType=Cop	13	comp	_	AlignBegin=298610|AlignEnd=298719|Filler=Subj|Gloss==COP.3PL|RX==[PRED].[N]|TokenType=Clit
+13	=t	=t	SCONJ	REL	Gender=Fem|PronType=Rel	9	mod@relcl$subj	_	AlignBegin=298719|AlignEnd=298828|Gloss==INDF.F|RX==[REL]|TokenType=Clit
 14	hoːj	_	ADP	POSTP	Case=Loc	15	comp:obl	_	AlignBegin=298828|AlignEnd=299155|Gloss=LOC|RX=[POSTP]|TokenType=Root
 15	hiːn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	17	comp:obj	_	AlignBegin=299264|AlignEnd=299482|Gloss=be_there\AOR|MGloss=be_there\AOR-3PL|MSeg=hiː-n|Reported=Yes|RX=[V1].[IRG]-[PNG]|TokenType=Root
 16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=299482|AlignEnd=299908|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1376,6 +1443,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_350-356
 # text = jhak diːtiːt uːn / sijjaːdoːk / igeːsi i= doːr =oː akajeː / ʃigʷaɖti innhiːs =aːt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = jhak diːtiːt uːn / sijjaːdoːk / igeːsi idoːroː akajeː / ʃigʷaɖti innhiːsaːt /
 # text_en = Siyadok gets up and immediately, at this very moment,   he washes himself clean [and]
 1	jhak	_	VERB	V2	VerbClass=2	2	comp:obj	_	AlignBegin=301134|AlignEnd=301412|Gloss=get_up|RX=[V2]|TokenType=Root
@@ -1397,6 +1465,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_357-359
 # text = dhaːj jʔi =jaːt / oːn i= gaːdi oː= kna =ji =da aslimiːni eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = dhaːj jʔijaːt / oːn igaːdi oːknaːjda aslimiːni eːn //
 # text_en = he went to him, and he becomes a Muslim in front of the judge himself, they said.
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=306733|AlignEnd=306935|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -1416,6 +1485,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_360-360
 # text = islaːm =oː isiʃboːbi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = islaːmoː isiʃboːbi /
 # text_en = He becomes a good Muslim.
 1	islaːm	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=310432|AlignEnd=310699|Gloss=Islam|RX=[N].[M]|TokenType=Root
@@ -1425,6 +1495,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_361-361
 # text = siːleːliːni /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = siːleːliːni /
 # text_en = He prays.
 1	siːleːliːni	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=312034|AlignEnd=312439|Gloss=pray|MGloss=pray-IPFV.3SG.M|MSeg=siːleːl-iːni|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -1432,6 +1503,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_362-362
 # text = gʷadaamiːni /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = gʷadaːmiːni /
 # text_en = He washes himsel.,
 1	gʷadaamiːni	_	VERB	V2	Foreign=Yes|Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=312844|AlignEnd=313299|Gloss=splash|Lang=ar|MGloss=splash-MID-IPFV.3SG.M|MSeg=gʷada-am-iːni|RX=[V2].[BORR].[ARA]-[V2].[DER]-[TAM].[PNG]|TokenType=Root
@@ -1439,6 +1511,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_363-364
 # text = baːskitiːni /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = baːskitiːni /
 # text_en = He fasts.
 1	baːskitiːni	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=313754|AlignEnd=314352|Gloss=fast|MGloss=fast-IPFV.3SG.M|MSeg=baːskit-iːni|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -1446,6 +1519,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_365-368
 # text = ahaː / karaːmaː =t =eː eːfrʔi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = ahaː / karaːmaːteː eːfirʔi /
 # text_en = Er, he gives his alms.
 1	ahaː	_	INTJ	_	_	3	discourse	_	AlignBegin=315419|AlignEnd=315704|Gloss=ahaː|RX=[FILL]|TokenType=Root
@@ -1458,6 +1532,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_369-383
 # text = i= gaːdi areː / giːgjaː =t // gadaba / waːweː =wa / tuː= nʔi daːr =oː =ji diːjeː =wa / bak tʔiit =eːt ʔiːbaːb / hadrjaː eːn / beːn i= gaːdi //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = igaːdi areː / giːgjaːt // gadaba / waːweːwa / tuːnʔi daːroːji diːjeːwa / bak tʔiːteːt ʔiːbaːb / hadrja eːn / beːn igaːdi //
 # text_en = Then the judge left sad,  while he was crying, while he was telling to himself: "Hell is my destiny",  He witnessed a story like that, they said. That judge.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=318606|AlignEnd=318748|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -1482,7 +1557,7 @@
 20	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=324292|AlignEnd=325136|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 21	bak	_	PART	DEICT	_	24	mod	_	AlignBegin=325136|AlignEnd=325451|Gloss=thus|RX=[DEICT].[MNR]|TokenType=Root
 22	tʔiit	_	NOUN	V1	VerbClass=1	23	comp	_	AlignBegin=325451|AlignEnd=325661|Gloss=resemble|MGloss=resemble-VN|MSeg=tʔi-it|RX=[V1].[IRG]-[N].[V]|TokenType=Root
-23	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	24	mod@relcl	_	AlignBegin=325661|AlignEnd=325766|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+23	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	24	mod@relcl$obj	_	AlignBegin=325661|AlignEnd=325766|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 24	ʔiːbaːb	_	NOUN	N.V	Gender=Fem	26	comp:obj	_	AlignBegin=325766|AlignEnd=326081|Gloss=travel\N.AC|RX=[SBJ].[N].[V].[F]|TokenType=Root
 25	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=326081|AlignEnd=326896|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 26	hadrjaː	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=326896|AlignEnd=327171|Gloss=attend|MGloss=attend-PFV.3SG.M|MSeg=hadr-jaː|RX=[V2]-[TAM].[PNG]|TokenType=Root
@@ -1495,6 +1570,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_357-357
 # text = dhaːj jʔi =jaːt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = dhaːj jʔijaːt /
 # text_en = he went to him,
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=306733|AlignEnd=306935|Gloss=DIR|RX=[POSTP]|TokenType=Root
@@ -1504,6 +1580,7 @@
 
 # sent_id = BEJ_MV_NARR_14_sijadok_358-359
 # text = oːn i= gaːdi oː= kna =ji =da aslimiːni eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_14_SIJADOK.WAV
 # phonetic_text = oːn igaːdi oːknaːjda aslimiːni eːn //
 # text_en = and he becomes a Muslim in front of the judge himself, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=307339|AlignEnd=307694|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root

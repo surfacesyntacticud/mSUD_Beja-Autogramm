@@ -1,6 +1,6 @@
-# global.columns = ID FORM LEMMA UPOS XPOS FEATS HEAD DEPREL DEPS MISC
 # sent_id = BEJ_MV_NARR_12_witch_001-002
 # text = ʔoːr iːfi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ʔoːr iːfi eːn //
 # text_en = There was a boy.
 1	ʔoːr	_	NOUN	N	_	2	subj	_	AlignBegin=0|AlignEnd=301|Gloss=child|RX=[SBJ].[N]|TokenType=Root
@@ -10,6 +10,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_003-007
 # text = mʔa =t / saːri =t =i =da jʔi =hoːb / ti= saːri gaw =iːb ikfilna =t /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = mʔat / saːriːtida jʔiːhoːb / tisaːri gawiːb ikfilnaːt /
 # text_en = When he came towards female witches,  the witches locked him in a house [and]
 1	mʔa	_	NOUN	N	Gender=Fem|Number=Plur	4	mod	_	AlignBegin=2260|AlignEnd=2402|Gloss=woman\PL|RX=[N].[F]|TokenType=Root
@@ -32,6 +33,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_008-015
 # text = umbaroː kallaːfeː / kallaːfeː / kallaːfeː / soːɖhatiːt / inɖhiː =hoːb / haridtiːt ʔaːmeːti nidʔa eːdna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = umbaroː kallaːfeː / kallaːfeː / kallaːfeː / ʃoːɖhatiːt / inɖhiːhoːb / haridtiːt ʔaːmeːti nidʔa eːdna eːn //
 # text_en = they feed him for a long time,  after he has become fat, when he becomes fat,  they say: "We'll slaughter him, we'll eat him completely", they said.
 1	umbaroː	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=3	2	comp:obj	_	AlignBegin=5770|AlignEnd=6142|Gloss=3SG.M.ACC|RX=[PRO]|TokenType=Root
@@ -55,10 +57,11 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_016-027
 # text = eːdn =eːb oː= doːr / ontʔa / daːjeːb iːɖh =eːk / amsi / tʔa iʃiboːb =aj indi eːn / kʷibsa / kallafiːn akoː //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = eːdneːb oːdoːr / ontʔa / daːjeːb iːɖheːk / amsi / tʔa iʃiboːbaj indi eːn / kʷibsa / kallafiːn akoː //
 # text_en = When they say that, so,  when he has become fat enough, that day,  because he was much better, he says, they said, given that they had fed him on the sly.
-1	eːdn	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	2	comp	_	AlignBegin=12471|AlignEnd=12697|Gloss=say\IPFV|MGloss=3-say\IPFV-PL|MSeg=eː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-2	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	4	mod@relcl	_	AlignBegin=12697|AlignEnd=12773|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+1	eːdn	_	VERB	V1	Aspect=Imp|Number=Plur|VerbClass=1	2	comp	_	AlignBegin=12471|AlignEnd=12697|Filler=Obj|Gloss=say\IPFV|MGloss=3-say\IPFV-PL|MSeg=eː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
+2	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	4	mod@relcl$obj	_	AlignBegin=12697|AlignEnd=12773|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 3	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=12773|AlignEnd=12924|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
 4	doːr	_	NOUN	N	Gender=Masc	9	mod	_	AlignBegin=12924|AlignEnd=13076|Gloss=time|RX=[N].[M]|TokenType=Root
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=13076|AlignEnd=13379|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -84,6 +87,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_028-028
 # text = daːji =t mʔari ijiwna akoː //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = daːjit mʔari ijiwna akoː //
 # text_en = Given that they had given him good food
 1	daːji	_	ADJ	ADJ	_	3	mod	_	AlignBegin=20537|AlignEnd=20643|Gloss=good|RX=[ADJ]|TokenType=Root
@@ -95,6 +99,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_029-030
 # text = winneːt soːɖhataː =ajt //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = winneːt ʃoːɖhataːjt //
 # text_en = "Because you have become really fat..."
 1	winneːt	_	ADV	ADV	_	2	mod	_	AlignBegin=21602|AlignEnd=21922|Gloss=plenty|RX=[ADV]|TokenType=Root
@@ -104,55 +109,60 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_031-032
 # text = jaːndiːnanaː =t / iːdn =eːt hoːj tiːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = jaːndiːnanaːt / iːdneːt hoːj tiːfi /
 # text_en = There was one from them who was called Tattletale,
 1	jaːndiːnanaː	_	NOUN	V2	VerbClass=2	7	subj	_	AlignBegin=22930|AlignEnd=23120|Gloss=report|MGloss=report-N.AGN|MSeg=jaːndiːn-anaː|RX=[V2]-[N].[V]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=23120|AlignEnd=23216|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 3	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=23216|AlignEnd=23503|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-4	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	5	comp	_	AlignBegin=23503|AlignEnd=23676|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-5	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl	_	AlignBegin=23676|AlignEnd=23734|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+4	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	5	comp	_	AlignBegin=23503|AlignEnd=23676|Filler=Obj|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
+5	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl$obj	_	AlignBegin=23676|AlignEnd=23734|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 6	hoːj	_	ADP	POSTP	Case=Loc	7	comp:obl	_	AlignBegin=23734|AlignEnd=23965|Gloss=LOC|RX=[POSTP]|TokenType=Root
 7	tiːfi	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=23965|AlignEnd=24196|Gloss=be_there\AOR|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=24196|AlignEnd=24427|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_033-033
 # text = ʔoːtanaː =t iːdn =eːt hoːj tiːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = oːtanat iːdneːt hoːj tiːfi /
 # text_en = there was one of them who was called Curser,
 1	ʔoːtanaː	_	NOUN	V1	VerbClass=1	6	subj	_	AlignBegin=24427|AlignEnd=24649|Gloss=curse\INT|MGloss=curse\INT-N.AGN|MSeg=ʔoːt-anaː|RX=[V1].[DER]-[N].[V]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=24649|AlignEnd=24761|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=24761|AlignEnd=25011|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-4	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl	_	AlignBegin=25011|AlignEnd=25095|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=24761|AlignEnd=25011|Filler=Obj|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
+4	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl$obj	_	AlignBegin=25011|AlignEnd=25095|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 5	hoːj	_	ADP	POSTP	Case=Loc	6	comp:obl	_	AlignBegin=25095|AlignEnd=25429|Gloss=LOC|RX=[POSTP]|TokenType=Root
 6	tiːfi	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=25429|AlignEnd=25763|Gloss=be_there\AOR|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=25763|AlignEnd=26098|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_034-035
 # text = ɖaːbanaː =t iːdn =eːt hoːj tiːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ɖaːbanaːt iːdneːt hoːj tiːfi /
 # text_en = there was one of them who was called Runner,
 1	ɖaːbanaː	_	NOUN	V2	VerbClass=2	6	subj	_	AlignBegin=26098|AlignEnd=26318|Gloss=run|MGloss=run-N.AGN|MSeg=ɖaːb-anaː|RX=[V2]-[N].[V]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=26318|AlignEnd=26428|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=26428|AlignEnd=26675|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-4	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl	_	AlignBegin=26675|AlignEnd=26758|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=26428|AlignEnd=26675|Filler=Obj|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
+4	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl$obj	_	AlignBegin=26675|AlignEnd=26758|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 5	hoːj	_	ADP	POSTP	Case=Loc	6	comp:obl	_	AlignBegin=26758|AlignEnd=27088|Gloss=LOC|RX=[POSTP]|TokenType=Root
 6	tiːfi	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=27088|AlignEnd=27418|Gloss=be_there\AOR|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=27418|AlignEnd=28172|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_036-037
 # text = ʃaːbbi =t iːdn =eːt hoːj tiːfi /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ʃaːbbiːt iːdneːt hoːj tiːfi /
 # text_en = Among them, there was one who was called Sentinel,
 1	ʃaːbbi	_	NOUN	N.V	_	6	subj	_	AlignBegin=28172|AlignEnd=28363|Gloss=look\INT.N.AGN|RX=[N].[V]|TokenType=Root
 2	=t	_	DET	DET	Gender=Fem	1	det	_	AlignBegin=28363|AlignEnd=28554|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=28554|AlignEnd=28841|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
-4	=eːt	_	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl	_	AlignBegin=28841|AlignEnd=28937|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
+3	iːdn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	4	comp	_	AlignBegin=28554|AlignEnd=28841|Filler=Obj|Gloss=say\AOR|MGloss=3-say\AOR-PL|MSeg=iː-d-n|RX=[PNG]-[V1].[IRG]-[PNG]|TokenType=Root
+4	=eːt	=eːt	SCONJ	CONJ.REL	Gender=Fem|PronType=Rel	1	mod@relcl$obj	_	AlignBegin=28841|AlignEnd=28937|Gloss==REL.F|RX==[CONJ]|TokenType=Clit
 5	hoːj	_	ADP	POSTP	Case=Loc	6	comp:obl	_	AlignBegin=28937|AlignEnd=29320|Gloss=LOC|RX=[POSTP]|TokenType=Root
 6	tiːfi	_	VERB	V1	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	0	root	_	AlignBegin=29320|AlignEnd=29703|Gloss=be_there\AOR|MGloss=3SG.F-be_there\AOR|MSeg=tiː-fi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=29703|AlignEnd=30629|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_038-043
 # text = akoː / jandiːnanaː =t oː= jaf ʈabjaːn =it / geːb iʔiʃn =it / i= rab =ijoː jhakjaːna eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = akoː / jandiːnaːnaːt oːjaf ʈabjaːnit / geːb jʔiʃnit / irabijoː jhakjaːna eːn /
 # text_en = Thus,  since they had stitched Tattletale's mouth  and left her with him  they fetched their stuff, they said.
 1	akoː	_	PART	PTCL	_	3	discourse	_	AlignBegin=30629|AlignEnd=30817|Gloss=given_that|RX=[PTCL]|TokenType=Root
@@ -177,6 +187,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_044-047
 # text = tʔa ti= nʔeː =t =hi =wa / j= handi =hi =wa / naː =t =hi =wa haːj jʔaːt =a /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = tʔa tinʔeːthiwa / jhandihiwa / naːthiwa haːj jʔaːta /
 # text_en = So, they have brought their fire, their wood, all their things, [and]
 1	tʔa	_	ADV	ADV	_	3	discourse	_	AlignBegin=35045|AlignEnd=35355|Gloss=now|RX=[ADV]|TokenType=Root
@@ -202,6 +213,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_048-049
 # text = baroː tama iːdna eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = baroː tama iːdna eːn //
 # text_en = they wanted to eat him.
 1	baroː	_	PRON	PRO	Case=Acc|Gender=Masc|Number=Sing|Person=3	3	comp:obj	_	AlignBegin=38224|AlignEnd=38412|Gloss=3SG.M.ACC|RX=[PRO]|TokenType=Root
@@ -212,6 +224,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_050-051
 # text = jandiːnanaː =t jhakta =ajt /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = jandiːnaːnaːt jhaktaːjt /
 # text_en = Because Tattletale started...
 1	jandiːnanaː	_	NOUN	V2	VerbClass=2	3	subj	_	AlignBegin=39655|AlignEnd=39945|Gloss=report|MGloss=report-N.AGN|MSeg=jandiːn-anaː|RX=[V2]-[N].[V]|TokenType=Root
@@ -222,6 +235,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_052-052
 # text = toː= wʔa =wa naː =t =ka haːj jʔa iːdna =t /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = toːwʔaːtwa naːtka haːj jʔa iːdnat /
 # text_en = They wanted to bring their containers, and all the things, [and]
 1	toː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Fem|Number=Sing	2	det	_	AlignBegin=41220|AlignEnd=41334|Gloss=DEF.SG.F.ACC=|RX=[DET]=|TokenType=Clit
@@ -238,6 +252,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_053-059
 # text = mmmmm mmmmm / tiːd =hoːb / haːl =oːki idi =hoːb // tidi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = mmmmm mmmmm / tiːdhoːb / haːloːki idihoːb // tidi eːn //
 # text_en = when she said: "mmmmm, mmmmm",  when he said: "what's the matter with you?",  she said so, they said.
 1	mmmmm	_	INTJ	ONOM	_	2	conj:redup	_	AlignBegin=43276|AlignEnd=43646|Gloss=mmmmm|RX=[ONOM]|TokenType=Root
@@ -257,6 +272,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_060-070
 # text = i= jaf =oː thata =ajt // oː= jaf ifdig =hoːb // baroːk tamaː =hoːk eːdna / ambataː amsi ti= nʔeː =t =hi =wa / j= handi =hi =wa / toː= wʔaː =t =hi =wa / i= jam =hi =wa / hoːj jhakaːt =a tidi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ijafoː thataːjt // oːjaf ifdighoːb // baroːk tamaːhoːk eːdna / ambataː amsi tinʔeːthiwa / jhandiːhiwa / toːwʔaːthiwa / ijamhiwa / hoːj jhakaːta tidi eːn //
 # text_en = Because she touched her mouth,  when he freed her mouth,  she said:  "They want to eat you. Today, they have got their fire, their wood, their earthenware, their water", they said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=48196|AlignEnd=48300|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -294,7 +310,7 @@
 33	=hi	_	PRON	PRO	Poss=Yes	31	udep@poss	_	AlignBegin=53347|AlignEnd=53403|Gloss==POSS.3ACC|RX==[PRO]|TokenType=Clit
 34	=wa	_	CCONJ	CONJ	_	31	cc	_	AlignBegin=53403|AlignEnd=53459|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 35	/	_	PUNCT	PUNCT	_	31	punct	_	AlignBegin=53459|AlignEnd=53740|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-36	i=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	37	det	_	AlignBegin=53740|AlignEnd=53812|Gloss=DEF.PL.M.ACC=|RX=[DET]=|TokenType=Clit
+36	i=	_	DET	DET	Definite=Def|Gender=Masc	37	det	_	AlignBegin=53740|AlignEnd=53812|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 37	jam	_	NOUN	N	Gender=Masc|Number=Plur	42	comp:obj	_	AlignBegin=53812|AlignEnd=53885|Gloss=water|RX=[N].[PL].[M]|TokenType=Root
 38	=hi	_	PRON	PRO	Poss=Yes	37	udep@poss	_	AlignBegin=53885|AlignEnd=53958|Gloss==POSS.3ACC|RX==[PRO]|TokenType=Clit
 39	=wa	_	CCONJ	CONJ	_	37	cc	_	AlignBegin=53958|AlignEnd=54031|Gloss==COORD|RX==[CONJ]|TokenType=Clit
@@ -308,6 +324,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_071-074
 # text = hadʔa =t =i =da ʔeːja =ajt uːn ani / kak sakani oːn i= wara weːra =heːb eːdna =eːk ijiː =jeːk ?
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = hadʔaːtiːda ʔeːjaːjt uːn ani / kak sakani oːn iwara weːraheːb eːdneːk iːjeːk /
 # text_en = He came to an old woman and (said) "As for me,   What can I do, since they want to do this and that to me?"
 1	hadʔa	_	NOUN	N	_	3	comp	_	AlignBegin=56578|AlignEnd=56633|Gloss=elder|RX=[N]|TokenType=Root
@@ -334,6 +351,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_075-082
 # text = oːn w= hataːj =i niːwa wadak =iː ʃʔiba =t / ʃʔibaː# ## miːlal =t =wa / ʔibra =t =wa / ʃina tiba tidi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = oːn whataːji niːwa wadakiː ʃʔibaːt / ʃʔibaː# ## miːlaltwa / ʔibraːtwa / ʃina tiba tidi eːn //
 # text_en = "Coat the horse tail with grease and stick pins and needles in it!" she said, they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=60146|AlignEnd=60523|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
@@ -364,6 +382,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_083-087
 # text = ontʔa / oːn w= hataːj =oːk ambataː jʔeːn =eːb i= mawaːʔid =eː =da / farsa tidi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ontʔa / oːn whataːjoːk ambataː jʔeːneːb imawaːʔideːda / farsaː tidi eːn //
 # text_en = So, she said: "When they come, make your horse  jump!", they said.
 1	ontʔa	_	PART	PTCL	_	5	discourse	_	AlignBegin=67671|AlignEnd=67937|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -373,8 +392,8 @@
 5	hataːj	_	NOUN	N	_	15	dislocated:obj	_	AlignBegin=68788|AlignEnd=68888|Gloss=horse|RX=[N]|TokenType=Root
 6	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	5	udep@poss	_	AlignBegin=68888|AlignEnd=68988|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
 7	ambataː	_	PRON	PRO	Case=Nom|Gender=Fem|Number=Plur|Person=3	8	subj	_	AlignBegin=68988|AlignEnd=69287|Gloss=3PL.F.NOM|RX=[SBJ].[PRO]|TokenType=Root
-8	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	9	comp	_	AlignBegin=69287|AlignEnd=69487|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-9	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	11	mod@relcl	_	AlignBegin=69487|AlignEnd=69587|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+8	jʔeːn	_	VERB	V2	Number=Plur|VerbClass=2	9	comp	_	AlignBegin=69287|AlignEnd=69487|Filler=Obj|Gloss=come|MGloss=come-IPFV.3PL|MSeg=jʔ-eːn|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
+9	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	11	mod@relcl$obj	_	AlignBegin=69487|AlignEnd=69587|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 10	i=	_	DET	DET	Definite=Def|Gender=Masc	11	det	_	AlignBegin=69587|AlignEnd=69661|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 11	mawaːʔid	_	NOUN	N	Foreign=Yes|Gender=Masc|Number=Plur	12	comp	_	AlignBegin=69661|AlignEnd=69736|Gloss=appointement\PL|Lang=ar|RX=[N].[M].[BORR].[ARA]|TokenType=Root
 12	=eː	_	ADP	CASE	Case=Gen|Number=Plur	13	udep	_	AlignBegin=69736|AlignEnd=69811|Gloss==GEN.PL|RX==[CASE]|TokenType=Clit
@@ -387,6 +406,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_088-092
 # text = oːn w= hataːj =oː farisjan =hoːb / liːgamanaː =t =i liːgami eːn =hoːb / beːn ikati w= ʔeːɖa =juː tidi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = oːn whataːjoː farisjanhoːb / liːgamanaːti liːgami eːnhoːb / beːn ikati wʔeːɖaːjuː tidi eːn //
 # text_en = When he made his horse jump, when they said: "Overlooker, overlook!",  she said: "There is its dust over there", they said.
 1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=71757|AlignEnd=72227|Gloss=PROX.SG.M.ACC|RX=[DEM]|TokenType=Root
@@ -414,6 +434,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_093-105
 # text = ʃaːbbi =t =i ʃibibi tini =hoːb / ottʔa mar mhiːnaːn kitimaːb =i tini =hoːb / aaaj# ## ɖaːbanaː =t =aj hoːj ɖaːbi tini =hoːb / ɖaːbeː ɖaːbeː ɖaːbeː / ʈib / i= niːwa tʔabik =hoːb / t= ʔibra j= ʔaj =eːb kattʔamjaːn =hoːb / tifidig tidʔi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ʃaːbbiːti ʃibibi tijhoːb / ottʔa mar mhiːnaːn kitimaːbi tijhoːb / aaaj# ## ɖaːbanaːtaj hoːj ɖaːbi tiːjhoːb / ɖaːbeː ɖaːbeː ɖaːbeː / ʈib / iniːwa tʔabikhoːb / tʔibira jʔajeːb kattʔamjaːnhoːb / tifdig tidʔi eːn //
 # text_en = When she said: "Sentinel, look well!",  when she said: "Now, he has arrived at such a place",  When she said: "Runner, run after him!"  while running for a long time, when she quickly caught the tail, when the needles broke in her hands,  she let him loose, they said.
 1	ʃaːbbi	_	NOUN	N.V	_	3	comp	_	AlignBegin=78722|AlignEnd=78837|Gloss=look\INT.N.AGN|RX=[N].[V]|TokenType=Root
@@ -467,6 +488,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_106-106
 # text = j= ʔar i= dabaloːjaː jʔaʃiʃn =uːk ʃiːʃik əəə //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = jʔar idabaloːja jʔaʃiʃnuːk ʃiːʃik əəə //
 # text_en = "The small children who will meet you... er thorny fruits...
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=88875|AlignEnd=89016|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -481,6 +503,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_107-107
 # text = aː= jas jʔaʃiʃn =uːk ʃiːʃik fifa hijaː /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = aːjas jʔaʃiʃnuːk ʃiːʃik fifa hija /
 # text_en = "If you meet the dogs, pour thorny fruits to them!
 1	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=90572|AlignEnd=90715|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
@@ -494,6 +517,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_108-110
 # text = j= ʔar i= dabaloːjaː jʔaʃiʃn =uːk / halaːwaː =t fifa hijaː
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = jʔar idabaloːja jʔaʃiʃnuːk / halaːwaːt fifa hija
 # text_en = If you meet the small children, pour sweets to them!
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=92288|AlignEnd=92432|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -510,6 +534,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_111-113
 # text = t= hadʔa jʔaʃiʃn =uːk / soːdʔala =t fifa hijaː dijaːt =i eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = thadʔa jʔaʃiʃnuːk / soːdʔalaːt fifa hja dijaːti eːn //
 # text_en = If you meet the old women,  pour blue pearls for them!", she had told him, they said.
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=94552|AlignEnd=94677|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -528,6 +553,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_114-117
 # text = ifif ihi eːn // gaːl =eː =ka //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ifif jhi eːn // gaːleːka //
 # text_en = He poured them for them, they said,  to each of them.
 1	ifif	_	VERB	V1	Aspect=Perf|Gender=Masc|Number=Sing|VerbClass=1	2	compound:svc	_	AlignBegin=97266|AlignEnd=97476|Gloss=pour\PFV|MGloss=3SG.M-pour\PFV|MSeg=i-fif|RX=[PNG]-[V1]|TokenType=Root
@@ -541,6 +567,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_118-120
 # text = jas iʔaʃiʃn =eːk / ʃiːʃik ifif ihi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = jas jʔaʃiʃneːk / ʃiːʃik ifif jhi eːn //
 # text_en = When he  met dogs, he poured thorny fruits for them, they said.
 1	jas	_	NOUN	N	Number=Plur	2	subj	_	AlignBegin=99152|AlignEnd=99413|Gloss=dog\PL|RX=[SBJ].[N]|TokenType=Root
@@ -555,6 +582,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_121-121
 # text = hadʔa =t jʔaʃiʃn =eːk soːtʔaːla =t ifif ihi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = hadʔaːt jʔaʃiʃneːk soːtʔaːlaːt ifif jhi eːn //
 # text_en = When he met the old women, he poured blue pearls to them, they said.
 1	hadʔa	_	NOUN	N	_	3	subj	_	AlignBegin=101551|AlignEnd=101690|Gloss=elder|RX=[SBJ].[N]|TokenType=Root
@@ -570,6 +598,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_122-125
 # text = ʤaːhila jʔaʃiʃn =eːk / halaːwaː =t ifif ihi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ʤaːhela jʔaʃiʃneːk / halaːwaːt ifif jhi eːn //
 # text_en = When the small children met him, he poured sweets to them, they said.
 1	ʤaːhila	_	NOUN	N	Gender=Masc|Number=Plur	2	subj	_	AlignBegin=103501|AlignEnd=103842|Gloss=small_child|MGloss=small_child-PL|MSeg=ʤaːhil-a|RX=[SBJ].[N].[M]-.|TokenType=Root
@@ -585,6 +614,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_126-135
 # text = ottʔa / ʔoːtanaː =t =i ʔati // ʔoːtanaː =t =i ʔati eːn =eːk / aː= nda i= gʷibi =ji bʔaɖaɖa =ji isaːnn =hoːk // tuː= tiji t= asarama girma =i tisaːn =hoːk / uː= kʷhaːn i= ba= ahassaj =uːk / isaːn =hoːka tidi eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ottʔa / ʔoːtanaːti ʔati // oːtanaːti ʔati eːneːk / aːnda igʷbiji bʔaɖɖaːji isaːnnhoːk // tuːtji tʔasarama girmaj tisaːnhoːk / uːkʷhaːn ibaːhassajuːk / isaːnhoːka tidi eːn //
 # text_en = So, when they said: "Curser, curse! Curser, curse!"  "May you find men with shields and swords!  May you find the seven headed snake!  May you find the flooding river that prevents you from crossing!", she said, they said.
 1	ottʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=106806|AlignEnd=107004|Gloss=now|RX=[PTCL]|TokenType=Root
@@ -604,10 +634,10 @@
 15	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	16	det	_	AlignBegin=109256|AlignEnd=109411|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 16	nda	_	NOUN	N	Gender=Masc|Number=Plur	22	subj	_	AlignBegin=109411|AlignEnd=109566|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
 17	i=	_	DET	DET	Definite=Def|Gender=Masc	18	det	_	AlignBegin=109566|AlignEnd=109669|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-18	gʷibi	_	NOUN	N	Gender=Masc	19	comp	_	AlignBegin=109669|AlignEnd=109772|Gloss=shield|RX=[N].[M]|TokenType=Root
-19	=ji	_	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl	_	AlignBegin=109772|AlignEnd=109876|Gloss==REL|RX==[CONJ]|TokenType=Clit
-20	bʔaɖaɖa	_	NOUN	N	Gender=Masc|Number=Plur	21	comp	_	AlignBegin=109876|AlignEnd=110082|Gloss=sword|MGloss=sword-PL|MSeg=bʔaɖaɖ-a|RX=[N].[M]-.|TokenType=Root
-21	=ji	_	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl	_	AlignBegin=110082|AlignEnd=110186|Gloss==REL|RX==[CONJ]|TokenType=Clit
+18	gʷibi	_	NOUN	N	Gender=Masc	19	comp	_	AlignBegin=109669|AlignEnd=109772|Filler=Obj|Gloss=shield|RX=[N].[M]|TokenType=Root
+19	=ji	=i	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl$obj	_	AlignBegin=109772|AlignEnd=109876|Gloss==REL|RX==[CONJ]|TokenType=Clit
+20	bʔaɖaɖa	_	NOUN	N	Gender=Masc|Number=Plur	21	comp	_	AlignBegin=109876|AlignEnd=110082|Filler=Obj|Gloss=sword|MGloss=sword-PL|MSeg=bʔaɖaɖ-a|RX=[N].[M]-.|TokenType=Root
+21	=ji	=i	SCONJ	CONJ.REL	PronType=Rel	16	mod@relcl$obj	_	AlignBegin=110082|AlignEnd=110186|Gloss==REL|RX==[CONJ]|TokenType=Clit
 22	isaːnn	_	VERB	V1	Aspect=Aor|Number=Plur|VerbClass=1	31	conj:coord	_	AlignBegin=110186|AlignEnd=110418|Gloss=wait\AOR|MGloss=3-wait\AOR-PL|MSeg=i-saːn-n|RX=[PNG]-[V1]-[PNG]|TokenType=Root
 23	=hoːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2	22	comp:obj	_	AlignBegin=110418|AlignEnd=110496|Gloss==OBJ.2SG|RX==[PRO]|TokenType=Clit
 24	//	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=110496|AlignEnd=111120|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -622,9 +652,9 @@
 33	/	_	PUNCT	PUNCT	_	31	punct	_	AlignBegin=112680|AlignEnd=113395|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 34	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	35	det	_	AlignBegin=113395|AlignEnd=113587|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 35	kʷhaːn	_	NOUN	N	Gender=Masc	41	subj	_	AlignBegin=113587|AlignEnd=113779|Gloss=flood|RX=[SBJ].[N].[M]|TokenType=Root
-36	i=	_	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	38	subj	_	AlignBegin=113779|AlignEnd=113843|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
+36	i=	i=	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	38	subj	_	AlignBegin=113779|AlignEnd=113843|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
 37	ba=	_	AUX	TAM	Mood=Opt	38	mod	_	AlignBegin=113843|AlignEnd=113907|Gloss=OPT=|RX=[TAM]=|TokenType=Clit
-38	ahassaj	_	VERB	V2	Number=Sing|VerbClass=2	35	mod@relcl	_	AlignBegin=113907|AlignEnd=114099|Gloss=pass|MGloss=1SG-pass-OPT|MSeg=a-hass-aj|RX=[PNG]-[V2]-[TAM]|TokenType=Root
+38	ahassaj	_	VERB	V2	Number=Sing|VerbClass=2	35	mod@relcl$subj	_	AlignBegin=113907|AlignEnd=114099|Filler=Subj|Gloss=pass|MGloss=1SG-pass-OPT|MSeg=a-hass-aj|RX=[PNG]-[V2]-[TAM]|TokenType=Root
 39	=uːk	_	PRON	PRO	Case=Nom|Number=Sing|Person=2|Poss=Yes	38	comp:obj	_	AlignBegin=114099|AlignEnd=114163|Gloss==POSS.2SG.NOM|RX==[PRO]|TokenType=Clit
 40	/	_	PUNCT	PUNCT	_	35	punct	_	AlignBegin=114163|AlignEnd=114547|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 41	isaːn	_	VERB	V1	Aspect=Aor|Gender=Masc|Number=Sing|VerbClass=1	43	comp:obj	_	AlignBegin=114547|AlignEnd=114681|Gloss=wait\AOR|MGloss=3SG.M-wait\AOR|MSeg=i-saːn|Reported=Yes|RX=[PNG]-[V1]|TokenType=Root
@@ -634,7 +664,8 @@
 45	//	_	PUNCT	PUNCT	_	43	punct	_	AlignBegin=115352|AlignEnd=116165|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_12_witch_136-140
-# text = t= hataːj aː= nda / i= gʷibi =ji bʔaɖaɖ =i iseːn =hoːb hammad hammad / baroːk w= ʔabuːk =oːk aneːb teː= far tidi =t /
+# text = t= hataːj aː= nda / i= gʷibi -ji bʔaɖaɖ -i iseːn =hoːb hammad hammad / baroːk w= ʔabuːk =oːk aneːb teː= far tidi =t /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = thataːj aːnda / igʷbiji bʔaɖaɖi iseːnhoːb hammad hammad / baroːk wʔabuːkoːk aneːb teːfar tidit /
 # text_en = When the mare found the men with shield and sword, it said: "Hammad, Hammad, you hold tight, I jump!' [and]
 1	t=	_	DET	DET	Definite=Def|Gender=Fem	2	det	_	AlignBegin=116165|AlignEnd=116297|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
@@ -643,10 +674,10 @@
 4	nda	_	NOUN	N	Gender=Masc|Number=Plur	11	subj	_	AlignBegin=116561|AlignEnd=116694|Gloss=man\PL|RX=[SBJ].[N].[M]|TokenType=Root
 5	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=116694|AlignEnd=117246|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 6	i=	_	DET	DET	Definite=Def|Gender=Masc	7	det	_	AlignBegin=117246|AlignEnd=117322|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-7	gʷibi	_	NOUN	N	Gender=Masc	8	comp	_	AlignBegin=117322|AlignEnd=117398|Gloss=shield|RX=[N].[M]|TokenType=Root
-8	=ji	_	SCONJ	CONJ.REL	PronType=Rel	4	mod@relcl	_	AlignBegin=117398|AlignEnd=117475|Gloss==REL|RX==[CONJ]|TokenType=Clit
-9	bʔaɖaɖ	_	NOUN	N	Gender=Masc	10	comp	_	AlignBegin=117475|AlignEnd=117589|Gloss=sword|RX=[N].[M]|TokenType=Root
-10	=i	_	SCONJ	CONJ.REL	PronType=Rel	4	mod@relcl	_	AlignBegin=117589|AlignEnd=117704|Gloss==REL|RX==[CONJ]|TokenType=Clit
+7	gʷibi	_	NOUN	N	Gender=Masc	8	comp	_	AlignBegin=117322|AlignEnd=117398|Filler=Obj|Gloss=shield|RX=[N].[M]|TokenType=Root
+8	-ji	-i	ADP	CONJ.REL	Case=Gen	4	udep	_	AlignBegin=117398|AlignEnd=117475|Gloss=-GEN|RX=-[CASE]|TokenType=InflAff
+9	bʔaɖaɖ	_	NOUN	N	Gender=Masc	10	comp	_	AlignBegin=117475|AlignEnd=117589|Filler=Obj|Gloss=sword|RX=[N].[M]|TokenType=Root
+10	-i	-i	ADP	CONJ.REL	Case=Gen	8	conj:coord	_	AlignBegin=117589|AlignEnd=117704|Gloss=-GEN|RX=[CASE]|TokenType=InflAff
 11	iseːn	_	VERB	V1	Aspect=Perf|Number=Plur|VerbClass=1	12	comp	_	AlignBegin=117704|AlignEnd=117876|Gloss=wait\PFV|MGloss=3-wait\PFV-PL|MSeg=i-seː-n|RX=[PNG]-[V1]-[PNG]|TokenType=Root
 12	=hoːb	_	SCONJ	CONJ	_	23	mod	_	AlignBegin=117876|AlignEnd=117934|Gloss==when|RX==[CONJ]|TokenType=Clit
 13	hammad	_	PROPN	N	_	23	vocative	_	AlignBegin=117934|AlignEnd=118163|Gloss=Hammad|RX=[N].[PROP]|TokenType=Root
@@ -665,6 +696,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_141-142
 # text = beːn gidhiː haːj farta eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = beːn gidhiː haːj farta eːn /
 # text_en = it jumped with him far beyond them, they said.
 1	beːn	_	ADV	ADV	_	4	mod	_	AlignBegin=120400|AlignEnd=120597|Gloss=there|RX=[ADV]|TokenType=Root
@@ -676,15 +708,16 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_143-146
 # text = aaa# ## uː= kʷhaːn i= baː= hasseː isiːni =eːk / hammad hammad / baroːk w= ʔabuːk =oːk aneːb teː= far tini =t /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = aaa# ## uːkʷhaːn ibaːhasseː isiːnjeːk / hammad hammad / baroːk wʔabuːkoːk aneːb teːfar tinit /
 # text_en = Er, when it found the flooding river that cannot be crossed, it said: "Hammad, Hammad, you hold tight! I jump!", [and]
 1	aaa#	_	X	FS	_	4	conj:dicto	_	AlignBegin=122448|AlignEnd=122716|Gloss=FS|RX=[FS]|TokenType=Root
 2	##	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=122716|AlignEnd=122984|Gloss=PUNCT|RX=[PUNCT]|TokenType=Root
 3	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	4	det	_	AlignBegin=122984|AlignEnd=123143|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 4	kʷhaːn	_	NOUN	N	Gender=Masc	8	subj	_	AlignBegin=123143|AlignEnd=123303|Gloss=flood|RX=[SBJ].[N].[M]|TokenType=Root
-5	i=	_	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	7	subj	_	AlignBegin=123303|AlignEnd=123382|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
+5	i=	i=	PRON	REL	Definite=Def|Gender=Masc|PronType=Rel	7	subj	_	AlignBegin=123303|AlignEnd=123382|Gloss=DEF.M=|RX=[REL]=|TokenType=Clit
 6	baː=	_	PART	PTCL	Mood=Imp|Polarity=Neg	7	mod	_	AlignBegin=123382|AlignEnd=123462|Gloss=NEG.PROH=|RX=[PTCL]=|TokenType=Clit
-7	hasseː	_	VERB	V2	VerbClass=2	4	mod@relcl	_	AlignBegin=123462|AlignEnd=123622|Gloss=pass|MGloss=pass-CVB.SMLT|MSeg=hass-eː|RX=[V2]-.|TokenType=Root
+7	hasseː	_	VERB	V2	VerbClass=2	4	mod@relcl$subj	_	AlignBegin=123462|AlignEnd=123622|Gloss=pass|MGloss=pass-CVB.SMLT|MSeg=hass-eː|RX=[V2]-.|TokenType=Root
 8	isiːni	_	VERB	V1	Aspect=Aor|VerbClass=1	9	comp	_	AlignBegin=123622|AlignEnd=123834|Gloss=wait\AOR|MGloss=3M-wait\AOR|MSeg=i-siːni|RX=[PNG]-[V1]|TokenType=Root
 9	=eːk	_	SCONJ	CONJ	_	21	mod	_	AlignBegin=123834|AlignEnd=123941|Gloss==if|RX==[CONJ]|TokenType=Clit
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=123941|AlignEnd=124261|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -704,6 +737,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_147-148
 # text = beːn gidhiː haːj farta eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = beːn gidhiː haːj farta eːn //
 # text_en = it jumped with him over there, they said.
 1	beːn	_	ADV	ADV	_	4	mod	_	AlignBegin=126349|AlignEnd=126613|Gloss=there|RX=[ADV]|TokenType=Root
@@ -715,6 +749,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_149-153
 # text = tuː= tiji t= asarama girma =i tisni =jeːk / hammad hammad / baroːk w= ʔabuːk =oːk / aneːb teː= far tini =t /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = tuːtji tʔasarama girmaj tisnijeːk / hammad hummad / baroːk wʔabuːkoːk / aneːb teːfar tinit /
 # text_en = When it found the seven headed snake, it said: "Hammad, Hammad, you hold tight! I jump!", [and]
 1	tuː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Fem|Number=Sing	2	det	_	AlignBegin=128715|AlignEnd=128870|Gloss=DEF.SG.F.NOM=|RX=[DET]=|TokenType=Clit
@@ -743,6 +778,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_154-155
 # text = i= girma gali =b / ʔeːttaːj tidi eːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = igirma galib / eːttaːj tidi eːn /
 # text_en = it trampled on some heads, she said, they said.
 1	i=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=132917|AlignEnd=133040|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
@@ -757,6 +793,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_156-157
 # text = wari =b gidhiː haːj farta eːn //
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = warib gidhiː haːj farta eːn //
 # text_en = It jumped with him beyond the others, they said.
 1	wari	_	NOUN	N	Number=Plur	3	comp	_	AlignBegin=134460|AlignEnd=134563|Gloss=other\PL|RX=[N]|TokenType=Root
@@ -769,6 +806,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_158-158
 # text = ɖaːbtai tiːha /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = ɖaːbtaj tiha /
 # text_en = It was running away
 1	ɖaːbtai	_	VERB	V2	Gender=Fem|Number=Sing|VerbClass=2	2	comp:aux	_	AlignBegin=136290|AlignEnd=136541|Gloss=run|MGloss=run-PFV.3SG.F-L|MSeg=ɖaːb-ta-i|RX=[V2]-[TAM].[PNG]-.|TokenType=Root
@@ -777,6 +815,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_159-159
 # text = w= ʔard =iː haːj tifrʔa /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = wʔardiː haːj tifrʔa /
 # text_en = and it left the country with him.
 1	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	2	det	_	AlignBegin=137045|AlignEnd=137133|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -788,6 +827,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_160-160
 # text = ʔamaːr =oːn baː= kʷaːsa samaːr =oːn /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = amaːroːn baːkʷaːsa samaːroːn /
 # text_en = Let it not be not our destiny!
 1	ʔamaːr	_	NOUN	N	Gender=Masc	4	comp:obj	_	AlignBegin=138102|AlignEnd=138289|Gloss=possessions|RX=[N].[M]|TokenType=Root
@@ -800,6 +840,7 @@
 
 # sent_id = BEJ_MV_NARR_12_witch_161-162
 # text = siddik alla XXX istaːfer alla XXX istaːf# /
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_12_WITCH.WAV
 # phonetic_text = < siddik alla XXX istaːf# > / {clap} {laughter}
 # text_en = May god forgive...
 1	siddik	siddik	X	_	Foreign=Yes	2	udep	_	AlignBegin=139848|AlignEnd=140093|Gloss=truth|Lang=ar|RX=[CSW].[ARA]|TokenType=Root
