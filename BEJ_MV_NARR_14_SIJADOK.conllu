@@ -1581,7 +1581,7 @@
 4	=eː	=eː	SCONJ	CONJ.REL	PronType=Rel	5	mod@relcl$subj	_	AlignBegin=283303|AlignEnd=283364|Gloss==REL|RX==[CONJ]|TokenType=Clit
 5	=naː	_	NOUN	CONJ	_	7	comp:pred	_	AlignBegin=283364|AlignEnd=283425|Gloss==thing|RX==[CONJ]|TokenType=Clit
 6	=t	_	DET	DET	Gender=Fem	5	det	_	AlignBegin=283425|AlignEnd=283486|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-7	=i	_	AUX	POSTP	Case=Abl|Number=Sing	11	parataxis:parenth	_	AlignBegin=283486|AlignEnd=283547|Gloss==COP.3SG|RX==PRED.NOM|TokenType=Clit
+7	=i	_	AUX	POSTP	Number=Sing	11	parataxis:parenth	_	AlignBegin=283486|AlignEnd=283547|Gloss==COP.3SG|RX==PRED.NOM|TokenType=Clit
 8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=283547|AlignEnd=283913|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 9	ʤanna	_	NOUN	N	Gender=Fem	11	comp:obj	_	AlignBegin=283913|AlignEnd=284065|Gloss=paradise|RX=[N].[F]|TokenType=Root
 10	=t	_	DET	DET	Gender=Fem	9	det	_	AlignBegin=284065|AlignEnd=284218|Gloss==INDF.F|RX==[DET]|TokenType=Clit

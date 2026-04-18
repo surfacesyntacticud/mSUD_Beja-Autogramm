@@ -1652,9 +1652,9 @@
 5	i=	_	DET	DET	Definite=Def|Gender=Masc	6	det	_	AlignBegin=261073|AlignEnd=261175|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 6	darab	_	NOUN	N	Gender=Masc	19	comp:obj	_	AlignBegin=261175|AlignEnd=261277|Gloss=path|RX=[N].[M]|TokenType=Root
 7	/	_	PUNCT	_	_	6	punct	_	AlignBegin=261277|AlignEnd=261482|Gloss=/|TokenType=Break
-8	w=	wi=	PRON	REL	Definite=Def|Gender=Masc|Number=Sing|PronType=Rel	13	comp:obj	_	AlignBegin=262499|AlignEnd=262603|Gloss=DEF.SG.M=|RX=[REL]=|TokenType=Clit
+8	w=	wi=	PRON	REL	Definite=Def|Gender=Masc|Number=Sing|PronType=Rel	15	comp:obj	_	AlignBegin=262499|AlignEnd=262603|Gloss=DEF.SG.M=|RX=[REL]=|TokenType=Clit
 9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	AlignBegin=262603|AlignEnd=262707|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
-10	gabal	_	NOUN	N	Gender=Masc|Number=Plur	13	comp:obj	_	AlignBegin=262707|AlignEnd=262811|Gloss=direction|RX=[N].[M]|TokenType=Root
+10	gabal	_	NOUN	N	Gender=Masc|Number=Plur	15	subj	_	AlignBegin=262707|AlignEnd=262811|Gloss=direction|RX=[N].[M]|TokenType=Root
 11	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	10	udep@poss	_	AlignBegin=262811|AlignEnd=262915|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
 12	i-	_	PRON	PNG	Number=Sing|Person=1	13	subj/m	_	AlignBegin=262915|AlignEnd=263123|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 13	niːn	_	VERB	V1	Aspect=Imp|VerbClass=1	15	comp:aux	_	AlignBegin=263123|AlignEnd=263331|Gloss=take\IPFV|Reported=Yes|RX=[V1].[IRG]|TokenType=Root
