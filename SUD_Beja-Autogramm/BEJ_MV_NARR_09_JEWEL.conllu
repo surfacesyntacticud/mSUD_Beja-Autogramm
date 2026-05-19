@@ -165,8 +165,8 @@
 14	ʤoːharajaːj	_	NOUN	N	Gender=Fem	16	comp:obj@T	_	AlignBegin=33758|AlignEnd=33996|Gloss=jewel|MGloss=jewel-SING|MSeg=ʤoːhara-jaːj|RX=[N].[F]|TokenType=Root
 15	/	_	PUNCT	_	_	14	punct	_	AlignBegin=33996|AlignEnd=34475|Gloss=/|TokenType=Break
 16	daːsaːt	_	VERB	V2	Gender=Fem|VerbClass=2	17	comp:pred	_	AlignBegin=34475|AlignEnd=34877|Gloss=be_there|MGloss=be_there-CAUS-CVB.MNR-INDF.F|MSeg=daː-s-aː-t|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
-17	tiːkti	_	VERB	AUX	Aspect=Aor|Gender=Fem|Number=Sing	18	comp	_	AlignBegin=34877|AlignEnd=35145|Filler=Obj|Gloss=become\AOR|MGloss=3SG.F-become\AOR|MSeg=tiː-kti|RX=[PNG]-[AUX].[PRF]|TokenType=Root
-18	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	10	mod@relcl$obj	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
+17	tiːkti	_	VERB	AUX	Aspect=Aor|Gender=Fem|Number=Sing	18	comp	_	AlignBegin=34877|AlignEnd=35145|Gloss=become\AOR|MGloss=3SG.F-become\AOR|MSeg=tiː-kti|RelRole=Obj|RX=[PNG]-[AUX].[PRF]|TokenType=Root
+18	=jeːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	10	mod@relcl$obj	_	AlignBegin=35145|AlignEnd=35279|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 19	mariː	_	ADV	ADV	_	20	mod	_	AlignBegin=35279|AlignEnd=35681|Gloss=from_the_direction|RX=[ADV]|TokenType=Root
 20	jʔeːtiːt	_	VERB	V2	VerbClass=2	25	mod	_	AlignBegin=35681|AlignEnd=36083|Gloss=come|MGloss=come-CVB.SEQ|MSeg=jʔ-eːtiːt|RX=[V2].[IRG]|TokenType=Root
 21	/	_	PUNCT	_	_	20	punct	_	AlignBegin=36083|AlignEnd=36485|Gloss=/|TokenType=Break
