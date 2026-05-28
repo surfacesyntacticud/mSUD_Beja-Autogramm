@@ -1,0 +1,80 @@
+# sent_id = BEJ_MV_NARR_30_QUARREL_001-007
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_30_QUARREL.WAV
+# sent_timecode = 0, 4626
+# text = ʤamiːlawwa / 337 biʃaːrawwa // 188 biʃaːrawwa // 290 kaːmiːb imsʔabakna eːn //
+# text_en = Djamilab-s and Bisharin-s and Bisharin-s fought over a camel, they said.
+1-2	ʤamiːlawwa	_	_	_	_	_	_	_	_
+1	ʤamiːlab	ʤamiːlab	N.PROP	_	_	7	conj:coord	_	AlignBegin=0|AlignEnd=238|GE=[Djamilab]|Gloss=Djamilab|nWord=1|RX=[N].[PROP]
+2	=wa		CONJ	_	_	1	cc	_	AlignBegin=238|AlignEnd=477|GE=[COORD]|Gloss==COORD|nWord=1|RX=[CONJ]
+3	/		PUNCT	_	_	_	_	_	AlignBegin=477|AlignEnd=954|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+4-5	biʃaːrawwa	_	_	_	_	_	_	_	_
+4	biʃaːrab	biʃaːrab	N.PROP	_	_	7	conj:dicto	_	AlignBegin=1292|AlignEnd=1488|GE=[Bisharin]|Gloss=Bisharin|nWord=4|RX=[N].[PROP]
+5	=wa		CONJ	_	_	4	cc	_	AlignBegin=1488|AlignEnd=1683|GE=[COORD]|Gloss==COORD|nWord=4|RX=[CONJ]
+6	//		PUNCT	_	_	_	_	_	AlignBegin=1683|AlignEnd=2074|GE=[//]|Gloss=//|nWord=5|RX=[PUNCT]
+7-8	biʃaːrawwa	_	_	_	_	_	_	_	_
+7	biʃaːrab	biʃaːrab	N.PROP	_	_	14	subj	_	AlignBegin=2261|AlignEnd=2471|GE=[Bisharin]|Gloss=Bisharin|nWord=7|RX=[N].[PROP]
+8	=wa		CONJ	_	_	7	cc	_	AlignBegin=2471|AlignEnd=2681|GE=[COORD]|Gloss==COORD|nWord=7|RX=[CONJ]
+9	//		PUNCT	_	_	_	_	_	AlignBegin=2681|AlignEnd=3100|GE=[//]|Gloss=//|nWord=8|RX=[PUNCT]
+10-11	kaːmiːb	_	_	_	_	_	_	_	_
+10	kaːm	kaːm	N	_	_	11	comp	_	AlignBegin=3391|AlignEnd=3545|GE=camel|Gloss=camel|nWord=10|RX=[N]
+11	=iːb		POSTP	_	_	14	comp:obl	_	AlignBegin=3545|AlignEnd=3700|GE=[LOC].[SG]|Gloss==LOC.SG|nWord=10|RX=[POSTP]
+12-16	imsʔabakna	_	_	_	_	_	_	_	_
+12	i-		PNG	_	_	14	subj/m	_	AlignBegin=3700|AlignEnd=3762|GE=[3]|Gloss=3-|nWord=11|RX=[PNG]
+13	m-		V1.DER	_	_	14	comp/m	_	AlignBegin=3762|AlignEnd=3824|GE=[RECP]|Gloss=RECP-|nWord=11|RX=[V1].[DER]
+14	s-		V1.DER	_	_	0	root	_	AlignBegin=3824|AlignEnd=3886|GE=[CAUS]|Gloss=CAUS-|nWord=11|RX=[V1].[DER]
+15	ʔabak	ʔabak	V1.TR	_	_	14	comp/m	_	AlignBegin=3886|AlignEnd=3948|GE=take|Gloss=take\PFV|nWord=11|RX=[V1].[TR]|TypeToken=stem
+16	-na		PNG	_	_	14	subj/m	_	AlignBegin=3948|AlignEnd=4009|GE=[PL]|Gloss=-PL|nWord=11|RX=[PNG]
+17	eːn	eːn	V1.IRG	_	_	14	discourse	_	AlignBegin=4009|AlignEnd=4318|GE=say|Gloss=say\PFV.3PL|nWord=12|RX=[V1].[IRG]|TypeToken=stem
+18	//		PUNCT	_	_	_	_	_	AlignBegin=4318|AlignEnd=4626|GE=[//]|Gloss=//|nWord=13|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_30_QUARREL_009-015
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_30_QUARREL.WAV
+# sent_timecode = 5558, 12452
+# text = imsʔabaknhoːb / 550 uːn iʤamiːlaːji / 1011 tak ikteːni eːfi oːn anika ikteːnka / uːn uːkaːm kaːmoːni idi eːn //
+# text_en = When they fought over it, this Djamilab ‘There is a man who knows more than me, this camel is our camel’, he said, they said.
+1-6	imsʔabaknhoːb	_	_	_	_	_	_	_	_
+1	i-		PNG	_	_	3	subj/m	_	AlignBegin=5558|AlignEnd=5609|GE=[3]|Gloss=3-|nWord=1|RX=[PNG]
+2	m-		V1.DER	_	_	3	comp/m	_	AlignBegin=5609|AlignEnd=5660|GE=[RECP]|Gloss=RECP-|nWord=1|RX=[V1].[DER]
+3	s-		V1.DER	_	_	6	comp	_	AlignBegin=5660|AlignEnd=5711|GE=[CAUS]|Gloss=CAUS-|nWord=1|RX=[V1].[DER]
+4	ʔabak	ʔabak	V1.TR	_	_	3	comp/m	_	AlignBegin=5711|AlignEnd=5762|GE=take|Gloss=take\PFV|nWord=1|RX=[V1].[TR]|TypeToken=stem
+5	-n		PNG	_	_	3	subj/m	_	AlignBegin=5762|AlignEnd=5813|GE=[PL]|Gloss=-PL|nWord=1|RX=[PNG]
+6	=hoːb		CONJ	_	_	_	_	_	AlignBegin=5813|AlignEnd=5863|GE=when|Gloss==when|nWord=1|RX=[CONJ]
+7	/		PUNCT	_	_	_	_	_	AlignBegin=5863|AlignEnd=6168|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+8	uːn	uːn	DEM	_	_	10	det	_	AlignBegin=6719|AlignEnd=7010|GE=[PROX].[SG].[NOM]|Gloss=PROX.SG.NOM|nWord=4|RX=[DEM]
+9-11	iʤamiːlaːji	_	_	_	_	_	_	_	_
+9	i=		DET	_	_	10	det	_	AlignBegin=7010|AlignEnd=7107|GE=[DEF].[M]|Gloss=DEF.M=|nWord=5|RX=[DET]
+10	ʤamiːl	ʤamiːl	N.PROP	_	_	_	_	_	AlignBegin=7107|AlignEnd=7204|GE=[Djamilab]|Gloss=Djamilab|nWord=5|RX=[N].[PROP]
+11	-aːji		_	_	_	10	det	_	AlignBegin=7204|AlignEnd=7301|GE=[SING]|Gloss=-SING|nWord=5
+12	/		PUNCT	_	_	_	_	_	AlignBegin=7301|AlignEnd=7592|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+13	tak	tak	N.M	_	_	_	_	_	AlignBegin=8603|AlignEnd=8967|GE=man|Gloss=man|nWord=8|RX=[N].[M]
+14-15	ikteːni	_	_	_	_	_	_	_	_
+14	i-		PNG	_	_	15	subj/m	_	AlignBegin=8967|AlignEnd=9149|GE=[3SG].[M]|Gloss=3SG.M-|nWord=9|RX=[PNG]
+15	kteːni	kteːni	V1.DER.IRG.TR	_	_	_	_	_	AlignBegin=9149|AlignEnd=9331|GE=know|Gloss=know\MID.IPFV|nWord=9|RX=[V1].[DER].[IRG].[TR]|TypeToken=stem
+16-17	eːfi	_	_	_	_	_	_	_	_
+16	eː-		PNG	_	_	17	subj/m	_	AlignBegin=9331|AlignEnd=9513|GE=[3SG].[M]|Gloss=3SG.M-|nWord=10|RX=[PNG]
+17	fi	fi	V1.IRG.INTR	_	_	_	_	_	AlignBegin=9513|AlignEnd=9695|GE=be_there|Gloss=be_there\IPFV|nWord=10|RX=[V1].[IRG].[INTR]|TypeToken=stem
+18	oːn	oːn	DEM	_	_	_	_	_	AlignBegin=9695|AlignEnd=10000|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=11|RX=[DEM]
+19-20	anika	_	_	_	_	_	_	_	_
+19	ani	ani	SBJ.PRO	_	_	_	_	_	AlignBegin=10000|AlignEnd=10152|GE=[1SG].[NOM]|Gloss=1SG.NOM|nWord=12|RX=[SBJ].[PRO]
+20	=ka		POSTP	_	_	_	_	_	AlignBegin=10152|AlignEnd=10305|GE=[CMPR]|Gloss==CMPR|nWord=12|RX=[POSTP]
+21-23	ikteːnka	_	_	_	_	_	_	_	_
+21	i-		PNG	_	_	22	subj/m	_	AlignBegin=10305|AlignEnd=10407|GE=[3SG].[M]|Gloss=3SG.M-|nWord=13|RX=[PNG]
+22	kteːn	kteːn	V1.DER.IRG.TR	_	_	_	_	_	AlignBegin=10407|AlignEnd=10509|GE=know|Gloss=know\MID.IPFV|nWord=13|RX=[V1].[DER].[IRG].[TR]|TypeToken=stem
+23	=ka		POSTP	_	_	_	_	_	AlignBegin=10509|AlignEnd=10610|GE=[CMPR]|Gloss==CMPR|nWord=13|RX=[POSTP]
+24	/		PUNCT	_	_	_	_	_	AlignBegin=10610|AlignEnd=10915|GE=[/]|Gloss=/|nWord=14|RX=[PUNCT]
+25	uːn	uːn	DEM	_	_	27	det	_	AlignBegin=10917|AlignEnd=11173|GE=[PROX].[SG].[M].[NOM]|Gloss=PROX.SG.M.NOM|nWord=15|RX=[DEM]
+26-27	uːkaːm	_	_	_	_	_	_	_	_
+26	uː=		DET	_	_	27	det	_	AlignBegin=11173|AlignEnd=11301|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=16|RX=[DET]
+27	kaːm	kaːm	N	_	_	30	subj	_	AlignBegin=11301|AlignEnd=11429|GE=camel|Gloss=camel|nWord=16|RX=[N]
+28-30	kaːmoːni	_	_	_	_	_	_	_	_
+28	kaːm	kaːm	N	_	_	30	comp:pred	_	AlignBegin=11429|AlignEnd=11514|GE=camel|Gloss=camel|nWord=17|RX=[N]
+29	=oːn		PRO	_	_	28	udep@poss	_	AlignBegin=11514|AlignEnd=11599|GE=[POSS].[1PL].[ACC]|Gloss==POSS.1PL.ACC|nWord=17|RX=[PRO]
+30	=i		PRED.N	_	_	32	comp:obj	_	AlignBegin=11599|AlignEnd=11685|GE=[COP].[3SG]|Gloss==COP.3SG|nWord=17|RX=[PRED].[N]
+31-32	idi	_	_	_	_	_	_	_	_
+31	i-		PNG	_	_	32	subj/m	_	AlignBegin=11685|AlignEnd=11813|GE=[3SG].[M]|Gloss=3SG.M-|nWord=18|RX=[PNG]
+32	di	di	V1.IRG.TR	_	_	0	root	_	AlignBegin=11813|AlignEnd=11941|GE=say|Gloss=say\PFV|nWord=18|RX=[V1].[IRG].[TR]|TypeToken=stem
+33	eːn	eːn	V1.IRG.TR	_	_	32	discourse	_	AlignBegin=11941|AlignEnd=12197|GE=say|Gloss=say\PFV.3PL|nWord=19|RX=[V1].[IRG].[TR]|TypeToken=stem
+34	//		PUNCT	_	_	_	_	_	AlignBegin=12197|AlignEnd=12452|GE=[//]|Gloss=//|nWord=20|RX=[PUNCT]
+

@@ -766,7 +766,7 @@
 8	dabal	_	ADJ	ADJ	_	9	comp	_	AlignBegin=144479|AlignEnd=144630|Gloss=small|RX=[ADJ]|TokenType=Root
 9	=had	_	ADP	POSTP	_	11	comp:obl	_	AlignBegin=144630|AlignEnd=144782|Gloss==until|RX==[POSTP]|TokenType=Clit
 10	//	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=144782|AlignEnd=145654|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-11	fiːn	_	VERB	V2	VerbClass=2	13	comp/m	_	AlignBegin=145654|AlignEnd=145742|Gloss=rest|RX=[V2]|TokenType=Root
+11	fiːn	_	VERB	V2	VerbClass=2	13	comp	_	AlignBegin=145654|AlignEnd=145742|Gloss=rest|RX=[V2]|TokenType=Root
 12	-at	_	PRON	TAM.PNG	Mood=Pot	11	subj/m	_	AlignBegin=145742|AlignEnd=145830|Gloss=-POT.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 13	=aj	_	SCONJ	CONJ	_	6	dislocated:mod	_	AlignBegin=145830|AlignEnd=145918|Gloss==CSL|RX==[CONJ]|TokenType=Clit
 14	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	15	subj/m	_	AlignBegin=145918|AlignEnd=146050|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff

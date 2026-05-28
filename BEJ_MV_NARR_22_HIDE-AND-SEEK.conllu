@@ -1,0 +1,361 @@
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_01-05
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 0, 4447
+# text = dabaloːja ʔar niːktihoːb / 183 ɖʔamɖʔamoːjeːb niːdi hawa / 325 hawaːniji iːfi //
+# text_en = When we were small children,  there was a game that we called hide-and-seek that we used to play.§
+1-2	dabaloːja	_	_	_	_	_	_	_	_
+1	dabaloː	dabaloː	_	ADJ	_	3	mod	_	AlignBegin=0|AlignEnd=191|GE=small|Gloss=small|nWord=1|RX=[ADJ]
+2	-jaː	_	_	_	_	1	det	_	AlignBegin=191|AlignEnd=382|GE=[PL]|Gloss=-PL|nWord=1
+3	ʔar	ʔar	_	N	_	5	subj	_	AlignBegin=382|AlignEnd=764|GE=child|Gloss=child\PL|nWord=2|RX=[N]|TypeToken=stem
+4-6	niːktihoːb	_	_	_	_	_	_	_	_
+4	niː-	_	_	PNG	_	5	subj/m	_	AlignBegin=764|AlignEnd=891|GE=[1PL]|Gloss=1PL-|nWord=3|RX=[PNG]
+5	kti	kti	_	V1.IRG.TR	_	6	comp	_	AlignBegin=891|AlignEnd=1018|GE=become|Gloss=become\AOR|nWord=3|RX=[V1].[IRG].[TR]|TypeToken=stem
+6	=hoːb	_	_	CONJ	_	18	mod	_	AlignBegin=1018|AlignEnd=1146|GE=when|Gloss==when|nWord=3|RX=[CONJ]
+7	/	_	_	PUNCT	_	_	_	_	AlignBegin=1146|AlignEnd=1527|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
+8	ɖʔam~ɖʔamoːjeːb	ɖʔam~ɖʔamoːjeːb	_	N.V	_	10	comp:obj	_	AlignBegin=1710|AlignEnd=2023|GE=hide_and_seek|Gloss=hide_and_seek\N.AC|nWord=6|RX=[N].[V]|TypeToken=stem
+9-11	niːdi	_	_	_	_	_	_	_	_
+9	niː-	_	_	PNG	_	10	subj/m	_	AlignBegin=2023|AlignEnd=2127|GE=[1PL]|Gloss=1PL-|nWord=7|RX=[PNG]
+10	d	d	_	V1.IRG.TR	_	11	comp	_	AlignBegin=2127|AlignEnd=2231|GE=say|Gloss=say\AOR|nWord=7|RX=[V1].[IRG].[TR]|TypeToken=stem
+11	=i	_	_	CONJ	_	12	mod@relcl$obj	_	AlignBegin=2231|AlignEnd=2336|GE=[REL]|Gloss==REL|nWord=7|RX=[CONJ]
+12	hawa	hawa	_	N.V	_	18	subj	_	AlignBegin=2336|AlignEnd=2649|GE=play|Gloss=play\N.AC|nWord=8|RX=[N].[V]|TypeToken=stem
+13	/	_	_	PUNCT	_	_	_	_	AlignBegin=2649|AlignEnd=2962|GE=[/]|Gloss=/|nWord=9|RX=[PUNCT]
+14-16	hawaːniji	_	_	_	_	_	_	_	_
+14	hawaː	hawaː	_	V2.TR	_	16	comp	_	AlignBegin=3287|AlignEnd=3416|GE=play|Gloss=play|nWord=11|RX=[V2].[TR]
+15	-ni	_	_	TAM.PNG	_	14	subj/m	_	AlignBegin=3416|AlignEnd=3545|GE=[AOR].[1PL]|Gloss=-AOR.1PL|nWord=11|RX=[TAM].[PNG]
+16	=i	_	_	CONJ	_	12	mod@relcl$obj	_	AlignBegin=3545|AlignEnd=3674|GE=[REL]|Gloss==REL|nWord=11|RX=[CONJ]
+17-18	iːfi	_	_	_	_	_	_	_	_
+17	iː-	_	_	PNG	_	18	subj/m	_	AlignBegin=3674|AlignEnd=3868|GE=[3SG].[M]|Gloss=3SG.M-|nWord=12|RX=[PNG]
+18	fi	fi	_	V1.IRG.INTR	_	0	root	_	AlignBegin=3868|AlignEnd=4061|GE=be_there|Gloss=be_there\AOR|nWord=12|RX=[V1].[IRG].[INTR]|TypeToken=stem
+19	//	_	_	PUNCT	_	_	_	_	AlignBegin=4061|AlignEnd=4447|GE=[//]|Gloss=//|nWord=13|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_07-09
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 4997, 7795
+# text = mhali mhiːnan ʔaɖaɖtiːt / 556 gali ɖʔamni /
+# text_en = We were divided in two places, and  some of us were hiding, and §
+1	mhali	mhali	_	NUM	_	2	mod	_	AlignBegin=4997|AlignEnd=5311|GE=two|Gloss=two|nWord=1|RX=[NUM]
+2	mhiːnan	mhiːnan	_	N.M	_	3	comp:obj	_	AlignBegin=5311|AlignEnd=5625|GE=place|Gloss=place|nWord=2|RX=[N].[M]
+3-4	ʔaɖaɖtiːt	_	_	_	_	_	_	_	_
+3	ʔaɖaɖ	ʔaɖaɖ	_	V1.DER.TR	_	4	comp	_	AlignBegin=5625|AlignEnd=5782|GE=divide|Gloss=divide\MID|nWord=3|RX=[V1].[DER].[TR]|TypeToken=stem
+4	-tiːt	_	_	_	_	7	mod	_	AlignBegin=5782|AlignEnd=5939|GE=[CVB].[SEQ]|Gloss=-CVB.SEQ|nWord=3
+5	/	_	_	PUNCT	_	_	_	_	AlignBegin=5939|AlignEnd=6253|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
+6	gali	gali	_	NUM	_	7	subj	_	AlignBegin=6809|AlignEnd=7138|GE=one|Gloss=one\PL|nWord=6|RX=[NUM]|TypeToken=stem
+7-8	ɖʔamni	_	_	_	_	_	_	_	_
+7	ɖʔam	ɖʔam	_	V2.DER.INTR	_	0	root	_	AlignBegin=7138|AlignEnd=7302|GE=hide|Gloss=hide\MID|nWord=7|RX=[V2].[DER].[INTR]|TypeToken=stem
+8	-ni	_	_	TAM.PNG	_	7	subj/m	_	AlignBegin=7302|AlignEnd=7467|GE=[AOR].[1PL]|Gloss=-AOR.1PL|nWord=7|RX=[TAM].[PNG]
+9	/	_	_	PUNCT	_	_	_	_	AlignBegin=7467|AlignEnd=7795|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_11-13
+# text = wari / 131 iraweːn nhiriw //
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 8291, 9684
+# text_en = we were seeking for our other group.§
+1	wari	wari	_	ADJ	_	4	conj:dicto	_	AlignBegin=8291|AlignEnd=8467|GE=other|Gloss=other\PL|nWord=1|RX=[ADJ]|TypeToken=stem
+2	/	_	_	PUNCT	_	_	_	_	AlignBegin=8467|AlignEnd=8642|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+3-5	iraweːn	_	_	_	_	_	_	_	_
+3	i=	_	_	DET	_	4	det	_	AlignBegin=8773|AlignEnd=8874|GE=[DEF].[M]|Gloss=DEF.M=|nWord=4|RX=[DET]
+4	raw	raw	_	ADJ	_	7	comp:obj	_	AlignBegin=8874|AlignEnd=8975|GE=other|Gloss=other\PL|nWord=4|RX=[ADJ]|TypeToken=stem
+5	=eːn	_	_	PRO	_	4	udep@poss	_	AlignBegin=8975|AlignEnd=9077|GE=[POSS].[1PL].[ACC]|Gloss==POSS.1PL.ACC|nWord=4|RX=[PRO]
+6-7	nhiriw	_	_	_	_	_	_	_	_
+6	n-	_	_	PNG	_	7	subj/m	_	AlignBegin=9077|AlignEnd=9229|GE=[1PL]|Gloss=1PL-|nWord=5|RX=[PNG]
+7	hiriw	hiriw	_	V1.TR	_	0	root	_	AlignBegin=9229|AlignEnd=9381|GE=seek|Gloss=seek\AOR|nWord=5|RX=[V1].[TR]|TypeToken=stem
+8	//	_	_	PUNCT	_	_	_	_	AlignBegin=9381|AlignEnd=9684|GE=[//]|Gloss=//|nWord=6|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_15-42
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 10506, 32173
+# text = ontʔa / 1474 uːdoːr dhaːj haːji jiɖʔameːn // 694 ɖʔameː / 684 gaːl hoːj eːtniːwneːk / mhaloːb hoːj eːtniːwneːk / 1144 iɖʔamaːnaːj ʔadadida / 679 ontʔa / 1248 iɖʔamaːnaːj / 379 əəə 114 ʔadadida / 103 əəə / jaː iraːni / 767 əəə / eːtniːwnhoːb / meːkiː lawa / 165 jaːsiː lawa / ijadna eːn //
+# text_en = Now,  (the group) whose turn it is to hide,  while they hide,  if they do not find one of them if they do not find two of them,  depending on the number of hidden people,  now, depending on the number of the hidden people,     er,  gosh!  er,  when they do not find them,   ‘Appear by means of a donkey!’ Appear by means of a dog!’ they say, they said.§
+1	ontʔa	ontʔa	_	PTCL	_	4	discourse	_	AlignBegin=10506|AlignEnd=10769|GE=now|Gloss=now|nWord=1|RX=[PTCL]
+2	/	_	_	PUNCT	_	_	_	_	AlignBegin=10769|AlignEnd=11032|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+3-4	uːdoːr	_	_	_	_	_	_	_	_
+3	uː=	_	_	DET	_	4	det	_	AlignBegin=12506|AlignEnd=12686|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=4|RX=[DET]
+4	doːr	doːr	_	N.M	_	_	_	_	AlignBegin=12686|AlignEnd=12867|GE=time|Gloss=time|nWord=4|RX=[N].[M]
+5	dhaːj	dhaːj	_	POSTP	_	6	comp:obl	_	AlignBegin=12867|AlignEnd=13228|GE=[DIR]|Gloss=DIR|nWord=5|RX=[POSTP]
+6-7	haːji	_	_	_	_	_	_	_	_
+6	haː	haː	_	V1.IRG.INTR	_	7	comp	_	AlignBegin=13228|AlignEnd=13408|GE=be_there|Gloss=be_there\IPFV.3SG.M|nWord=6|RX=[V1].[IRG].[INTR]|TypeToken=stem
+7	=ji	_	_	CONJ	_	4	mod@relcl$subj	_	AlignBegin=13408|AlignEnd=13589|GE=[REL]|Gloss==REL|nWord=6|RX=[CONJ]
+8-10	jiɖʔameːn	_	_	_	_	_	_	_	_
+8	ji=	_	_	CONJ	_	_	_	_	AlignBegin=13589|AlignEnd=13709|GE=[REL].[PL].[M]|Gloss=REL.PL.M=|nWord=7|RX=[CONJ]
+9	ɖʔam	ɖʔam	_	V2.DER.INTR	_	_	_	_	AlignBegin=13709|AlignEnd=13829|GE=hide|Gloss=hide\MID|nWord=7|RX=[V2].[DER].[INTR]|TypeToken=stem
+10	-eːn	_	_	TAM.PNG	_	9	subj/m	_	AlignBegin=13829|AlignEnd=13950|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=7|RX=[TAM].[PNG]
+11	//	_	_	PUNCT	_	_	_	_	AlignBegin=13950|AlignEnd=14312|GE=[//]|Gloss=//|nWord=8|RX=[PUNCT]
+12-13	ɖʔameː	_	_	_	_	_	_	_	_
+12	ɖʔam	ɖʔam	_	V2.DER.INTR	_	13	comp	_	AlignBegin=15006|AlignEnd=15110|GE=hide|Gloss=hide\MID|nWord=10|RX=[V2].[DER].[INTR]|TypeToken=stem
+13	-eː	_	_	_	_	18	mod	_	AlignBegin=15110|AlignEnd=15213|GE=[CVB].[SMLT]|Gloss=-CVB.SMLT|nWord=10
+14	/	_	_	PUNCT	_	_	_	_	AlignBegin=15213|AlignEnd=15420|GE=[/]|Gloss=/|nWord=11|RX=[PUNCT]
+15	gaːl	gaːl	_	NUM	_	18	comp:obj	_	AlignBegin=16105|AlignEnd=16417|GE=one|Gloss=one|nWord=13|RX=[NUM]
+16	hoːj	hoːj	_	POSTP	_	18	comp:obl	_	AlignBegin=16417|AlignEnd=16729|GE=[LOC]|Gloss=LOC|nWord=14|RX=[POSTP]
+17-21	eːtniːwneːk	_	_	_	_	_	_	_	_
+17	eː-	_	_	PNG	_	18	subj/m	_	AlignBegin=16729|AlignEnd=16791|GE=[3]|Gloss=3-|nWord=15|RX=[PNG]
+18	t-	_	_	V1.DER	_	21	comp	_	AlignBegin=16791|AlignEnd=16853|GE=[MID]|Gloss=MID-|nWord=15|RX=[V1].[DER]
+19	niːw	niːw	_	V1.TR	_	18	subj/m	_	AlignBegin=16853|AlignEnd=16915|GE=not_find|Gloss=not_find\IPFV|nWord=15|RX=[V1].[TR]|TypeToken=stem
+20	-n	_	_	PNG	_	18	subj/m	_	AlignBegin=16915|AlignEnd=16977|GE=[PL]|Gloss=-PL|nWord=15|RX=[PNG]
+21	=eːk	_	_	CONJ	_	27	mod	_	AlignBegin=16977|AlignEnd=17041|GE=if|Gloss==if|nWord=15|RX=[CONJ]
+22	/	_	_	PUNCT	_	_	_	_	AlignBegin=17041|AlignEnd=17354|GE=[/]|Gloss=/|nWord=16|RX=[PUNCT]
+23-24	mhaloːb	_	_	_	_	_	_	_	_
+23	mhaloː	mhaloː	_	NUM	_	27	comp:obj	_	AlignBegin=17354|AlignEnd=17528|GE=two|Gloss=two|nWord=17|RX=[NUM]
+24	=b	_	_	DET	_	23	det	_	AlignBegin=17528|AlignEnd=17703|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=17|RX=[DET]
+25	hoːj	hoːj	_	POSTP	_	27	comp:obl	_	AlignBegin=17703|AlignEnd=18052|GE=[LOC]|Gloss=LOC|nWord=18|RX=[POSTP]
+26-30	eːtniːwneːk	_	_	_	_	_	_	_	_
+26	eː-	_	_	PNG	_	27	subj/m	_	AlignBegin=18052|AlignEnd=18122|GE=[3]|Gloss=3-|nWord=19|RX=[PNG]
+27	t-	_	_	V1.DER	_	30	comp	_	AlignBegin=18122|AlignEnd=18192|GE=[MID]|Gloss=MID-|nWord=19|RX=[V1].[DER]
+28	niːw	niːw	_	V1.TR	_	27	comp/m	_	AlignBegin=18192|AlignEnd=18262|GE=not_find|Gloss=not_find\IPFV|nWord=19|RX=[V1].[TR]|TypeToken=stem
+29	-n	_	_	PNG	_	27	subj/m	_	AlignBegin=18262|AlignEnd=18332|GE=[PL]|Gloss=-PL|nWord=19|RX=[PNG]
+30	=eːk	_	_	CONJ	_	63	conj:redup	_	AlignBegin=18332|AlignEnd=18401|GE=if|Gloss==if|nWord=19|RX=[CONJ]
+31	/	_	_	PUNCT	_	_	_	_	AlignBegin=18401|AlignEnd=18751|GE=[/]|Gloss=/|nWord=20|RX=[PUNCT]
+32-35	iɖʔamaːnaːj	_	_	_	_	_	_	_	_
+32	i=	_	_	DET	_	33	det	_	AlignBegin=19895|AlignEnd=20015|GE=[DEF].[M]|Gloss=DEF.M=|nWord=22|RX=[DET]
+33	ɖʔam	ɖʔam	_	V2.DER.INTR	_	34	comp/m	_	AlignBegin=20015|AlignEnd=20135|GE=hide|Gloss=hide\MID|nWord=22|RX=[V2].[DER].[INTR]|TypeToken=stem
+34	-aːna	_	_	N.V	_	35	comp	_	AlignBegin=20135|AlignEnd=20255|GE=[N].[AGN]|Gloss=-N.AGN|nWord=22|RX=[N].[V]
+35	=i	_	_	CASE	_	36	udep	_	AlignBegin=20255|AlignEnd=20373|GE=[GEN]|Gloss==GEN|nWord=22|RX=[CASE]
+36-38	ʔadadida	_	_	_	_	_	_	_	_
+36	ʔadad	ʔadad	_	N.M.BORR.ARA	_	37	comp	_	AlignBegin=20373|AlignEnd=20532|GE=number|Gloss=number|nWord=23|RX=[N].[M].[BORR].[ARA]
+37	=i	_	_	CASE	_	38	comp	_	AlignBegin=20532|AlignEnd=20691|GE=[GEN]|Gloss==GEN|nWord=23|RX=[CASE]
+38	=da	_	_	POSTP	_	48	conj:redup	_	AlignBegin=20691|AlignEnd=20851|GE=[DIR]|Gloss==DIR|nWord=23|RX=[POSTP]
+39	/	_	_	PUNCT	_	_	_	_	AlignBegin=20851|AlignEnd=21330|GE=[/]|Gloss=/|nWord=24|RX=[PUNCT]
+40	ontʔa	ontʔa	_	PTCL	_	43	discourse	_	AlignBegin=22009|AlignEnd=22197|GE=now|Gloss=now|nWord=26|RX=[PTCL]
+41	/	_	_	PUNCT	_	_	_	_	AlignBegin=22197|AlignEnd=22386|GE=[/]|Gloss=/|nWord=27|RX=[PUNCT]
+42-45	iɖʔamaːnaːj	_	_	_	_	_	_	_	_
+42	i=	_	_	DET	_	43	det	_	AlignBegin=23634|AlignEnd=23729|GE=[DEF].[M]|Gloss=DEF.M=|nWord=29|RX=[DET]
+43	ɖʔam	ɖʔam	_	V2.DER.INTR	_	44	comp/m	_	AlignBegin=23729|AlignEnd=23824|GE=hide|Gloss=hide\MID|nWord=29|RX=[V2].[DER].[INTR]|TypeToken=stem
+44	-aːna	_	_	N.V	_	45	comp	_	AlignBegin=23824|AlignEnd=23919|GE=[N].[AGN]|Gloss=-N.AGN|nWord=29|RX=[N].[V]
+45	=i	_	_	CASE	_	48	udep	_	AlignBegin=23919|AlignEnd=24013|GE=[GEN]|Gloss==GEN|nWord=29|RX=[CASE]
+46	/	_	_	PUNCT	_	_	_	_	AlignBegin=24013|AlignEnd=24392|GE=[/]|Gloss=/|nWord=30|RX=[PUNCT]
+47	əəə	əəə	_	HESIT	_	48	discourse	_	AlignBegin=24772|AlignEnd=25089|GE=er|Gloss=er|nWord=32|RX=[HESIT]
+48-50	ʔadadida	_	_	_	_	_	_	_	_
+48	ʔadad	ʔadad	_	N.M.BORR.ARA	_	49	comp	_	AlignBegin=25204|AlignEnd=25330|GE=number|Gloss=number|nWord=34|RX=[N].[M].[BORR].[ARA]
+49	=i	_	_	CASE	_	50	comp	_	AlignBegin=25330|AlignEnd=25456|GE=[GEN]|Gloss==GEN|nWord=34|RX=[CASE]
+50	=da	_	_	POSTP	_	60	mod	_	AlignBegin=25456|AlignEnd=25582|GE=[DIR]|Gloss==DIR|nWord=34|RX=[POSTP]
+51	/	_	_	PUNCT	_	_	_	_	AlignBegin=25582|AlignEnd=25961|GE=[/]|Gloss=/|nWord=35|RX=[PUNCT]
+52	əəə	əəə	_	HESIT	_	54	discourse	_	AlignBegin=26083|AlignEnd=26223|GE=er|Gloss=er|nWord=37|RX=[HESIT]
+53	/	_	_	PUNCT	_	_	_	_	AlignBegin=26223|AlignEnd=26362|GE=[/]|Gloss=/|nWord=38|RX=[PUNCT]
+54	jaː	jaː	_	PTCL	_	55	discourse	_	AlignBegin=26362|AlignEnd=26617|GE=[ADRF]|Gloss=ADRF|nWord=39|RX=[PTCL]
+55	iraːni	iraːni	_	EXCL	_	57	discourse	_	AlignBegin=26617|AlignEnd=26872|GE=gosh|Gloss=gosh|nWord=40|RX=[EXCL]
+56	/	_	_	PUNCT	_	_	_	_	AlignBegin=26872|AlignEnd=27126|GE=[/]|Gloss=/|nWord=41|RX=[PUNCT]
+57	əəə	əəə	_	HESIT	_	60	discourse	_	AlignBegin=27894|AlignEnd=28170|GE=er|Gloss=er|nWord=43|RX=[HESIT]
+58	/	_	_	PUNCT	_	_	_	_	AlignBegin=28170|AlignEnd=28447|GE=[/]|Gloss=/|nWord=44|RX=[PUNCT]
+59-63	eːtniːwnhoːb	_	_	_	_	_	_	_	_
+59	eː-	_	_	PNG	_	60	subj/m	_	AlignBegin=28447|AlignEnd=28513|GE=[3]|Gloss=3-|nWord=45|RX=[PNG]
+60	t-	_	_	V1.DER	_	63	comp	_	AlignBegin=28513|AlignEnd=28579|GE=[MID]|Gloss=MID-|nWord=45|RX=[V1].[DER]
+61	niːw	niːw	_	V1.TR	_	60	comp/m	_	AlignBegin=28579|AlignEnd=28645|GE=not_find|Gloss=not_find\IPFV|nWord=45|RX=[V1].[TR]|TypeToken=stem
+62	-n	_	_	PNG	_	60	subj/m	_	AlignBegin=28645|AlignEnd=28711|GE=[PL]|Gloss=-PL|nWord=45|RX=[PNG]
+63	=hoːb	_	_	CONJ	_	76	mod	_	AlignBegin=28711|AlignEnd=28777|GE=when|Gloss==when|nWord=45|RX=[CONJ]
+64	/	_	_	PUNCT	_	_	_	_	AlignBegin=28777|AlignEnd=29106|GE=[/]|Gloss=/|nWord=46|RX=[PUNCT]
+65-66	meːkiː	_	_	_	_	_	_	_	_
+65	meːk	meːk	_	N	_	66	comp	_	AlignBegin=29106|AlignEnd=29294|GE=donkey|Gloss=donkey|nWord=47|RX=[N]
+66	=iː	_	_	POSTP	_	67	comp:obl	_	AlignBegin=29294|AlignEnd=29483|GE=[ABL].[SG]|Gloss==ABL.SG|nWord=47|RX=[POSTP]
+67-68	lawa	_	_	_	_	_	_	_	_
+67	law	law	_	V2.INTR	_	72	parataxis:redup	_	AlignBegin=29483|AlignEnd=29671|GE=appear|Gloss=appear|nWord=48|RX=[V2].[INTR]
+68	-a	_	_	TAM.PNG	_	67	subj/m	_	AlignBegin=29671|AlignEnd=29860|GE=[IMP].[SG].[M]|Gloss=-IMP.SG.M|nWord=48|RX=[TAM].[PNG]
+69	/	_	_	PUNCT	_	_	_	_	AlignBegin=29860|AlignEnd=30236|GE=[/]|Gloss=/|nWord=49|RX=[PUNCT]
+70-71	jaːsiː	_	_	_	_	_	_	_	_
+70	jaːs	jaːs	_	N	_	71	comp	_	AlignBegin=30402|AlignEnd=30597|GE=dog|Gloss=dog|nWord=51|RX=[N]
+71	=iː	_	_	POSTP	_	72	comp:obl	_	AlignBegin=30597|AlignEnd=30792|GE=[ABL].[SG]|Gloss==ABL.SG|nWord=51|RX=[POSTP]
+72-73	lawa	_	_	_	_	_	_	_	_
+72	law	law	_	V2.INTR	_	76	comp:obj	_	AlignBegin=30792|AlignEnd=30987|GE=appear|Gloss=appear|nWord=52|RX=[V2].[INTR]
+73	-a	_	_	TAM.PNG	_	72	subj/m	_	AlignBegin=30987|AlignEnd=31182|GE=[IMP].[SG].[M]|Gloss=-IMP.SG.M|nWord=52|RX=[TAM].[PNG]
+74	/	_	_	PUNCT	_	_	_	_	AlignBegin=31182|AlignEnd=31571|GE=[/]|Gloss=/|nWord=53|RX=[PUNCT]
+75-77	ijadna	_	_	_	_	_	_	_	_
+75	i-	_	_	PNG	_	76	subj/m	_	AlignBegin=31571|AlignEnd=31638|GE=[3]|Gloss=3-|nWord=54|RX=[PNG]
+76	jad	jad	_	V1.IRG.TR	_	0	root	_	AlignBegin=31638|AlignEnd=31705|GE=say|Gloss=say\IPFV|nWord=54|RX=[V1].[IRG].[TR]|TypeToken=stem
+77	-na	_	_	PNG	_	76	subj/m	_	AlignBegin=31705|AlignEnd=31772|GE=[PL]|Gloss=-PL|nWord=54|RX=[PNG]
+78	eːn	eːn	_	V1.IRG.TR	_	76	discourse	_	AlignBegin=31772|AlignEnd=31973|GE=say|Gloss=say\PFV.3PL|nWord=55|RX=[V1].[IRG].[TR]|TypeToken=stem
+79	//	_	_	PUNCT	_	_	_	_	AlignBegin=31973|AlignEnd=32173|GE=[//]|Gloss=//|nWord=56|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_44-48
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 33153, 37819
+# text = beːn ombaroː / jilaweːn / law law law / diːtiːt laweːna /
+# text_en = That one  who appears,   they (sic) appear quickly. §
+1	beːn	beːn	_	DEM	_	2	det	_	AlignBegin=33153|AlignEnd=33334|GE=[DIST].[SG].[M].[ACC]|Gloss=DIST.SG.M.ACC|nWord=1|RX=[DEM]
+2	ombaroː	ombaroː	_	PRO	_	13	subj	_	AlignBegin=33334|AlignEnd=33515|GE=[3SG].[M].[ACC]|Gloss=3SG.M.ACC|nWord=2|RX=[PRO]
+3	/	_	_	PUNCT	_	_	_	_	AlignBegin=33515|AlignEnd=33695|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+4-6	jilaweːn	_	_	_	_	_	_	_	_
+4	ji=	_	_	CONJ	_	5	subj	_	AlignBegin=34970|AlignEnd=35077|GE=[REL].[PL].[M]|Gloss=REL.PL.M=|nWord=5|RX=[CONJ]
+5	law	law	_	V2.INTR	_	2	mod@relcl$subj	_	AlignBegin=35077|AlignEnd=35184|GE=appear|Gloss=appear|nWord=5|RX=[V2].[INTR]
+6	-iːn	_	_	TAM.PNG	Aspect=Aor	5	subj/m	_	AlignBegin=35184|AlignEnd=35290|GE=[AOR].[3PL]|Gloss=-AOR.3PL|nWord=5|RX=[TAM].[PNG]
+7	/	_	_	PUNCT	_	_	_	_	AlignBegin=35290|AlignEnd=35610|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+8	law	law	_	V2.INTR	_	9	conj:redup	_	AlignBegin=35610|AlignEnd=35888|GE=appear|Gloss=appear|nWord=7|RX=[V2].[INTR]
+9	law	law	_	V2.INTR	_	10	conj:redup	_	AlignBegin=35888|AlignEnd=36166|GE=appear|Gloss=appear|nWord=8|RX=[V2].[INTR]
+10	law	law	_	V2.INTR	_	13	comp:aux	_	AlignBegin=36166|AlignEnd=36444|GE=appear|Gloss=appear|nWord=9|RX=[V2].[INTR]
+11	/	_	_	PUNCT	_	_	_	_	AlignBegin=36444|AlignEnd=36724|GE=[/]|Gloss=/|nWord=10|RX=[PUNCT]
+12-13	diːtiːt	_	_	_	_	_	_	_	_
+12	diː	diː	_	LV	_	13	comp/m	_	AlignBegin=36724|AlignEnd=36906|GE=say|Gloss=say|nWord=11|RX=[LV]
+13	-tiːt	_	_	_	_	14	mod	_	AlignBegin=36906|AlignEnd=37089|GE=[CVB].[SEQ]|Gloss=-CVB.SEQ|nWord=11
+14-15	laweːna	_	_	_	_	_	_	_	_
+14	law	law	_	V2.INTR	_	0	root	_	AlignBegin=37089|AlignEnd=37271|GE=appear|Gloss=appear|nWord=12|RX=[V2].[INTR]
+15	-eːna	_	_	TAM.PNG	_	14	subj/m	_	AlignBegin=37271|AlignEnd=37454|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=12|RX=[TAM].[PNG]
+16	/	_	_	PUNCT	_	_	_	_	AlignBegin=37454|AlignEnd=37819|GE=[/]|Gloss=/|nWord=13|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_50-56
+# text = laweːnhoːb ontʔa / aːn / eːrawka / meːk dhaːj dʔijaːb ikatin //
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 38328, 43449
+# text_en = When they appear, now,  they score against all those others. §
+1-3	laweːnhoːb	_	_	_	_	_	_	_	_
+1	law	law	_	V2.INTR	_	3	comp	_	AlignBegin=38328|AlignEnd=38457|GE=appear|Gloss=appear|nWord=1|RX=[V2].[INTR]
+2	-eːn	_	_	TAM.PNG	_	1	subj/m	_	AlignBegin=38457|AlignEnd=38586|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=1|RX=[TAM].[PNG]
+3	=hoːb	_	_	CONJ	_	18	mod	_	AlignBegin=38586|AlignEnd=38714|GE=when|Gloss==when|nWord=1|RX=[CONJ]
+4	ontʔa	ontʔa	_	PTCL	_	9	discourse	_	AlignBegin=38714|AlignEnd=39100|GE=now|Gloss=now|nWord=2|RX=[PTCL]
+5	/	_	_	PUNCT	_	_	_	_	AlignBegin=39100|AlignEnd=39487|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+6	aːn	aːn	_	DEM	_	9	det	_	AlignBegin=40300|AlignEnd=40487|GE=[PROX].[PL].[M].[NOM]|Gloss=PROX.PL.M.NOM|nWord=5|RX=[DEM]
+7	/	_	_	PUNCT	_	_	_	_	AlignBegin=40487|AlignEnd=40674|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+8-10	eːrawka	_	_	_	_	_	_	_	_
+8	eː=	_	_	DET	_	9	det	_	AlignBegin=40975|AlignEnd=41083|GE=[DEF].[PL].[M].[ACC]|Gloss=DEF.PL.M.ACC=|nWord=8|RX=[DET]
+9	raw	raw	_	ADJ	_	10	comp	_	AlignBegin=41083|AlignEnd=41191|GE=other|Gloss=other\PL|nWord=8|RX=[ADJ]|TypeToken=stem
+10	=ka	_	_	POSTP	_	18	comp:obl	_	AlignBegin=41191|AlignEnd=41298|GE=[DISTR]|Gloss==DISTR|nWord=8|RX=[POSTP]
+11	/	_	_	PUNCT	_	_	_	_	AlignBegin=41298|AlignEnd=41621|GE=[/]|Gloss=/|nWord=9|RX=[PUNCT]
+12	meːk	meːk	_	N	_	18	comp:obj	_	AlignBegin=42003|AlignEnd=42292|GE=donkey|Gloss=donkey|nWord=11|RX=[N]
+13	dhaːj	dhaːj	_	POSTP	_	18	comp:obl	_	AlignBegin=42292|AlignEnd=42581|GE=[DIR]|Gloss=DIR|nWord=12|RX=[POSTP]
+14-16	dʔijaːb	_	_	_	_	_	_	_	_
+14	dʔi	dʔi	_	V1.IRG.TR	_	15	comp	_	AlignBegin=42581|AlignEnd=42677|GE=do|Gloss=do|nWord=13|RX=[V1].[IRG].[TR]
+15	-a	_	_	PRF	_	18	comp:aux	_	AlignBegin=42677|AlignEnd=42773|GE=[CVB].[MNR]|Gloss=-CVB.MNR|nWord=13|RX=[PRF]
+16	-b	_	PRON	DET	_	15	subj/m	_	AlignBegin=42773|AlignEnd=42870|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=13|RX=[DET]
+17-19	ikatin	_	_	_	_	_	_	_	_
+17	i-	_	_	PNG	_	18	subj/m	_	AlignBegin=42870|AlignEnd=42966|GE=[3]|Gloss=3-|nWord=14|RX=[PNG]
+18	kati	kati	_	AUX.PRF	_	0	root	_	AlignBegin=42966|AlignEnd=43062|GE=become|Gloss=become\IPFV|nWord=14|RX=[AUX].[PRF]|TypeToken=stem
+19	-n	_	_	PNG	_	18	subj/m	_	AlignBegin=43062|AlignEnd=43159|GE=[PL]|Gloss=-PL|nWord=14|RX=[PNG]
+20	//	_	_	PUNCT	_	_	_	_	AlignBegin=43159|AlignEnd=43449|GE=[//]|Gloss=//|nWord=15|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_58-63
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 43819, 48125
+# text = oːn iwara weːreː / mhaj mak / dhaːj idʔanhoːb / girbaːb ikatin /
+# text_en = It goes on like that,  when they score three scores,    they will be the winners. §
+1	oːn	oːn	_	DEM	_	3	det	_	AlignBegin=43819|AlignEnd=44045|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=1|RX=[DEM]
+2-3	iwara	_	_	_	_	_	_	_	_
+2	i=	_	_	DET	_	3	det	_	AlignBegin=44045|AlignEnd=44158|GE=[DEF].[M]|Gloss=DEF.M=|nWord=2|RX=[DET]
+3	wara	wara	_	N.V	_	4	comp:obj	_	AlignBegin=44158|AlignEnd=44271|GE=do|Gloss=do\N.AC|nWord=2|RX=[N].[V]|TypeToken=stem
+4-5	weːreː	_	_	_	_	_	_	_	_
+4	weːr	weːr	_	V1.TR	_	5	comp/m	_	AlignBegin=44271|AlignEnd=44384|GE=do|Gloss=do|nWord=3|RX=[V1].[TR]
+5	-eː	_	_	_	_	12	mod	_	AlignBegin=44384|AlignEnd=44497|GE=[CVB].[SMLT]|Gloss=-CVB.SMLT|nWord=3
+6	/	_	_	PUNCT	_	_	_	_	AlignBegin=44497|AlignEnd=44723|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
+7	mhaj	mhaj	_	N.M	_	8	mod	_	AlignBegin=44723|AlignEnd=44887|GE=three|Gloss=three|nWord=5|RX=[N].[M]
+8	mak	mak	_	N.M	_	12	comp:obj	_	AlignBegin=44887|AlignEnd=45051|GE=donkey|Gloss=donkey\PL|nWord=6|RX=[N].[M]|TypeToken=stem
+9	/	_	_	PUNCT	_	_	_	_	AlignBegin=45051|AlignEnd=45216|GE=[/]|Gloss=/|nWord=7|RX=[PUNCT]
+10	dhaːj	dhaːj	_	POSTP	_	12	comp:obl	_	AlignBegin=45720|AlignEnd=45983|GE=[DIR]|Gloss=DIR|nWord=9|RX=[POSTP]
+11-14	idʔanhoːb	_	_	_	_	_	_	_	_
+11	i-	_	_	PNG	_	12	subj/m	_	AlignBegin=45983|AlignEnd=46049|GE=[3]|Gloss=3-|nWord=10|RX=[PNG]
+12	dʔa	dʔa	_	V1.IRG.TR	_	14	comp	_	AlignBegin=46049|AlignEnd=46115|GE=do|Gloss=do\IPFV|nWord=10|RX=[V1].[IRG].[TR]|TypeToken=stem
+13	-n	_	_	PNG	_	12	subj/m	_	AlignBegin=46115|AlignEnd=46181|GE=[PL]|Gloss=-PL|nWord=10|RX=[PNG]
+14	=hoːb	_	_	CONJ	_	20	mod	_	AlignBegin=46181|AlignEnd=46246|GE=when|Gloss==when|nWord=10|RX=[CONJ]
+15	/	_	_	PUNCT	_	_	_	_	AlignBegin=46246|AlignEnd=46509|GE=[/]|Gloss=/|nWord=11|RX=[PUNCT]
+16-18	girbaːb	_	_	_	_	_	_	_	_
+16	girib	girib	_	V1.TR	_	17	comp/m	_	AlignBegin=47036|AlignEnd=47157|GE=win|Gloss=win|nWord=13|RX=[V1].[TR]
+17	-a	_	_	PRF	_	20	comp:aux	_	AlignBegin=47157|AlignEnd=47278|GE=[CVB].[MNR]|Gloss=-CVB.MNR|nWord=13|RX=[PRF]
+18	-b	_	PRON	DET	_	17	subj/m	_	AlignBegin=47278|AlignEnd=47399|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=13|RX=[DET]
+19-21	ikatin	_	_	_	_	_	_	_	_
+19	i-	_	_	PNG	_	20	subj/m	_	AlignBegin=47399|AlignEnd=47520|GE=[3]|Gloss=3-|nWord=14|RX=[PNG]
+20	kati	kati	_	AUX.PRF	_	0	root	_	AlignBegin=47520|AlignEnd=47641|GE=become|Gloss=become\IPFV|nWord=14|RX=[AUX].[PRF]|TypeToken=stem
+21	-n	_	_	PNG	_	20	subj/m	_	AlignBegin=47641|AlignEnd=47762|GE=[PL]|Gloss=-PL|nWord=14|RX=[PNG]
+22	/	_	_	PUNCT	_	_	_	_	AlignBegin=47762|AlignEnd=48125|GE=[/]|Gloss=/|nWord=15|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_65-68
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 49662, 53438
+# text = wiʔimeːrneːb / 415 sikʷiːtiːt jʔabiknaːt / igirma ʃiːʃeːn //
+# text_en = Whom they find  after they have chased him, they take him and  they touch upon his head. §
+1-5	wiʔimeːrneːb	_	_	_	_	_	_	_	_
+1	wi=	_	_	CONJ	_	3	comp:obj	_	AlignBegin=49662|AlignEnd=49754|GE=[REL].[M]|Gloss=REL.M=|nWord=1|RX=[CONJ]
+2	i-	_	_	PNG	_	3	subj/m	_	AlignBegin=49754|AlignEnd=49846|GE=[3]|Gloss=3-|nWord=1|RX=[PNG]
+3	meːr	meːr	_	V1.TR	_	5	comp	_	AlignBegin=49846|AlignEnd=49938|GE=find|Gloss=find\IPFV|nWord=1|RX=[V1].[TR]|TypeToken=stem
+4	-n	_	_	PNG	_	3	subj/m	_	AlignBegin=49938|AlignEnd=50030|GE=[PL]|Gloss=-PL|nWord=1|RX=[PNG]
+5	=eːb	_	_	CONJ	_	10	mod@relcl$obj	_	AlignBegin=50030|AlignEnd=50124|GE=[REL].[M]|Gloss==REL.M|nWord=1|RX=[CONJ]
+6	/	_	_	PUNCT	_	_	_	_	AlignBegin=50124|AlignEnd=50587|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+7-8	sikʷiːtiːt	_	_	_	_	_	_	_	_
+7	sikʷi	sikʷi	_	V1.TR	_	8	comp/m	_	AlignBegin=51002|AlignEnd=51234|GE=chase|Gloss=chase|nWord=4|RX=[V1].[TR]
+8	-tiːt	_	_	_	_	10	mod	_	AlignBegin=51234|AlignEnd=51465|GE=[CVB].[SEQ]|Gloss=-CVB.SEQ|nWord=4
+9-12	jʔabiknaːt	_	_	_	_	_	_	_	_
+9	i-	_	_	PNG	_	10	subj/m	_	AlignBegin=51465|AlignEnd=51581|GE=[3]|Gloss=3-|nWord=5|RX=[PNG]
+10	ʔabik	ʔabik	_	V1.TR	_	16	conj:coord	_	AlignBegin=51581|AlignEnd=51697|GE=take|Gloss=take\IPFV|nWord=5|RX=[V1].[TR]|TypeToken=stem
+11	-na	_	_	PNG	_	10	subj/m	_	AlignBegin=51697|AlignEnd=51813|GE=[PL]|Gloss=-PL|nWord=5|RX=[PNG]
+12	=t	_	_	CONJ	_	10	cc	_	AlignBegin=51813|AlignEnd=51928|GE=[COORD]|Gloss==COORD|nWord=5|RX=[CONJ]
+13	/	_	_	PUNCT	_	_	_	_	AlignBegin=51928|AlignEnd=52391|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+14-15	igirma	_	_	_	_	_	_	_	_
+14	i=	_	_	DET	_	15	det	_	AlignBegin=52391|AlignEnd=52565|GE=[DEF].[M]|Gloss=DEF.M=|nWord=7|RX=[DET]
+15	girma	girma	_	N.M	_	16	comp:obj	_	AlignBegin=52565|AlignEnd=52740|GE=head|Gloss=head|nWord=7|RX=[N].[M]
+16-17	ʃiːʃeːn	_	_	_	_	_	_	_	_
+16	ʃiːʃ	ʃiːʃ	_	V2.TR	_	0	root	_	AlignBegin=52740|AlignEnd=52914|GE=touch_upon|Gloss=touch_upon|nWord=8|RX=[V2].[TR]
+17	-eːn	_	_	TAM.PNG	_	16	subj/m	_	AlignBegin=52914|AlignEnd=53089|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=8|RX=[TAM].[PNG]
+18	//	_	_	PUNCT	_	_	_	_	AlignBegin=53089|AlignEnd=53438|GE=[//]|Gloss=//|nWord=9|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_70-71
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 54031, 55962
+# text = igirma ʃiːʃeːnhoːb / oːn miraːb ikatin //
+# text_en = When they touch upon his head,  this one is (considered as) found. §
+1-2	igirma	_	_	_	_	_	_	_	_
+1	i=	_	_	DET	_	2	det	_	AlignBegin=54031|AlignEnd=54167|GE=[DEF].[M]|Gloss=DEF.M=|nWord=1|RX=[DET]
+2	girma	girma	_	N.M	_	3	comp:obj	_	AlignBegin=54167|AlignEnd=54302|GE=head|Gloss=head|nWord=1|RX=[N].[M]
+3-5	ʃiːʃeːnhoːb	_	_	_	_	_	_	_	_
+3	ʃiːʃ	ʃiːʃ	_	V2.TR	_	5	comp	_	AlignBegin=54302|AlignEnd=54392|GE=touch_upon|Gloss=touch_upon|nWord=2|RX=[V2].[TR]
+4	-eːn	_	_	TAM.PNG	_	3	subj/m	_	AlignBegin=54392|AlignEnd=54482|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=2|RX=[TAM].[PNG]
+5	=hoːb	_	_	CONJ	_	12	mod	_	AlignBegin=54482|AlignEnd=54573|GE=when|Gloss==when|nWord=2|RX=[CONJ]
+6	/	_	_	PUNCT	_	_	_	_	AlignBegin=54573|AlignEnd=54844|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+7	oːn	oːn	_	DEM	_	12	comp:obj	_	AlignBegin=54844|AlignEnd=55124|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=4|RX=[DEM]
+8-10	miraːb	_	_	_	_	_	_	_	_
+8	mir	mir	_	V1.TR	_	9	comp/m	_	AlignBegin=55124|AlignEnd=55217|GE=find|Gloss=find|nWord=5|RX=[V1].[TR]
+9	-a	_	_	PRF	_	12	comp:aux	_	AlignBegin=55217|AlignEnd=55310|GE=[CVB].[MNR]|Gloss=-CVB.MNR|nWord=5|RX=[PRF]
+10	-b	_	PRON	DET	_	9	subj/m	_	AlignBegin=55310|AlignEnd=55404|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=5|RX=[DET]
+11-13	ikatin	_	_	_	_	_	_	_	_
+11	i-	_	_	PNG	_	12	subj/m	_	AlignBegin=55404|AlignEnd=55497|GE=[3]|Gloss=3-|nWord=6|RX=[PNG]
+12	kati	kati	_	AUX.PRF	_	0	root	_	AlignBegin=55497|AlignEnd=55590|GE=become|Gloss=become\IPFV|nWord=6|RX=[AUX].[PRF]|TypeToken=stem
+13	-n	_	_	PNG	_	12	subj/m	_	AlignBegin=55590|AlignEnd=55684|GE=[PL]|Gloss=-PL|nWord=6|RX=[PNG]
+14	//	_	_	PUNCT	_	_	_	_	AlignBegin=55684|AlignEnd=55962|GE=[//]|Gloss=//|nWord=7|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_73-74
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 56250, 58575
+# text = kasseː imeːrneːk / aːraw areː hawaːjeːn /
+# text_en = If they find them all,  then the others play. §
+1-2	kasseː	_	_	_	_	_	_	_	_
+1	kass	kass	_	ADJ	_	4	comp:obj	_	AlignBegin=56250|AlignEnd=56394|GE=all|Gloss=all|nWord=1|RX=[ADJ]
+2	=eː	_	_	PRO	_	1	udep@poss	_	AlignBegin=56394|AlignEnd=56538|GE=[POSS].[3PL].[ACC]|Gloss==POSS.3PL.ACC|nWord=1|RX=[PRO]
+3-6	imeːrneːk	_	_	_	_	_	_	_	_
+3	i-	_	_	PNG	_	4	subj/m	_	AlignBegin=56538|AlignEnd=56610|GE=[3]|Gloss=3-|nWord=2|RX=[PNG]
+4	meːr	meːr	_	V1.TR	_	6	comp	_	AlignBegin=56610|AlignEnd=56682|GE=find|Gloss=find\IPFV|nWord=2|RX=[V1].[TR]|TypeToken=stem
+5	-n	_	_	PNG	_	4	subj/m	_	AlignBegin=56682|AlignEnd=56754|GE=[PL]|Gloss=-PL|nWord=2|RX=[PNG]
+6	=eːk	_	_	CONJ	_	11	mod	_	AlignBegin=56754|AlignEnd=56826|GE=if|Gloss==if|nWord=2|RX=[CONJ]
+7	/	_	_	PUNCT	_	_	_	_	AlignBegin=56826|AlignEnd=57115|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+8-9	aːraw	_	_	_	_	_	_	_	_
+8	aː=	_	_	DET	_	9	det	_	AlignBegin=57115|AlignEnd=57297|GE=[DEF].[PL].[M].[NOM]|Gloss=DEF.PL.M.NOM=|nWord=4|RX=[DET]
+9	raw	raw	_	ADJ	_	11	subj	_	AlignBegin=57297|AlignEnd=57480|GE=other|Gloss=other\PL|nWord=4|RX=[ADJ]|TypeToken=stem
+10	areː	areː	_	PTCL	_	11	discourse	_	AlignBegin=57480|AlignEnd=57845|GE=then|Gloss=then|nWord=5|RX=[PTCL]
+11-12	hawaːjeːn	_	_	_	_	_	_	_	_
+11	hawaː	hawaː	_	V2.TR	_	0	root	_	AlignBegin=57845|AlignEnd=58027|GE=play|Gloss=play|nWord=6|RX=[V2].[TR]
+12	-eːn	_	_	TAM.PNG	_	11	subj/m	_	AlignBegin=58027|AlignEnd=58210|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=6|RX=[TAM].[PNG]
+13	/	_	_	PUNCT	_	_	_	_	AlignBegin=58210|AlignEnd=58575|GE=[/]|Gloss=/|nWord=7|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_22_HIDE-AND-SEEK_76-78
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_22_HIDE-AND-SEEK.WAV
+# sent_timecode = 58829, 61356
+# text = oːt thajʔaːtiː / 307 hawaːniji hawaːji //
+# text_en = It is a game that we used to play this way. §
+1	oːt	oːt	_	DEM	_	3	det	_	AlignBegin=58829|AlignEnd=59119|GE=[PROX].[SG].[F].[ACC]|Gloss=PROX.SG.F.ACC|nWord=1|RX=[DEM]
+2-5	thajʔaːtiː	_	_	_	_	_	_	_	_
+2	t=	_	_	DET	_	3	det	_	AlignBegin=59119|AlignEnd=59191|GE=[DEF].[F]|Gloss=DEF.F=|nWord=2|RX=[DET]
+3	hajʔa	hajʔa	_	N.F.BORR.ARA	_	4	comp	_	AlignBegin=59191|AlignEnd=59263|GE=manner|Gloss=manner|nWord=2|RX=[N].[F].[BORR].[ARA]
+4	=t	_	_	DET	_	5	comp	_	AlignBegin=59263|AlignEnd=59335|GE=[INDF].[F]|Gloss==INDF.F|nWord=2|RX=[DET]
+5	=iː	_	_	POSTP	_	7	comp:obl	_	AlignBegin=59335|AlignEnd=59409|GE=[ABL].[SG]|Gloss==ABL.SG|nWord=2|RX=[POSTP]
+6	/	_	_	PUNCT	_	_	_	_	AlignBegin=59409|AlignEnd=59700|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+7-9	hawaːniji	_	_	_	_	_	_	_	_
+7	hawaː	hawaː	_	V2.TR	_	9	comp	_	AlignBegin=60007|AlignEnd=60157|GE=play|Gloss=play|nWord=5|RX=[V2].[TR]
+8	-ni	_	_	TAM.PNG	_	7	subj/m	_	AlignBegin=60157|AlignEnd=60307|GE=[AOR].[1PL]|Gloss=-AOR.1PL|nWord=5|RX=[TAM].[PNG]
+9	=i	_	_	CONJ	_	10	mod@relcl$obj	_	AlignBegin=60307|AlignEnd=60457|GE=[REL]|Gloss==REL|nWord=5|RX=[CONJ]
+10-11	hawaːji	_	_	_	_	_	_	_	_
+10	hawaː	hawaː	_	N.V	_	11	comp:pred	_	AlignBegin=60457|AlignEnd=60682|GE=play|Gloss=play\N.AC|nWord=6|RX=[N].[V]|TypeToken=stem
+11	=ji	_	_	PRED.N	_	0	root	_	AlignBegin=60682|AlignEnd=60907|GE=[COP].[3SG]|Gloss==COP.3SG|nWord=6|RX=[PRED].[N]
+12	//	_	_	PUNCT	_	_	_	_	AlignBegin=60907|AlignEnd=61356|GE=[//]|Gloss=//|nWord=7|RX=[PUNCT]
+

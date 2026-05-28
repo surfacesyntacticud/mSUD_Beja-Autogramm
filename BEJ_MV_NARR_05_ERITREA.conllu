@@ -679,7 +679,7 @@
 12	haˈwaːd	_	NOUN	N	Gender=Masc	13	subj	_	AlignBegin=111164|AlignEnd=111313|Gloss=night|RX=[SBJ].[N].[M]|TokenType=Root
 13	jʔ	_	VERB	V2	VerbClass=2	18	mod	_	AlignBegin=111313|AlignEnd=111413|Gloss=come|RX=[V2].[IRG]|TokenType=Root
 14	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	13	subj/m	_	AlignBegin=111413|AlignEnd=111513|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
-15	=juːk	_	PRON	PRO	Case=Nom|Number=Sing|Person=2|Poss=Yes	13	udep@poss	_	AlignBegin=111513|AlignEnd=111612|Gloss==POSS.2SG.NOM|RX==[PRO]|TokenType=Clit
+15	=juːk	_	PRON	PRO	Case=Nom|Number=Sing|Person=2|Poss=Yes	13	udep	_	AlignBegin=111513|AlignEnd=111612|Gloss==POSS.2SG.NOM|RX==[PRO]|TokenType=Clit
 16	/	_	PUNCT	_	_	13	punct	_	AlignBegin=111612|AlignEnd=111911|Gloss=/|TokenType=Break
 17	majʔa	_	NOUN	N	Gender=Masc	18	comp:obl	_	AlignBegin=112435|AlignEnd=112748|Gloss=light|RX=[N].[M]|TokenType=Root
 18	rha	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=112748|AlignEnd=112904|Gloss=see|RX=[V2]|TokenType=Root

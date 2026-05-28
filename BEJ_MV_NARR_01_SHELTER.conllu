@@ -818,7 +818,7 @@
 17	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=146431|AlignEnd=147206|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_162-167
-# text = j= halak -a =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa =jeːn / ani ti= kna =t =i / ti= sitoːb -oːj ti= a- stoːbi =jeːt a- kteːn =aj // sallam -a =heːb ti- ni =t =heːb /
+# text = j= halak -a =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa =jeːn / ani ti= kna =t =i / ti= stoːb -oːj ti= a- stoːbi =jeːt a- kteːn =aj // sallam -a =heːb ti- ni =t =heːb /
 # text_en = "As I know myself how to bring the man's clothes and his weapons back to him, give them to me!", she told me, [and]
 # phonetic_text = jhalakabwa / jiʔitakiːb areː eːn eːgaɖʔajeː na / ani tiknaːti / tistoːboːj tiʔastoːbjeːt akteːnaj // sallamaheːb tinitheːb /
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
@@ -845,7 +845,7 @@
 21	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	19	udep@poss	_	AlignBegin=150611|AlignEnd=150690|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
 22	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=150690|AlignEnd=151006|TokenType=Break
 23	ti=	_	DET	DET	Definite=Def|Gender=Fem	24	det	_	AlignBegin=151006|AlignEnd=151181|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-24	sitoːb	_	VERB	V1, IRG	VerbClass=1	25	comp/m	_	AlignBegin=151181|AlignEnd=151357|Gloss=convey|RX=[V1].[IRG]|TokenType=Root
+24	stoːb	_	VERB	V1, IRG	VerbClass=1	25	comp/m	_	AlignBegin=151181|AlignEnd=151357|Gloss=convey|RX=[V1].[IRG]|TokenType=Root
 25	-oːj	_	SCONJ	N	_	31	comp:obj	_	AlignBegin=151357|AlignEnd=151533|DerPos=NOUN|Gloss=-N.AC|RX=-[N].[V]|TokenType=DerAff
 26	ti=	_	SCONJ	REL	Definite=Def|Gender=Fem	28	comp:obj	_	AlignBegin=151533|AlignEnd=151664|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 27	a-	_	PRON	PNG	Number=Sing|Person=1	28	subj/m	_	AlignBegin=151664|AlignEnd=151796|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
