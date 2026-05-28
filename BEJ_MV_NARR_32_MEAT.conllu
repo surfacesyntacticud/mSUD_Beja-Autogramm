@@ -1,0 +1,182 @@
+# sent_id = BEJ_MV_NARR_32_MEAT_01-07
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_32_MEAT.WAV
+# sent_timecode = 0, 5880
+# text = oːn igalaːbaːjt ʃa / 464 igalaːba ideːrnhoːb / 207 siluːl hoːj aheːtiːt / 738 balamseːn //
+# text_en = This spotted hyena's meat, when they kill a hyena, after they have taken a slice of it they dry it. §
+1	oːn	oːn	_	DEM	_	3	det	_	AlignBegin=0|AlignEnd=317|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=1|RX=[DEM]
+2-5	igalaːbaːjt	_	_	_	_	_	_	_	_
+2	i=	_	_	DET	_	3	det	_	AlignBegin=317|AlignEnd=396|GE=[DEF].[M]|Gloss=DEF.M=|nWord=2|RX=[DET]
+3	galaːba	galaːba	_	N.M	_	4	comp	_	AlignBegin=396|AlignEnd=475|GE=hyena|Gloss=hyena|nWord=2|RX=[N].[M]
+4	=j	_	_	CASE	_	5	comp	_	AlignBegin=475|AlignEnd=554|GE=[GEN]|Gloss==GEN|nWord=2|RX=[CASE]
+5	=t	_	_	DET	_	6	udep	_	AlignBegin=554|AlignEnd=634|GE=[INDF].[F]|Gloss==INDF.F|nWord=2|RX=[DET]
+6	ʃa	ʃa	_	N.F	_	21	comp:obj	_	AlignBegin=634|AlignEnd=951|GE=meat|Gloss=meat|nWord=3|RX=[N].[F]
+7	/	_	_	PUNCT	_	_	_	_	AlignBegin=951|AlignEnd=1267|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
+8-9	igalaːba	_	_	_	_	_	_	_	_
+8	i=	_	_	DET	_	9	det	_	AlignBegin=1731|AlignEnd=1909|GE=[DEF].[M]|Gloss=DEF.M=|nWord=6|RX=[DET]
+9	galaːba	galaːba	_	N.M	_	11	comp:obj	_	AlignBegin=1909|AlignEnd=2086|GE=hyena|Gloss=hyena|nWord=6|RX=[N].[M]
+10-13	ideːrnhoːb	_	_	_	_	_	_	_	_
+10	i-	_	_	PNG	_	11	subj/m	_	AlignBegin=2086|AlignEnd=2175|GE=[3]|Gloss=3-|nWord=7|RX=[PNG]
+11	deːr	deːr	_	V1.IRG.TR	_	13	comp	_	AlignBegin=2175|AlignEnd=2264|GE=kill|Gloss=kill\IPFV|nWord=7|RX=[V1].[IRG].[TR]|TypeToken=stem
+12	-n	_	_	PNG	_	11	subj/m	_	AlignBegin=2264|AlignEnd=2353|GE=[PL]|Gloss=-PL|nWord=7|RX=[PNG]
+13	=hoːb	_	_	CONJ	_	17	mod	_	AlignBegin=2353|AlignEnd=2441|GE=when|Gloss==when|nWord=7|RX=[CONJ]
+14	/	_	_	PUNCT	_	_	_	_	AlignBegin=2441|AlignEnd=2795|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
+15	siluːl	siluːl	_	N.M	_	17	comp:obj	_	AlignBegin=3002|AlignEnd=3337|GE=slice|Gloss=slice|nWord=10|RX=[N].[M]
+16	hoːj	hoːj	_	POSTP	_	17	comp:obl	_	AlignBegin=3337|AlignEnd=3672|GE=[LOC]|Gloss=LOC|nWord=11|RX=[POSTP]
+17-18	aheːtiːt	_	_	_	_	_	_	_	_
+17	ah	ah	_	V1.IRG.TR	_	18	comp/m	_	AlignBegin=3672|AlignEnd=3840|GE=take|Gloss=take|nWord=12|RX=[V1].[IRG].[TR]
+18	-eːtiːt	_	_	_	_	_	_	_	AlignBegin=3840|AlignEnd=4007|GE=[CVB].[SEQ]|Gloss=-CVB.SEQ|nWord=12
+19	/	_	_	PUNCT	_	_	_	_	AlignBegin=4007|AlignEnd=4341|GE=[/]|Gloss=/|nWord=13|RX=[PUNCT]
+20-22	balamseːn	_	_	_	_	_	_	_	_
+20	balam	balam	_	V2.INTR	_	21	comp/m	_	AlignBegin=5080|AlignEnd=5213|GE=be_dry|Gloss=be_dry|nWord=15|RX=[V2].[INTR]
+21	-s	_	_	V2.DER	_	0	root	_	AlignBegin=5213|AlignEnd=5346|GE=[CAUS]|Gloss=-CAUS|nWord=15|RX=[V2].[DER]
+22	-eːn	_	_	TAM.PNG	_	21	subj/m	_	AlignBegin=5346|AlignEnd=5480|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=15|RX=[TAM].[PNG]
+23	//	_	_	PUNCT	_	_	_	_	AlignBegin=5480|AlignEnd=5879|GE=[//]|Gloss=//|nWord=16|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_32_MEAT_09-11
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_32_MEAT.WAV
+# sent_timecode = 6727, 12717
+# text = malja oːn oːʤna wisiraːkʷoːmiːnib / ignuːfida daːsiːt  ʃiːkamseːn oːdoːr igagamiːjeːb /
+# text_en = Then the baby who has nightmares they put it under his nose and make him smell it when he screams a lot. §
+1-2	malja	_	_	_	_	_	_	_	_
+1	mali	mali	_	PTCL	_	5	discourse	_	AlignBegin=6727|AlignEnd=6934|GE=two|Gloss=two|nWord=1|RX=[PTCL]
+2	-a	_	_	NUM	_	1	comp/m	_	AlignBegin=6934|AlignEnd=7141|GE=[ORD]|Gloss=-ORD|nWord=1|RX=[NUM]
+3	oːn	oːn	_	DEM	_	5	det	_	AlignBegin=7141|AlignEnd=7555|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=2|RX=[DEM]
+4-5	oːʤna	_	_	_	_	_	_	_	_
+4	oː=	_	_	DET	_	5	det	_	AlignBegin=7555|AlignEnd=7762|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=3|RX=[DET]
+5	ʤna	ʤina	_	N.M	_	18	comp:obj	_	AlignBegin=7762|AlignEnd=7969|GE=baby|Gloss=baby|nWord=3|RX=[N].[M]
+6-11	wisiraːkʷoːmiːnib	_	_	_	_	_	_	_	_
+6	wi=	_	_	CONJ	_	9	subj	_	AlignBegin=7969|AlignEnd=8038|GE=[REL].[M]|Gloss=REL.M=|nWord=4|RX=[CONJ]
+7	si-	_	_	V1.DER	_	8	comp/m	_	AlignBegin=8038|AlignEnd=8107|GE=[CAUS]|Gloss=CAUS-|nWord=4|RX=[V1].[DER]
+8	raːkʷoː	raːkʷoː	_	V1.DER.TR	_	9	comp/m	_	AlignBegin=8107|AlignEnd=8176|GE=be_afraid|Gloss=be_afraid\INT|nWord=4|RX=[V1].[DER].[TR]|TypeToken=stem
+9	-m	_	_	V2.DER	_	_	_	_	AlignBegin=8176|AlignEnd=8245|GE=[MID]|Gloss=-MID|nWord=4|RX=[V2].[DER]
+10	-iːni	_	_	TAM.PNG	_	9	subj/m	_	AlignBegin=8245|AlignEnd=8314|GE=[IPFV].[3SG].[M]|Gloss=-IPFV.3SG.M|nWord=4|RX=[TAM].[PNG]
+11	=b	_	_	REL	_	5	mod@relcl$subj	_	AlignBegin=8314|AlignEnd=8383|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=4|RX=[REL]
+12	/	_	_	PUNCT	_	_	_	_	AlignBegin=8383|AlignEnd=8798|GE=[/]|Gloss=/|nWord=5|RX=[PUNCT]
+13-16	ignuːfida	_	_	_	_	_	_	_	_
+13	i=	_	_	DET	_	14	det	_	AlignBegin=9610|AlignEnd=9740|GE=[DEF].[M]|Gloss=DEF.M=|nWord=7|RX=[DET]
+14	gnuːf	ginuːf	_	N.M	_	15	comp	_	AlignBegin=9740|AlignEnd=9870|GE=nose|Gloss=nose|nWord=7|RX=[N].[M]
+15	=i	_	_	CASE	_	16	comp	_	AlignBegin=9870|AlignEnd=10000|GE=[GEN]|Gloss==GEN|nWord=7|RX=[CASE]
+16	=da	_	_	POSTP	_	18	comp:obl	_	AlignBegin=10000|AlignEnd=10128|GE=[DIR]|Gloss==DIR|nWord=7|RX=[POSTP]
+17-20	daːsiːt 	_	_	_	_	_	_	_	_
+17	daː	daː	_	V2.INTR	_	18	comp/m	_	AlignBegin=10128|AlignEnd=10258|GE=be_there|Gloss=be_there|nWord=8|RX=[V2].[INTR]
+18	-s	_	_	V2.DER	_	23	conj:coord	_	AlignBegin=10258|AlignEnd=10388|GE=[CAUS]|Gloss=-CAUS|nWord=8|RX=[V2].[DER]
+19	-i	_	_	TAM.PNG	_	18	subj/m	_	AlignBegin=10388|AlignEnd=10518|GE=[AOR].[3SG].[M]|Gloss=-AOR.3SG.M|nWord=8|RX=[TAM].[PNG]
+20	=t	_	_	CONJ	_	18	cc	_	AlignBegin=10518|AlignEnd=10646|GE=[COORD]|Gloss==COORD|nWord=8|RX=[CONJ]
+21-24	ʃiːkamseːn	_	_	_	_	_	_	_	_
+21	ʃiːk	ʃiːk	_	V2.INTR	_	22	comp/m	_	AlignBegin=10646|AlignEnd=10776|GE=snuff|Gloss=snuff|nWord=9|RX=[V2].[INTR]
+22	-am	_	_	V2.DER	_	23	comp/m	_	AlignBegin=10776|AlignEnd=10906|GE=[MID]|Gloss=-MID|nWord=9|RX=[V2].[DER]
+23	-s	_	_	V2.DER	_	0	root	_	AlignBegin=10906|AlignEnd=11036|GE=[CAUS]|Gloss=-CAUS|nWord=9|RX=[V2].[DER]
+24	-eːn	_	_	TAM.PNG	_	23	subj/m	_	AlignBegin=11036|AlignEnd=11164|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=9|RX=[TAM].[PNG]
+25-26	oːdoːr	_	_	_	_	_	_	_	_
+25	oː=	_	_	DET	_	26	det	_	AlignBegin=11164|AlignEnd=11423|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=10|RX=[DET]
+26	doːr	doːr	_	N.M	_	23	dislocated:mod	_	AlignBegin=11423|AlignEnd=11682|GE=time|Gloss=time|nWord=10|RX=[N].[M]
+27-30	igagamiːjeːb	_	_	_	_	_	_	_	_
+27	i=	_	_	REL	_	28	subj	_	AlignBegin=11682|AlignEnd=11812|GE=[DEF].[M]|Gloss=DEF.M=|nWord=11|RX=[REL]
+28	ga~gam	ga~gam	_	V2.DER.INTR	_	30	comp	_	AlignBegin=11812|AlignEnd=11942|GE=[PLAC~scream]|Gloss=PLAC~scream|nWord=11|RX=[V2].[DER].[INTR]
+29	-i	_	_	TAM.PNG	_	28	subj/m	_	AlignBegin=11942|AlignEnd=12072|GE=[AOR].[3SG].[M]|Gloss=-AOR.3SG.M|nWord=11|RX=[TAM].[PNG]
+30	=eːb	_	_	CONJ	_	26	dislocated:mod@relcl$obj	_	AlignBegin=12072|AlignEnd=12200|GE=[REL].[M]|Gloss==REL.M|nWord=11|RX=[CONJ]
+31	/	_	_	PUNCT	_	_	_	_	AlignBegin=12200|AlignEnd=12717|GE=[/]|Gloss=/|nWord=12|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_32_MEAT_12-16
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_32_MEAT.WAV
+# sent_timecode = 12717, 17663
+# text = ʔasti fareːtiːt / uːʤna gagamiːnejt / bass / imheːloː tikati /
+# text_en = He jumps upwards and because the baby screams a lot truly, it becomes a medicine for him. §
+1-2	ʔasti	_	_	_	_	_	_	_	_
+1	ʔas	ʔas	_	V1	_	2	comp/m	_	AlignBegin=12717|AlignEnd=12927|GE=be_up|Gloss=be_up|nWord=1|RX=[V1]
+2	-ti	_	_	_	_	4	comp:aux	_	AlignBegin=12927|AlignEnd=13136|GE=[CVB].[GNRL]|Gloss=-CVB.GNRL|nWord=1
+3-4	fareːtiːt	_	_	_	_	_	_	_	_
+3	far	far	_	V2.INTR	_	4	comp/m	_	AlignBegin=13136|AlignEnd=13346|GE=jump|Gloss=jump|nWord=2|RX=[V2].[INTR]
+4	-eːtiːt	_	_	_	_	8	mod	_	AlignBegin=13346|AlignEnd=13555|GE=[CVB].[SEQ]|Gloss=-CVB.SEQ|nWord=2
+5	/	_	_	PUNCT	_	_	_	_	AlignBegin=13555|AlignEnd=13973|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+6-7	uːʤna	_	_	_	_	_	_	_	_
+6	uː=	_	_	DET	_	7	det	_	AlignBegin=13976|AlignEnd=14176|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=4|RX=[DET]
+7	ʤna	ʤina	_	N.M	_	8	subj	_	AlignBegin=14176|AlignEnd=14376|GE=baby|Gloss=baby|nWord=4|RX=[N].[M]
+8-10	gagamiːnejt	_	_	_	_	_	_	_	_
+8	ga~gam	ga~gam	_	V2.DER.INTR	_	10	comp	_	AlignBegin=14376|AlignEnd=14509|GE=[PLAC~scream]|Gloss=PLAC~scream|nWord=5|RX=[V2].[DER].[INTR]
+9	-iːn	_	_	TAM.PNG	_	8	subj/m	_	AlignBegin=14509|AlignEnd=14642|GE=[IPFV].[3SG].[M]|Gloss=-IPFV.3SG.M|nWord=5|RX=[TAM].[PNG]
+10	=ajt	_	_	CONJ	_	17	mod	_	AlignBegin=14642|AlignEnd=14776|GE=[CSL]|Gloss==CSL|nWord=5|RX=[CONJ]
+11	/	_	_	PUNCT	_	_	_	_	AlignBegin=14776|AlignEnd=15176|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+12	bass	bass	_	PTCL.BORR.ARA	_	17	discourse	_	AlignBegin=15936|AlignEnd=16268|GE=only|Gloss=only|nWord=8|RX=[PTCL].[BORR].[ARA]
+13	/	_	_	PUNCT	_	_	_	_	AlignBegin=16268|AlignEnd=16599|GE=[/]|Gloss=/|nWord=9|RX=[PUNCT]
+14-15	imheːloː	_	_	_	_	_	_	_	_
+14	mheːl	mheːl	_	N.V.M	_	17	comp:obj	_	AlignBegin=16599|AlignEnd=16777|GE=treat|Gloss=treat\N.AC|nWord=10|RX=[N].[V].[M]|TypeToken=stem
+15	=oː	_	_	PRO	_	14	udep@poss	_	AlignBegin=16777|AlignEnd=16954|GE=[POSS].[3SG].[ACC]|Gloss==POSS.3SG.ACC|nWord=10|RX=[PRO]
+16-17	tikati	_	_	_	_	_	_	_	_
+16	ti-	_	_	PNG	_	17	subj/m	_	AlignBegin=16954|AlignEnd=17132|GE=[3SG].[F]|Gloss=3SG.F-|nWord=11|RX=[PNG]
+17	kati	kati	_	V1.IRG.TR	_	0	root	_	AlignBegin=17132|AlignEnd=17309|GE=become|Gloss=become\IPFV|nWord=11|RX=[V1].[IRG].[TR]|TypeToken=stem
+18	/	_	_	PUNCT	_	_	_	_	AlignBegin=17309|AlignEnd=17663|GE=[/]|Gloss=/|nWord=12|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_32_MEAT_17-18
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_32_MEAT.WAV
+# sent_timecode = 17663, 25486
+# text = ʃaːwi oːt ti= nʔari =t =oː t= hallaːn / i= gnuːf =i =da daː -s -jaːn =it /
+# text_en = Then, this sleep of his that now, they put under his nose, and
+1	ʃaːwi	ʃaːwi	_	PTCL	_	4	discourse	_	AlignBegin=17663|AlignEnd=18021|GE=then|Gloss=then|nWord=1|RX=[PTCL]
+2	oːt	oːt	_	DEM	_	4	det	_	AlignBegin=18021|AlignEnd=18379|GE=[PROX].[SG].[F].[ACC]|Gloss=PROX.SG.F.ACC|nWord=2|RX=[DEM]
+3-6	tinʔariːtoː	_	_	_	_	_	_	_	_
+3	ti=	_	_	DET	_	4	det	_	AlignBegin=18379|AlignEnd=18469|GE=[DEF].[F]|Gloss=DEF.F=|nWord=3|RX=[DET]
+4	nʔari	nʔari	_	N.F	_	15	discourse	_	AlignBegin=18469|AlignEnd=18559|GE=sleep|Gloss=sleep|nWord=3|RX=[N].[F]
+5	=t	_	_	DET	_	4	det	_	AlignBegin=18559|AlignEnd=18649|GE=[INDF].[F]|Gloss==INDF.F|nWord=3|RX=[DET]
+6	=oː	_	_	PRO	_	4	udep@poss	_	AlignBegin=18649|AlignEnd=18737|GE=[POSS].[3SG].[ACC]|Gloss==POSS.3SG.ACC|nWord=3|RX=[PRO]
+7-8	thallaːn	_	_	_	_	_	_	_	_
+7	t=	_	_	REL	_	8	comp	_	AlignBegin=18737|AlignEnd=18916|GE=[DEF].[F]|Gloss=DEF.F=|nWord=4|RX=[REL]
+8	hallaːn	hallaːn	_	ADV	_	4	conj:dicto	_	AlignBegin=18916|AlignEnd=19095|GE=now|Gloss=now|nWord=4|RX=[ADV]
+9	/	_	_	PUNCT	_	_	_	_	AlignBegin=19095|AlignEnd=19455|GE=[/]|Gloss=/|nWord=5|RX=[PUNCT]
+10-13	ignuːfida	_	_	_	_	_	_	_	_
+10	i=	_	_	DET	_	11	det	_	AlignBegin=19455|AlignEnd=19565|GE=[DEF].[M]|Gloss=DEF.M=|nWord=6|RX=[DET]
+11	gnuːf	ginuːf	_	N.M	_	12	comp	_	AlignBegin=19565|AlignEnd=19675|GE=nose|Gloss=nose|nWord=6|RX=[N].[M]
+12	=i	_	_	CASE	_	13	comp	_	AlignBegin=19675|AlignEnd=19785|GE=[GEN]|Gloss==GEN|nWord=6|RX=[CASE]
+13	=da	_	_	POSTP	_	15	comp:obl	_	AlignBegin=19785|AlignEnd=19896|GE=[DIR]|Gloss==DIR|nWord=6|RX=[POSTP]
+14-17	daːsjaːnit	_	_	_	_	_	_	_	_
+14	daː	daː	_	V2.INTR	_	15	comp/m	_	AlignBegin=19896|AlignEnd=20006|GE=be_there|Gloss=be_there|nWord=7|RX=[V2].[INTR]
+15	-s	_	_	V2.DER	_	0	root	_	AlignBegin=20006|AlignEnd=20116|GE=[CAUS]|Gloss=-CAUS|nWord=7|RX=[V2].[DER]
+16	-jaːn	_	_	TAM.PNG	_	15	subj/m	_	AlignBegin=20116|AlignEnd=20226|GE=[PFV].[3PL]|Gloss=-PFV.3PL|nWord=7|RX=[TAM].[PNG]
+17	=it	_	_	CONJ	_	16	cc	_	AlignBegin=20226|AlignEnd=20337|GE=[COORD]|Gloss==COORD|nWord=7|RX=[CONJ]
+18	/	_	_	PUNCT	_	_	_	_	AlignBegin=20337|AlignEnd=20778|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_32_MEAT_19-22
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_32_MEAT.WAV
+# sent_timecode = 17663, 25486
+# text = hoːj ʃiːk -am -s -jaːn =eː =naː =t =iː / w= ʔagja i= si- raːkʷi eː- d -n =eː =na =ka / bak hoːj daː -sam -ta eːn //
+# text_en = by making him smell from it from now on, all what is called frightening it was put away from him that way, they said. §
+1	hoːj	hoːj	_	POSTP	_	4	comp:obl	_	AlignBegin=20778|AlignEnd=21266|GE=[LOC]|Gloss=LOC|nWord=9|RX=[POSTP]
+2-3	ʃiːkamsjaːneːnaːtiː	_	_	_	_	_	_	_	_
+2	ʃiːk	ʃiːk	_	V2.TR	_	3	comp/m	_	AlignBegin=21266|AlignEnd=21327|GE=snuff|Gloss=snuff|nWord=10|RX=[V2].[TR]
+3	-am	_	_	V2.DER	_	4	comp/m	_	AlignBegin=21327|AlignEnd=21388|GE=[MID]|Gloss=-MID|nWord=10|RX=[V2].[DER]
+4	-s	_	_	V2.DER	_	_	_	_	AlignBegin=21388|AlignEnd=21449|GE=[CAUS]|Gloss=-CAUS|nWord=10|RX=[V2].[DER]
+5	-jaːn	_	_	TAM.PNG	_	4	subj/m	_	AlignBegin=21449|AlignEnd=21510|GE=[PFV].[3PL]|Gloss=-PFV.3PL|nWord=10|RX=[TAM].[PNG]
+6	=eː	_	_	CONJ	_	_	_	_	AlignBegin=21510|AlignEnd=21571|GE=[REL]|Gloss==REL|nWord=10|RX=[CONJ]
+7	=naː	_	_	CONJ	_	_	_	_	AlignBegin=21571|AlignEnd=21632|GE=thing|Gloss==thing|nWord=10|RX=[CONJ]
+8	=t	_	_	DET	_	_	_	_	AlignBegin=21632|AlignEnd=21693|GE=[INDF].[F]|Gloss==INDF.F|nWord=10|RX=[DET]
+9	=iː	_	_	POSTP	_	26	mod	_	AlignBegin=21693|AlignEnd=21754|GE=[ABL].[SG]|Gloss==ABL.SG|nWord=10|RX=[POSTP]
+10	/	_	_	PUNCT	_	_	_	_	AlignBegin=21754|AlignEnd=22243|GE=[/]|Gloss=/|nWord=11|RX=[PUNCT]
+11-12	wʔagja	_	_	_	_	_	_	_	_
+11	w=	_	_	DET	_	12	det	_	AlignBegin=22243|AlignEnd=22451|GE=[DEF].[SG].[M]|Gloss=DEF.SG.M=|nWord=12|RX=[DET]
+12	ʔagja	ʔagja	_	N.M	_	_	_	_	AlignBegin=22451|AlignEnd=22659|GE=remains|Gloss=remains|nWord=12|RX=[N].[M]
+13-14	israːkʷi	_	_	_	_	_	_	_	_
+13	i=	_	_	DET	_	15	det	_	AlignBegin=22659|AlignEnd=22798|GE=[DEF].[M]|Gloss=DEF.M=|nWord=13|RX=[DET]
+14	si-	_	_	V1.DER	_	15	comp/m	_	AlignBegin=22798|AlignEnd=22937|GE=[CAUS]|Gloss=CAUS-|nWord=13|RX=[V1].[DER]
+15	raːkʷi	raːkʷi	_	N.V	_	17	comp:obj	_	AlignBegin=22937|AlignEnd=23075|GE=be_afraid|Gloss=be_afraid\INT.N.AC|nWord=13|RX=[N].[V]|TypeToken=stem
+16-17	eːdneːnaːka	_	_	_	_	_	_	_	_
+16	eː-	_	_	PNG	_	17	subj/m	_	AlignBegin=23075|AlignEnd=23144|GE=[3]|Gloss=3-|nWord=14|RX=[PNG]
+17	d	d	_	V1.IRG.TR	_	_	_	_	AlignBegin=23144|AlignEnd=23213|GE=say|Gloss=say\PFV|nWord=14|RX=[V1].[IRG].[TR]|TypeToken=stem
+18	-n	_	_	PNG	_	17	subj/m	_	AlignBegin=23213|AlignEnd=23282|GE=[PL]|Gloss=-PL|nWord=14|RX=[PNG]
+19	=eː	_	_	CONJ	_	_	_	_	AlignBegin=23282|AlignEnd=23351|GE=[REL]|Gloss==REL|nWord=14|RX=[CONJ]
+20	=na	_	_	CONJ	_	21	comp	_	AlignBegin=23351|AlignEnd=23420|GE=thing|Gloss==thing|nWord=14|RX=[CONJ]
+21	=ka	_	_	POSTP	_	26	comp:obj	_	AlignBegin=23420|AlignEnd=23491|GE=[DISTR]|Gloss==DISTR|nWord=14|RX=[POSTP]
+22	/	_	_	PUNCT	_	_	_	_	AlignBegin=23491|AlignEnd=23908|GE=[/]|Gloss=/|nWord=15|RX=[PUNCT]
+23	bak	bak	_	DEICT.MNR	_	26	mod	_	AlignBegin=24389|AlignEnd=24608|GE=thus|Gloss=thus|nWord=17|RX=[DEICT].[MNR]
+24	hoːj	hoːj	_	POSTP	_	26	comp:obl	_	AlignBegin=24608|AlignEnd=24827|GE=[LOC]|Gloss=LOC|nWord=18|RX=[POSTP]
+25-26	daːsamta	_	_	_	_	_	_	_	_
+25	daː	daː	_	V2.INTR	_	26	comp/m	_	AlignBegin=24827|AlignEnd=24900|GE=be_there|Gloss=be_there|nWord=19|RX=[V2].[INTR]
+26	-sam	_	_	V2.DER	_	0	root	_	AlignBegin=24900|AlignEnd=24973|GE=[RECP]|Gloss=-RECP|nWord=19|RX=[V2].[DER]
+27	-ta	_	_	TAM.PNG	_	26	subj/m	_	AlignBegin=24973|AlignEnd=25046|GE=[PFV].[3SG].[F]|Gloss=-PFV.3SG.F|nWord=19|RX=[TAM].[PNG]
+28	eːn	eːn	_	V1.IRG.TR	_	26	discourse	_	AlignBegin=25046|AlignEnd=25265|GE=say|Gloss=say\PFV.3PL|nWord=20|RX=[V1].[IRG].[TR]|TypeToken=stem
+29	//	_	_	PUNCT	_	_	_	_	AlignBegin=25265|AlignEnd=25486|GE=[//]|Gloss=//|nWord=21|RX=[PUNCT]
+

@@ -1,0 +1,119 @@
+# sent_id = BEJ_MV_NARR_38_ostrich_093-098
+# text = kʷiːri / 229 faɖigteː gaːl deːj / 532 ten# dʔiːt / fariːni eːn /
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_38_ostrich.WAV
+# sent_timecode = 89953, 93341
+# text_en = The ostrich... after having put all four legs and hands in one hole (= to get into the starting blocks) he jumps, they said. §
+1	kʷiːri	kʷiːri	_	N.M	_	_	_	_	AlignBegin=89953|AlignEnd=90113|GE=ostrich|Gloss=ostrich|nWord=1|RX=[N].[M]
+2	/	_	_	PUNCT	_	_	_	_	AlignBegin=90113|AlignEnd=90274|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+3-5	faɖigteː	_	_	_	_	_	_	_	_
+3	faɖig	faɖig	_	NUM	_	_	_	_	AlignBegin=90504|AlignEnd=90605|GE=four|Gloss=four|nWord=4|RX=[NUM]
+4	=t	_	_	DET	_	_	_	_	AlignBegin=90605|AlignEnd=90706|GE=[INDF].[F]|Gloss==INDF.F|nWord=4|RX=[DET]
+5	=eː	_	_	PRO	_	_	_	_	AlignBegin=90706|AlignEnd=90808|GE=[POSS].[3PL].[ACC]|Gloss==POSS.3PL.ACC|nWord=4|RX=[PRO]
+6	gaːl	gaːl	_	NUM	_	_	_	_	AlignBegin=90808|AlignEnd=91112|GE=one|Gloss=one|nWord=5|RX=[NUM]
+7-8	deːj	_	_	_	_	_	_	_	_
+7	deː	deː	_	N.M	_	_	_	_	AlignBegin=91112|AlignEnd=91264|GE=hole|Gloss=hole|nWord=6|RX=[N].[M]
+8	=j	_	_	CASE	_	_	_	_	AlignBegin=91264|AlignEnd=91416|GE=[GEN].[SG]|Gloss==GEN.SG|nWord=6|RX=[CASE]
+9	/	_	_	PUNCT	_	_	_	_	AlignBegin=91416|AlignEnd=91722|GE=[/]|Gloss=/|nWord=7|RX=[PUNCT]
+10	ten#	ten#	_	FS	_	_	_	_	AlignBegin=92254|AlignEnd=92374|GE=[FS]|Gloss=FS|nWord=9|RX=[FS]
+11	dʔiːt	dʔiːt	_	V1.IRG.TR	_	_	_	_	AlignBegin=92374|AlignEnd=92494|GE=do|Gloss=do\CVB.SEQ|nWord=10|RX=[V1].[IRG].[TR]|TypeToken=stem
+12	/	_	_	PUNCT	_	_	_	_	AlignBegin=92494|AlignEnd=92614|GE=[/]|Gloss=/|nWord=11|RX=[PUNCT]
+13-14	fariːni	_	_	_	_	_	_	_	_
+13	far	far	_	V2.INTR	_	_	_	_	AlignBegin=92614|AlignEnd=92735|GE=jump|Gloss=jump|nWord=12|RX=[V2].[INTR]
+14	-iːni	_	_	TAM.PNG	_	_	_	_	AlignBegin=92735|AlignEnd=92856|GE=[IPFV].[3SG].[M]|Gloss=-IPFV.3SG.M|nWord=12|RX=[TAM].[PNG]
+15	eːn	eːn	_	V1.IRG.TR	_	_	_	_	AlignBegin=92856|AlignEnd=93098|GE=say|Gloss=say\PFV.3PL|nWord=13|RX=[V1].[IRG].[TR]|TypeToken=stem
+16	/	_	_	PUNCT	_	_	_	_	AlignBegin=93098|AlignEnd=93341|GE=[/]|Gloss=/|nWord=14|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_38_ostrich_100-106
+# text = fariːhoːb ontʔa / uːtak uːn / naːt / 432 baːdgireː ikati / 127 ikʷiːri winneːt ɖaːbiːni /
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_38_ostrich.WAV
+# sent_timecode = 94039, 99730
+# text_en = When he jumps, so this man without being able to do anything,  the ostrich runs away fast. §
+1-3	fariːhoːb	_	_	_	_	_	_	_	_
+1	far	far	_	V2.TR	_	_	_	_	AlignBegin=94039|AlignEnd=94176|GE=jump|Gloss=jump|nWord=1|RX=[V2].[TR]
+2	-i	_	_	TAM.PNG	_	_	_	_	AlignBegin=94176|AlignEnd=94313|GE=[AOR].[3SG]|Gloss=-AOR.3SG|nWord=1|RX=[TAM].[PNG]
+3	=hoːb	_	_	CONJ	_	_	_	_	AlignBegin=94313|AlignEnd=94451|GE=when|Gloss==when|nWord=1|RX=[CONJ]
+4	ontʔa	ontʔa	_	PTCL	_	_	_	_	AlignBegin=94451|AlignEnd=94863|GE=now|Gloss=now|nWord=2|RX=[PTCL]
+5	/	_	_	PUNCT	_	_	_	_	AlignBegin=94863|AlignEnd=95274|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
+6-7	uːtak	_	_	_	_	_	_	_	_
+6	uː=	_	_	DET	_	_	_	_	AlignBegin=95274|AlignEnd=95416|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=4|RX=[DET]
+7	tak	tak	_	N.M	_	_	_	_	AlignBegin=95416|AlignEnd=95558|GE=man|Gloss=man|nWord=4|RX=[N].[M]
+8	uːn	uːn	_	DEM	_	_	_	_	AlignBegin=95558|AlignEnd=95842|GE=[PROX].[SG].[M].[NOM]|Gloss=PROX.SG.M.NOM|nWord=5|RX=[DEM]
+9	/	_	_	PUNCT	_	_	_	_	AlignBegin=95842|AlignEnd=96127|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+10-11	naːt	_	_	_	_	_	_	_	_
+10	naː	naː	_	N.F	_	_	_	_	AlignBegin=96127|AlignEnd=96262|GE=thing|Gloss=thing|nWord=7|RX=[N].[F]
+11	=t	_	_	DET	_	_	_	_	AlignBegin=96262|AlignEnd=96397|GE=[INDF].[F]|Gloss==INDF.F|nWord=7|RX=[DET]
+12	/	_	_	PUNCT	_	_	_	_	AlignBegin=96397|AlignEnd=96667|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
+13		_	_	_	_	_	_	_	AlignBegin=96667|AlignEnd=97100|nWord=9
+14-16	baːdgireː	_	_	_	_	_	_	_	_
+14	baː=	_	_	PTCL	_	_	_	_	AlignBegin=97100|AlignEnd=97245|GE=[NEG].[PROH]|Gloss=NEG.PROH=|nWord=10|RX=[PTCL]
+15	adgir	adgir	_	V2.INTR	_	_	_	_	AlignBegin=97245|AlignEnd=97390|GE=be_able|Gloss=be_able|nWord=10|RX=[V2].[INTR]
+16	-eː	_	_	_	_	_	_	_	AlignBegin=97390|AlignEnd=97535|GE=[CVB].[SMLT]|Gloss=-CVB.SMLT|nWord=10
+17-18	ikati	_	_	_	_	_	_	_	_
+17	i-	_	_	PNG	_	_	_	_	AlignBegin=97535|AlignEnd=97753|GE=[3SG].[M]|Gloss=3SG.M-|nWord=11|RX=[PNG]
+18	kati	kati	_	V1.IRG.TR	_	_	_	_	AlignBegin=97753|AlignEnd=97970|GE=become|Gloss=become\IPFV|nWord=11|RX=[V1].[IRG].[TR]|TypeToken=stem
+19	/	_	_	PUNCT	_	_	_	_	AlignBegin=97970|AlignEnd=98404|GE=[/]|Gloss=/|nWord=12|RX=[PUNCT]
+20-21	ikʷiːri	_	_	_	_	_	_	_	_
+20	i=	_	_	DET	_	_	_	_	AlignBegin=98530|AlignEnd=98680|GE=[DEF].[M]|Gloss=DEF.M=|nWord=14|RX=[DET]
+21	kʷiːri	kʷiːri	_	N.M	_	_	_	_	AlignBegin=98680|AlignEnd=98830|GE=ostrich|Gloss=ostrich|nWord=14|RX=[N].[M]
+22	winneːt	winneːt	_	ADV	_	_	_	_	AlignBegin=98830|AlignEnd=99130|GE=plenty|Gloss=plenty|nWord=15|RX=[ADV]
+23-24	ɖaːbiːni	_	_	_	_	_	_	_	_
+23	ɖaːb	ɖaːb	_	V2.INTR	_	_	_	_	AlignBegin=99130|AlignEnd=99280|GE=run|Gloss=run|nWord=16|RX=[V2].[INTR]
+24	-iːni	_	_	TAM.PNG	_	_	_	_	AlignBegin=99280|AlignEnd=99430|GE=[IPFV].[3SG].[M]|Gloss=-IPFV.3SG.M|nWord=16|RX=[TAM].[PNG]
+25	/	_	_	PUNCT	_	_	_	_	AlignBegin=99430|AlignEnd=99730|GE=[/]|Gloss=/|nWord=17|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_38_ostrich_108-114
+# text = ontʔa / 113 taːt taːmle / mhali / 594 eːn jʔangʷili geːbi / hoːgeːn eːn /
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_38_ostrich.WAV
+# sent_timecode = 100720, 104593
+# text_en = So, two tears run down on the sides of his ears, they said, §
+1	ontʔa	ontʔa	_	PTCL	_	_	_	_	AlignBegin=100720|AlignEnd=100866|GE=now|Gloss=now|nWord=1|RX=[PTCL]
+2	/	_	_	PUNCT	_	_	_	_	AlignBegin=100866|AlignEnd=101011|GE=[/]|Gloss=/|nWord=2|RX=[PUNCT]
+3	taːt	taːt	_	DEM	_	_	_	_	AlignBegin=101125|AlignEnd=101363|GE=[PROX].[PL].[F].[ NOM]|Gloss=PROX.PL.F. NOM|nWord=4|RX=[DEM]
+4-5	taːmle	_	_	_	_	_	_	_	_
+4	taː=	_	_	DET	_	_	_	_	AlignBegin=101363|AlignEnd=101482|GE=[DEF].[PL].[F].[NOM]|Gloss=DEF.PL.F.NOM=|nWord=5|RX=[DET]
+5	mile	mile	_	N.F	_	_	_	_	AlignBegin=101482|AlignEnd=101601|GE=tear|Gloss=tear|nWord=5|RX=[N].[F]
+6	/	_	_	PUNCT	_	_	_	_	AlignBegin=101601|AlignEnd=101839|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+7	mhali	mhali	_	NUM	_	_	_	_	AlignBegin=101839|AlignEnd=102063|GE=two|Gloss=two|nWord=7|RX=[NUM]
+8	/	_	_	PUNCT	_	_	_	_	AlignBegin=102063|AlignEnd=102287|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
+9	eːn	eːn	_	DEM	_	_	_	_	AlignBegin=102882|AlignEnd=103140|GE=[PROX].[PL].[M].[ACC]|Gloss=PROX.PL.M.ACC|nWord=10|RX=[DEM]
+10-12	jʔangʷili	_	_	_	_	_	_	_	_
+10	i=	_	_	DET	_	_	_	_	AlignBegin=103140|AlignEnd=103226|GE=[DEF].[M]|Gloss=DEF.M=|nWord=11|RX=[DET]
+11	ʔangʷil	ʔangʷil	_	SBJ.N.M	_	_	_	_	AlignBegin=103226|AlignEnd=103312|GE=ear|Gloss=ear\PL|nWord=11|RX=[SBJ].[N].[M]|TypeToken=stem
+12	=i	_	_	CASE	_	_	_	_	AlignBegin=103312|AlignEnd=103398|GE=[GEN]|Gloss==GEN|nWord=11|RX=[CASE]
+13-14	geːbi	_	_	_	_	_	_	_	_
+13	geːb	geːb	_	POSTP	_	_	_	_	AlignBegin=103398|AlignEnd=103527|GE=beside|Gloss=beside|nWord=12|RX=[POSTP]
+14	=i	_	_	CASE	_	_	_	_	AlignBegin=103527|AlignEnd=103656|GE=[GEN]|Gloss==GEN|nWord=12|RX=[CASE]
+15	/	_	_	PUNCT	_	_	_	_	AlignBegin=103656|AlignEnd=103915|GE=[/]|Gloss=/|nWord=13|RX=[PUNCT]
+16-17	hoːgeːn	_	_	_	_	_	_	_	_
+16	hoːg	hoːg	_	V2.TR	_	_	_	_	AlignBegin=103915|AlignEnd=104028|GE=go_downstream|Gloss=go_downstream|nWord=14|RX=[V2].[TR]
+17	-eːn	_	_	TAM.PNG	_	_	_	_	AlignBegin=104028|AlignEnd=104141|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=14|RX=[TAM].[PNG]
+18	eːn	eːn	_	V1.IRG.TR	_	_	_	_	AlignBegin=104141|AlignEnd=104367|GE=say|Gloss=say\PFV.3PL|nWord=15|RX=[V1].[IRG].[TR]|TypeToken=stem
+19	/	_	_	PUNCT	_	_	_	_	AlignBegin=104367|AlignEnd=104593|GE=[/]|Gloss=/|nWord=16|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_38_ostrich_115-116
+# text = ibaraːm haːj imnaːfijeːt / amnafijoːjtiːb /
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_38_ostrich.WAV
+# sent_timecode = 104593, 106832
+# text_en = so that the wind was blowing them away so much. §
+1-2	ibaraːm	_	_	_	_	_	_	_	_
+1	i=	_	_	DET	_	_	_	_	AlignBegin=104593|AlignEnd=104747|GE=[DEF].[M]|Gloss=DEF.M=|nWord=1|RX=[DET]
+2	baraːm	baraːm	_	N.M	_	_	_	_	AlignBegin=104747|AlignEnd=104900|GE=wind|Gloss=wind|nWord=1|RX=[N].[M]
+3	haːj	haːj	_	POSTP	_	_	_	_	AlignBegin=104900|AlignEnd=105207|GE=[COM]|Gloss=COM|nWord=2|RX=[POSTP]
+4-7	imnaːfijeːt	_	_	_	_	_	_	_	_
+4	i-	_	_	PNG	_	_	_	_	AlignBegin=105207|AlignEnd=105284|GE=[3SG].[M]|Gloss=3SG.M-|nWord=3|RX=[PNG]
+5	m-	_	_	V1.DER	_	_	_	_	AlignBegin=105284|AlignEnd=105361|GE=[RECP]|Gloss=RECP-|nWord=3|RX=[V1].[DER]
+6	nafi	nafi	_	V1.INTR	_	_	_	_	AlignBegin=105361|AlignEnd=105438|GE=go_contrary|Gloss=go_contrary\IPFV|nWord=3|RX=[V1].[INTR]|TypeToken=stem
+7	=eːt	_	_	CONJ	_	_	_	_	AlignBegin=105438|AlignEnd=105514|GE=[REL].[F]|Gloss==REL.F|nWord=3|RX=[CONJ]
+8	/	_	_	PUNCT	_	_	_	_	AlignBegin=105514|AlignEnd=105820|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
+9-13	amnafijoːjtiːb	_	_	_	_	_	_	_	_
+9	am-	_	_	V1.DER	_	_	_	_	AlignBegin=105820|AlignEnd=105921|GE=[RECP]|Gloss=RECP-|nWord=5|RX=[V1].[DER]
+10	nafi	nafi	_	N.DER	_	_	_	_	AlignBegin=105921|AlignEnd=106022|GE=go_contrary|Gloss=go_contrary|nWord=5|RX=[N].[DER]
+11	-joːj	_	_	N.V	_	_	_	_	AlignBegin=106022|AlignEnd=106123|GE=[N].[AC]|Gloss=-N.AC|nWord=5|RX=[N].[V]
+12	=t	_	_	DET	_	_	_	_	AlignBegin=106123|AlignEnd=106224|GE=[INDF].[F]|Gloss==INDF.F|nWord=5|RX=[DET]
+13	=iːb	_	_	POSTP	_	_	_	_	AlignBegin=106224|AlignEnd=106326|GE=[LOC].[SG]|Gloss==LOC.SG|nWord=5|RX=[POSTP]
+14	/	_	_	PUNCT	_	_	_	_	AlignBegin=106326|AlignEnd=106832|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
+

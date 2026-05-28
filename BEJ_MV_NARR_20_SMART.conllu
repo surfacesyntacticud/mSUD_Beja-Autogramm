@@ -1,0 +1,87 @@
+# sent_id = BEJ_MV_NARR_20_SMART_02-10
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_20_SMART.WAV
+# sent_timecode = 1032, 7365
+# text = oːn idawwaːriːb / oːdhaj / jiʔiːfiːnaːjeːb / takat / habbaːriːt / iːdneːt / tiːfi eːn //
+# text_en = among the people of this district there was a woman who was called Smart, they said.§
+1	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	3	det	_	AlignBegin=1032|AlignEnd=1330|GE=[PROX].[SG].[M].[ACC]|nWord=1|RX=[DEM]
+2-4	idawwaːriːb	_	_	_	_	_	_	_	_
+2	i=	_	DET	DET	Definite=Def|Gender=Masc	3	det	_	AlignBegin=1330|AlignEnd=1429|GE=[DEF].[M]|nWord=2|RX=[DET]
+3	dawwaːr	_	NOUN	N	_	4	comp	_	AlignBegin=1429|AlignEnd=1528|GE=district|nWord=2|RX=[N].[M]
+4	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	11	comp:obl	_	AlignBegin=1528|AlignEnd=1628|GE=[LOC].[SG]|nWord=2|RX=[POSTP]
+5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=1628|AlignEnd=1925|GE=[/]|nWord=3|RX=[PUNCT]
+6-7	oːdhaj	_	_	_	_	_	_	_	_
+6	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	7	det	_	AlignBegin=3241|AlignEnd=3362|GE=[DEF].[SG].[M].[NOM]|nWord=5|RX=[DET]
+7	dhaj	_	NOUN	N	Gender=Masc|Number=Coll	11	subj	_	AlignBegin=3362|AlignEnd=3483|GE=people|nWord=5|RX=[N].[COL].[M]
+8	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=3483|AlignEnd=3725|GE=[/]|nWord=6|RX=[PUNCT]
+9-13	jiʔiːfiːnaːjeːb	_	_	_	_	_	_	_	_
+9	ji=	_	PART	PTCL	Gender=Masc|Number=Plur|PronType=Rel	11	comp:obj	_	AlignBegin=3725|AlignEnd=3821|GE=[REL].[PL].[M]|nWord=7|RX=[CONJ]
+10	iː-	_	DET	DET	Definite=Def|Gender=Masc	11	subj/m	_	AlignBegin=3821|AlignEnd=3917|GE=[3]|nWord=7|RX=[PNG]
+11	fi	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	_	_	_	AlignBegin=3917|AlignEnd=4013|GE=be_there|nWord=7|RX=[V1].[IRG].[INTR]|TypeToken=stem
+12	-na	_	PART	CONJ	_	11	subj/m	_	AlignBegin=4013|AlignEnd=4109|GE=[PL]|nWord=7|RX=[PNG]
+13	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	_	_	_	AlignBegin=4109|AlignEnd=4205|GE=[REL].[M]|nWord=7|RX=[CONJ]
+14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=4205|AlignEnd=4686|GE=[/]|nWord=8|RX=[PUNCT]
+15	takat	_	NOUN	N	Gender=Fem	26	subj	_	AlignBegin=4686|AlignEnd=5088|GE=woman|nWord=9|RX=[N].[F]
+16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=5088|AlignEnd=5490|GE=[/]|nWord=10|RX=[PUNCT]
+17-18	habbaːriːt	_	_	_	_	_	_	_	_
+17	habbaːri	_	VERB	V2	Number=Sing|VerbClass=2	_	_	_	AlignBegin=5490|AlignEnd=5660|GE=be_smart|nWord=11|RX=[N].[PROP]|TypeToken=stem
+18	=t	_	CCONJ	CONJ	_	17	det	_	AlignBegin=5660|AlignEnd=5830|GE=[INDF].[F]|nWord=11|RX=[DET]
+19	/	_	PUNCT	PUNCT	_	_	_	_	AlignBegin=5830|AlignEnd=6169|GE=[/]|nWord=12|RX=[PUNCT]
+20-23	iːdneːt	_	_	_	_	_	_	_	_
+20	iː-	_	DET	DET	Definite=Def|Gender=Masc	21	subj/m	_	AlignBegin=6169|AlignEnd=6233|GE=[3]|nWord=13|RX=[PNG]
+21	d	_	VERB	V2	_	26	mod	_	AlignBegin=6233|AlignEnd=6297|GE=say|nWord=13|RX=[V1].[IRG]|TypeToken=stem
+22	-n	_	DET	DET	_	21	subj/m	_	AlignBegin=6297|AlignEnd=6361|GE=[PL]|nWord=13|RX=[PNG]
+23	=eːt	_	SCONJ	CONJ	Gender=Fem|PronType=Rel	21	mod	_	AlignBegin=6361|AlignEnd=6427|GE=[REL].[F]|nWord=13|RX=[CONJ]
+24	/	_	PUNCT	PUNCT	_	_	_	_	AlignBegin=6427|AlignEnd=6685|GE=[/]|nWord=14|RX=[PUNCT]
+25-26	tiːfi	_	_	_	_	_	_	_	_
+25	tiː-	_	VERB	V1, IRG	Aspect=Aor|Gender=Fem|Number=Sing|VerbClass=1	26	comp:obj	_	AlignBegin=6885|AlignEnd=6965|GE=[3SG].[F]|nWord=16|RX=[PNG]
+26	fi	_	VERB	V1	Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=6965|AlignEnd=7045|GE=be_there|nWord=16|RX=[V1].[IRG].[INTR]|TypeToken=stem
+27	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	26	discourse	_	AlignBegin=7045|AlignEnd=7205|GE=say|nWord=17|RX=[V1].[IRG].[TR]|TypeToken=stem
+28	//	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=7205|AlignEnd=7365|GE=[//]|nWord=18|RX=[PUNCT]
+
+# sent_id = BEJ_MV_NARR_20_SMART_14-22
+# speaker_id = @SP
+# sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_20_SMART.WAV
+# sent_timecode = 10888, 16577
+# text = tak / 190 miskiːn / karaːmaːt / hanriːw jʔijeːb oːdoːr / wʔoːraj / 366 oːn oːtak karaːmaːt / hijan indihoːb //
+# text_en = When a poor man came asking for charity,    when they say: ‘Child! Give alms to this man!’
+1	tak	_	NOUN	N	Gender=Masc	9	subj	_	AlignBegin=10888|AlignEnd=10970|GE=man|nWord=1|RX=[N].[M]
+2	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=10970|AlignEnd=11052|GE=[/]|nWord=2|RX=[PUNCT]
+3	miskiːn	_	ADV	ADV	_	1	mod	_	AlignBegin=11241|AlignEnd=11533|GE=poor|nWord=4|RX=[ADJ]
+4	/	_	PUNCT	PUNCT	_	1	punct	_	AlignBegin=11533|AlignEnd=11825|GE=[/]|nWord=5|RX=[PUNCT]
+5-6	karaːmaːt	_	_	_	_	_	_	_	_
+5	karaːma	_	NOUN	N	_	8	comp:obj	_	AlignBegin=11825|AlignEnd=11995|GE=alms|nWord=6|RX=[N].[F]
+6	=t	_	DET	DET	Gender=Fem	5	det	_	AlignBegin=11995|AlignEnd=12166|GE=[INDF].[F]|nWord=6|RX=[DET]
+7	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=12166|AlignEnd=12507|GE=[/]|nWord=7|RX=[PUNCT]
+8	hanriːw	_	VERB	PRO	_	9	mod	_	AlignBegin=12507|AlignEnd=12853|GE=seek|nWord=8|RX=[V1].[TR]|TypeToken=stem
+9-11	jʔijeːb	_	_	_	_	_	_	_	_
+9	jʔ	_	VERB	V2	Number=Sing|VerbClass=2	11	comp	_	AlignBegin=12853|AlignEnd=12968|GE=come|nWord=9|RX=[V2].[IRG].[TR]
+10	-i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	9	subj/m	_	AlignBegin=12968|AlignEnd=13083|GE=[AOR].[3SG].[M]|nWord=9|RX=[TAM].[PNG]
+11	=eːb	_	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	13	mod@relcl	_	AlignBegin=13083|AlignEnd=13199|GE=[REL].[M]|nWord=9|RX=[CONJ]
+12-13	oːdoːr	_	_	_	_	_	_	_	_
+12	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	13	det	_	AlignBegin=13199|AlignEnd=13372|GE=[DEF].[SG].[M].[ACC]|nWord=10|RX=[DET]
+13	doːr	_	NOUN	N	Gender=Masc	16	mod	_	AlignBegin=13372|AlignEnd=13545|GE=time|nWord=10|RX=[N].[M]
+14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=13545|AlignEnd=13891|GE=[/]|nWord=11|RX=[PUNCT]
+15-17	wʔoːraj	_	_	_	_	_	_	_	_
+15	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	16	det	_	AlignBegin=13891|AlignEnd=13970|GE=[DEF].[SG].[M]|nWord=12|RX=[DET]
+16	ʔoːr	_	NOUN	N	Gender=Masc	25	comp:obj@T	_	AlignBegin=13970|AlignEnd=14049|GE=child|nWord=12|RX=[N]
+17	=aj	_	SCONJ	CONJ	_	16	mod	_	AlignBegin=14049|AlignEnd=14127|GE=[VOC]|nWord=12|RX=[CASE]
+18	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=14127|AlignEnd=14362|GE=[/]|nWord=13|RX=[PUNCT]
+19	oːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Sing|PronType=Dem	21	det	_	AlignBegin=14728|AlignEnd=15016|GE=[PROX].[SG].[M].[ACC]|nWord=15|RX=[DEM]
+20-21	oːtak	_	_	_	_	_	_	_	_
+20	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	21	det	_	AlignBegin=15016|AlignEnd=15160|GE=[DEF].[SG].[M].[ACC]|nWord=16|RX=[DET]
+21	tak	_	NOUN	N	Gender=Masc	25	comp:obj@R	_	AlignBegin=15160|AlignEnd=15304|GE=man|nWord=16|RX=[N].[M]
+22-23	karaːmaːt	_	_	_	_	_	_	_	_
+22	karaːma	_	NOUN	N	_	25	comp:obj@T	_	AlignBegin=15304|AlignEnd=15448|GE=alms|nWord=17|RX=[N].[F]
+23	=t	_	DET	DET	Gender=Fem	22	det	_	AlignBegin=15448|AlignEnd=15592|GE=[INDF].[F]|nWord=17|RX=[DET]
+24	/	_	PUNCT	PUNCT	_	_	_	_	AlignBegin=15592|AlignEnd=15880|GE=[/]|nWord=18|RX=[PUNCT]
+25-27	hijan	_	_	_	_	_	_	_	_
+25	hi	_	VERB	V1	Gender=Masc|Mood=Imp|Number=Sing|VerbClass=1	29	comp:obj	_	AlignBegin=15880|AlignEnd=15957|GE=give|nWord=19|RX=[V1].[IRG].[DITR]
+26	-jaː	_	CCONJ	PTCL	_	25	subj/m	_	AlignBegin=15957|AlignEnd=16034|GE=[IMP].[SG].[M]|nWord=19|RX=[TAM].[PNG]
+27	-n	_	DET	DET	Gender=Fem	26	comp	_	AlignBegin=16034|AlignEnd=16112|GE=[EMPH]|nWord=19|RX=[SUFX]
+28-30	indihoːb	_	_	_	_	_	_	_	_
+28	i-	_	VERB	V1	Definite=Def|Gender=Masc	29	comp:obj	_	AlignBegin=16112|AlignEnd=16189|GE=[3SG].[M]|nWord=20|RX=[PNG]
+29	ndi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	_	_	_	AlignBegin=16189|AlignEnd=16266|GE=say|nWord=20|RX=[V1].[IRG].[TR]|TypeToken=stem
+30	=hoːb	_	SCONJ	CONJ	_	29	mod	_	AlignBegin=16266|AlignEnd=16344|GE=when|nWord=20|RX=[CONJ]
+31	//	_	PUNCT	PUNCT	_	29	punct	_	AlignBegin=16344|AlignEnd=16577|GE=[//]|nWord=21|RX=[PUNCT]
+

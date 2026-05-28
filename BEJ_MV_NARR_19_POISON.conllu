@@ -235,8 +235,8 @@
 10-13	jitikʷijaːb	_	_	_	_	_	_	_	_
 10	ji=		CONJ	_	_	12	comp:obj	_	AlignBegin=39760|AlignEnd=39868|GE=[REL].[PL].[M]|Gloss=REL.PL.M=|nWord=8|RX=[CONJ]
 11	tikʷi	tikʷi	V1.TR	_	_	12	comp/m	_	AlignBegin=39868|AlignEnd=39976|GE=cook|Gloss=cook|nWord=8|RX=[V1].[TR]
-12	-a		PRF	_	_	15	comp:pred	_	AlignBegin=39976|AlignEnd=40084|GE=[CVB].[MNR]|Gloss=-CVB.MNR|nWord=8|RX=[PRF]
-13	=b		REL	_	_	12	subj/m	_	AlignBegin=40084|AlignEnd=40191|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=8|RX=[REL]
+12	-a		PRF	_	_	15	comp:aux	_	AlignBegin=39976|AlignEnd=40084|GE=[CVB].[MNR]|Gloss=-CVB.MNR|nWord=8|RX=[PRF]
+13	=b		PRON	_	_	12	subj/m	_	AlignBegin=40084|AlignEnd=40191|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=8|RX=[REL]
 14-18	iːktijeːnaːjiː	_	_	_	_	_	_	_	_
 14	iː-		PNG	_	_	15	subj/m	_	AlignBegin=40191|AlignEnd=40277|GE=[3SG].[M]|Gloss=3SG.M-|nWord=9|RX=[PNG]
 15	kti	kti	AUX.PRF	_	_	16	comp	_	AlignBegin=40277|AlignEnd=40363|GE=become|Gloss=become\IPFV|nWord=9|RX=[AUX].[PRF]|TypeToken=stem

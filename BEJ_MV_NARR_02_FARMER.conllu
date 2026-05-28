@@ -1093,7 +1093,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 221210, 225754
 # phonetic_text = ʤaːntaːji =b ti- kati =hoːb / naːn / t= ʔalba =t =iːb dʔi -jaː =t =oːk =t =u / naːn oː= bhar ʃuːm -s -aː =t =oːk =t =i i- ndi =hoːb /
-# text = ʤaːntaːjib tikatihoːb / naːn /tʔalbaːtiːb dʔijaːtoːktu / naːn oːbhar ʃuːmʃaːtoːkti indihoːb /
+# text = ʤaːntaːji =b ti- kati =hoːb / naːn / t= ʔalba =t =iːb dʔi -jaː =t =oːk =t =u / naːn oː= bhar ʃuːm -s -aː -t =oːk -t =i i- ndi =hoːb /
 # text_en = When he says: "Since you are a jinni, what has put you in the can? What has made you go into the sea?"
 1	ʤaːntaːji	_	NOUN	N	_	4	comp:pred	_	AlignBegin=221210|AlignEnd=221414|Gloss=jinni|RX=[N]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=221414|AlignEnd=221619|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
@@ -1109,7 +1109,7 @@
 12	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	18	comp:obl	_	AlignBegin=223228|AlignEnd=223337|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
 13	dʔi	_	VERB	V1	VerbClass=1	14	comp/m	_	AlignBegin=223337|AlignEnd=223410|Gloss=do|RX=[V1].[IRG]|TokenType=Root
 14	-jaː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	18	comp:pred	_	AlignBegin=223410|AlignEnd=223483|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
-15	-t	_	PRON	DET	Gender=Fem	14	subj/m	_	AlignBegin=223483|AlignEnd=223556|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
+15	=t	_	PRON	DET	Gender=Fem	14	subj	_	AlignBegin=223483|AlignEnd=223556|Gloss=-=NDF.F|RX=[DET]|TokenType=Clit
 16	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	14	comp:obj	_	AlignBegin=223556|AlignEnd=223629|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
 17	=t	_	DET	DET	Gender=Fem	16	det	_	AlignBegin=223629|AlignEnd=223702|Gloss==INDF.F|RX==[DET]|TokenType=Clit
 18	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	29	conj:coord	_	AlignBegin=223702|AlignEnd=223776|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
