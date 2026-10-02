@@ -960,34 +960,35 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_02_FARMER.WAV
 # sent_timecode = 221210, 225754
 # phonetic_text = ʤaːntaːji =b ti- kati =hoːb / naːn / t= ʔalba =t =iːb dʔi -jaː =t =oːk =t =u / naːn oː= bhar ʃuːm -s -aː =t =oːk =t =i i- ndi =hoːb /
-# text = ʤaːntaːji =b tikati =hoːb / naːn / t= ʔalba =t =iːb dʔijaːt =oːk =t =u / naːn oː= bhar ʃuːmsaːt =oːk -t =i indi =hoːb /
+# text = ʤaːntaːji =b tikati =hoːb / naːn / t= ʔalba =t =iːb dʔijaː =t =oːk =t =u / naːn oː= bhar ʃuːmsaːt =oːk -t =i indi =hoːb /
 # text_en = When he says: "Since you are a jinni, what has put you in the can? What has made you go into the sea?"
 1	ʤaːntaːji	_	NOUN	N	_	3	comp:pred	_	AlignBegin=221210|AlignEnd=221414|Gloss=jinni|RX=[N]|TokenType=Root
 2	=b	_	DET	DET	Case=Acc|Gender=Masc	1	det	_	AlignBegin=221414|AlignEnd=221619|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
 3	tikati	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	4	comp	_	AlignBegin=221619|AlignEnd=221891|Gloss=become\IPFV|MGloss=2SG.M-become\IPFV|MSeg=ti-kati|RX=[PNG]-[V1].[IRG]|TokenType=Root
-4	=hoːb	_	SCONJ	CONJ	_	15	mod	_	AlignBegin=221891|AlignEnd=222028|Gloss==when|RX==[CONJ]|TokenType=Clit
+4	=hoːb	_	SCONJ	CONJ	_	16	mod	_	AlignBegin=221891|AlignEnd=222028|Gloss==when|RX==[CONJ]|TokenType=Clit
 5	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=222028|AlignEnd=222437|Gloss=/|TokenType=Break
-6	naːn	_	PRON	PRO	PronType=Int	15	subj	_	AlignBegin=222437|AlignEnd=222609|Gloss=what|RX=[PRO].[Q]|TokenType=Root
+6	naːn	_	PRON	PRO	PronType=Int	16	subj	_	AlignBegin=222437|AlignEnd=222609|Gloss=what|RX=[PRO].[Q]|TokenType=Root
 7	/	_	PUNCT	PUNCT	_	6	punct	_	AlignBegin=222609|AlignEnd=222781|Gloss=/|TokenType=Break
 8	t=	_	DET	DET	Definite=Def|Gender=Fem	9	det	_	AlignBegin=222898|AlignEnd=223008|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
 9	ʔalba	_	NOUN	N	Gender=Fem	11	comp	_	AlignBegin=223008|AlignEnd=223118|Gloss=can|RX=[N].[F]|TokenType=Root
 10	=t	_	DET	DET	Gender=Fem	9	det	_	AlignBegin=223118|AlignEnd=223228|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-11	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	15	comp:obl	_	AlignBegin=223228|AlignEnd=223337|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
-12	dʔijaːt	_	VERB	V1	Gender=Fem|VerbClass=1	15	comp:pred	_	AlignBegin=223337|AlignEnd=223556|Gloss=do|MGloss=do-CVB.MNR-INDF.F|MSeg=dʔi-jaː-t|RX=[V1].[IRG]-[PRF]-[DET]|TokenType=Root
-13	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	12	comp:obj	_	AlignBegin=223556|AlignEnd=223629|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
-14	=t	_	DET	DET	Gender=Fem	13	det	_	AlignBegin=223629|AlignEnd=223702|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-15	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	23	conj:coord	_	AlignBegin=223702|AlignEnd=223776|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
-16	/	_	PUNCT	PUNCT	_	15	punct	_	AlignBegin=223776|AlignEnd=224215|Gloss=/|TokenType=Break
-17	naːn	_	PRON	PRO	PronType=Int	20	subj	_	AlignBegin=224215|AlignEnd=224523|Gloss=what|RX=[PRO].[Q]|TokenType=Root
-18	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	19	det	_	AlignBegin=224523|AlignEnd=224677|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
-19	bhar	_	NOUN	N	Gender=Masc	20	comp:obj	_	AlignBegin=224677|AlignEnd=224831|Gloss=sea|RX=[N].[M]|TokenType=Root
-20	ʃuːmsaːt	_	VERB	V2	Gender=Fem|VerbClass=2	23	comp:pred	_	AlignBegin=224831|AlignEnd=225007|Gloss=go_in|MGloss=go_in-CAUS-CVB.MNR-INDF.F|MSeg=ʃuːm-s-aː-t|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
-21	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	20	udep@poss	_	AlignBegin=225007|AlignEnd=225051|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
-22	-t	_	PRON	DET	Gender=Fem	20	subj/m	_	AlignBegin=225051|AlignEnd=225095|Gloss=-INDF.F|MGloss=-INDF.F|MSeg=-t|RX=-[DET]|TokenType=InflAff|wordform==t
-23	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	24	comp:obj	_	AlignBegin=225095|AlignEnd=225139|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
-24	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	25	comp	_	AlignBegin=225139|AlignEnd=225345|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
-25	=hoːb	_	SCONJ	CONJ	_	0	root	_	AlignBegin=225345|AlignEnd=225447|Gloss==when|RX==[CONJ]|TokenType=Clit
-26	/	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=225447|AlignEnd=225754|Gloss=/|TokenType=Break
+11	=iːb	_	ADP	POSTP	Case=Loc|Number=Sing	16	comp:obl	_	AlignBegin=223228|AlignEnd=223337|Gloss==LOC.SG|RX==[POSTP]|TokenType=Clit
+12	dʔijaː	_	VERB	V1	VerbClass=1	16	comp:pred	_	AlignBegin=223337|AlignEnd=223483|Gloss=do|MGloss=do-CVB.MNR|MSeg=dʔi-jaː|RX=[V1].[IRG]-[PRF]|TokenType=Root
+13	=t	_	PRON	DET	Gender=Fem	12	subj	_	AlignBegin=223483|AlignEnd=223556|Gloss=-=NDF.F|RX=[DET]|TokenType=Clit
+14	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	12	comp:obj	_	AlignBegin=223556|AlignEnd=223629|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
+15	=t	_	DET	DET	Gender=Fem	14	det	_	AlignBegin=223629|AlignEnd=223702|Gloss==INDF.F|RX==[DET]|TokenType=Clit
+16	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	24	conj:coord	_	AlignBegin=223702|AlignEnd=223776|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
+17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=223776|AlignEnd=224215|Gloss=/|TokenType=Break
+18	naːn	_	PRON	PRO	PronType=Int	21	subj	_	AlignBegin=224215|AlignEnd=224523|Gloss=what|RX=[PRO].[Q]|TokenType=Root
+19	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	20	det	_	AlignBegin=224523|AlignEnd=224677|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
+20	bhar	_	NOUN	N	Gender=Masc	21	comp:obj	_	AlignBegin=224677|AlignEnd=224831|Gloss=sea|RX=[N].[M]|TokenType=Root
+21	ʃuːmsaːt	_	VERB	V2	Gender=Fem|VerbClass=2	24	comp:pred	_	AlignBegin=224831|AlignEnd=225007|Gloss=go_in|MGloss=go_in-CAUS-CVB.MNR-INDF.F|MSeg=ʃuːm-s-aː-t|RX=[V2]-[V2].[DER]-[PRF]-[DET]|TokenType=Root
+22	=oːk	_	PRON	PRO	Case=Acc|Number=Sing|Person=2|Poss=Yes	21	udep@poss	_	AlignBegin=225007|AlignEnd=225051|Gloss==POSS.2SG.ACC|RX==[PRO]|TokenType=Clit
+23	-t	_	PRON	DET	Gender=Fem	21	subj/m	_	AlignBegin=225051|AlignEnd=225095|Gloss=-INDF.F|MGloss=-INDF.F|MSeg=-t|RX=-[DET]|TokenType=InflAff|wordform==t
+24	=i	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	25	comp:obj	_	AlignBegin=225095|AlignEnd=225139|Gloss==COP.3SG|Reported=Yes|RX==[PRED].[N]|TokenType=Clit
+25	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	26	comp	_	AlignBegin=225139|AlignEnd=225345|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
+26	=hoːb	_	SCONJ	CONJ	_	0	root	_	AlignBegin=225345|AlignEnd=225447|Gloss==when|RX==[CONJ]|TokenType=Clit
+27	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=225447|AlignEnd=225754|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_02_farmer_229-231
 # speaker_id = SP

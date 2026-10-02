@@ -599,7 +599,7 @@
 10	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	11	det	_	AlignBegin=111014|AlignEnd=111164|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
 11	haˈwaːd	_	NOUN	N	Gender=Masc	12	subj	_	AlignBegin=111164|AlignEnd=111313|Gloss=night|RX=[SBJ].[N].[M]|TokenType=Root
 12	jʔi	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	16	mod	_	AlignBegin=111313|AlignEnd=111513|Gloss=come|MGloss=come-AOR.3SG.M|MSeg=jʔ-i|RX=[V2].[IRG]-[TAM].[PNG]|TokenType=Root
-13	=juːk	_	PRON	PRO	Case=Nom|Number=Sing|Person=2|Poss=Yes	12	udep@poss	_	AlignBegin=111513|AlignEnd=111612|Gloss==POSS.2SG.NOM|RX==[PRO]|TokenType=Clit
+13	=juːk	_	PRON	PRO	Case=Nom|Number=Sing|Person=2|Poss=Yes	12	udep	_	AlignBegin=111513|AlignEnd=111612|Gloss==POSS.2SG.NOM|RX==[PRO]|TokenType=Clit
 14	/	_	PUNCT	_	_	12	punct	_	AlignBegin=111612|AlignEnd=111911|Gloss=/|TokenType=Break
 15	majʔa	_	NOUN	N	Gender=Masc	16	comp:obl	_	AlignBegin=112435|AlignEnd=112748|Gloss=light|RX=[N].[M]|TokenType=Root
 16	rhatnija	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=112748|AlignEnd=113061|Gloss=see|MGloss=see-IPFV.2SG.M|MSeg=rha-tnija|RX=[V2]-[TAM].[PNG]|TokenType=Root

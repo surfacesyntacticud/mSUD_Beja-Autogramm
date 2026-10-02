@@ -574,7 +574,7 @@
 12	maːl	_	NOUN	N	Gender=Masc	17	subj	_	AlignBegin=102084|AlignEnd=102228|Gloss=treasure|RX=[N].[M].[BORR].[ARA]|TokenType=Root
 13	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	12	udep@poss	_	AlignBegin=102228|AlignEnd=102373|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 14	wi=	wi=	PRON	CONJ.REL	Gender=Masc|Number=Sing|PronType=Rel	15	comp:obj	_	AlignBegin=102373|AlignEnd=102481|Gloss=REL.SG.M=|RX=[CONJ]=|TokenType=Clit
-15	iːbri	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	16	comp/m	_	AlignBegin=102481|AlignEnd=102697|Gloss=have\AOR|MGloss=1SG-have\AOR|MSeg=iː-bri|RelRole=Obj|RX=[PNG]-[V1].[IRG]|TokenType=Root
+15	iːbri	_	VERB	V1	Aspect=Aor|Number=Sing|VerbClass=1	16	comp	_	AlignBegin=102481|AlignEnd=102697|Gloss=have\AOR|MGloss=1SG-have\AOR|MSeg=iː-bri|RelRole=Obj|RX=[PNG]-[V1].[IRG]|TokenType=Root
 16	=i	=i	SCONJ	CONJ.REL	PronType=Rel	12	mod@relcl$obj	_	AlignBegin=102697|AlignEnd=102806|Gloss==REL|RX==[CONJ]|TokenType=Clit
 17	daːja	_	VERB	V2	Gender=Masc|Number=Sing|VerbClass=2	0	root	_	AlignBegin=102806|AlignEnd=103239|Gloss=be_there|MGloss=be_there-PFV.3SG.M|MSeg=daː-ja|RX=[V2]-[TAM].[PNG]|TokenType=Root
 18	/	_	PUNCT	PUNCT	_	17	punct	_	AlignBegin=103239|AlignEnd=103671|Gloss=/|TokenType=Break

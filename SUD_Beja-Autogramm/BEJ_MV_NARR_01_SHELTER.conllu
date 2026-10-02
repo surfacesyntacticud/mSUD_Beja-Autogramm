@@ -664,7 +664,7 @@
 13	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=146431|AlignEnd=147206|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_01_shelter_162-167
-# text = j= halaka =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa =jeːn / ani ti= kna =t =i / ti= sitoːboːj ti= astoːbi =jeːt akteːn =aj // sallama =heːb tini =t =heːb /
+# text = j= halaka =b =wa / ji= i= tak =iːb areː eːn i= gaɖʔa =jeːn / ani ti= kna =t =i / ti= stoːboːj ti= astoːbi =jeːt akteːn =aj // sallama =heːb tini =t =heːb /
 # text_en = "As I know myself how to bring the man's clothes and his weapons back to him, give them to me!", she told me, [and]
 # phonetic_text = jhalakabwa / jiʔitakiːb areː eːn eːgaɖʔajeː na / ani tiknaːti / tistoːboːj tiʔastoːbjeːt akteːnaj // sallamaheːb tinitheːb /
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
@@ -690,7 +690,7 @@
 20	=i	_	PRON	PRO	Case=Nom|Number=Sing|Person=1|Poss=Yes	18	udep@poss	_	AlignBegin=150611|AlignEnd=150690|Gloss==POSS.1SG.NOM|RX==[PRO]|TokenType=Clit
 21	/	_	PUNCT	PUNCT	_	18	punct	_	AlignBegin=150690|AlignEnd=151006|TokenType=Break
 22	ti=	_	DET	DET	Definite=Def|Gender=Fem	23	det	_	AlignBegin=151006|AlignEnd=151181|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
-23	sitoːboːj	_	NOUN	V1, IRG	VerbClass=1	27	comp:obj	_	AlignBegin=151181|AlignEnd=151533|Gloss=convey|MGloss=convey-N.AC|MSeg=sitoːb-oːj|RX=[V1].[IRG]-[N].[V]|TokenType=Root
+23	stoːboːj	_	NOUN	V1, IRG	VerbClass=1	27	comp:obj	_	AlignBegin=151181|AlignEnd=151533|Gloss=convey|MGloss=convey-N.AC|MSeg=stoːb-oːj|RX=[V1].[IRG]-[N].[V]|TokenType=Root
 24	ti=	_	SCONJ	REL	Definite=Def|Gender=Fem	25	comp:obj	_	AlignBegin=151533|AlignEnd=151664|Gloss=DEF.F=|RX=[REL]=|TokenType=Clit
 25	astoːbi	_	VERB	V1, IRG	Aspect=Imp|Number=Sing|VerbClass=1	26	comp	_	AlignBegin=151664|AlignEnd=151928|Gloss=convey\IPFV|MGloss=1SG-convey\IPFV|MSeg=a-stoːbi|RelRole=Obj|RX=[PNG]-[V1].[IRG]|TokenType=Root
 26	=jeːt	=eːt	SCONJ	CONJ	Gender=Fem|PronType=Rel	23	mod@relcl$obj	_	AlignBegin=151928|AlignEnd=152060|Gloss==REL.F|RX==[CONJ]|TokenType=Clit

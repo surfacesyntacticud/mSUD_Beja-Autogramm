@@ -657,7 +657,7 @@
 6	dabal	_	ADJ	ADJ	_	7	comp	_	AlignBegin=144479|AlignEnd=144630|Gloss=small|RX=[ADJ]|TokenType=Root
 7	=had	_	ADP	POSTP	_	9	comp:obl	_	AlignBegin=144630|AlignEnd=144782|Gloss==until|RX==[POSTP]|TokenType=Clit
 8	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=144782|AlignEnd=145654|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-9	fiːnat	_	VERB	V2	VerbClass=2	10	comp/m	_	AlignBegin=145654|AlignEnd=145830|Gloss=rest|MGloss=rest-POT.1SG|MSeg=fiːn-at|RX=[V2]-[TAM].[PNG]|TokenType=Root
+9	fiːnat	_	VERB	V2	VerbClass=2	10	comp	_	AlignBegin=145654|AlignEnd=145830|Gloss=rest|MGloss=rest-POT.1SG|MSeg=fiːn-at|RX=[V2]-[TAM].[PNG]|TokenType=Root
 10	=aj	_	SCONJ	CONJ	_	4	dislocated:mod	_	AlignBegin=145830|AlignEnd=145918|Gloss==CSL|RX==[CONJ]|TokenType=Clit
 11	indi	_	VERB	V1	Aspect=Imp|Gender=Masc|Number=Sing|VerbClass=1	0	root	_	AlignBegin=145918|AlignEnd=146183|Gloss=say\IPFV|MGloss=3SG.M-say\IPFV|MSeg=i-ndi|RX=[PNG]-[V1].[IRG]|TokenType=Root
 12	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	11	discourse	_	AlignBegin=146183|AlignEnd=146448|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
