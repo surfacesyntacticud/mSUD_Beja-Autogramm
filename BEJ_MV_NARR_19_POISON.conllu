@@ -135,7 +135,7 @@
 17	t=		DET	_	_	18	det	_	AlignBegin=21753|AlignEnd=21816|GE=[DEF].[F]|Gloss=DEF.F=|nWord=12|RX=[DET]
 18	ʔoːr	ʔoːr	N	_	_	20	subj	_	AlignBegin=21816|AlignEnd=21879|GE=child|Gloss=child|nWord=12|RX=[N]
 19	/		PUNCT	_	_	_	_	_	AlignBegin=21879|AlignEnd=22005|GE=[/]|Gloss=/|nWord=13|RX=[PUNCT]
-20	nankʷi	nankʷi	V1.INTR	_	_	0	root	_	AlignBegin=22227|AlignEnd=22495|GE=be_pregnant|Gloss=be_pregnant\IPFV.[3SG.F]|nWord=15|RX=[V1].[INTR]|TypeToken=stem
+20	nankʷi	nankʷi	V1.INTR	_	_	0	root	_	AlignBegin=22227|AlignEnd=22495|GE=be_pregnant|Gloss=be_pregnant\IPFV.3SG.F|nWord=15|RX=[V1].[INTR]|TypeToken=stem
 21	eːn	eːn	V1.IRG	_	_	20	discourse	_	AlignBegin=22495|AlignEnd=22763|GE=say|Gloss=say\PFV.3PL|nWord=16|RX=[V1].[IRG]|TypeToken=stem
 22	//		PUNCT	_	_	20	punct	_	AlignBegin=22763|AlignEnd=23032|GE=[//]|Gloss=//|nWord=17|RX=[PUNCT]
 23	oːn	oːn	DEM	_	_	25	det	_	AlignBegin=23305|AlignEnd=23700|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=19|RX=[DEM]
@@ -254,7 +254,7 @@
 25	=dha		POSTP	_	_	27	comp:obl	_	AlignBegin=41831|AlignEnd=41917|GE=[DIR]|Gloss==DIR|nWord=13|RX=[POSTP]
 26	/		PUNCT	_	_	_	_	_	AlignBegin=41917|AlignEnd=42254|GE=[/]|Gloss=/|nWord=14|RX=[PUNCT]
 27-28	hantijeːb	_	_	_	_	_	_	_	_
-27	hanti	hanti	V1.TR	_	_	28	comp	_	AlignBegin=42254|AlignEnd=42414|GE=wipe|Gloss=wipe\IPFV.[3SG]|nWord=15|RX=[V1].[TR]|TypeToken=stem
+27	hanti	hanti	V1.TR	_	_	28	comp	_	AlignBegin=42254|AlignEnd=42414|GE=wipe|Gloss=wipe\IPFV.3SG|nWord=15|RX=[V1].[TR]|TypeToken=stem
 28	=eːb		CONJ	_	_	30	mod@relcl	_	AlignBegin=42414|AlignEnd=42575|GE=[REL].[M]|Gloss==REL.M|nWord=15|RX=[CONJ]
 29-30	oːdoːr	_	_	_	_	_	_	_	_
 29	oː=		DET	_	_	30	det	_	AlignBegin=42575|AlignEnd=42735|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=16|RX=[DET]

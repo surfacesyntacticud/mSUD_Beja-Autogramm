@@ -1067,7 +1067,7 @@
 14	hoːj	hoːj	_	POSTP	_	16	comp:obl	_	AlignBegin=145435|AlignEnd=145699|GE=[LOC]|Gloss=LOC|nWord=12|RX=[POSTP]
 15-17	kihaːjajt	_	_	_	_	_	_	_	_
 15	ki=	_	_	PTCL	_	16	mod	_	AlignBegin=145699|AlignEnd=145787|GE=[NEG].[IPFV]|Gloss=NEG.IPFV=|nWord=13|RX=[PTCL]
-16	haːj	haːj	_	V1.IRG.INTR	_	17	comp	_	AlignBegin=145787|AlignEnd=145875|GE=be_there|Gloss=be_there\PFV.[3SG.M]|nWord=13|RX=[V1].[IRG].[INTR]|TypeToken=stem
+16	haːj	haːj	_	V1.IRG.INTR	_	17	comp	_	AlignBegin=145787|AlignEnd=145875|GE=be_there|Gloss=be_there\PFV.3SG.M|nWord=13|RX=[V1].[IRG].[INTR]|TypeToken=stem
 17	=ajt	_	_	CONJ	_	25	mod	_	AlignBegin=145875|AlignEnd=145963|GE=[CSL]|Gloss==CSL|nWord=13|RX=[CONJ]
 18	//	_	_	PUNCT	_	_	_	_	AlignBegin=145963|AlignEnd=146228|GE=[//]|Gloss=//|nWord=14|RX=[PUNCT]
 19-22	thoːjteːb	_	_	_	_	_	_	_	_

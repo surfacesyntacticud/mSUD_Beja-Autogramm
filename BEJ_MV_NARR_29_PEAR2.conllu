@@ -355,7 +355,7 @@
 7	/	_	_	PUNCT	_	_	_	_	AlignBegin=52841|AlignEnd=53215|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 8	haːj	haːj	_	POSTP	_	9	comp:obl	_	AlignBegin=53320|AlignEnd=53566|GE=[COM]|Gloss=COM|nWord=5|RX=[POSTP]
 9	ʔeː	ʔeː	_	V2.IRG.TR	_	0	root	_	AlignBegin=53566|AlignEnd=53812|GE=come|Gloss=come|nWord=6|RX=[V2].[IRG].[TR]|TypeToken=stem
-10	-ja	_	_	V2.IRG.TR	_	9	subj/m	_	AlignBegin=53566|AlignEnd=53812|GE=-PFV.3SG.M|Gloss=[PFV].[3SG].[M]|nWord=6|RX=[TAM].[PNG]
+10	-ja	_	_	V2.IRG.TR	_	9	subj/m	_	AlignBegin=53566|AlignEnd=53812|GE=-PFV.3SG.M|Gloss=PFV.3SG.M|nWord=6|RX=[TAM].[PNG]
 11	/	_	_	PUNCT	_	_	_	_	AlignBegin=53812|AlignEnd=54059|GE=[/]|Gloss=/|nWord=7|RX=[PUNCT]
 
 # sent_id = BEJ_MV_NARR_29_PEAR2_061-061
@@ -393,7 +393,7 @@
 3	/	_	_	PUNCT	_	_	_	_	AlignBegin=60734|AlignEnd=60983|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 4	ʔoːr	ʔoːr	_	N	_	5	subj	_	AlignBegin=61093|AlignEnd=61313|GE=child|Gloss=child|nWord=5|RX=[N]
 5	ʔeː	ʔeː	_	V2.IRG.TR	_	0	root	_	AlignBegin=61313|AlignEnd=61423|GE=come|Gloss=come|nWord=6|RX=[V2].[IRG].[TR]|TypeToken=stem
-6	-ja	_	_	V2.IRG.TR	_	5	subj/m	_	AlignBegin=61313|AlignEnd=61423|GE=-PFV.3SG.M|Gloss=[PFV].[3SG].[M]|nWord=6|RX=[TAM].[PNG]
+6	-ja	_	_	V2.IRG.TR	_	5	subj/m	_	AlignBegin=61313|AlignEnd=61423|GE=-PFV.3SG.M|Gloss=PFV.3SG.M|nWord=6|RX=[TAM].[PNG]
 7	=it	_	_	CONJ	_	6	cc	_	AlignBegin=61423|AlignEnd=61533|GE=[COORD]|Gloss==COORD|nWord=6|RX=[CONJ]
 8	/	_	_	PUNCT	_	_	_	_	AlignBegin=61533|AlignEnd=61753|GE=[/]|Gloss=/|nWord=7|RX=[PUNCT]
 
@@ -1176,7 +1176,7 @@
 2	na	na	_	N.F	_	4	comp:obj	_	AlignBegin=161856|AlignEnd=161977|GE=thing|Gloss=thing|nWord=1|RX=[N].[F]
 3-5	jhihoːb	_	_	_	_	_	_	_	_
 3	i-	_	_	PNG	_	4	subj/m	_	AlignBegin=161977|AlignEnd=162057|GE=[3]|Gloss=3-|nWord=2|RX=[PNG]
-4	hi	hi	_	V1.IRG.DITR	_	5	comp	_	AlignBegin=162057|AlignEnd=162137|GE=give|Gloss=give\PFV[SG.M]|nWord=2|RX=[V1].[IRG].[DITR]|TypeToken=stem
+4	hi	hi	_	V1.IRG.DITR	_	5	comp	_	AlignBegin=162057|AlignEnd=162137|GE=give|Gloss=give\PFV.SG.M|nWord=2|RX=[V1].[IRG].[DITR]|TypeToken=stem
 5	=hoːb	_	_	CONJ	_	15	mod	_	AlignBegin=162137|AlignEnd=162218|GE=when|Gloss==when|nWord=2|RX=[CONJ]
 6	/	_	_	PUNCT	_	_	_	_	AlignBegin=162218|AlignEnd=162460|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 7	uːn	uːn	_	DEM	_	15	subj	_	AlignBegin=162460|AlignEnd=162808|GE=[PROX].[SG].[M].[NOM]|Gloss=PROX.SG.M.NOM|nWord=4|RX=[DEM]

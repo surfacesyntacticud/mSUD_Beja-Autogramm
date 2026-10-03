@@ -168,7 +168,7 @@
 22	=ajt	_	_	CONJ	_	24	mod	_	AlignBegin=27331|AlignEnd=27403|GE=[CSL]|Gloss==CSL|nWord=11|RX=[CONJ]
 23	//	_	_	PUNCT	_	_	_	_	AlignBegin=27403|AlignEnd=27619|GE=[//]|Gloss=//|nWord=12|RX=[PUNCT]
 24-25	hagitheːb	_	_	_	_	_	_	_	_
-24	hagit	hagit	_	V1.TR	_	27	comp:obj	_	AlignBegin=28016|AlignEnd=28136|GE=wait|Gloss=wait\[IMP.SG.M]|nWord=14|RX=[V1].[TR]|TypeToken=stem
+24	hagit	hagit	_	V1.TR	_	27	comp:obj	_	AlignBegin=28016|AlignEnd=28136|GE=wait|Gloss=wait\IMP.SG.M|nWord=14|RX=[V1].[TR]|TypeToken=stem
 25	=heːb	_	_	PRO	_	24	comp:obj	_	AlignBegin=28136|AlignEnd=28255|GE=[OBJ].[1SG]|Gloss==OBJ.1SG|nWord=14|RX=[PRO]
 26-27	indi	_	_	_	_	_	_	_	_
 26	i-	_	_	PNG	_	27	subj/m	_	AlignBegin=28255|AlignEnd=28375|GE=[3SG].[M]|Gloss=3SG.M-|nWord=15|RX=[PNG]
@@ -679,7 +679,7 @@
 41	doːr	doːr	_	N.M	_	42	mod	_	AlignBegin=104866|AlignEnd=105152|GE=time|Gloss=time|nWord=27|RX=[N].[M]
 42-45	hiːtoːkaj	_	_	_	_	_	_	_	_
 42	hi	hi	_	V1.IRG.DITR	_	47	comp	_	AlignBegin=105152|AlignEnd=105224|GE=give|Gloss=give|nWord=28|RX=[V1].[IRG].[DITR]
-43	-it	_	_	TAM.PNG	_	42	subj/m	_	AlignBegin=105224|AlignEnd=105296|GE=[POT].[[1SG]]|Gloss=-POT.[1SG]|nWord=28|RX=[TAM].[PNG]
+43	-it	_	_	TAM.PNG	_	42	subj/m	_	AlignBegin=105224|AlignEnd=105296|GE=[POT].[[1SG]]|Gloss=-POT.1SG|nWord=28|RX=[TAM].[PNG]
 44	=oːk	_	_	PRO	_	42	comp:obj@R	_	AlignBegin=105296|AlignEnd=105368|GE=[POSS].[2SG].[ACC]|Gloss==POSS.2SG.ACC|nWord=28|RX=[PRO]
 45	=aj	_	_	CONJ	_	42	comp	_	AlignBegin=105368|AlignEnd=105438|GE=[CSL]|Gloss==CSL|nWord=28|RX=[CONJ]
 46-47	tindi	_	_	_	_	_	_	_	_

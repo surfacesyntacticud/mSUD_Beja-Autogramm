@@ -102,7 +102,7 @@
 6	sikka	sikka	_	N.M	_	7	comp	_	AlignBegin=24217|AlignEnd=24320|GE=road|Gloss=road|nWord=6|RX=[N].[M]
 7	=j	_	_	CASE	_	8	comp:obl	_	AlignBegin=24320|AlignEnd=24424|GE=[GEN]|Gloss==GEN|nWord=6|RX=[CASE]
 8-9	sannihoːb	_	_	_	_	_	_	_	_
-8	sanni	sanni	_	V1.TR	_	9	comp	_	AlignBegin=24424|AlignEnd=24579|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=7|RX=[V1].[TR]|TypeToken=stem
+8	sanni	sanni	_	V1.TR	_	9	comp	_	AlignBegin=24424|AlignEnd=24579|GE=wait|Gloss=wait\IPFV.3SG|nWord=7|RX=[V1].[TR]|TypeToken=stem
 9	=hoːb	_	_	CONJ	_	21	mod	_	AlignBegin=24579|AlignEnd=24734|GE=when|Gloss==when|nWord=7|RX=[CONJ]
 10	/	_	_	PUNCT	_	_	_	_	AlignBegin=24734|AlignEnd=25045|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
 11-13	wʔoːraj	_	_	_	_	_	_	_	_
@@ -323,7 +323,7 @@
 9	dʔi	dʔi	_	N.M	_	14	subj	_	AlignBegin=55885|AlignEnd=56077|GE=worm|Gloss=worm|nWord=3|RX=[N].[M]
 10	/	_	_	PUNCT	_	_	_	_	AlignBegin=56077|AlignEnd=56460|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
 11-12	tamhoːk	_	_	_	_	_	_	_	_
-11	tam	tam	_	V2.TR	_	14	comp:aux	_	AlignBegin=56460|AlignEnd=56603|GE=[eat[FUT]]|Gloss=eat[FUT]|nWord=5|RX=[V2].[TR]
+11	tam	tam	_	V2.TR	_	14	comp:aux	_	AlignBegin=56460|AlignEnd=56603|GE=[eat[FUT]]|Gloss=eat\FUT|nWord=5|RX=[V2].[TR]
 12	=hoːk	_	_	PRO	_	11	comp:obj	_	AlignBegin=56603|AlignEnd=56746|GE=[OBJ].[2SG]|Gloss==OBJ.2SG|nWord=5|RX=[PRO]
 13-14	indi	_	_	_	_	_	_	_	_
 13	i-	_	_	PNG	_	14	subj/m	_	AlignBegin=56746|AlignEnd=56889|GE=[3SG].[M]|Gloss=3SG.M-|nWord=6|RX=[PNG]

@@ -169,7 +169,7 @@
 5	ani	ani	_	SBJ.PRO	_	8	subj	_	AlignBegin=24005|AlignEnd=24208|GE=[1SG].[NOM]|Gloss=1SG.NOM|nWord=4|RX=[SBJ].[PRO]
 6	/	_	_	PUNCT	_	_	_	_	AlignBegin=24208|AlignEnd=24412|GE=[/]|Gloss=/|nWord=5|RX=[PUNCT]
 7	giːg	giːg	_	V2.INTR	_	8	comp/m	_	AlignBegin=24412|AlignEnd=24526|GE=leave|Gloss=leave|nWord=6|RX=[V2].[INTR]
-8	-at	_	_	TAM.PNG	_	10	comp:obj	_	AlignBegin=24526|AlignEnd=24640|GE=[POT].[1SG]|Gloss=-POT.[1SG]|nWord=6|RX=[TAM].[PNG]
+8	-at	_	_	TAM.PNG	_	10	comp:obj	_	AlignBegin=24526|AlignEnd=24640|GE=[POT].[1SG]|Gloss=-POT.1SG|nWord=6|RX=[TAM].[PNG]
 9	iː-	_	_	V1.IRG.TR	_	10	subj/m	_	AlignBegin=24753|AlignEnd=25094|GE=[3SG].[M]|Gloss=3SG.M-|nWord=7|RX=[TAM].[PNG]
 10	d	diːt	_	V1.IRG.TR	Aspect=Aor	11	comp	_	AlignBegin=24753|AlignEnd=25094|GE=say|Gloss=say\AOR|nWord=7|RX=[V1].[IRG].[TR]|TypeToken=stem
 11	=it	_	_	V1.IRG.TR	_	13	mod	_	AlignBegin=24753|AlignEnd=25094|GE=[COORD]|Gloss==COORD|nWord=7|RX=[CONJ]
@@ -222,7 +222,7 @@
 14	ʔeːgirim	ʔeːgirim	_	N	_	12	mod	_	AlignBegin=30952|AlignEnd=31119|GE=elder|Gloss=elder|nWord=10|RX=[N]
 15	=t	_	_	DET	_	14	det	_	AlignBegin=31119|AlignEnd=31286|GE=[INDF].[F]|Gloss==INDF.F|nWord=10|RX=[DET]
 16	/	_	_	PUNCT	_	_	_	_	AlignBegin=31286|AlignEnd=31620|GE=[/]|Gloss=/|nWord=11|RX=[PUNCT]
-17	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=31620|AlignEnd=31788|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=12|RX=[V1].[TR]|TypeToken=stem
+17	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=31620|AlignEnd=31788|GE=wait|Gloss=wait\IPFV.3SG|nWord=12|RX=[V1].[TR]|TypeToken=stem
 18	eːn	eːn	_	V1.IRG.TR	_	17	discourse	_	AlignBegin=31788|AlignEnd=31956|GE=say|Gloss=say\PFV.3PL|nWord=13|RX=[V1].[IRG].[TR]|TypeToken=stem
 19	//	_	_	PUNCT	_	_	_	_	AlignBegin=31956|AlignEnd=32125|GE=[//]|Gloss=//|nWord=14|RX=[PUNCT]
 20-21	hadʔaːnit	_	_	_	_	_	_	_	_
@@ -237,7 +237,7 @@
 # text = sannijaːt //
 # text_en = He finds her and §
 1-2	sannijaːt	_	_	_	_	_	_	_	_
-1	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=34199|AlignEnd=34426|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=1|RX=[V1].[TR]|TypeToken=stem
+1	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=34199|AlignEnd=34426|GE=wait|Gloss=wait\IPFV.3SG|nWord=1|RX=[V1].[TR]|TypeToken=stem
 2	=jaːt	_	_	CONJ	_	1	:coord	_	AlignBegin=34426|AlignEnd=34653|GE=[COORD]|Gloss==COORD|nWord=1|RX=[CONJ]
 3	//	_	_	PUNCT	_	_	_	_	AlignBegin=34653|AlignEnd=35108|GE=[//]|Gloss=//|nWord=2|RX=[PUNCT]
 
@@ -727,7 +727,7 @@
 4	-a	_	_	_	_	3	det	_	AlignBegin=98801|AlignEnd=98955|GE=[PL]|Gloss=-PL|nWord=3
 5	=b	_	_	DET	_	3	det	_	AlignBegin=98955|AlignEnd=99109|GE=[INDF].[M].[ACC]|Gloss==INDF.M.ACC|nWord=3|RX=[DET]
 6-8	sannijeːbka	_	_	_	_	_	_	_	_
-6	sanni	sanni	_	V1.TR	_	7	comp	_	AlignBegin=99109|AlignEnd=99263|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=4|RX=[V1].[TR]|TypeToken=stem
+6	sanni	sanni	_	V1.TR	_	7	comp	_	AlignBegin=99109|AlignEnd=99263|GE=wait|Gloss=wait\IPFV.3SG|nWord=4|RX=[V1].[TR]|TypeToken=stem
 7	=eːb	_	_	CONJ	_	8	comp	_	AlignBegin=99263|AlignEnd=99417|GE=[REL].[M]|Gloss==REL.M|nWord=4|RX=[CONJ]
 8	=ka	_	_	POSTP	_	21	mod	_	AlignBegin=99417|AlignEnd=99571|GE=[DISTR]|Gloss==DISTR|nWord=4|RX=[POSTP]
 9	/	_	_	PUNCT	_	_	_	_	AlignBegin=99571|AlignEnd=100033|GE=[/]|Gloss=/|nWord=5|RX=[PUNCT]
@@ -795,7 +795,7 @@
 17	=u	_	_	PRED.N	_	19	conj:appos	_	AlignBegin=109245|AlignEnd=109317|GE=[COP].[3SG]|Gloss==COP.3SG|nWord=3|RX=[PRED].[N]
 18	/	_	_	PUNCT	_	_	_	_	AlignBegin=109317|AlignEnd=109612|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
 19-20	kʷambiːshoːn	_	_	_	_	_	_	_	_
-19	kʷanbiːs	kʷanbiːs	_	V1.TR	_	25	conj:appos	_	AlignBegin=109855|AlignEnd=110055|GE=hide|Gloss=hide\IPFV.[3SG]|nWord=6|RX=[V1].[TR]|TypeToken=stem
+19	kʷanbiːs	kʷanbiːs	_	V1.TR	_	25	conj:appos	_	AlignBegin=109855|AlignEnd=110055|GE=hide|Gloss=hide\IPFV.3SG|nWord=6|RX=[V1].[TR]|TypeToken=stem
 20	=hoːn	_	_	PRO	_	19	comp:obj	_	AlignBegin=110055|AlignEnd=110256|GE=[OBJ].[1PL]|Gloss==OBJ.1PL|nWord=6|RX=[PRO]
 21	nuːn	nuːn	_	PTCL	_	19	mod	_	AlignBegin=110256|AlignEnd=110657|GE=only|Gloss=only|nWord=7|RX=[PTCL]
 22	/	_	_	PUNCT	_	_	_	_	AlignBegin=110657|AlignEnd=111057|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
@@ -1111,7 +1111,7 @@
 2	ʃiːʃik	ʃiːʃik	_	N.M	_	4	subj	_	AlignBegin=158563|AlignEnd=158746|GE=thorny_fruit|Gloss=thorny_fruit|nWord=1|RX=[N].[M]
 3	mhasi	mhasi	_	PTCL	_	4	mod	_	AlignBegin=158746|AlignEnd=159112|GE=again|Gloss=again|nWord=2|RX=[PTCL]
 4-5	sannihoːb	_	_	_	_	_	_	_	_
-4	sanni	sanni	_	V1.TR	_	5	comp	_	AlignBegin=159112|AlignEnd=159295|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=3|RX=[V1].[TR]|TypeToken=stem
+4	sanni	sanni	_	V1.TR	_	5	comp	_	AlignBegin=159112|AlignEnd=159295|GE=wait|Gloss=wait\IPFV.3SG|nWord=3|RX=[V1].[TR]|TypeToken=stem
 5	=hoːb	_	_	CONJ	_	18	mod	_	AlignBegin=159295|AlignEnd=159478|GE=when|Gloss==when|nWord=3|RX=[CONJ]
 6	/	_	_	PUNCT	_	_	_	_	AlignBegin=159478|AlignEnd=159846|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
 7	hummad	hummad	_	N.PROP	_	8	vocative:redup	_	AlignBegin=160072|AlignEnd=160244|GE=[Hummad]|Gloss=Hummad|nWord=6|RX=[N].[PROP]
@@ -1147,7 +1147,7 @@
 1	uː=	_	_	DET	_	2	det	_	AlignBegin=165512|AlignEnd=165657|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=1|RX=[DET]
 2	bhar	bhar	_	N.M	_	3	subj	_	AlignBegin=165657|AlignEnd=165802|GE=sea|Gloss=sea|nWord=1|RX=[N].[M]
 3-4	sannijeːb	_	_	_	_	_	_	_	_
-3	sanni	sanni	_	V1.TR	_	4	comp	_	AlignBegin=165802|AlignEnd=165947|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=2|RX=[V1].[TR]|TypeToken=stem
+3	sanni	sanni	_	V1.TR	_	4	comp	_	AlignBegin=165802|AlignEnd=165947|GE=wait|Gloss=wait\IPFV.3SG|nWord=2|RX=[V1].[TR]|TypeToken=stem
 4	=eːb	_	_	CONJ	_	6	mod@relcl$obj	_	AlignBegin=165947|AlignEnd=166092|GE=[REL].[M]|Gloss==REL.M|nWord=2|RX=[CONJ]
 5-6	oːdoːr	_	_	_	_	_	_	_	_
 5	oː=	_	_	DET	_	6	det	_	AlignBegin=166092|AlignEnd=166237|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=3|RX=[DET]
@@ -1188,7 +1188,7 @@
 1	w=	_	_	DET	_	2	det	_	AlignBegin=171534|AlignEnd=171692|GE=[DEF].[SG].[M]|Gloss=DEF.SG.M=|nWord=1|RX=[DET]
 2	ʔalaːl	ʔalaːl	_	N.M	_	3	subj	_	AlignBegin=171692|AlignEnd=171849|GE=dust_storm|Gloss=dust_storm|nWord=1|RX=[N].[M]
 3-4	sannihoːb	_	_	_	_	_	_	_	_
-3	sanni	sanni	_	V1.TR	_	4	comp	_	AlignBegin=171849|AlignEnd=172007|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=2|RX=[V1].[TR]|TypeToken=stem
+3	sanni	sanni	_	V1.TR	_	4	comp	_	AlignBegin=171849|AlignEnd=172007|GE=wait|Gloss=wait\IPFV.3SG|nWord=2|RX=[V1].[TR]|TypeToken=stem
 4	=hoːb	_	_	CONJ	_	17	mod	_	AlignBegin=172007|AlignEnd=172164|GE=when|Gloss==when|nWord=2|RX=[CONJ]
 5	/	_	_	PUNCT	_	_	_	_	AlignBegin=172164|AlignEnd=172478|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 6	hummad	hummad	_	N.PROP	_	7	vocative:redup	_	AlignBegin=173000|AlignEnd=173197|GE=[Hummad]|Gloss=Hummad|nWord=5|RX=[N].[PROP]
@@ -1225,7 +1225,7 @@
 4-5	iʃiːʃik	_	_	_	_	_	_	_	_
 4	i=	_	_	DET	_	5	det	_	AlignBegin=180370|AlignEnd=180512|GE=[DEF].[M]|Gloss=DEF.M=|nWord=5|RX=[DET]
 5	ʃiːʃik	ʃiːʃik	_	N.M	_	6	subj	_	AlignBegin=180512|AlignEnd=180653|GE=thorny_fruits|Gloss=thorny_fruits|nWord=5|RX=[N].[M]
-6	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=180653|AlignEnd=180936|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=6|RX=[V1].[TR]|TypeToken=stem
+6	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=180653|AlignEnd=180936|GE=wait|Gloss=wait\IPFV.3SG|nWord=6|RX=[V1].[TR]|TypeToken=stem
 7	eːn	eːn	_	V1.IRG.TR	_	6	discourse	_	AlignBegin=180936|AlignEnd=181219|GE=say|Gloss=say\PFV.3PL|nWord=7|RX=[V1].[IRG].[TR]|TypeToken=stem
 8	/	_	_	PUNCT	_	_	_	_	AlignBegin=181219|AlignEnd=181501|GE=[/]|Gloss=/|nWord=8|RX=[PUNCT]
 
@@ -1241,7 +1241,7 @@
 3	naː	naː	_	N.F	_	6	subj	_	AlignBegin=182688|AlignEnd=182776|GE=thing|Gloss=thing|nWord=4|RX=[N].[F]
 4	=t	_	_	DET	_	3	det	_	AlignBegin=182776|AlignEnd=182864|GE=[INDF].[F]|Gloss==INDF.F|nWord=4|RX=[DET]
 5	=ka	_	_	POSTP	_	4	comp	_	AlignBegin=182864|AlignEnd=182951|GE=[DISTR]|Gloss==DISTR|nWord=4|RX=[POSTP]
-6	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=182951|AlignEnd=183214|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=5|RX=[V1].[TR]|TypeToken=stem
+6	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=182951|AlignEnd=183214|GE=wait|Gloss=wait\IPFV.3SG|nWord=5|RX=[V1].[TR]|TypeToken=stem
 7	/	_	_	PUNCT	_	_	_	_	AlignBegin=183214|AlignEnd=183478|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
 
 # sent_id = BEJ_MV_NARR_25_ORPHAN_223-224
@@ -1325,7 +1325,7 @@
 17-18	girmaːji	_	_	_	_	_	_	_	_
 17	girma	girma	_	N.M	_	18	comp	_	AlignBegin=193793|AlignEnd=193936|GE=head|Gloss=head|nWord=11|RX=[N].[M]
 18	=ji	_	_	CASE	_	14	udep	_	AlignBegin=193936|AlignEnd=194079|GE=[GEN]|Gloss==GEN|nWord=11|RX=[CASE]
-19	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=194079|AlignEnd=194365|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=12|RX=[V1].[TR]|TypeToken=stem
+19	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=194079|AlignEnd=194365|GE=wait|Gloss=wait\IPFV.3SG|nWord=12|RX=[V1].[TR]|TypeToken=stem
 20	eːn	eːn	_	V1.IRG.TR	_	19	discourse	_	AlignBegin=194365|AlignEnd=194651|GE=say|Gloss=say\PFV.3PL|nWord=13|RX=[V1].[IRG].[TR]|TypeToken=stem
 21	//	_	_	PUNCT	_	_	_	_	AlignBegin=194651|AlignEnd=194940|GE=[//]|Gloss=//|nWord=14|RX=[PUNCT]
 
@@ -1345,7 +1345,7 @@
 5	girma	girma	_	N.M	_	6	comp	_	AlignBegin=196352|AlignEnd=196534|GE=head|Gloss=head|nWord=3|RX=[N].[M]
 6	=ji	_	_	CASE	_	2	udep	_	AlignBegin=196534|AlignEnd=196715|GE=[GEN]|Gloss==GEN|nWord=3|RX=[CASE]
 7-8	sannijeːb	_	_	_	_	_	_	_	_
-7	sanni	sanni	_	V1.TR	_	8	comp	_	AlignBegin=196715|AlignEnd=196897|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=4|RX=[V1].[TR]|TypeToken=stem
+7	sanni	sanni	_	V1.TR	_	8	comp	_	AlignBegin=196715|AlignEnd=196897|GE=wait|Gloss=wait\IPFV.3SG|nWord=4|RX=[V1].[TR]|TypeToken=stem
 8	=eːb	_	_	CONJ	_	10	mod@relcl$obj	_	AlignBegin=196897|AlignEnd=197078|GE=[REL].[M]|Gloss==REL.M|nWord=4|RX=[CONJ]
 9-10	oːdoːr	_	_	_	_	_	_	_	_
 9	oː=	_	_	DET	_	10	det	_	AlignBegin=197078|AlignEnd=197260|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=5|RX=[DET]
@@ -1357,7 +1357,7 @@
 14	-tini	_	_	TAM.PNG	_	13	subj/m	_	AlignBegin=199306|AlignEnd=199416|GE=[IPFV].[3SG].[F]|Gloss=-IPFV.3SG.F|nWord=9|RX=[TAM].[PNG]
 15	=t	_	_	REL	_	12	mod@relcl$subj	_	AlignBegin=199416|AlignEnd=199527|GE=[INDF].[F]|Gloss==INDF.F|nWord=9|RX=[REL]
 16	geːb	geːb	_	POSTP	_	17	comp:obl	_	AlignBegin=199527|AlignEnd=199858|GE=beside|Gloss=beside|nWord=10|RX=[POSTP]
-17	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=199858|AlignEnd=200189|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=11|RX=[V1].[TR]|TypeToken=stem
+17	sanni	sanni	_	V1.TR	_	0	root	_	AlignBegin=199858|AlignEnd=200189|GE=wait|Gloss=wait\IPFV.3SG|nWord=11|RX=[V1].[TR]|TypeToken=stem
 18	eːn	eːn	_	V1.IRG.TR	_	17	discourse	_	AlignBegin=200189|AlignEnd=200520|GE=say|Gloss=say\PFV.3PL|nWord=12|RX=[V1].[IRG].[TR]|TypeToken=stem
 19	//	_	_	PUNCT	_	_	_	_	AlignBegin=200520|AlignEnd=200851|GE=[//]|Gloss=//|nWord=13|RX=[PUNCT]
 
@@ -1433,7 +1433,7 @@
 52-53	gʷʔeːti	_	_	_	_	_	_	_	_
 52	gʷʔ	gʷʔ	_	V2.TR	_	53	comp/m	_	AlignBegin=212143|AlignEnd=212297|GE=drink|Gloss=drink|nWord=31|RX=[V2].[TR]
 53	-eːti	_	_	_	_	54	comp:aux	_	AlignBegin=212297|AlignEnd=212451|GE=[CVB].[GNRL]|Gloss=-CVB.GNRL|nWord=31
-54	dannʔi	dannʔi	_	AUX.EMPH	_	57	comp:obj	_	AlignBegin=212451|AlignEnd=212759|GE=do|Gloss=do\IPFV.[3SG]|nWord=32|RX=[AUX].[EMPH]|TypeToken=stem
+54	dannʔi	dannʔi	_	AUX.EMPH	_	57	comp:obj	_	AlignBegin=212451|AlignEnd=212759|GE=do|Gloss=do\IPFV.3SG|nWord=32|RX=[AUX].[EMPH]|TypeToken=stem
 55	/	_	_	PUNCT	_	_	_	_	AlignBegin=212759|AlignEnd=213069|GE=[/]|Gloss=/|nWord=33|RX=[PUNCT]
 56-57	tindi	_	_	_	_	_	_	_	_
 56	ti-	_	_	PNG	_	57	subj/m	_	AlignBegin=213497|AlignEnd=213583|GE=[3SG].[F]|Gloss=3SG.F-|nWord=35|RX=[PNG]
@@ -1638,7 +1638,7 @@
 27	-ti	_	_	_	_	30	comp:aux	_	AlignBegin=244499|AlignEnd=244620|GE=[CVB].[GNRL]|Gloss=-CVB.GNRL|nWord=17
 28	mhali	mhali	_	NUM	_	29	mod	_	AlignBegin=244620|AlignEnd=244861|GE=two|Gloss=two|nWord=18|RX=[NUM]
 29	mhiːnan	mhiːnan	_	N.M	_	30	comp:obj	_	AlignBegin=244861|AlignEnd=245102|GE=place|Gloss=place\PL|nWord=19|RX=[N].[M]|TypeToken=stem
-30	dannʔi	dannʔi	_	V1.IRG.TR	_	0	root	_	AlignBegin=245102|AlignEnd=245343|GE=do|Gloss=do\IPFV.[3SG]|nWord=20|RX=[V1].[IRG].[TR]|TypeToken=stem
+30	dannʔi	dannʔi	_	V1.IRG.TR	_	0	root	_	AlignBegin=245102|AlignEnd=245343|GE=do|Gloss=do\IPFV.3SG|nWord=20|RX=[V1].[IRG].[TR]|TypeToken=stem
 31	eːn	eːn	_	V1.IRG.TR	_	30	discourse	_	AlignBegin=245343|AlignEnd=245584|GE=say|Gloss=say\PFV.3PL|nWord=21|RX=[V1].[IRG].[TR]|TypeToken=stem
 32	/	_	_	PUNCT	_	_	_	_	AlignBegin=245584|AlignEnd=245826|GE=[/]|Gloss=/|nWord=22|RX=[PUNCT]
 33-34	toːtji	_	_	_	_	_	_	_	_
@@ -1893,7 +1893,7 @@
 3	-a	_	_	_	_	2	det	_	AlignBegin=282265|AlignEnd=282358|GE=[PL]|Gloss=-PL|nWord=2
 4	=jeː	_	_	CASE	_	5	comp:obl	_	AlignBegin=282358|AlignEnd=282451|GE=[GEN].[PL]|Gloss==GEN.PL|nWord=2|RX=[CASE]
 5-6	sannihoːb	_	_	_	_	_	_	_	_
-5	sanni	sanni	_	V1.TR	_	6	comp	_	AlignBegin=282451|AlignEnd=282591|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=3|RX=[V1].[TR]|TypeToken=stem
+5	sanni	sanni	_	V1.TR	_	6	comp	_	AlignBegin=282451|AlignEnd=282591|GE=wait|Gloss=wait\IPFV.3SG|nWord=3|RX=[V1].[TR]|TypeToken=stem
 6	=hoːb	_	_	CONJ	_	24	mod	_	AlignBegin=282591|AlignEnd=282730|GE=when|Gloss==when|nWord=3|RX=[CONJ]
 7	/	_	_	PUNCT	_	_	_	_	AlignBegin=282730|AlignEnd=283009|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
 8	uːn	uːn	_	DEM	_	10	det	_	AlignBegin=283009|AlignEnd=283222|GE=[PROX].[SG].[M].[NOM]|Gloss=PROX.SG.M.NOM|nWord=5|RX=[DEM]
@@ -2030,7 +2030,7 @@
 5	-a	_	_	_	_	4	det	_	AlignBegin=301430|AlignEnd=301537|GE=[PL]|Gloss=-PL|nWord=11
 6	=jeː	_	_	CASE	_	7	mod	_	AlignBegin=301537|AlignEnd=301643|GE=[GEN].[PL]|Gloss==GEN.PL|nWord=11|RX=[CASE]
 7-8	sannihoːb	_	_	_	_	_	_	_	_
-7	sanni	sanni	_	V1.TR	_	8	comp	_	AlignBegin=301643|AlignEnd=301803|GE=wait|Gloss=wait\IPFV.[3SG]|nWord=12|RX=[V1].[TR]|TypeToken=stem
+7	sanni	sanni	_	V1.TR	_	8	comp	_	AlignBegin=301643|AlignEnd=301803|GE=wait|Gloss=wait\IPFV.3SG|nWord=12|RX=[V1].[TR]|TypeToken=stem
 8	=hoːb	_	_	CONJ	_	12	mod	_	AlignBegin=301803|AlignEnd=301963|GE=when|Gloss==when|nWord=12|RX=[CONJ]
 9	//	_	_	PUNCT	_	_	_	_	AlignBegin=301963|AlignEnd=302283|GE=[//]|Gloss=//|nWord=13|RX=[PUNCT]
 10-11	imalik	_	_	_	_	_	_	_	_
@@ -2061,7 +2061,7 @@
 29	/	_	_	PUNCT	_	_	_	_	AlignBegin=306086|AlignEnd=306502|GE=[/]|Gloss=/|nWord=27|RX=[PUNCT]
 30	ba=	_	_	PTCL	_	31	mod	_	AlignBegin=306502|AlignEnd=306665|GE=[OPT]|Gloss=OPT=|nWord=28|RX=[PTCL]
 31	ak	ak	_	V1.IRG.TR	_	33	mod@relcl$subj	_	AlignBegin=306665|AlignEnd=306828|GE=[become].[3SG]|Gloss=become.3SG|nWord=28|RX=[V1].[IRG].[TR]|TypeToken=stem
-32	-aːj	_	_	V1.IRG.TR	_	31	comp/m	_	AlignBegin=306665|AlignEnd=306828|GE=\NEG.OPT|Gloss=\[NEG].{OPT]|nWord=28|RX=[TAM]|TypeToken=suffix
+32	-aːj	_	_	V1.IRG.TR	_	31	comp/m	_	AlignBegin=306665|AlignEnd=306828|GE=\NEG.OPT|Gloss=\NEG.OPT|nWord=28|RX=[TAM]|TypeToken=suffix
 33	na	na	_	N.F	_	35	subj	_	AlignBegin=306828|AlignEnd=307154|GE=thing|Gloss=thing|nWord=29|RX=[N].[F]
 34-35	kamheːlta	_	_	_	_	_	_	_	_
 34	ka=	_	_	PTCL	_	35	mod	_	AlignBegin=307154|AlignEnd=307263|GE=[NEG].[IPFV]|Gloss=NEG.IPFV=|nWord=30|RX=[PTCL]

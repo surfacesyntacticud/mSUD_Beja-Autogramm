@@ -78,7 +78,7 @@
 30	=iːb	_	_	POSTP	_	32	comp:obl	_	AlignBegin=14941|AlignEnd=15023|GE=[LOC].[SG]|Gloss==LOC.SG|nWord=25|RX=[POSTP]
 31	/	_	_	PUNCT	_	_	_	_	AlignBegin=15023|AlignEnd=15356|GE=[/]|Gloss=/|nWord=26|RX=[PUNCT]
 32-35	harriweːnaka	_	_	_	_	_	_	_	_
-32	hanriːw	hanriːw	_	V1.TR	_	33	comp	_	AlignBegin=15356|AlignEnd=15478|GE=seek|Gloss=seek\IPFV.[2SG.M]|nWord=27|RX=[V1].[TR]|TypeToken=stem
+32	hanriːw	hanriːw	_	V1.TR	_	33	comp	_	AlignBegin=15356|AlignEnd=15478|GE=seek|Gloss=seek\IPFV.2SG.M|nWord=27|RX=[V1].[TR]|TypeToken=stem
 33	=eː	_	_	CONJ	_	34	mod@relcl$obj	_	AlignBegin=15478|AlignEnd=15600|GE=[REL]|Gloss==REL|nWord=27|RX=[CONJ]
 34	=na	_	_	CONJ	_	35	comp	_	AlignBegin=15600|AlignEnd=15722|GE=thing|Gloss==thing|nWord=27|RX=[CONJ]
 35	=ka	_	_	POSTP	_	38	comp:obj@T	_	AlignBegin=15722|AlignEnd=15846|GE=[DISTR]|Gloss==DISTR|nWord=27|RX=[POSTP]
@@ -160,7 +160,7 @@
 3	sim	sim	_	N.M	_	5	comp:obj	_	AlignBegin=25211|AlignEnd=25298|GE=name|Gloss=name|nWord=2|RX=[N].[M]
 4	-a	_	_	_	_	3	det	_	AlignBegin=25298|AlignEnd=25385|GE=[PL]|Gloss=-PL|nWord=2
 5-6	ʔambiːkhoːb	_	_	_	_	_	_	_	_
-5	ʔanbiːk	ʔanbiːk	_	V1.TR	_	6	comp	_	AlignBegin=25385|AlignEnd=25515|GE=take|Gloss=take\IPFV.[2SG.M]|nWord=3|RX=[V1].[TR]|TypeToken=stem
+5	ʔanbiːk	ʔanbiːk	_	V1.TR	_	6	comp	_	AlignBegin=25385|AlignEnd=25515|GE=take|Gloss=take\IPFV.2SG.M|nWord=3|RX=[V1].[TR]|TypeToken=stem
 6	=hoːb	_	_	CONJ	_	9	mod	_	AlignBegin=25515|AlignEnd=25646|GE=when|Gloss==when|nWord=3|RX=[CONJ]
 7	/	_	_	PUNCT	_	_	_	_	AlignBegin=25646|AlignEnd=25906|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
 8	da	da	_	N.M	_	9	subj	_	AlignBegin=26555|AlignEnd=26814|GE=man|Gloss=man\PL|nWord=6|RX=[N].[M]|TypeToken=stem
@@ -266,7 +266,7 @@
 22	sim	sim	_	N.M	_	25	comp:obj	_	AlignBegin=43622|AlignEnd=43700|GE=name|Gloss=name|nWord=13|RX=[N].[M]
 23	-a	_	_	_	_	22	det	_	AlignBegin=43700|AlignEnd=43778|GE=[PL]|Gloss=-PL|nWord=13
 24	=eː	_	_	PRO	_	22	udep@poss	_	AlignBegin=43778|AlignEnd=43857|GE=[POSS].[3PL].[ACC]|Gloss==POSS.3PL.ACC|nWord=13|RX=[PRO]
-25	ʔanbiːk	ʔanbiːk	_	V1.TR	_	0	root	_	AlignBegin=43857|AlignEnd=44170|GE=take|Gloss=take\IPFV.[3SG]|nWord=14|RX=[V1].[TR]|TypeToken=stem
+25	ʔanbiːk	ʔanbiːk	_	V1.TR	_	0	root	_	AlignBegin=43857|AlignEnd=44170|GE=take|Gloss=take\IPFV.3SG|nWord=14|RX=[V1].[TR]|TypeToken=stem
 26	eːn	eːn	_	V1.IRG.TR	_	25	discourse	_	AlignBegin=44170|AlignEnd=44483|GE=say|Gloss=say\PFV.3PL|nWord=15|RX=[V1].[IRG].[TR]|TypeToken=stem
 27	//	_	_	PUNCT	_	_	_	_	AlignBegin=44483|AlignEnd=44795|GE=[//]|Gloss=//|nWord=16|RX=[PUNCT]
 
@@ -281,7 +281,7 @@
 2	sim	sim	_	N.M	_	5	comp:obj	_	AlignBegin=45628|AlignEnd=45700|GE=name|Gloss=name|nWord=1|RX=[N].[M]
 3	-a	_	_	_	_	2	det	_	AlignBegin=45700|AlignEnd=45772|GE=[PL]|Gloss=-PL|nWord=1
 4	=eː	_	_	PRO	_	2	udep@poss	_	AlignBegin=45772|AlignEnd=45842|GE=[POSS].[3PL].[ACC]|Gloss==POSS.3PL.ACC|nWord=1|RX=[PRO]
-5	ʔanbiːk	ʔanbiːk	_	V1.TR	_	0	root	_	AlignBegin=45842|AlignEnd=46128|GE=take|Gloss=take\IPFV.[3SG]|nWord=2|RX=[V1].[TR]|TypeToken=stem
+5	ʔanbiːk	ʔanbiːk	_	V1.TR	_	0	root	_	AlignBegin=45842|AlignEnd=46128|GE=take|Gloss=take\IPFV.3SG|nWord=2|RX=[V1].[TR]|TypeToken=stem
 6	/	_	_	PUNCT	_	_	_	_	AlignBegin=46128|AlignEnd=46415|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 
 # sent_id = BEJ_MV_NARR_26_POOR_056-057
@@ -458,7 +458,7 @@
 16	=eː	_	_	PRO	_	14	udep@poss	_	AlignBegin=70069|AlignEnd=70146|GE=[POSS].[3PL].[ACC]|Gloss==POSS.3PL.ACC|nWord=8|RX=[PRO]
 17	/	_	_	PUNCT	_	_	_	_	AlignBegin=70146|AlignEnd=70453|GE=[/]|Gloss=/|nWord=9|RX=[PUNCT]
 18-19	ʔambiːkeːb	_	_	_	_	_	_	_	_
-18	ʔanbiːk	ʔanbiːk	_	V1.TR	_	19	comp	_	AlignBegin=70453|AlignEnd=70608|GE=take|Gloss=take\IPFV.[3SG]|nWord=10|RX=[V1].[TR]|TypeToken=stem
+18	ʔanbiːk	ʔanbiːk	_	V1.TR	_	19	comp	_	AlignBegin=70453|AlignEnd=70608|GE=take|Gloss=take\IPFV.3SG|nWord=10|RX=[V1].[TR]|TypeToken=stem
 19	=eːb	_	_	CONJ	_	21	mod@relcl$obj	_	AlignBegin=70608|AlignEnd=70763|GE=[REL].[M]|Gloss==REL.M|nWord=10|RX=[CONJ]
 20-21	oːdoːr	_	_	_	_	_	_	_	_
 20	oː=	_	_	DET	_	21	det	_	AlignBegin=70763|AlignEnd=70918|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=11|RX=[DET]
@@ -1044,7 +1044,7 @@
 5	=iːb	_	_	POSTP	_	7	comp:obl	_	AlignBegin=152715|AlignEnd=152815|GE=[LOC].[SG]|Gloss==LOC.SG|nWord=2|RX=[POSTP]
 6	/	_	_	PUNCT	_	_	_	_	AlignBegin=152815|AlignEnd=153212|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 7-10	hanriːweːnaːka	_	_	_	_	_	_	_	_
-7	hanriːw	hanriːw	_	V1.TR	_	8	comp	_	AlignBegin=153212|AlignEnd=153426|GE=seek|Gloss=seek\IPFV.[2SG.M]|nWord=4|RX=[V1].[TR]|TypeToken=stem
+7	hanriːw	hanriːw	_	V1.TR	_	8	comp	_	AlignBegin=153212|AlignEnd=153426|GE=seek|Gloss=seek\IPFV.2SG.M|nWord=4|RX=[V1].[TR]|TypeToken=stem
 8	=eː	_	_	CONJ	_	9	mod@relcl$obj	_	AlignBegin=153426|AlignEnd=153640|GE=[REL]|Gloss==REL|nWord=4|RX=[CONJ]
 9	=naː	_	_	CONJ	_	10	comp	_	AlignBegin=153640|AlignEnd=153854|GE=thing|Gloss==thing|nWord=4|RX=[CONJ]
 10	=ka	_	_	POSTP	_	13	comp:obj	_	AlignBegin=153854|AlignEnd=154068|GE=[DISTR]|Gloss==DISTR|nWord=4|RX=[POSTP]
