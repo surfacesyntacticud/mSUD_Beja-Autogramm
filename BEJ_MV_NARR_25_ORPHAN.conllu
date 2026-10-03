@@ -2219,7 +2219,7 @@
 22	dhaj	dhaj	_	N.COL.M	_	23	subj	_	AlignBegin=329451|AlignEnd=329645|GE=people|Gloss=people|nWord=13|RX=[N].[COL].[M]
 23-25	ammarraraːjna	_	_	_	_	_	_	_	_
 23	am-	_	_	V1.DER	_	27	comp:obj	_	AlignBegin=329645|AlignEnd=329774|GE=[RECP]|Gloss=RECP-|nWord=14|RX=[V1].[DER]
-24	marra~raːj	marra~raːj	_	V1.DER.TR	_	23	comp/m	_	AlignBegin=329774|AlignEnd=329903|GE=[find~PLAC]|Gloss=find~PLAC|nWord=14|RX=[V1].[DER].[TR]
+24	marra~raːj	marra~raːj	_	V1.DER.TR	_	23	comp/m	_	AlignBegin=329774|AlignEnd=329903|GE=[find~PLAC]|Gloss=find|nWord=14|RX=[V1].[DER].[TR]
 25	-na	_	_	TAM.PNG	_	23	subj/m	_	AlignBegin=329903|AlignEnd=330033|GE=[IMP].[PL]|Gloss=-IMP.PL|nWord=14|RX=[TAM].[PNG]
 26-27	indi	_	_	_	_	_	_	_	_
 26	i-	_	_	PNG	_	27	subj/m	_	AlignBegin=330033|AlignEnd=330227|GE=[3SG].[M]|Gloss=3SG.M-|nWord=15|RX=[PNG]
@@ -2242,7 +2242,7 @@
 5-8	immarrariːna	_	_	_	_	_	_	_	_
 5	i-	_	_	PNG	_	6	subj/m	_	AlignBegin=332262|AlignEnd=332343|GE=[3]|Gloss=3-|nWord=3|RX=[PNG]
 6	m-	_	_	V1.DER	_	0	root	_	AlignBegin=332343|AlignEnd=332424|GE=[RECP]|Gloss=RECP-|nWord=3|RX=[V1].[DER]
-7	mar~rariː	mar~rariː	_	V1.DER.TR	_	6	comp/m	_	AlignBegin=332424|AlignEnd=332505|GE=[find~PLAC]|Gloss=find~PLAC\IPFV|nWord=3|RX=[V1].[DER].[TR]|TypeToken=stem
+7	mar~rariː	mar~rariː	_	V1.DER.TR	_	6	comp/m	_	AlignBegin=332424|AlignEnd=332505|GE=[find~PLAC]|Gloss=find\IPFV|nWord=3|RX=[V1].[DER].[TR]|TypeToken=stem
 8	-na	_	_	PNG	_	6	subj/m	_	AlignBegin=332505|AlignEnd=332586|GE=[PL]|Gloss=-PL|nWord=3|RX=[PNG]
 9	eːn	eːn	_	V1.IRG.TR	_	6	discourse	_	AlignBegin=332586|AlignEnd=332910|GE=say|Gloss=say\PFV.3PL|nWord=4|RX=[V1].[IRG].[TR]|TypeToken=stem
 10	//	_	_	PUNCT	_	_	_	_	AlignBegin=332910|AlignEnd=333234|GE=[//]|Gloss=//|nWord=5|RX=[PUNCT]

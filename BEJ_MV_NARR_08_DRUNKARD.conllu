@@ -794,7 +794,7 @@
 6	-eːna	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	5	subj/m	_	AlignBegin=138752|AlignEnd=138845|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 7	=t	_	CCONJ	CONJ	_	5	cc	_	AlignBegin=138845|AlignEnd=138938|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 8	=ka	_	ADP	POSTP	_	5	mod	_	AlignBegin=138938|AlignEnd=139030|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
-9	za~zuːr	_	VERB	V2	VerbClass=2	16	conj:coord	_	AlignBegin=139030|AlignEnd=139216|Gloss=PLAC~visit|RX=[V2].[DER]|TokenType=Root
+9	za~zuːr	_	VERB	V2	VerbClass=2	16	conj:coord	_	AlignBegin=139030|AlignEnd=139216|Gloss=visit|RX=[V2].[DER]|TokenType=Root
 10	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	9	subj/m	_	AlignBegin=139216|AlignEnd=139401|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 11	//	_	PUNCT	_	_	9	punct	_	AlignBegin=139401|AlignEnd=139773|Gloss=//|TokenType=Break
 12	heːkʷal	_	ADJ	ADJ	_	13	mod	_	AlignBegin=139773|AlignEnd=140163|Gloss=lucky|RX=[ADJ]|TokenType=Root
@@ -970,7 +970,7 @@
 # phonetic_text = am- mar~ri -jaː =t ʔamma rhi -i =hoːb / a- ʃanbiːb =hoːb / tak whiː ɖib -a =b rh -ani i- ni //
 # text_en = "when I saw people gathered, when I look, I see a fallen man under them", he said.
 1	am-	_	AUX	V1	VerbClass=1|Voice=Rcp	3	comp/m	_	AlignBegin=166952|AlignEnd=167038|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
-2	mar~ri	_	VERB	V1	VerbClass=1	1	comp/m	_	AlignBegin=167038|AlignEnd=167124|Gloss=find~PLAC|RX=[V1].[DER]|TokenType=Root
+2	mar~ri	_	VERB	V1	VerbClass=1	1	comp/m	_	AlignBegin=167038|AlignEnd=167124|Gloss=find|RX=[V1].[DER]|TokenType=Root
 3	-jaː	_	AUX	_	_	5	mod	_	AlignBegin=167124|AlignEnd=167210|DerPos=VERB|Gloss=-CVB.MNR|TokenType=DerAff
 4	-t	_	PRON	DET	Gender=Fem	3	subj/m	_	AlignBegin=167210|AlignEnd=167298|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
 5	ʔamma	_	NOUN	N	Gender=Fem	6	comp:obj	_	AlignBegin=167298|AlignEnd=167644|Gloss=people|RX=[N].[F]|TokenType=Root
@@ -1065,7 +1065,7 @@
 7	hoːj	_	ADP	PRO	_	9	comp:obl	_	AlignBegin=181432|AlignEnd=181712|Gloss=LOC|RX=[POSTP]|TokenType=Root
 8	ti-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=2	9	subj/m	_	AlignBegin=181712|AlignEnd=181805|Gloss=2SG.M-|RX=[PNG]-|TokenType=InflAff
 9	m-	_	AUX	V1	VerbClass=1|Voice=Rcp	12	comp:obj	_	AlignBegin=181805|AlignEnd=181898|DerPos=VERB|Gloss=RECP-|Reported=Yes|RX=[V1].[DER]-|TokenType=DerAff
-10	mar~raːj	_	VERB	V1	Aspect=Perf|VerbClass=1	9	comp/m	_	AlignBegin=181898|AlignEnd=181992|Gloss=find~PLAC.PFV|RX=[V1].[DER]|TokenType=Root
+10	mar~raːj	_	VERB	V1	Aspect=Perf|VerbClass=1	9	comp/m	_	AlignBegin=181898|AlignEnd=181992|Gloss=find\PFV|RX=[V1].[DER]|TokenType=Root
 11	a-	_	PRON	PNG	Number=Sing|Person=1	12	subj/m	_	AlignBegin=181992|AlignEnd=182085|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 12	ndi	_	VERB	V1	Aspect=Imp|VerbClass=1	0	root	_	AlignBegin=182085|AlignEnd=182178|Gloss=say\IPFV|RX=[V1].[IRG]|TokenType=Root
 13	=jaːt	_	CCONJ	CONJ	_	12	cc	_	AlignBegin=182178|AlignEnd=182272|Gloss==COORD|RX==[CONJ]|TokenType=Clit

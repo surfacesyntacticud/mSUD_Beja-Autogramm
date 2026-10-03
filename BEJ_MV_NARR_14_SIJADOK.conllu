@@ -102,7 +102,7 @@
 14	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=21154|AlignEnd=21470|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 15	miʃi	_	PART	PTCL	_	17	mod	_	AlignBegin=21470|AlignEnd=21785|Gloss=only|RX=[PTCL]|TokenType=Root
 16	hoːj	_	ADP	POSTP	Case=Loc	17	comp:obl	_	AlignBegin=21785|AlignEnd=22100|Gloss=LOC|RX=[POSTP]|TokenType=Root
-17	wa~waːw	_	VERB	V2	VerbClass=2	19	comp	_	AlignBegin=22100|AlignEnd=22205|Gloss=weep\PLAC|RX=[V2].[DER]|TokenType=Root
+17	wa~waːw	_	VERB	V2	VerbClass=2	19	comp	_	AlignBegin=22100|AlignEnd=22205|Gloss=weep|RX=[V2].[DER]|TokenType=Root
 18	-jaːn	_	PRON	TAM.PNG	Aspect=Perf|Number=Plur|Person=3	17	subj/m	_	AlignBegin=22205|AlignEnd=22310|Gloss=-PFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 19	=hoːb	_	SCONJ	CONJ	_	59	mod	_	AlignBegin=22310|AlignEnd=22415|Gloss==when|RX==[CONJ]|TokenType=Clit
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=22415|AlignEnd=23158|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -809,7 +809,7 @@
 1	naːn	_	PRON	PRO	PronType=Int	5	mod	_	AlignBegin=153683|AlignEnd=153978|Gloss=what|RX=[PRO].[Q]|TokenType=Root
 2	hoːk	_	PRON	PRO	Number=Sing|Person=2	3	comp:obl	_	AlignBegin=153978|AlignEnd=154274|Gloss=2SG.DAT/ABL|RX=[PRO]|TokenType=Root
 3	am-	_	AUX	V1	VerbClass=1|Voice=Rcp	5	comp/m	_	AlignBegin=154274|AlignEnd=154333|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
-4	mar~ri	_	VERB	V1	VerbClass=1	3	comp/m	_	AlignBegin=154333|AlignEnd=154392|Gloss=find\PLAC|RX=[V1].[DER]|TokenType=Root
+4	mar~ri	_	VERB	V1	VerbClass=1	3	comp/m	_	AlignBegin=154333|AlignEnd=154392|Gloss=find|RX=[V1].[DER]|TokenType=Root
 5	-jaː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	7	comp:pred	_	AlignBegin=154392|AlignEnd=154451|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 6	-t	_	PRON	DET	Gender=Fem	5	subj/m	_	AlignBegin=154451|AlignEnd=154510|Gloss=-INDF.F|RX=-[DET]|TokenType=InflAff|wordform==t
 7	=u	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	0	root	_	AlignBegin=154510|AlignEnd=154570|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Root
@@ -1547,7 +1547,7 @@
 # phonetic_text = dhaːj hallalafoːjihoːb // ʔaːmansihoːb // ontʔa / dh# dhi hadiːda tirhitaːni //
 # text_en = when he had sworn to him a lot, when he had convinced him, (Siyadook tells him): "So tell me what you saw!"
 1	dhaːj	_	ADP	POSTP	_	2	comp:obl	_	AlignBegin=276458|AlignEnd=276886|Gloss=DIR|RX=[POSTP]|TokenType=Root
-2	halla~lafoːj	_	VERB	V2	VerbClass=2	4	comp	_	AlignBegin=276886|AlignEnd=277028|Gloss=swear\PLAC|RX=[V2].[DER]|TokenType=Root
+2	halla~lafoːj	_	VERB	V2	VerbClass=2	4	comp	_	AlignBegin=276886|AlignEnd=277028|Gloss=swear|RX=[V2].[DER]|TokenType=Root
 3	-i	_	PRON	TAM.PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	2	subj/m	_	AlignBegin=277028|AlignEnd=277171|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 4	=hoːb	_	SCONJ	CONJ	_	7	mod	_	AlignBegin=277171|AlignEnd=277314|Gloss==when|RX==[CONJ]|TokenType=Clit
 5	//	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=277314|AlignEnd=278239|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break

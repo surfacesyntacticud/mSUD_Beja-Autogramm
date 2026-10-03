@@ -473,18 +473,18 @@
 # phonetic_text = ameːsasʔeː ameːsasʔeː ameːsasʔeː / uːbiri ʈaʈakʷi / ijameːb // jiʔoːbiri naːjiːb // kaɖawi mijʔat amaːsiwhoːb // anʔa atirt aʃibibhoːb // ʔoːt / suːrisi / suːfat hoːj theːjeːt harʔiːsi / hamoːt hoːj hiːneːt / baːjiheːb hiːreːreː rhanhoːb / ahagit ini //
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_01_SHELTER.WAV
 1	ameː-	_	AUX	V1	VerbClass=1|Voice=Pass	3	comp/m	_	AlignBegin=85492|AlignEnd=85680|DerPos=VERB|Gloss=PASS.INT-|RX=[V1].[DER]-|TokenType=DerAff
-2	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	1	comp/m	_	AlignBegin=85680|AlignEnd=85869|Gloss=sit\PLAC~sit\MID|RX=[V1].[DER]|TokenType=Root
+2	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	1	comp/m	_	AlignBegin=85680|AlignEnd=85869|Gloss=sit_sit\MID|RX=[V1].[DER]|TokenType=Root
 3	-eː	_	AUX	CVB	VerbForm=Conv	6	conj:redup	_	AlignBegin=85869|AlignEnd=86058|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 4	ameː-	_	AUX	V1	VerbClass=1|Voice=Pass	6	comp/m	_	AlignBegin=86058|AlignEnd=86247|DerPos=VERB|Gloss=PASS.INT-|RX=[V1].[DER]-|TokenType=DerAff
-5	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	4	comp/m	_	AlignBegin=86247|AlignEnd=86436|Gloss=sit\PLAC~sit\MID|RX=[V1].[DER]|TokenType=Root
+5	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	4	comp/m	_	AlignBegin=86247|AlignEnd=86436|Gloss=sit_sit\MID|RX=[V1].[DER]|TokenType=Root
 6	-eː	_	AUX	CVB	VerbForm=Conv	9	conj:redup	_	AlignBegin=86436|AlignEnd=86625|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 7	ameː-	_	AUX	V1	VerbClass=1|Voice=Pass	9	comp/m	_	AlignBegin=86625|AlignEnd=86814|DerPos=VERB|Gloss=PASS.INT-|RX=[V1].[DER]-|TokenType=DerAff
-8	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	7	comp/m	_	AlignBegin=86814|AlignEnd=87003|Gloss=sit\PLAC~sit\MID|RX=[V1].[DER]|TokenType=Root
+8	sa~sʔ	_	VERB	V1	VerbClass=1|Voice=Mid	7	comp/m	_	AlignBegin=86814|AlignEnd=87003|Gloss=sit_sit\MID|RX=[V1].[DER]|TokenType=Root
 9	-eː	_	AUX	CVB	VerbForm=Conv	13	mod	_	AlignBegin=87003|AlignEnd=87192|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=87192|AlignEnd=88535|TokenType=Break
 11	uː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Sing	12	det	_	AlignBegin=88535|AlignEnd=88719|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 12	bri	_	NOUN	N	Gender=Masc	13	subj	_	AlignBegin=88719|AlignEnd=88904|Gloss=rain|RX=[SBJ].[N].[M]|TokenType=Root
-13	ʈa~ʈakʷ	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=88904|AlignEnd=89088|Gloss=drip\PLAC~drip|RX=[V2].[DER]|TokenType=Root
+13	ʈa~ʈakʷ	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=88904|AlignEnd=89088|Gloss=drip_drip|RX=[V2].[DER]|TokenType=Root
 14	-i	_	PRON	TAM, PNG	Aspect=Aor|Gender=Masc|Number=Sing|Person=3	13	subj/m	_	AlignBegin=89088|AlignEnd=89273|Gloss=-AOR.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 15	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=89273|AlignEnd=89838|TokenType=Break
 

@@ -311,7 +311,7 @@
 37	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	38	det	_	AlignBegin=55714|AlignEnd=55875|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 38	kna	_	PRON	PRO	Reflex=Yes	41	subj	_	AlignBegin=55875|AlignEnd=56036|Gloss=owner|RX=[PRO].[REFL]|TokenType=Root
 39	/	_	PUNCT	PUNCT	_	38	punct	_	AlignBegin=56036|AlignEnd=56360|Gloss=/|TokenType=Break
-40	guːd~guːd	_	VERB	V2	VerbClass=2	41	comp:aux	_	AlignBegin=56537|AlignEnd=56727|Gloss=PLAC~be_numerous|RX=[V2].[DER]|TokenType=Root
+40	guːd~guːd	_	VERB	V2	VerbClass=2	41	comp:aux	_	AlignBegin=56537|AlignEnd=56727|Gloss=be_numerous|RX=[V2].[DER]|TokenType=Root
 41	ah	_	AUX	AUX.EMPH	_	42	comp/m	_	AlignBegin=56917|AlignEnd=57012|Gloss=take|RX=[AUX].[EMPH]|TokenType=Root
 42	-a	_	AUX	_	_	33	dislocated:mod	_	AlignBegin=57012|AlignEnd=57107|DerPos=AUX|Gloss=-CVB.MNR|TokenType=DerAff
 43	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	42	discourse	_	AlignBegin=57107|AlignEnd=57297|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root

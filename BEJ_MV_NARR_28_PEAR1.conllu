@@ -143,7 +143,7 @@
 1	oː=	_	_	DET	_	2	det	_	AlignBegin=21468|AlignEnd=21691|GE=[DEF].[SG].[M].[ACC]|Gloss=DEF.SG.M.ACC=|nWord=1|RX=[DET]
 2	tak	tak	_	N.M	_	4	comp:obj	_	AlignBegin=21691|AlignEnd=21914|GE=man|Gloss=man|nWord=1|RX=[N].[M]
 3-4	nakkakameː	_	_	_	_	_	_	_	_
-3	nakka~kam	nakka~kam	_	V2.DER.TR	_	4	comp/m	_	AlignBegin=21914|AlignEnd=22137|GE=[look-round~PLAC]|Gloss=look-round~PLAC|nWord=2|RX=[V2].[DER].[TR]
+3	nakka~kam	nakka~kam	_	V2.DER.TR	_	4	comp/m	_	AlignBegin=21914|AlignEnd=22137|GE=[look-round~PLAC]|Gloss=look-round|nWord=2|RX=[V2].[DER].[TR]
 4	-eː	_	_	_	_	15	mod	_	AlignBegin=22137|AlignEnd=22360|GE=[CVB].[SMLT]|Gloss=-CVB.SMLT|nWord=2
 5	/	_	_	PUNCT	_	_	_	_	AlignBegin=22360|AlignEnd=22807|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 6	oːn	oːn	_	DEM	_	8	det	_	AlignBegin=22965|AlignEnd=23214|GE=[PROX].[SG].[M].[ACC]|Gloss=PROX.SG.M.ACC|nWord=5|RX=[DEM]
@@ -164,7 +164,7 @@
 18-21	isoːgagidna	_	_	_	_	_	_	_	_
 18	i-	_	_	PNG	_	19	subj/m	_	AlignBegin=25547|AlignEnd=25644|GE=[3SG].[M]|Gloss=3SG.M-|nWord=12|RX=[PNG]
 19	soː-	_	_	V1.DER	_	25	comp:obj	_	AlignBegin=25644|AlignEnd=25741|GE=[CAUS]|Gloss=CAUS-|nWord=12|RX=[V1].[DER]
-20	ga~gid	ga~gid	_	V1.DER.TR	_	19	comp/m	_	AlignBegin=25741|AlignEnd=25838|GE=[PLAC~throw]|Gloss=PLAC~throw\PFV|nWord=12|RX=[V1].[DER].[TR]|TypeToken=stem
+20	ga~gid	ga~gid	_	V1.DER.TR	_	19	comp/m	_	AlignBegin=25741|AlignEnd=25838|GE=[PLAC~throw]|Gloss=throw\PFV|nWord=12|RX=[V1].[DER].[TR]|TypeToken=stem
 21	=na	_	_	DM	_	19	discourse	_	AlignBegin=25838|AlignEnd=25934|GE=[CONTR]|Gloss==CONTR|nWord=12|RX=[DM]
 22-23	dhi	_	_	_	_	_	_	_	_
 22	dh	dh	_	POSTP	_	25	comp:obl	_	AlignBegin=25934|AlignEnd=26128|GE=[DIR]|Gloss=DIR|nWord=13|RX=[POSTP]

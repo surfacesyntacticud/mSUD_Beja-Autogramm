@@ -13,7 +13,7 @@
 8	//	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=2450|AlignEnd=3181|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 9	i-	_	PRON	PNG	Person=3	10	subj/m	_	AlignBegin=3181|AlignEnd=3269|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 10	moː-	_	AUX	V1	VerbClass=1|Voice=Rcp	0	root	_	AlignBegin=3269|AlignEnd=3358|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
-11	ra~rim	_	VERB	V1	Aspect=Imp|VerbClass=1	10	comp/m	_	AlignBegin=3358|AlignEnd=3447|Gloss=accompany\PLAC.IPFV|RX=[V1].[DER]|TokenType=Root
+11	ra~rim	_	VERB	V1	Aspect=Imp|VerbClass=1	10	comp/m	_	AlignBegin=3358|AlignEnd=3447|Gloss=accompany\IPFV|RX=[V1].[DER]|TokenType=Root
 12	-na	_	PRON	PNG	Number=Plur	11	subj/m	_	AlignBegin=3447|AlignEnd=3536|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
 13	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	10	discourse	_	AlignBegin=3536|AlignEnd=3891|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 14	ʔiːbaːb	_	NOUN	N.V	Gender=Fem	10	dislocated:obj	_	AlignBegin=3891|AlignEnd=4068|Gloss=travel\N.AC|RX=[N].[V].[F]|TokenType=Root
@@ -83,7 +83,7 @@
 34	=ji	_	ADP	CASE	Case=Gen	35	udep	_	AlignBegin=16245|AlignEnd=16357|Gloss==GEN|RX==[CASE]|TokenType=Clit
 35	ʔaweː	_	NOUN	N	Gender=Masc	37	comp:obj	_	AlignBegin=16357|AlignEnd=16524|Gloss=stone|RX=[N].[M]|TokenType=Root
 36	=b	_	DET	DET	Case=Acc|Gender=Masc	35	det	_	AlignBegin=16524|AlignEnd=16691|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-37	ʃaw~wawi	_	VERB	V1	VerbClass=1	46	conj:coord	_	AlignBegin=16691|AlignEnd=16802|Gloss=gather\PLAC|RX=[V1].[DER]|TokenType=Root
+37	ʃaw~wawi	_	VERB	V1	VerbClass=1	46	conj:coord	_	AlignBegin=16691|AlignEnd=16802|Gloss=gather|RX=[V1].[DER]|TokenType=Root
 38	-i	_	PRON	TAM.PNG	Gender=Fem|Mood=Imp|Number=Sing	37	subj/m	_	AlignBegin=16802|AlignEnd=16913|Gloss=-IMP.SG.F|RX=-[TAM].[PNG]|TokenType=InflAff
 39	=t	_	CCONJ	CONJ	_	37	cc	_	AlignBegin=16913|AlignEnd=17025|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 40	/	_	PUNCT	PUNCT	_	37	punct	_	AlignBegin=17025|AlignEnd=17926|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -123,7 +123,7 @@
 7	=ji	_	ADP	CASE	Case=Gen	8	udep	_	AlignBegin=23109|AlignEnd=23252|Gloss==GEN|RX==[CASE]|TokenType=Clit
 8	ʔaweː	_	NOUN	N	Gender=Masc	10	comp:obj	_	AlignBegin=23252|AlignEnd=23466|Gloss=stone|RX=[N].[M]|TokenType=Root
 9	=b	_	DET	DET	Case=Acc|Gender=Masc	8	det	_	AlignBegin=23466|AlignEnd=23680|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-10	ʃaw~waw	_	VERB	V1	VerbClass=1	11	comp/m	_	AlignBegin=23680|AlignEnd=23894|Gloss=gather\PLAC|RX=[V1].[DER]|TokenType=Root
+10	ʃaw~waw	_	VERB	V1	VerbClass=1	11	comp/m	_	AlignBegin=23680|AlignEnd=23894|Gloss=gather|RX=[V1].[DER]|TokenType=Root
 11	-iːtiːt	_	AUX	CVB	VerbForm=Conv	17	mod	_	AlignBegin=23894|AlignEnd=24108|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff
 12	lhaweː	_	NOUN	N	Gender=Fem	14	comp	_	AlignBegin=24108|AlignEnd=24215|Gloss=vixen|RX=[N].[F]|TokenType=Root
 13	=t	_	DET	DET	Gender=Fem	12	det	_	AlignBegin=24215|AlignEnd=24322|Gloss==INDF.F|RX==[DET]|TokenType=Clit
@@ -757,7 +757,7 @@
 22	kʷiːkʷʔaːj	_	NOUN	N	Gender=Masc	26	vocative	_	AlignBegin=129251|AlignEnd=129528|Gloss=crow|RX=[N].[M]|TokenType=Root
 23	jhaː	_	INTJ	PTCL	_	22	discourse	_	AlignBegin=129528|AlignEnd=129805|Gloss=ADRF|RX=[PTCL]|TokenType=Root
 24	/	_	PUNCT	PUNCT	_	22	punct	_	AlignBegin=129805|AlignEnd=130832|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-25	ʔar~raraweː	_	NOUN	N	Gender=Fem	26	comp/m	_	AlignBegin=130832|AlignEnd=131023|Gloss=friendship\PLAC|Reported=Yes|RX=[N].[F]|TokenType=Root
+25	ʔar~raraweː	_	NOUN	N	Gender=Fem	26	comp/m	_	AlignBegin=130832|AlignEnd=131023|Gloss=friendship|Reported=Yes|RX=[N].[F]|TokenType=Root
 26	-sam	_	AUX	V2	VerbClass=2|Voice=Rcp	30	comp:obj	_	AlignBegin=131023|AlignEnd=131215|DerPos=VERB|Gloss=-RECP|RX=-[V2].[DER]|TokenType=DerAff
 27	-ni	_	PRON	TAM.PNG	Aspect=Aor|Number=Plur|Person=1	26	subj/m	_	AlignBegin=131215|AlignEnd=131407|Gloss=-AOR.1PL|RX=-[TAM].[PNG]|TokenType=InflAff
 28	/	_	PUNCT	PUNCT	_	26	punct	_	AlignBegin=131407|AlignEnd=132209|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -796,7 +796,7 @@
 11	/	_	PUNCT	PUNCT	_	8	punct	_	AlignBegin=138921|AlignEnd=139564|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 12	i-	_	PRON	PNG	Person=3	13	subj/m	_	AlignBegin=139564|AlignEnd=139640|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 13	moː-	_	AUX	V1	VerbClass=1|Voice=Rcp	0	root	_	AlignBegin=139640|AlignEnd=139716|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
-14	ra~rim	_	VERB	V1	Aspect=Imp|VerbClass=1	13	comp/m	_	AlignBegin=139716|AlignEnd=139792|Gloss=accompany\PLAC.IPFV|RX=[V1].[DER]|TokenType=Root
+14	ra~rim	_	VERB	V1	Aspect=Imp|VerbClass=1	13	comp/m	_	AlignBegin=139716|AlignEnd=139792|Gloss=accompany\IPFV|RX=[V1].[DER]|TokenType=Root
 15	-na	_	PRON	PNG	Number=Plur	13	subj/m	_	AlignBegin=139792|AlignEnd=139869|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
 16	eːn	_	VERB	V1	Aspect=Perf|Number=Plur|Person=3|VerbClass=1	13	discourse	_	AlignBegin=139869|AlignEnd=140175|Gloss=say\PFV.3PL|RX=[V1].[IRG]|TokenType=Root
 17	//	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=140175|AlignEnd=141153|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -868,7 +868,7 @@
 25	-a	_	PRON	TAM.PNG	Gender=Masc|Mood=Imp|Number=Sing	24	subj/m	_	AlignBegin=150853|AlignEnd=150937|Gloss=-IMP.SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 26	=t	_	CCONJ	CONJ	_	24	cc	_	AlignBegin=150937|AlignEnd=151021|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 27	/	_	PUNCT	PUNCT	_	24	punct	_	AlignBegin=151021|AlignEnd=151563|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-28	ʃaw~wawi	_	VERB	V1	VerbClass=1	38	conj:coord	_	AlignBegin=151563|AlignEnd=151663|Gloss=gather\PLAC|RX=[V1].[DER]|TokenType=Root
+28	ʃaw~wawi	_	VERB	V1	VerbClass=1	38	conj:coord	_	AlignBegin=151563|AlignEnd=151663|Gloss=gather|RX=[V1].[DER]|TokenType=Root
 29	-a	_	PRON	TAM.PNG	Gender=Masc|Mood=Imp|Number=Sing	28	subj/m	_	AlignBegin=151663|AlignEnd=151763|Gloss=-IMP.SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 30	=t	_	CCONJ	CONJ	_	28	cc	_	AlignBegin=151763|AlignEnd=151864|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 31	/	_	PUNCT	PUNCT	_	28	punct	_	AlignBegin=151864|AlignEnd=152837|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -903,7 +903,7 @@
 # text_en = After it had gathered stones, now,  when it says: Become Vixen's grilled meat! become Vixen's grilled meat!'  no grilled meat comes to it.
 1	j=	_	DET	DET	Definite=Def|Gender=Masc	2	det	_	AlignBegin=158066|AlignEnd=158221|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 2	ʔawi	_	NOUN	N	Gender=Masc	3	comp:obj	_	AlignBegin=158221|AlignEnd=158377|Gloss=stone|RX=[N].[M]|TokenType=Root
-3	ʃaw~waw	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=158377|AlignEnd=158533|Gloss=gather\PLAC|RX=[V1].[DER]|TokenType=Root
+3	ʃaw~waw	_	VERB	V1	VerbClass=1	4	comp/m	_	AlignBegin=158377|AlignEnd=158533|Gloss=gather|RX=[V1].[DER]|TokenType=Root
 4	-iːtiːt	_	AUX	CVB	VerbForm=Conv	12	mod	_	AlignBegin=158533|AlignEnd=158689|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff
 5	ontʔa	_	PART	PTCL	_	4	discourse	_	AlignBegin=158689|AlignEnd=159001|Gloss=now|RX=[PTCL]|TokenType=Root
 6	/	_	PUNCT	PUNCT	_	4	punct	_	AlignBegin=159001|AlignEnd=159313|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1112,7 +1112,7 @@
 # text_en = They go together,
 1	i-	_	PRON	PNG	Person=3	2	subj/m	_	AlignBegin=189226|AlignEnd=189339|Gloss=3-|RX=[PNG]-|TokenType=InflAff
 2	moː-	_	AUX	V1	VerbClass=1|Voice=Rcp	0	root	_	AlignBegin=189339|AlignEnd=189453|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
-3	ra~rim	_	VERB	V1	Aspect=Imp|VerbClass=1	2	comp/m	_	AlignBegin=189453|AlignEnd=189567|Gloss=accompany\PLAC.IPFV|RX=[V1].[DER]|TokenType=Root
+3	ra~rim	_	VERB	V1	Aspect=Imp|VerbClass=1	2	comp/m	_	AlignBegin=189453|AlignEnd=189567|Gloss=accompany\IPFV|RX=[V1].[DER]|TokenType=Root
 4	-na	_	PRON	PNG	Number=Plur	2	subj/m	_	AlignBegin=189567|AlignEnd=189681|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
 5	/	_	PUNCT	PUNCT	_	2	punct	_	AlignBegin=189681|AlignEnd=190136|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 

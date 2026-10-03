@@ -471,7 +471,7 @@
 12	ani	_	PRON	PRO	Case=Nom|Number=Sing|Person=1	14	subj	_	AlignBegin=74913|AlignEnd=75327|Gloss=1SG.NOM|RX=[SBJ].[PRO]|TokenType=Root
 13	a-	_	PRON	PNG	Number=Sing|Person=1	14	subj/m	_	AlignBegin=75327|AlignEnd=75534|Gloss=1SG-|RX=[PNG]-|TokenType=InflAff
 14	m-	_	AUX	PNG	Voice=Pass	25	conj:coord	_	AlignBegin=75327|AlignEnd=75534|DerPos=VERB|Gloss=PASS-|RX=[V1].[DER]-|TokenType=DerAff
-15	gʷar~rha	_	VERB	V1	Aspect=Perf|VerbClass=1	14	comp/m	_	AlignBegin=75534|AlignEnd=75741|Gloss=suffer~PLAC\PFV|RX=[V1]|TokenType=Root
+15	gʷar~rha	_	VERB	V1	Aspect=Perf|VerbClass=1	14	comp/m	_	AlignBegin=75534|AlignEnd=75741|Gloss=suffer\PFV|RX=[V1]|TokenType=Root
 16	/	_	PUNCT	_	_	14	punct	_	AlignBegin=75741|AlignEnd=76157|Gloss=/|TokenType=Break
 17	w=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	18	det	_	AlignBegin=76683|AlignEnd=76841|Gloss=DEF.SG.M.NOM=|RX=[DET]=|TokenType=Clit
 18	jhaːm	_	NOUN	N	Gender=Masc	22	udep	_	AlignBegin=76841|AlignEnd=76998|Gloss=leopard|RX=[N].[M]|TokenType=Root
@@ -617,7 +617,7 @@
 # text_en = "so, while I had sweat a lot again and while I was very startled and I understood that I had forgotten saying “I am going to hit it” and that kind of thing.
 1	tʔa	_	PART	PTCL	_	3	discourse	_	AlignBegin=97445|AlignEnd=97821|Gloss=now|RX=[PTCL]|TokenType=Root
 2	gajiː	_	ADV	ADV	_	3	mod	_	AlignBegin=97821|AlignEnd=98197|Gloss=anew|RX=[ADV]|TokenType=Root
-3	da~duːf	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=98197|AlignEnd=98322|Gloss=PLAC~sweat|RX=[V2].[DER]|TokenType=Root
+3	da~duːf	_	VERB	V2	VerbClass=2	4	comp/m	_	AlignBegin=98197|AlignEnd=98322|Gloss=sweat|RX=[V2].[DER]|TokenType=Root
 4	-aː	_	AUX	CVB	Aspect=Perf|VerbForm=Conv	7	comp:pred	_	AlignBegin=98322|AlignEnd=98447|DerPos=VERB|Gloss=-CVB.MNR|RX=-[PRF]|TokenType=DerAff
 5	-b	_	PRON	DET	Case=Acc|Gender=Masc	4	subj/m	_	AlignBegin=98447|AlignEnd=98573|Gloss=-INDF.M.ACC|RX=-[DET]|TokenType=InflAff|wordform==b
 6	aka	_	AUX	AUX	Aspect=Perf	7	comp/m	_	AlignBegin=98573|AlignEnd=98698|Gloss=become|RX=[AUX].[PRF]|TokenType=Root

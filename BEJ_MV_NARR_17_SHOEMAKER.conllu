@@ -151,7 +151,7 @@
 15	ah	_	VERB	V1	VerbClass=1	16	comp/m	_	AlignBegin=23325|AlignEnd=23535|Gloss=take|RX=[V1].[IRG]|TokenType=Root
 16	-eːtiːt	_	AUX	CVB	VerbForm=Conv	18	mod	_	AlignBegin=23535|AlignEnd=23746|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=23746|AlignEnd=24745|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-18	fassa~sal	_	VERB	V2	VerbClass=2	19	comp/m	_	AlignBegin=24745|AlignEnd=25034|Gloss=cut\PLAC|RX=[V2].[DER]|TokenType=Root
+18	fassa~sal	_	VERB	V2	VerbClass=2	19	comp/m	_	AlignBegin=24745|AlignEnd=25034|Gloss=cut|RX=[V2].[DER]|TokenType=Root
 19	-eːtiːt	_	AUX	CVB	VerbForm=Conv	22	mod	_	AlignBegin=25034|AlignEnd=25324|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff
 20	/	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=25324|AlignEnd=26136|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 21	daː	_	VERB	V2	VerbClass=2	22	comp/m	_	AlignBegin=26136|AlignEnd=26234|Gloss=be_there|RX=[V2]|TokenType=Root
@@ -327,7 +327,7 @@
 5	-eːtiːt	_	AUX	CVB	VerbForm=Conv	8	mod	_	AlignBegin=60374|AlignEnd=60528|DerPos=VERB|Gloss=-CVB.SEQ|RX=-.|TokenType=DerAff
 6	/	_	PUNCT	PUNCT	_	5	punct	_	AlignBegin=60528|AlignEnd=60836|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 7	ontʔa	_	PART	PTCL	_	8	discourse	_	AlignBegin=60836|AlignEnd=61157|Gloss=now|RX=[PTCL]|TokenType=Root
-8	fassa~sal	_	VERB	V2	VerbClass=2	9	comp/m	_	AlignBegin=61157|AlignEnd=61317|Gloss=cut\PLAC|RX=[V2].[DER]|TokenType=Root
+8	fassa~sal	_	VERB	V2	VerbClass=2	9	comp/m	_	AlignBegin=61157|AlignEnd=61317|Gloss=cut|RX=[V2].[DER]|TokenType=Root
 9	-eː	_	AUX	CVB	VerbForm=Conv	14	mod	_	AlignBegin=61317|AlignEnd=61478|DerPos=VERB|Gloss=-CVB.SMLT|RX=-.|TokenType=DerAff
 10	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=61478|AlignEnd=61799|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 11	w=	_	DET	DET	Definite=Def|Gender=Masc|Number=Sing	12	det	_	AlignBegin=61799|AlignEnd=61922|Gloss=DEF.SG.M=|RX=[DET]=|TokenType=Clit
@@ -1248,7 +1248,7 @@
 9	-iːni	_	PRON	TAM.PNG	Aspect=Imp|Gender=Masc|Number=Sing|Person=3	8	subj/m	_	AlignBegin=217001|AlignEnd=217111|Gloss=-IPFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 10	diːt	_	VERB	V1.CVB	VerbClass=1|VerbForm=Conv	12	mod	_	AlignBegin=217111|AlignEnd=217330|Gloss=say\CVB.SEQ|RX=[V1].[IRG]|TokenType=Root
 11	/	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=217330|AlignEnd=217855|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-12	fakka~kar	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=217855|AlignEnd=218038|Gloss=think\PLAC|RX=[V2].[DER]|TokenType=Root
+12	fakka~kar	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=217855|AlignEnd=218038|Gloss=think|RX=[V2].[DER]|TokenType=Root
 13	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	12	subj/m	_	AlignBegin=218038|AlignEnd=218222|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 14	=aːt	_	CCONJ	CONJ	_	12	cc	_	AlignBegin=218222|AlignEnd=218406|Gloss==COORD|RX==[CONJ]|TokenType=Clit
 15	//	_	PUNCT	PUNCT	_	12	punct	_	AlignBegin=218406|AlignEnd=219727|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
@@ -1465,7 +1465,7 @@
 22	//	_	PUNCT	PUNCT	_	19	punct	_	AlignBegin=251770|AlignEnd=252043|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 23	giɖʔa	_	NOUN	N	Gender=Fem	26	comp:obj	_	AlignBegin=252043|AlignEnd=252268|Gloss=shoe|RX=[N].[F]|TokenType=Root
 24	=t	_	DET	DET	Gender=Fem	23	det	_	AlignBegin=252268|AlignEnd=252493|Gloss==INDF.F|RX==[DET]|TokenType=Clit
-25	ʃibib~ʃibib	_	VERB	V1	VerbClass=1	26	comp/m	_	AlignBegin=252493|AlignEnd=252605|Gloss=look\PLAC|RX=[V1].[DER]|TokenType=Root
+25	ʃibib~ʃibib	_	VERB	V1	VerbClass=1	26	comp/m	_	AlignBegin=252493|AlignEnd=252605|Gloss=look|RX=[V1].[DER]|TokenType=Root
 26	-s	_	AUX	V2	VerbClass=2|Voice=Cau	28	comp	_	AlignBegin=252605|AlignEnd=252718|DerPos=VERB|Gloss=-CAUS|RX=-[V2].[DER]|TokenType=DerAff
 27	-eːn	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	26	subj/m	_	AlignBegin=252718|AlignEnd=252831|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 28	=hoːb	_	SCONJ	CONJ	_	31	mod	_	AlignBegin=252831|AlignEnd=252944|Gloss==when|RX==[CONJ]|TokenType=Clit
@@ -1503,7 +1503,7 @@
 4	liːg	_	VERB	V1	Aspect=Imp|VerbClass=1	3	comp/m	_	AlignBegin=256473|AlignEnd=256561|Gloss=dance\IPFV|RX=[V1].[DER]|TokenType=Root
 5	-na	_	PRON	PNG	Number=Plur	3	subj/m	_	AlignBegin=256561|AlignEnd=256649|Gloss=-PL|RX=-[PNG]|TokenType=InflAff
 6	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=256649|AlignEnd=257000|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
-7	ka~kaf	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=257000|AlignEnd=257211|Gloss=sing\PLAC|RX=[V2].[DER]|TokenType=Root
+7	ka~kaf	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=257000|AlignEnd=257211|Gloss=sing|RX=[V2].[DER]|TokenType=Root
 8	-eːna	_	PRON	TAM.PNG	Aspect=Imp|Number=Plur|Person=3	7	subj/m	_	AlignBegin=257211|AlignEnd=257423|Gloss=-IPFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 9	/	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=257423|AlignEnd=257846|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 

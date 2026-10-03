@@ -123,7 +123,7 @@
 4	/	_	PUNCT	_	_	3	punct	_	AlignBegin=17477|AlignEnd=17720|Gloss=/|TokenType=Break
 5	koː	_	ADJ	ADJ	_	2	mod	_	AlignBegin=17720|AlignEnd=17928|Gloss=all|RX=[ADJ]|TokenType=Root
 6	=jeː	_	PRON	PRO	Case=Acc|Number=Plur|Person=3|Poss=Yes	5	udep@poss	_	AlignBegin=17928|AlignEnd=18137|Gloss==POSS.3PL.ACC|RX==[PRO]|TokenType=Clit
-7	ʃaw~waw	_	VERB	V1	VerbClass=1	8	comp/m	_	AlignBegin=18137|AlignEnd=18345|Gloss=gather~PLAC|RX=[V1].[DER]|TokenType=Root
+7	ʃaw~waw	_	VERB	V1	VerbClass=1	8	comp/m	_	AlignBegin=18137|AlignEnd=18345|Gloss=gather|RX=[V1].[DER]|TokenType=Root
 8	-iːtiːt	_	AUX	_	_	13	mod	_	AlignBegin=18345|AlignEnd=18554|DerPos=VERB|Gloss=-CVB.SEQ|TokenType=DerAff
 9	i=	_	DET	DET	Definite=Def|Gender=Masc	10	det	_	AlignBegin=18554|AlignEnd=18693|Gloss=DEF.M=|RX=[DET]=|TokenType=Clit
 10	findikʷ	_	NOUN	N	Gender=Masc	11	comp	_	AlignBegin=18693|AlignEnd=18832|Gloss=mortar|RX=[N].[M]|TokenType=Root

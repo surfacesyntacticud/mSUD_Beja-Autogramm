@@ -135,7 +135,7 @@
 38	/	_	_	PUNCT	_	_	_	_	AlignBegin=20902|AlignEnd=21084|GE=[/]|Gloss=/|nWord=20|RX=[PUNCT]
 39	hoːj	hoːj	_	POSTP	_	41	comp:obl	_	AlignBegin=21445|AlignEnd=21721|GE=[LOC]|Gloss=LOC|nWord=22|RX=[POSTP]
 40-42	dadaːsja	_	_	_	_	_	_	_	_
-40	da~daː	da~daː	_	V2.DER.IRG.INTR	_	41	comp/m	_	AlignBegin=21721|AlignEnd=21813|GE=[be_there~PLAC]|Gloss=be_there~PLAC|nWord=23|RX=[V2].[DER].[IRG].[INTR]
+40	da~daː	da~daː	_	V2.DER.IRG.INTR	_	41	comp/m	_	AlignBegin=21721|AlignEnd=21813|GE=[be_there~PLAC]|Gloss=be_there|nWord=23|RX=[V2].[DER].[IRG].[INTR]
 41	-s	_	_	V2.DER	_	0	root	_	AlignBegin=21813|AlignEnd=21905|GE=[CAUS]|Gloss=-CAUS|nWord=23|RX=[V2].[DER]
 42	-jaː	_	_	TAM.PNG	_	41	subj/m	_	AlignBegin=21905|AlignEnd=21997|GE=[PFV].[3SG].[M]|Gloss=-PFV.3SG.M|nWord=23|RX=[TAM].[PNG]
 43	/	_	_	PUNCT	_	_	_	_	AlignBegin=21997|AlignEnd=22272|GE=[/]|Gloss=/|nWord=24|RX=[PUNCT]
@@ -477,7 +477,7 @@
 23-25	isoːgagid	_	_	_	_	_	_	_	_
 23	i-	_	_	PNG	_	24	subj/m	_	AlignBegin=73490|AlignEnd=73643|GE=[3SG].[M]|Gloss=3SG.M-|nWord=13|RX=[PNG]
 24	soː-	_	_	V1.DER	_	0	root	_	AlignBegin=73643|AlignEnd=73796|GE=[CAUS]|Gloss=CAUS-|nWord=13|RX=[V1].[DER]
-25	ga~gid	ga~gid	_	V1.DER.TR	_	24	comp/m	_	AlignBegin=73796|AlignEnd=73948|GE=[PLAC~throw]|Gloss=PLAC~throw\PFV|nWord=13|RX=[V1].[DER].[TR]|TypeToken=stem
+25	ga~gid	ga~gid	_	V1.DER.TR	_	24	comp/m	_	AlignBegin=73796|AlignEnd=73948|GE=[PLAC~throw]|Gloss=throw\PFV|nWord=13|RX=[V1].[DER].[TR]|TypeToken=stem
 26	/	_	_	PUNCT	_	_	_	_	AlignBegin=73948|AlignEnd=74406|GE=[/]|Gloss=/|nWord=14|RX=[PUNCT]
 
 # sent_id = BEJ_MV_NARR_29_PEAR2_085-088

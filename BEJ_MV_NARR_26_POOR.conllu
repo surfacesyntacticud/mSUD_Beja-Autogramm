@@ -693,7 +693,7 @@
 15	liːliː	liːliː	_	N.F	_	17	subj	_	AlignBegin=105109|AlignEnd=105327|GE=eye|Gloss=eye\PL|nWord=16|RX=[N].[F]|TypeToken=stem
 16	=t	_	_	DET	_	15	det	_	AlignBegin=105327|AlignEnd=105546|GE=[INDF].[F]|Gloss==INDF.F|nWord=16|RX=[DET]
 17-19	kʷaːlaleːliːnt	_	_	_	_	_	_	_	_
-17	kʷaːla~leːl	kʷaːla~leːl	_	V2.DER.INTR	_	27	conj:coord	_	AlignBegin=105546|AlignEnd=105692|GE=[roll~PLAC]|Gloss=roll~PLAC|nWord=17|RX=[V2].[DER].[INTR]
+17	kʷaːla~leːl	kʷaːla~leːl	_	V2.DER.INTR	_	27	conj:coord	_	AlignBegin=105546|AlignEnd=105692|GE=[roll~PLAC]|Gloss=roll|nWord=17|RX=[V2].[DER].[INTR]
 18	-iːn	_	_	TAM.PNG	_	17	subj/m	_	AlignBegin=105692|AlignEnd=105838|GE=[AOR].[3PL]|Gloss=-AOR.3PL|nWord=17|RX=[TAM].[PNG]
 19	=t	_	_	CONJ	_	17	cc	_	AlignBegin=105838|AlignEnd=105983|GE=[COORD]|Gloss==COORD|nWord=17|RX=[CONJ]
 20	/	_	_	PUNCT	_	_	_	_	AlignBegin=105983|AlignEnd=106420|GE=[/]|Gloss=/|nWord=18|RX=[PUNCT]

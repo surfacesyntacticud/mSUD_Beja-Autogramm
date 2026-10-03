@@ -102,7 +102,7 @@
 6	=t	_	_	DET	_	5	det	_	AlignBegin=14940|AlignEnd=15062|GE=[INDF].[F]|Gloss==INDF.F|nWord=8|RX=[DET]
 7	=uː	_	_	PRO	_	5	udep@poss	_	AlignBegin=15062|AlignEnd=15183|GE=[POSS].[3SG].[NOM]|Gloss==POSS.3SG.NOM|nWord=8|RX=[PRO]
 8-9	guːdguːdi	_	_	_	_	_	_	_	_
-8	guːd~guːd	guːd~guːd	_	V2.DER.INTR	_	11	comp:aux	_	AlignBegin=15183|AlignEnd=15427|GE=[PLAC~be_numerous]|Gloss=PLAC~be_numerous|nWord=9|RX=[V2].[DER].[INTR]
+8	guːd~guːd	guːd~guːd	_	V2.DER.INTR	_	11	comp:aux	_	AlignBegin=15183|AlignEnd=15427|GE=[PLAC~be_numerous]|Gloss=be_numerous|nWord=9|RX=[V2].[DER].[INTR]
 9	-i	_	_	_	_	8	comp/m	_	AlignBegin=15427|AlignEnd=15670|GE=[L]|Gloss=-L|nWord=9
 10-11	tiniːneːb	_	_	_	_	_	_	_	_
 10	ti-	_	_	PNG	_	11	subj/m	_	AlignBegin=15670|AlignEnd=15832|GE=[3SG].[F]|Gloss=3SG.F-|nWord=10|RX=[PNG]
@@ -260,7 +260,7 @@
 4	iraːni	iraːni	_	EXCL	_	7	vocative	_	AlignBegin=42077|AlignEnd=42304|GE=gosh|Gloss=gosh|nWord=5|RX=[EXCL]
 5	/	_	_	PUNCT	_	_	_	_	AlignBegin=42304|AlignEnd=42532|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]
 6-9	sakkakanaːsamit	_	_	_	_	_	_	_	_
-6	sakka~kana	sakka~kana	_	V2.DER	_	7	comp/m	_	AlignBegin=42814|AlignEnd=42970|GE=[ask_for_news~PLAC]|Gloss=ask_for_news~PLAC|nWord=8|RX=[V2].[DER]
+6	sakka~kana	sakka~kana	_	V2.DER	_	7	comp/m	_	AlignBegin=42814|AlignEnd=42970|GE=[ask_for_news~PLAC]|Gloss=ask_for_news|nWord=8|RX=[V2].[DER]
 7	-sam	_	_	V2.DER	_	0	root	_	AlignBegin=42970|AlignEnd=43126|GE=[RECP]|Gloss=-RECP|nWord=8|RX=[V2].[DER]
 8	-i	_	_	TAM.PNG	_	7	subj/m	_	AlignBegin=43126|AlignEnd=43282|GE=[AOR].[3SG].[M]|Gloss=-AOR.3SG.M|nWord=8|RX=[TAM].[PNG]
 9	=t	_	_	CONJ	_	7	cc	_	AlignBegin=43282|AlignEnd=43438|GE=[COORD]|Gloss==COORD|nWord=8|RX=[CONJ]

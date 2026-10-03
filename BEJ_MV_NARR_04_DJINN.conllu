@@ -248,7 +248,7 @@
 2	sawaːkin	_	PROPN	N	_	3	comp	_	AlignBegin=44921|AlignEnd=45061|Gloss=Souakin|RX=[N].[PROP]|TokenType=Root
 3	=eːb	_	ADP	POSTP	Case=Loc|Number=Plur	5	comp:obl	_	AlignBegin=45061|AlignEnd=45202|Gloss==LOC.PL|RX==[POSTP]|TokenType=Clit
 4	/	_	PUNCT	PUNCT	_	3	punct	_	AlignBegin=45202|AlignEnd=45483|Gloss=/|TokenType=Break
-5	haːda~doːj	_	VERB	V2	VerbClass=2	7	comp	_	AlignBegin=45483|AlignEnd=45650|Gloss=wander~PLAC|RelRole=Obj|RX=[V2].[DER]|TokenType=Root
+5	haːda~doːj	_	VERB	V2	VerbClass=2	7	comp	_	AlignBegin=45483|AlignEnd=45650|Gloss=wander|RelRole=Obj|RX=[V2].[DER]|TokenType=Root
 6	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	5	subj/m	_	AlignBegin=45650|AlignEnd=45817|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 7	=eːb	=eːb	SCONJ	CONJ.REL	Gender=Masc|PronType=Rel	9	mod@relcl$obj	_	AlignBegin=45817|AlignEnd=45983|Gloss==REL.M|RX==[CONJ]|TokenType=Clit
 8	oː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Sing	9	det	_	AlignBegin=45983|AlignEnd=46233|Gloss=DEF.SG.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -260,7 +260,7 @@
 14	gʷʔaʤi	_	ADJ	N	_	12	mod	_	AlignBegin=49044|AlignEnd=49330|Gloss=one-eyed|RX=[ADJ]|TokenType=Root
 15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=49330|AlignEnd=49616|Gloss=/|TokenType=Break
 16	harʔiː	_	ADP	POSTP	_	17	comp:obl	_	AlignBegin=49899|AlignEnd=50177|Gloss=after|RX=[POSTP]|TokenType=Root
-17	sa~sak	_	VERB	V2	VerbClass=2	20	comp:obj	_	AlignBegin=50177|AlignEnd=50316|Gloss=PLAC~go|Reported=Yes|RX=[V2].[DER]|TokenType=Root
+17	sa~sak	_	VERB	V2	VerbClass=2	20	comp:obj	_	AlignBegin=50177|AlignEnd=50316|Gloss=go|Reported=Yes|RX=[V2].[DER]|TokenType=Root
 18	-ja	_	PRON	TAM.PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	17	subj/m	_	AlignBegin=50316|AlignEnd=50455|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 19	i-	_	PRON	PNG	Gender=Masc|Number=Sing|Person=3	20	subj/m	_	AlignBegin=50455|AlignEnd=50594|Gloss=3SG.M-|RX=[PNG]-|TokenType=InflAff
 20	ni	_	VERB	V1	Aspect=Perf|VerbClass=1	0	root	_	AlignBegin=50594|AlignEnd=50733|Gloss=say|RX=[V1].[IRG]|TokenType=Root
@@ -282,7 +282,7 @@
 7	=eː	_	ADP	CASE	Case=Gen|Number=Plur	8	comp	_	AlignBegin=51772|AlignEnd=51881|Gloss==GEN.PL|RX==[CASE]|TokenType=Clit
 8	=ka	_	ADP	POSTP	_	10	comp:obl	_	AlignBegin=51881|AlignEnd=51989|Gloss==DISTR|RX==[POSTP]|TokenType=Clit
 9	harʔiː	_	ADP	POSTP	_	10	comp:obl	_	AlignBegin=51989|AlignEnd=52152|Gloss=after|RX=[POSTP]|TokenType=Root
-10	sa~sak	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=52315|AlignEnd=52478|Gloss=PLAC~go|RX=[V2].[DER]|TokenType=Root
+10	sa~sak	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=52315|AlignEnd=52478|Gloss=go|RX=[V2].[DER]|TokenType=Root
 11	-ja	_	PRON	TAM.PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	10	subj/m	_	AlignBegin=52478|AlignEnd=52641|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 12	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=52641|AlignEnd=52964|Gloss=/|TokenType=Break
 
@@ -308,7 +308,7 @@
 13	=ju	_	AUX	N.COP	Number=Sing|Person=3|VerbType=Cop	14	comp	_	AlignBegin=55153|AlignEnd=55225|Gloss==COP.3SG|RX==[PRED].[N]|TokenType=Clit
 14	=it	_	SCONJ	CONJ	_	16	mod	_	AlignBegin=55225|AlignEnd=55298|Gloss==CSL|RX==[CONJ]|TokenType=Clit
 15	/	_	PUNCT	PUNCT	_	14	punct	_	AlignBegin=55298|AlignEnd=55659|Gloss=/|TokenType=Break
-16	haːra~riw	_	VERB	V1	Aspect=Perf|Number=Sing|Person=1|VerbClass=1	0	root	_	AlignBegin=55659|AlignEnd=55948|Gloss=seek\INT~PLAC\PFV.1SG|RX=[V1].[DER]|TokenType=Root
+16	haːra~riw	_	VERB	V1	Aspect=Perf|Number=Sing|Person=1|VerbClass=1	0	root	_	AlignBegin=55659|AlignEnd=55948|Gloss=seek\INT.PFV.1SG|RX=[V1].[DER]|TokenType=Root
 17	/	_	PUNCT	PUNCT	_	16	punct	_	AlignBegin=55948|AlignEnd=56237|Gloss=/|TokenType=Break
 
 # sent_id = BEJ_MV_NARR_04_djinn_073-074
@@ -676,7 +676,7 @@
 6	=oː	_	PRON	PRO	Case=Acc|Number=Sing|Person=1	4	comp:obj	_	AlignBegin=107007|AlignEnd=107124|Gloss==OBJ.1SG|RX==[PRO]|TokenType=Clit
 7	=hoːb	_	SCONJ	CONJ	_	9	mod	_	AlignBegin=107124|AlignEnd=107241|Gloss==when|RX==[CONJ]|TokenType=Clit
 8	//	_	PUNCT	PUNCT	_	7	punct	_	AlignBegin=107241|AlignEnd=107708|Gloss=//|TokenType=Break
-9	haːda~doːj	_	VERB	V2	VerbClass=2	10	comp/m	_	AlignBegin=107708|AlignEnd=107870|Gloss=wander~PLAC|RX=[V2].[DER]|TokenType=Root
+9	haːda~doːj	_	VERB	V2	VerbClass=2	10	comp/m	_	AlignBegin=107708|AlignEnd=107870|Gloss=wander|RX=[V2].[DER]|TokenType=Root
 10	-eː	_	AUX	_	_	24	mod	_	AlignBegin=107870|AlignEnd=108033|DerPos=VERB|Gloss=-CVB.SMLT|TokenType=DerAff
 11	/	_	PUNCT	PUNCT	_	10	punct	_	AlignBegin=108033|AlignEnd=108358|Gloss=/|TokenType=Break
 12	tak	_	NOUN	N	Gender=Masc	23	comp	_	AlignBegin=108949|AlignEnd=109257|Gloss=man|RX=[N].[M]|TokenType=Root
@@ -807,7 +807,7 @@
 # phonetic_text = ɖa~ɖib -ti =eːk wari =t hariw -a naː =t teː- t- giːm =eːk /
 # text = ɖaɖibteːk warit hariwa naːt teːtgiːmeːk /
 # text_en = Look for another job for you, since you can't do anything else.
-1	ɖa~ɖib	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=128097|AlignEnd=128239|Gloss=PLAC~fall|RX=[V2].[DER]|TokenType=Root
+1	ɖa~ɖib	_	VERB	V2	VerbClass=2	2	comp/m	_	AlignBegin=128097|AlignEnd=128239|Gloss=fall|RX=[V2].[DER]|TokenType=Root
 2	-ti	_	SCONJ	N.V	_	6	comp:obj	_	AlignBegin=128239|AlignEnd=128381|DerPos=NOUN|Gloss=-N.AC|RX=-[N].[V]|TokenType=DerAff
 3	=eːk	_	PRON	PRO	Case=Acc|Number=Plur|Person=2|Poss=Yes	2	udep@poss	_	AlignBegin=128381|AlignEnd=128522|Gloss==POSS.2PL.ACC|RX==[PRO]|TokenType=Clit
 4	wari	_	NOUN	N	_	1	mod	_	AlignBegin=128522|AlignEnd=128734|Gloss=other|RX=[N]|TokenType=Root
@@ -892,7 +892,7 @@
 10	=i	_	PRON	PRO	Case=Acc|Number=Sing|Person=1|Poss=Yes	9	udep@poss	_	AlignBegin=140355|AlignEnd=140509|Gloss==POSS.1SG.ACC|RX==[PRO]|TokenType=Clit
 11	wari	_	NOUN	N	Number=Plur	9	mod	_	AlignBegin=140509|AlignEnd=140663|Gloss=other\PL|RX=[N]|TokenType=Root
 12	=b	_	DET	DET	Case=Acc|Gender=Masc	11	det	_	AlignBegin=140663|AlignEnd=140817|Gloss==INDF.M.ACC|RX==[DET]|TokenType=Clit
-13	ɖa~ɖib	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=140817|AlignEnd=140971|Gloss=PLAC~fall|RX=[V2].[DER]|TokenType=Root
+13	ɖa~ɖib	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=140817|AlignEnd=140971|Gloss=fall|RX=[V2].[DER]|TokenType=Root
 14	-an	_	PRON	TAM.PNG	Aspect=Perf|Number=Sing|Person=1	13	subj/m	_	AlignBegin=140971|AlignEnd=141125|Gloss=-PFV.1SG|RX=-[TAM].[PNG]|TokenType=InflAff
 15	/	_	PUNCT	PUNCT	_	13	punct	_	AlignBegin=141125|AlignEnd=141432|Gloss=/|TokenType=Break
 

@@ -268,7 +268,7 @@
 3	=t	_	_	DET	_	2	det	_	AlignBegin=37879|AlignEnd=37997|GE=[INDF].[F]|Gloss==INDF.F|nWord=1|RX=[DET]
 4	=i	_	_	PRO	_	2	udep@poss	_	AlignBegin=37997|AlignEnd=38116|GE=[POSS].[1SG].[ACC]|Gloss==POSS.1SG.ACC|nWord=1|RX=[PRO]
 5-6	sakkakanaːjan	_	_	_	_	_	_	_	_
-5	sakka~kana	sakka~kana	_	V2.DER.TR	_	0	root	_	AlignBegin=38116|AlignEnd=38352|GE=[ask_for_news~PLAC]|Gloss=ask_for_news~PLAC|nWord=2|RX=[V2].[DER].[TR]
+5	sakka~kana	sakka~kana	_	V2.DER.TR	_	0	root	_	AlignBegin=38116|AlignEnd=38352|GE=[ask_for_news~PLAC]|Gloss=ask_for_news|nWord=2|RX=[V2].[DER].[TR]
 6	-jan	_	_	TAM.PNG	_	5	subj/m	_	AlignBegin=38352|AlignEnd=38589|GE=[PFV].[1SG]|Gloss=-PFV.1SG|nWord=2|RX=[TAM].[PNG]
 7	/	_	_	PUNCT	_	_	_	_	AlignBegin=38589|AlignEnd=39062|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
 
@@ -723,7 +723,7 @@
 40-42	nimtakʷkʷaːkʷ	_	_	_	_	_	_	_	_
 40	ni-	_	_	PNG	_	41	subj/m	_	AlignBegin=101417|AlignEnd=101546|GE=[1PL]|Gloss=1PL-|nWord=28|RX=[PNG]
 41	m-	_	_	V1.DER	_	0	root	_	AlignBegin=101546|AlignEnd=101675|GE=[RECP]|Gloss=RECP-|nWord=28|RX=[V1].[DER]
-42	takʷ~kʷaːkʷ	takʷ~kʷaːkʷ	_	V1.DER.INTR	_	41	comp/m	_	AlignBegin=101675|AlignEnd=101805|GE=repair|Gloss=repair\MID~PLAC.PFV|nWord=28|RX=[V1].[DER].[INTR]|TypeToken=stem
+42	takʷ~kʷaːkʷ	takʷ~kʷaːkʷ	_	V1.DER.INTR	_	41	comp/m	_	AlignBegin=101675|AlignEnd=101805|GE=repair|Gloss=repair\MID.PFV|nWord=28|RX=[V1].[DER].[INTR]|TypeToken=stem
 43	/	_	_	PUNCT	_	_	_	_	AlignBegin=101805|AlignEnd=102194|GE=[/]|Gloss=/|nWord=29|RX=[PUNCT]
 
 # sent_id = BEJ_MV_NARR_27_GOAT_119-121
@@ -1039,7 +1039,7 @@
 4	gʷabi	gʷabi	_	V1	_	6	mod	_	AlignBegin=141233|AlignEnd=141347|GE=pay_attention|Gloss=pay_attention\NEG.OPT|nWord=2|RX=[V1]|TypeToken=stem
 5-6	araːʃaʃid	_	_	_	_	_	_	_	_
 5	a-	_	_	PNG	_	6	subj/m	_	AlignBegin=141347|AlignEnd=141517|GE=[1SG]|Gloss=1SG-|nWord=3|RX=[PNG]
-6	raːʃa~ʃid	raːʃa~ʃid	_	V1.DER.TR	_	0	root	_	AlignBegin=141517|AlignEnd=141687|GE=breed|Gloss=breed\INT~PLAC.PFV|nWord=3|RX=[V1].[DER].[TR]|TypeToken=stem
+6	raːʃa~ʃid	raːʃa~ʃid	_	V1.DER.TR	_	0	root	_	AlignBegin=141517|AlignEnd=141687|GE=breed|Gloss=breed\INT.PFV|nWord=3|RX=[V1].[DER].[TR]|TypeToken=stem
 7	/	_	_	PUNCT	_	_	_	_	AlignBegin=141687|AlignEnd=142026|GE=[/]|Gloss=/|nWord=4|RX=[PUNCT]
 
 # sent_id = BEJ_MV_NARR_27_GOAT_168-176

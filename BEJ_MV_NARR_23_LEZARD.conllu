@@ -311,7 +311,7 @@
 1	uː=	_	_	DET	_	2	det	_	AlignBegin=47790|AlignEnd=48078|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=1|RX=[DET]
 2	reːw	reːw	_	N.M	_	4	subj	_	AlignBegin=48078|AlignEnd=48367|GE=cattle|Gloss=cattle|nWord=1|RX=[N].[M]
 3-7	kʷakʷoːtsamiːnatwa	_	_	_	_	_	_	_	_
-3	kʷa~kʷoːt	kʷa~kʷoːt	_	V1.DER.TR	_	4	comp/m	_	AlignBegin=48367|AlignEnd=48482|GE=[kick~PLAC].[INT]|Gloss=kick~PLAC.INT|nWord=2|RX=[V1].[DER].[TR]
+3	kʷa~kʷoːt	kʷa~kʷoːt	_	V1.DER.TR	_	4	comp/m	_	AlignBegin=48367|AlignEnd=48482|GE=[kick~PLAC].[INT]|Gloss=kick\INT|nWord=2|RX=[V1].[DER].[TR]
 4	-sam	_	_	V2.DER	_	0	root	_	AlignBegin=48482|AlignEnd=48597|GE=[RECP]|Gloss=-RECP|nWord=2|RX=[V2].[DER]
 5	-iːna	_	_	TAM.PNG	_	4	subj/m	_	AlignBegin=48597|AlignEnd=48712|GE=[AOR].[3PL]|Gloss=-AOR.3PL|nWord=2|RX=[TAM].[PNG]
 6	=t	_	_	CONJ	_	4	cc	_	AlignBegin=48712|AlignEnd=48827|GE=[COORD]|Gloss==COORD|nWord=2|RX=[CONJ]
@@ -327,7 +327,7 @@
 1-6	imdiːririːnhoːbwa	_	_	_	_	_	_	_	_
 1	i-	_	_	PNG	_	2	subj/m	_	AlignBegin=49522|AlignEnd=49616|GE=[3]|Gloss=3-|nWord=1|RX=[PNG]
 2	m-	_	_	V1.DER	_	5	comp	_	AlignBegin=49616|AlignEnd=49710|GE=[RECP]|Gloss=RECP-|nWord=1|RX=[V1].[DER]
-3	diːri~ri	diːri~ri	_	V1.DER.TR	_	2	comp/m	_	AlignBegin=49710|AlignEnd=49804|GE=kill|Gloss=kill\INT~PLAC.AOR|nWord=1|RX=[V1].[DER].[TR]|TypeToken=stem
+3	diːri~ri	diːri~ri	_	V1.DER.TR	_	2	comp/m	_	AlignBegin=49710|AlignEnd=49804|GE=kill|Gloss=kill\INT.AOR|nWord=1|RX=[V1].[DER].[TR]|TypeToken=stem
 4	-n	_	_	PNG	_	2	subj/m	_	AlignBegin=49804|AlignEnd=49898|GE=[PL]|Gloss=-PL|nWord=1|RX=[PNG]
 5	=hoːb	_	_	CONJ	_	12	mod	_	AlignBegin=49898|AlignEnd=49992|GE=when|Gloss==when|nWord=1|RX=[CONJ]
 6	=wa	_	_	CONJ	_	5	cc	_	AlignBegin=49992|AlignEnd=50086|GE=[COORD]|Gloss==COORD|nWord=1|RX=[CONJ]
@@ -485,7 +485,7 @@
 27	ki=	_	_	PTCL	_	29	mod	_	AlignBegin=74664|AlignEnd=74761|GE=[NEG].[IPFV]|Gloss=NEG.IPFV=|nWord=15|RX=[PTCL]
 28	n-	_	_	PNG	_	29	subj/m	_	AlignBegin=74761|AlignEnd=74858|GE=[1PL]|Gloss=1PL-|nWord=15|RX=[PNG]
 29	am-	_	_	V1.DER	_	34	comp:obj	_	AlignBegin=74858|AlignEnd=74955|GE=[RECP]|Gloss=RECP-|nWord=15|RX=[V1].[DER]
-30	da~dʔar	da~dʔar	_	V1.DER.TR	_	29	comp/m	_	AlignBegin=74955|AlignEnd=75052|GE=[PLAC~marry]|Gloss=PLAC~marry\PFV|nWord=15|RX=[V1].[DER].[TR]|TypeToken=stem
+30	da~dʔar	da~dʔar	_	V1.DER.TR	_	29	comp/m	_	AlignBegin=74955|AlignEnd=75052|GE=[PLAC~marry]|Gloss=marry\PFV|nWord=15|RX=[V1].[DER].[TR]|TypeToken=stem
 31	ʃaːwi	ʃaːwi	_	PTCL	_	29	mod	_	AlignBegin=75052|AlignEnd=75440|GE=again|Gloss=again|nWord=16|RX=[PTCL]
 32	//	_	_	PUNCT	_	_	_	_	AlignBegin=75440|AlignEnd=75827|GE=[//]|Gloss=//|nWord=17|RX=[PUNCT]
 33-34	tindi	_	_	_	_	_	_	_	_
@@ -697,7 +697,7 @@
 44	=ji	_	_	CONJ	_	39	mod@relcl$obj	_	AlignBegin=106716|AlignEnd=106828|GE=[REL]|Gloss==REL|nWord=25|RX=[CONJ]
 45	/	_	_	PUNCT	_	_	_	_	AlignBegin=106828|AlignEnd=107279|GE=[/]|Gloss=/|nWord=26|RX=[PUNCT]
 46-48	sakkakanaːsameːn	_	_	_	_	_	_	_	_
-46	sakka~kana	sakka~kana	_	V2.DER.TR	_	47	comp/m	_	AlignBegin=107279|AlignEnd=107425|GE=[ask_for_news~PLAC]|Gloss=ask_for_news~PLAC|nWord=27|RX=[V2].[DER].[TR]
+46	sakka~kana	sakka~kana	_	V2.DER.TR	_	47	comp/m	_	AlignBegin=107279|AlignEnd=107425|GE=[ask_for_news~PLAC]|Gloss=ask_for_news|nWord=27|RX=[V2].[DER].[TR]
 47	-sam	_	_	V2.DER	_	0	root	_	AlignBegin=107425|AlignEnd=107571|GE=[RECP]|Gloss=-RECP|nWord=27|RX=[V2].[DER]
 48	-eːn	_	_	TAM.PNG	_	47	subj/m	_	AlignBegin=107571|AlignEnd=107717|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=27|RX=[TAM].[PNG]
 49	eːn	eːn	_	V1.IRG	_	47	discourse	_	AlignBegin=107717|AlignEnd=108155|GE=say|Gloss=say\PFV.3PL|nWord=28|RX=[V1].[IRG]|TypeToken=stem
@@ -710,7 +710,7 @@
 # text = sakkakanaːsameːnaːt uːn uːtak / gadabaːb ikatjeːk / haːlhiji ijadna eːn //
 # text_en = They keep asking news from each other and they say: ‘Since this man is sad, what happened to him?’ they said. §
 1-4	sakkakanaːsameːnaːt	_	_	_	_	_	_	_	_
-1	sakka~kana	sakka~kana	_	V2.DER.TR	_	2	comp/m	_	AlignBegin=109686|AlignEnd=109785|GE=[ask_for_news~PLAC]|Gloss=ask_for_news~PLAC|nWord=1|RX=[V2].[DER].[TR]
+1	sakka~kana	sakka~kana	_	V2.DER.TR	_	2	comp/m	_	AlignBegin=109686|AlignEnd=109785|GE=[ask_for_news~PLAC]|Gloss=ask_for_news|nWord=1|RX=[V2].[DER].[TR]
 2	-sam	_	_	V2.DER	_	20	conj:coord	_	AlignBegin=109785|AlignEnd=109884|GE=[RECP]|Gloss=-RECP|nWord=1|RX=[V2].[DER]
 3	-eːn	_	_	TAM.PNG	_	2	subj/m	_	AlignBegin=109884|AlignEnd=109983|GE=[IPFV].[3PL]|Gloss=-IPFV.3PL|nWord=1|RX=[TAM].[PNG]
 4	=aːt	_	_	CONJ	_	2	cc	_	AlignBegin=109983|AlignEnd=110083|GE=[COORD]|Gloss==COORD|nWord=1|RX=[CONJ]

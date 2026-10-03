@@ -74,7 +74,7 @@
 26	doːr	doːr	_	N.M	_	23	dislocated:mod	_	AlignBegin=11423|AlignEnd=11682|GE=time|Gloss=time|nWord=10|RX=[N].[M]
 27-30	igagamiːjeːb	_	_	_	_	_	_	_	_
 27	i=	_	_	REL	_	28	subj	_	AlignBegin=11682|AlignEnd=11812|GE=[DEF].[M]|Gloss=DEF.M=|nWord=11|RX=[REL]
-28	ga~gam	ga~gam	_	V2.DER.INTR	_	30	comp	_	AlignBegin=11812|AlignEnd=11942|GE=[PLAC~scream]|Gloss=PLAC~scream|nWord=11|RX=[V2].[DER].[INTR]
+28	ga~gam	ga~gam	_	V2.DER.INTR	_	30	comp	_	AlignBegin=11812|AlignEnd=11942|GE=[PLAC~scream]|Gloss=scream|nWord=11|RX=[V2].[DER].[INTR]
 29	-i	_	_	TAM.PNG	_	28	subj/m	_	AlignBegin=11942|AlignEnd=12072|GE=[AOR].[3SG].[M]|Gloss=-AOR.3SG.M|nWord=11|RX=[TAM].[PNG]
 30	=eːb	_	_	CONJ	_	26	dislocated:mod@relcl$obj	_	AlignBegin=12072|AlignEnd=12200|GE=[REL].[M]|Gloss==REL.M|nWord=11|RX=[CONJ]
 31	/	_	_	PUNCT	_	_	_	_	AlignBegin=12200|AlignEnd=12717|GE=[/]|Gloss=/|nWord=12|RX=[PUNCT]
@@ -96,7 +96,7 @@
 6	uː=	_	_	DET	_	7	det	_	AlignBegin=13976|AlignEnd=14176|GE=[DEF].[SG].[M].[NOM]|Gloss=DEF.SG.M.NOM=|nWord=4|RX=[DET]
 7	ʤna	ʤina	_	N.M	_	8	subj	_	AlignBegin=14176|AlignEnd=14376|GE=baby|Gloss=baby|nWord=4|RX=[N].[M]
 8-10	gagamiːnejt	_	_	_	_	_	_	_	_
-8	ga~gam	ga~gam	_	V2.DER.INTR	_	10	comp	_	AlignBegin=14376|AlignEnd=14509|GE=[PLAC~scream]|Gloss=PLAC~scream|nWord=5|RX=[V2].[DER].[INTR]
+8	ga~gam	ga~gam	_	V2.DER.INTR	_	10	comp	_	AlignBegin=14376|AlignEnd=14509|GE=[PLAC~scream]|Gloss=scream|nWord=5|RX=[V2].[DER].[INTR]
 9	-iːn	_	_	TAM.PNG	_	8	subj/m	_	AlignBegin=14509|AlignEnd=14642|GE=[IPFV].[3SG].[M]|Gloss=-IPFV.3SG.M|nWord=5|RX=[TAM].[PNG]
 10	=ajt	_	_	CONJ	_	17	mod	_	AlignBegin=14642|AlignEnd=14776|GE=[CSL]|Gloss==CSL|nWord=5|RX=[CONJ]
 11	/	_	_	PUNCT	_	_	_	_	AlignBegin=14776|AlignEnd=15176|GE=[/]|Gloss=/|nWord=6|RX=[PUNCT]

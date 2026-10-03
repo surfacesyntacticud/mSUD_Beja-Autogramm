@@ -308,7 +308,7 @@
 15	=uːn	_	PRON	PRO	Case=Nom|Number=Plur|Person=1|Poss=Yes	14	udep@poss	_	AlignBegin=58415|AlignEnd=58556|Gloss==POSS.1PL.NOM|RX==[PRO]|TokenType=Clit
 16	hoːj	_	ADP	PRO	Case=Abl	17	comp:obl	_	AlignBegin=58556|AlignEnd=58837|Gloss=LOC|RX=[POSTP]|TokenType=Root
 17	am-	_	AUX	V1	VerbClass=1|Voice=Rcp	0	root	_	AlignBegin=58837|AlignEnd=58930|DerPos=VERB|Gloss=RECP-|RX=[V1].[DER]-|TokenType=DerAff
-18	mar~ri	_	VERB	V1	VerbClass=1	17	comp/m	_	AlignBegin=58930|AlignEnd=59023|Gloss=find~PLACfind~PLAC|RX=[V1].[DER]|TokenType=Root
+18	mar~ri	_	VERB	V1	VerbClass=1	17	comp/m	_	AlignBegin=58930|AlignEnd=59023|Gloss=find_find|RX=[V1].[DER]|TokenType=Root
 19	-ja	_	PRON	TAM, PNG	Aspect=Perf|Gender=Masc|Number=Sing|Person=3	17	subj/m	_	AlignBegin=59023|AlignEnd=59117|Gloss=-PFV.3SG.M|RX=-[TAM].[PNG]|TokenType=InflAff
 20	eːn	_	DET	DEM	Case=Acc|Deixis=Prox|Gender=Masc|Number=Plur|PronType=Dem	22	det	_	AlignBegin=59117|AlignEnd=59398|Gloss=PROX.PL.M.ACC|RX=[DEM]|TokenType=Root
 21	eː=	_	DET	DET	Case=Acc|Definite=Def|Gender=Masc|Number=Plur	22	det	_	AlignBegin=59398|AlignEnd=59538|Gloss=DEF.PL.M.ACC=|RX=[DET]=|TokenType=Clit
@@ -896,7 +896,7 @@
 22	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	23	det	_	AlignBegin=158526|AlignEnd=158716|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 23	lil	_	NOUN	N	Gender=Masc|Number=Plur	25	subj	_	AlignBegin=158716|AlignEnd=158907|Gloss=rope\PL|RX=[SBJ].[N].[M]|TokenType=Root
 24	hoːj	_	ADP	POSTP	Case=Loc	25	comp:obl	_	AlignBegin=158907|AlignEnd=159289|Gloss=LOC|RX=[POSTP]|TokenType=Root
-25	hiːra~reːr	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=159289|AlignEnd=159479|Gloss=walk\PLAC|RX=[V2].[DER]|TokenType=Root
+25	hiːra~reːr	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=159289|AlignEnd=159479|Gloss=walk|RX=[V2].[DER]|TokenType=Root
 26	-jaːn	_	PRON	TAM.PNG	Aspect=Perf|Number=Plur|Person=3	25	subj/m	_	AlignBegin=159479|AlignEnd=159670|Gloss=-PFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 27	/	_	PUNCT	PUNCT	_	25	punct	_	AlignBegin=159670|AlignEnd=160052|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 
@@ -1081,7 +1081,7 @@
 # sound_url = https://corporan.huma-num.fr/Archives/media/BEJ/WAV/BEJ_MV_NARR_03_CAMEL.WAV
 1	aː=	_	DET	DET	Case=Nom|Definite=Def|Gender=Masc|Number=Plur	2	det	_	AlignBegin=189793|AlignEnd=189991|Gloss=DEF.PL.M.NOM=|RX=[DET]=|TokenType=Clit
 2	lil	_	NOUN	N	Gender=Masc|Number=Plur	3	subj	_	AlignBegin=189991|AlignEnd=190190|Gloss=rope\PL|RX=[SBJ].[N].[M]|TokenType=Root
-3	hiːra~reːr	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=190190|AlignEnd=190388|Gloss=walk\PLAC|RX=[V2].[DER]|TokenType=Root
+3	hiːra~reːr	_	VERB	V2	VerbClass=2	0	root	_	AlignBegin=190190|AlignEnd=190388|Gloss=walk|RX=[V2].[DER]|TokenType=Root
 4	-jaːn	_	PRON	TAM.PNG	Aspect=Perf|Number=Plur|Person=3	3	subj/m	_	AlignBegin=190388|AlignEnd=190587|Gloss=-PFV.3PL|RX=-[TAM].[PNG]|TokenType=InflAff
 5	/	_	PUNCT	PUNCT	_	9	punct	_	AlignBegin=190587|AlignEnd=191094|Gloss=PUNCT|RX=[PUNCT]|TokenType=Break
 6	ti=	_	DET	DET	Definite=Def|Gender=Fem	7	det	_	AlignBegin=191094|AlignEnd=191244|Gloss=DEF.F=|RX=[DET]=|TokenType=Clit
